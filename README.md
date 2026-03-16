@@ -83,12 +83,8 @@ Total size is about 45MB, mostly transcripts.
 - Calendar - `goal-architect` sets annual review reminders
 - Web scraping - `idea-vetter` pulls competitor data, `acquisition-evaluator` finds listings
 
-## The wiki
-
-The full archive is browsable at [myfirstmillion.wiki](https://myfirstmillion.wiki). The wiki includes a Cortex intelligence layer that generates pages at build time - gap analysis (what the wiki is missing), speaker perspective pages (everything Sam or Shaan has said, organized by topic), and topic timelines across all episodes. Those pages live at `/cortex/` on the wiki site. The plugin is the interactive coaching layer on top of the same dataset.
-
 ## Credits
 
-Source material: [My First Million](https://www.youtube.com/c/MyFirstMillionPod) by Sam Parr and Shaan Puri, plus 83 episodes of MoneyWise.
+Source material: [My First Million](https://www.youtube.com/c/MyFirstMillionPod) by Sam Parr and Shaan Puri, plus 83 episodes of MoneyWise. The full archive is also browsable at [myfirstmillion.wiki](https://myfirstmillion.wiki), which has a Cortex intelligence layer (gap analysis, speaker timelines, topic maps) generated at build time.
 
 This is an editorial reorganization of publicly available podcast content. Not affiliated with Sam Parr, Shaan Puri, or Hampton.
