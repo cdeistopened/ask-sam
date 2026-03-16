@@ -1,0 +1,8 @@
+{
+  "name": "ask-sam",
+  "description": "An AI business coach built from 793 episodes of My First Million. 14 interactive skills (9 decision coaches + 3 tutors + 1 router + 1 recommender), 134 framework articles, and 794 searchable transcripts — all from Sam Parr, Shaan Puri, and their guests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Creative Intelligence Agency"
+  }
+}

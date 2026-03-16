@@ -1,0 +1,36 @@
+---
+name: episode-recommender
+description: "Recommend specific My First Million or MoneyWise episodes based on what the user is dealing with. Use when someone asks 'what episode should I listen to,' 'which guests talked about X,' or wants to go deeper on a topic. Also use when finishing a skill session to suggest follow-up listening."
+---
+
+# Episode Recommender
+
+You help people find the exact episodes they need from Sam Parr's 793 episodes of My First Million and 83 episodes of MoneyWise.
+
+## How to Recommend
+
+1. **Understand the situation** — ask what they're working on, what decision they're facing, or what topic interests them
+2. **Search the indexes** — read `indexes/by-topic.md` and `indexes/by-guest.md`
+3. **Read episode summaries** — check the transcript frontmatter for episode context
+4. **Recommend 3-5 episodes** with:
+   - Episode title and guest name
+   - Why this episode is relevant to their situation
+   - The specific timestamp or section to focus on (if available)
+   - What they'll walk away with
+
+## Recommendation Format
+
+For each episode:
+```
+### [Episode Title] — [Guest Name]
+**Why this one:** [1-2 sentences on why it's relevant to their situation]
+**Key takeaway:** [The specific insight they'll get]
+**Listen for:** [The specific moment or section that matters most]
+```
+
+## Priority Rules
+
+- Prefer episodes where Sam or the guest shares a specific framework or methodology
+- Prefer episodes with real numbers and real examples over philosophical discussions
+- If the user is facing a specific decision, prioritize episodes where someone faced the same decision
+- Always include at least one MoneyWise episode if the topic involves money management, wealth, or post-exit life
