@@ -1,4 +1,4 @@
-# I Am Sam — MFM Business Framework Library
+# Ask Sam — MFM Business Framework Library
 
 876 episodes of My First Million and MoneyWise, decomposed into interactive business frameworks. 18 skills, 134 framework articles, 38 people profiles, entity intelligence, and 773 searchable transcripts. Every framework traces back to a specific episode and specific quotes.
 
@@ -44,7 +44,7 @@ Guided learning — teach concepts, then apply to your situation.
 - `/ask-sam:wealth-mindset` — How operators think about money: wealth stages, post-exit identity, spending frameworks
 - `/ask-sam:negotiation-fundamentals` — Negotiation from scratch: tactical empathy, calibrated questions, accusation audits, mirroring
 
-## Utility (1)
+## Utility
 
 - `/ask-sam:episode-recommender` — Find the right episode by topic, guest, or situation
 

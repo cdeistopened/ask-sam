@@ -1,4 +1,4 @@
-# Installing I Am Sam
+# Installing Ask Sam
 
 ## Prerequisites
 
@@ -94,7 +94,7 @@ What topics have been discussed across many episodes but never got a dedicated d
 
 - **Skills not found:** Check the path in `settings.json` is absolute (starts with `/`). Restart Claude Code after editing.
 - **Generic answers:** Invoke a skill directly — e.g., `/ask-sam:idea-vetter` — to use the structured framework path instead of open-ended chat.
-- **Old prefix:** If you had the previous version, update `/ask-sam:` to `/ask-sam:` in any saved prompts.
+
 
 ## Learn More
 
