@@ -1,0 +1,48 @@
+---
+title: "5 Luxury Purchases That Are Actually Worth It"
+episode_id: 5_luxury_purchases_that_are_actually_worth_it
+pub_date: "Tue, 09 Dec 2025 03:00:00 -0100"
+source: gemini-audio
+---
+
+The MoneyWise podcast explores the spending habits of high-net-worth founders, moving beyond stereotypes of luxury to reveal practical investments that actually improve quality of life. Through interviews with successful entrepreneurs, the show highlights how prioritizing time, health, and meaningful experiences over material goods can lead to greater long-term satisfaction and personal growth.
+
+**Topics:** Entrepreneurship, Personal Finance, Lifestyle Design, Mental Health, Investing, Time Management, Luxury Spending, Founder Well-being
+
+**Speakers:** Jackie Lamport (Producer/Host)
+
+## The True Cost of Success [01:06]
+
+**Jackie Lamport:** There is one thing that pretty much every single founder we have spoken to has said. Once they have bought it, they could never go back. You see, making money is one thing, and for a lot of people in our community, it's actually kind of the easy part. The hard part or the weird thing is what happens next, which is figuring out what to do with it. From the outside, it seems obvious. Get the car, get the designer clothes, deck out the house, maybe the boat or the watches. God, the watches. The problem, though, is that everything that you buy is another thing that you're responsible for, and everything that you're responsible for is, well, another thing that you're responsible for. And not only that, but the things that cost money, they might not actually make you feel good or like yourself. We had one guy on the show who talked about, um, he bought a souped-up Tesla and he was driving it around and he just felt like such a tool. So he eventually just got rid of it and bought a regular pickup truck, which felt way better for him. That doesn't mean that there aren't things that are worth spending on. In fact, there are a few things that have consistently come up on the show where everybody has said, "Yeah, that, 100%." But if you're new here and you're wondering who those people are, it might make sense if I explain it a little bit. This is MoneyWise, a podcast for high-net-worth founders over at joinhampton.com. And that means it's a podcast not for people who are trying to break into business or get rich. This is for people who already have, and what comes next. And I am Jackie Lamport, the producer of the show, which gives me a funny perspective because I have outsider objectivity and also insider access in the form of over 150 interviews I've done with founders for the show and also the network of founders of over 1,000 people at joinhampton.com. Which means that I can kind of act as the collective perspective of these things. And in this episode, that collective perspective has decided on five luxury purchases that are actually worth spending your money on.
+
+## Buying Back Your Time [03:01]
+
+**Jackie Lamport:** Starting with something that sounds physically impossible to buy, time. And yeah, I'm not I'm not talking about the watches. You might be able to tell how I feel. What I am talking about is, uh, buying back the time that you spend doing things that are tedious or unenjoyable so that you can spend more time doing the things that you do want to do. That means the housekeeper, the private chef, the personal assistant, that kind of stuff. There are obviously a lot of benefits to that, like, you know, personal enjoyment. I would spend all day playing guitar if I could, or spending more time with your family. That's also probably a good idea. Also, maybe just like putting it back into work so that you can really up that financial ROI. And there's also the benefit of removing friction in your household. So there's no conversations about, "Did you do that thing yet?" or "You should have done that thing," or "Why are you doing that and not me?" That kind of stuff. And on the chef thing specifically, if you're anything like me and you hate cooking, it means that you get to have three healthy meals a day, which is healthy. I know that it's can be a really fun thing for some people and food can be great, but I swear to God for some of us, it's the most annoying thing in the world because you can never stop thinking about it, which means that you are also buying back some mental space.
+
+## The Trade-offs of Luxury [04:01]
+
+**Jackie Lamport:** Now, if you thought that I was going to go through this whole list and not also list the caveats, then you clearly don't know me very well yet because there are always trade-offs. The first one here being for the people who aren't like me and do enjoy cooking, because somehow there are a lot of you. So yeah, there are two risks here. One is that you accidentally end up getting rid of the meditative time that you didn't realize was meditative or restorative because it doesn't sound like it should be, like cooking, or honestly, for me, cleaning the bathroom. Getting more time back, uh, means that you also have the potential opportunity to push yourself maybe a little bit too hard because you still want to make something of that time. Restorative and easy things are important. So if you're buying your time back, just make sure that you're also still making room for that kind of stuff. The other risk is that you make life a little bit too easy. Being a well-rounded person does mean being disciplined and doing some things that maybe you don't want to do sometimes. Take it from Tommy Mello.
+
+## Investing in Health [05:08]
+
+**Jackie Lamport:** And then there's preventative healthcare. Nick Huber might be one of the most frugal guests that we've had on the show relative to his net worth, and he has absolutely no problem spending a lot of money on high-end healthcare for both him and his family.
+
+**Nick Huber:** I spend three grand a month on health insurance for my family. Yeah. But I've probably spent 100 grand on concierge health for me, my wife, my mom, my dad, my wife's mom, my wife's dad, and I'm going to keep spending that money on additional family members because preventative health and things like that are just not a focus in the United States or anywhere in the world. So if you're serious about that, it you know, there's a lot of options and things you can do.
+
+## Home Gyms [06:06]
+
+**Jackie Lamport:** And on home gyms, there are, yes, some people who maybe spend a little bit too much money on the big fancy machines and don't know how the big fancy machines work. But it actually, supposedly, uh is pretty much always worth it to invest in a gym at home. And that's something that even some of our most modest spenders have said.
+
+## Meaningful Experiences [07:09]
+
+**Jackie Lamport:** The obvious thing here that makes experiences worth it is creating memorable ones for your family and your loved ones. And in a particularly emotional example of that, Mitch told us about how this has become his sole spending priority following his wife's illness and recovery.
+
+**Mitch:** Our style as a family since the cancer has been pretty much uh two big values that we live by. The first is we believe in experiences over comfort, which means that like how many times would you do something really amazing, but you sit on the couch and do Netflix or you say, "I'm tired" or "Life is too busy." But like experiences are everything. And I told her, "Listen, 2024, we are going nuts uh on trips and things." And I bet you by the end of this year, it'll be close to half a million on experiences.
+
+## The Ultimate Luxury [08:05]
+
+**Jackie Lamport:** For a lot of people in this community, this is the ultimate, "I made it." Uh it's not the big house, it's not the nice fancy car. It's being able to get on a plane, lay down on that plane, then get off said plane without any back or knee pain. That is the ultimate luxury. There are only two downsides really. One, the thing that I already explained, which is that if you start, make sure you can afford not to stop. And two, the kid thing. Because yeah, raising spoiled kids. Uh we had a parenting expert on named Dr. Becky and she told a story about why it's important not to forget that part. I've told this story before, but to me it's so compelling because these are the like loveliest, most well-meaning parents, and the the dad had become very successful and 16-year-old had a full-blown temper tantrum in an airport when he found out he wasn't flying first class.
+
+## The Final List [09:05]
+
+**Jackie Lamport:** So there you have it. That's the list. The five luxury purchases that, according to the people who can afford them, are actually worth it. We have buying back your time, investing in your health, making that dream home a reality, meaningful experiences, and then yeah, of course, just flying in a way that doesn't destroy your body. The pattern here is that the things that are worth it are the things that give you time and make you healthier and make your life feel more memorable and calm. And the things that aren't worth it are consistently the things that you just bought because you could, the items, the things that actually just overcomplicate your life instead of adding anything to it. I'm Jackie Lamport and this is MoneyWise. And again, this podcast is made for the founders over at the community of founders over at joinhampton.com. So if you're a founder doing at least 3 million in revenue, go check it out. Totally worth your while. Again, joinhampton.com. And if you're interested in a podcast like this, you want to work with me, with my team, then uh check us out at lowerstreet.co because yeah, that's what we do. We make podcasts. Thanks for listening.

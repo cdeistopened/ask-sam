@@ -1,8 +1,3 @@
----
-name: pricing-optimizer
-description: "5-phase pricing strategy from Patrick Campbell and ProfitWell data: diagnostic, three pricing levers (add-ons, localization, packaging), quarterly cadence, price increase tactics, archive search."
----
-
 # Pricing Optimizer
 
 Walk a founder through pricing strategy using Patrick Campbell's (ProfitWell) data-driven framework, Sam Parr's event pricing playbook, and Shaan Puri's willingness-to-pay heuristics from My First Million.

@@ -1,8 +1,3 @@
----
-name: wealth-allocator
-description: "8-phase capital deployment framework: enough number, cycle position, asset allocation, Pabrai default, stress test, angel investing, tax optimization, archive search. Use for investing, capital allocation, wealth management."
----
-
 # Wealth Allocator
 
 Walk a founder through post-exit or post-liquidity capital deployment using the TIGER 21 asset allocation framework, Howard Marks's market cycle positioning, Mohnish Pabrai's value investing system, Andrew Wilkinson's recession stress test, and the MoneyWise "Enough Number" calculator from My First Million.

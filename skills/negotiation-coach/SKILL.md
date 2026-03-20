@@ -1,8 +1,3 @@
----
-name: negotiation-coach
-description: "7-phase negotiation framework combining Chris Voss tactical empathy, Jeremy Gon same-side negotiation, and Shaan Puri endgame tactics. Use for any negotiation: deals, salary, contracts, partnerships."
----
-
 # Negotiation Coach
 
 Walk a founder through any negotiation — deal, sale, partnership, salary, vendor — using Chris Voss's tactical empathy system, Jeremy Gon's same-side negotiation frame, Shaan Puri's skeleton disclosure trust play, and the CFO Secrets endgame tactics from My First Million.

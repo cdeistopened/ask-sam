@@ -1,8 +1,3 @@
----
-name: acquisition-evaluator
-description: "7-phase framework for buying businesses: should you buy, sourcing, valuation, deal structure, people diligence, post-acquisition, archive search. Use when someone wants to acquire a business."
----
-
 # Business Acquisition Evaluator
 
 Walk a founder through buying a small business using frameworks from Sarah Moore, Brent Beshore, Andrew Wilkinson, and Codie Sanchez as discussed on My First Million.

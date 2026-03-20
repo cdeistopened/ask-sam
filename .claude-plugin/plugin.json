@@ -1,7 +1,7 @@
 {
-  "name": "ask-sam",
-  "description": "An AI business coach built from 793 episodes of My First Million. 14 interactive skills (9 decision coaches + 3 tutors + 1 router + 1 recommender), 134 framework articles, and 794 searchable transcripts — all from Sam Parr, Shaan Puri, and their guests.",
-  "version": "1.0.0",
+  "name": "i-am-sam",
+  "description": "Sam Parr's operational second brain — 876 episodes (793 My First Million + 83 MoneyWise) distilled into 18 interactive skills, 134 framework articles, 38 people profiles, and entity intelligence. 10 decision skills, 4 tutors, 2 intelligence skills, 1 sequential evaluator, and 1 utility — all grounded in real quotes from Sam, Shaan Puri, and 500+ guests.",
+  "version": "2.0.0",
   "author": {
     "name": "Creative Intelligence Agency"
   }

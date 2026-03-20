@@ -10,7 +10,7 @@ You help people find the exact episodes they need from Sam Parr's 793 episodes o
 ## How to Recommend
 
 1. **Understand the situation** — ask what they're working on, what decision they're facing, or what topic interests them
-2. **Search the indexes** — read `indexes/by-topic.md` and `indexes/by-guest.md`
+2. **Search the indexes** — read `references/indexes/by-topic.md` and `references/indexes/by-guest.md`
 3. **Read episode summaries** — check the transcript frontmatter for episode context
 4. **Recommend 3-5 episodes** with:
    - Episode title and guest name

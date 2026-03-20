@@ -1,0 +1,39 @@
+# Polish Report: 10 AI Startup Ideas in 43 Minutes (#506)
+
+- **Source file:** 10_ai_startup_ideas_in_43_minu.md
+- **YouTube ID:** FNYzoCBmTR0
+- **URL:** https://www.youtube.com/watch?v=FNYzoCBmTR0
+- **Input words:** 8984
+- **Output words:** 7772
+- **Retention:** 86.5%
+- **Sections created:** 12
+- **Speakers identified:** Shaan Puri (solo episode)
+- **Sponsor segments removed:** Yes — HubSpot CRM ad read removed (mid-episode, between ideas #2 and #1: "this data is wrong every freaking time have you heard of HubSpot...")
+- **Proper nouns fixed:**
+  - "gpt3" → "GPT-3"
+  - "chat GPT" → "ChatGPT"
+  - "open AI" → "OpenAI"
+  - "Kaa / Ka systems" → "Kiva Systems"
+  - "launch Darkly" → "LaunchDarkly"
+  - "Mackenzie / mckinzy" → "McKinsey"
+  - "PWC" → "PwC"
+  - "hymns" → "Hims"
+  - "nval" → "Naval"
+  - "Salon / salc cons" → "Sal / Sal Khans"
+  - "Khan" → "Khan Academy"
+  - "mindgeek" → "MindGeek"
+  - "mid Journey" → "Midjourney"
+  - "shanp por.com" → "shaan@shaunpuri.com"
+  - "BBs" → "BBS"
+  - "my fitness pal" → "MyFitnessPal"
+  - "instacart" → "Instacart"
+  - "deoy" → "Deloitte"
+  - "cogs" → "COGS"
+  - "NPS" → "NPS"
+  - "&amp;" HTML entities → proper ampersands
+- **Confidence notes:**
+  - This is a solo Shaan Puri episode — no speaker attribution ambiguity. All dialogue is Shaan.
+  - The "Same Day" AI phone agent demo included a simulated conversation; formatted as quoted dialogue within Shaan's narration.
+  - Shaan's email address was badly garbled in captions ("shanp por.com") — reconstructed as "shaan@shaunpuri.com" but the actual domain may differ.
+  - Episode number 506 extracted from title.
+  - Timestamps estimated using ~200 words/min pace (calibrated to the 43-minute runtime stated in the title).

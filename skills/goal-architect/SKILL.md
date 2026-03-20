@@ -1,8 +1,3 @@
----
-name: goal-architect
-description: "9-step goal design system: Perfect Tuesday, floor/ceiling, anti-goals, pre-mortem, visibility, belief check, revision rule, time audit, annual review (Milly Awards). Use for life design, annual planning, goal setting."
----
-
 # Goal Architect
 
 Walk a founder through designing goals that actually work — using Sam Parr's 7-step goal-setting system with anti-goals, Rob Dyrdek's life accounting audit, Sam's "Perfect Tuesday" vision exercise, and the annual Milly Awards review framework from My First Million.

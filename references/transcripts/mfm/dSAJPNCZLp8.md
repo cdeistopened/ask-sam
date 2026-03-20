@@ -1,0 +1,255 @@
+---
+title: "MrBeast Shares What It Really Takes To Become THE BEST On YouTube (Interview w/ MFM & Hasan Minhaj)"
+video_id: dSAJPNCZLp8
+url: "https://www.youtube.com/watch?v=dSAJPNCZLp8"
+source: gemini-audio
+transcript_date: "2026-03-04"
+---
+
+In this episode of My First Million, hosts Sam Parr and Shaan Puri are joined by YouTube sensation MrBeast and comedian Hasan Minhaj to discuss the secrets behind building a massive online presence and the realities of content creation. They explore the creative process, the importance of consistency, and the unique challenges of maintaining high-level engagement in the digital age.
+
+**Topics:** Content Creation, YouTube Strategy, Entrepreneurship, Comedy, Digital Media, Personal Branding
+
+## The Work Ethic of a Creator [00:00]
+
+**Sam Parr:** The way I like to work is like, I like to go, basically wake up, obsess over something, go to bed, wake up, obsess, go to bed. Like every second of the day, until I just have a mental breakdown and I burn out, and then I like take a day off, or maybe a day and a half off, and I like to go right back to it. So I don't like work certain days. I just go as hard as I can, every ounce of my entire body, until I just crash.
+
+## Introducing the Guests [00:26]
+
+**Shaan Puri:** All right, in this episode, we are going to talk about...
+
+**Sam Parr:** Wait. One second. Look, we got to let the guy, MrBeast, actually do the intro.
+
+**MrBeast:** Guys, in this, we're going to teach you how to make a fucking million dollars. If you don't have a million dollars, we're going to show you in this podcast.
+
+**Shaan Puri:** All right, that was way better than us. Yeah, that's right. MrBeast, the biggest YouTuber in the world, joined us on My First Million, and Hasan Minhaj, one of the biggest comedians in the world. We did a four-person pod in person. This is kind of amazing.
+
+## The Origin of Camp MFM [00:49]
+
+**Sam Parr:** Yeah, so look, check this out. I think Sean actually mentioned this on the podcast, but about three or four weeks ago, he said he's going to create this thing called Camp MFM. So basically, he rented a house, a big old mansion in North Carolina, and he DM'd like 20 different people, a bunch of different founders and a bunch of interesting people. But then he also DM'd MrBeast and Hasan, and he told them to come. I didn't actually think they were going to show up. And so we were just sitting here at night recording a podcast, and they walked in and joined us, and it was amazing.
+
+**Shaan Puri:** Yeah, it was crazy. Seeing one of the biggest YouTubers in the world, one of the biggest comedians in the world, they kind of interviewed each other, and they talked about their creative process, what they're self-conscious of, what it's like to work for them, how much they put into each thing that they do. It was pretty nuts.
+
+**Sam Parr:** Yeah, it was, I mean, it was amazing. They made fun of me at first because I was nervous, and I was. It was awesome.
+
+## The "MrBeast" Connection [01:37]
+
+**Shaan Puri:** So, check it out. I think you're going to dig it.
+
+**Sam Parr:** Wait, hold on. We rolling?
+
+**Shaan Puri:** We're rolling. All right, we're live.
+
+**Sam Parr:** We're doing it. Screw it. If it's not recording, you're just not getting it.
+
+**Shaan Puri:** Yeah, you're not getting it.
+
+**Sam Parr:** You're not getting it, Jimmy.
+
+**Shaan Puri:** All right, we're live. Uh, wait, what were you saying?
+
+**Sam Parr:** This is the most interesting crossover ever.
+
+**Shaan Puri:** Yes. Yeah. Why are the four of us sitting here? I have no idea. Let's put him on the spot, cuz he seems the most nervous.
+
+**MrBeast:** Me?
+
+**Shaan Puri:** Yeah.
+
+**MrBeast:** No, he's like the body language doctor.
+
+**Shaan Puri:** You read body language good, right?
+
+**Sam Parr:** You know why I'm nervous? It's cuz I'm wearing these shorts.
+
+**Shaan Puri:** Yeah, bro. You're wearing the shorts.
+
+**Sam Parr:** We also got a live audience here. Why is, why? What is this?
+
+**Shaan Puri:** Yeah, yeah. Yeah. There's 30 men in this house. Why? Why is there a sausage fest? Give us answers.
+
+**Shaan Puri:** This is the power of Sean's DM.
+
+**Sam Parr:** So, here, listen, here's the deal. So, the story was is that you wanted to do this, and it happened in three weeks?
+
+**MrBeast:** Yeah. I just hit up a bunch of people. Actually, you know what? The way it really came together was I just tweeted it out. Because if you do that shit, like, you know, just it's like a luck magnet. Good things can happen. And a hundred something people signed up for it. I was scrolling through the names, and it's like, what's your Twitter handle? And one of them said MrBeast. And I was like, but I was like, it's a Google form. Anybody can write MrBeast. I was like, oh yeah, whatever, some jackass. Then he DM's me, and he goes, "This sounds fun." And I, we don't know each other.
+
+**Shaan Puri:** I don't know him at all.
+
+**Sam Parr:** And he was like, I was like, oh shit, that was real. Oh shit, this is on. We're going to do it now. And then I was like, uh, he's like, where are we doing it? And I was like, where does MrBeast live? North Carolina? I was like, yeah, we're thinking about doing it near Duke. He's like, okay, I'll come then. And then I got everybody else in after that.
+
+## The Power of Networking [03:03]
+
+**Shaan Puri:** You follow him on on Twitter?
+
+**Sam Parr:** Well, uh, Ben from How to Take Over the World, like retweeted him, and I was like, who's this guy? And I tapped, and he just tweeted like five seconds ago, "I'm hosting an NBA camp for like entrepreneurs." And I was like, oh, this looks cool. And then I just applied. That's how crazy luck is. I don't know who this is, but I mean, basketball sounds fun.
+
+**Shaan Puri:** And then he calls me last week. He's like, "Yo, I'm coming, but like, I don't know who you are, so like, what's your deal?"
+
+**Sam Parr:** And here we are.
+
+**Shaan Puri:** But you, you do that. You just walk around and call people.
+
+**Sam Parr:** Yeah, well, I just like learning. I mean, that's how you just...
+
+**Shaan Puri:** Did you hear how he got connected with Ben?
+
+**Sam Parr:** No.
+
+**Shaan Puri:** All right, so Ben over here, he is our producer, and he hosts this amazing podcast called How to Take Over the World. And I get, how did you find it?
+
+**Ben:** Uh, bro, this is going to get so many levels deep. No one has any idea what we're even talking about. But Cliff, who's sitting there, told me to listen to How to Take Over the World. So I listened to it, who retweeted his tweet about the camp, and here I am.
+
+**Shaan Puri:** You know what's funny, by the way? He's like, "Yo, this is dog shit content." Cuz on YouTube, you had to be on point, like in the first 10 seconds, you needed to like grip people. He's like, "This is their podcast." I've already got over 20 ways we could optimize this better in my head.
+
+**Sam Parr:** What are they?
+
+**Shaan Puri:** What would they be? Let's go.
+
+**Sam Parr:** 20 ways. Well, that's what this podcast is. It's a brainstorm.
+
+**Shaan Puri:** We've already switched topics like five times, and we didn't really hit them with like a hard one at the start. Like, what would have been better, it's like, I don't know, like we told some crazy story or something. Like to hook them, or like, I don't know, intro him or me for the ones who don't know. So then like they're like, "Oh, now I know why I should listen."
+
+**Sam Parr:** All right, host the podcast for a second. So do our 10-second intro.
+
+**MrBeast:** Guys, in this, we're going to teach you how to make a fucking million dollars. If you don't have a million dollars, we're going to show you in this podcast.
+
+**Sam Parr:** Like something like that. Now they're going to listen.
+
+## The Guest Lineup [04:38]
+
+**Shaan Puri:** All right, so here's what's interesting. We got me and Sam, we got Hasan Minhaj, who's a famous comedian, Netflix special... We haven't announced it yet, but yeah, sure.
+
+**Sam Parr:** Breaking news.
+
+**Shaan Puri:** We got Jimmy, aka MrBeast, craziest crossover. You guys just met tonight.
+
+**Sam Parr:** We met like an hour ago, yeah.
+
+**Shaan Puri:** All right, give me first impressions. What do you think of MrBeast?
+
+**Sam Parr:** He's a cool guy. Yeah, he seems really cool.
+
+**Shaan Puri:** What did you think coming in?
+
+**Sam Parr:** I just knew he was a, a big like prank, stunt. He's the, he's the voice of YouTube. He's the voice of a generation.
+
+**Shaan Puri:** Did he surprise you, or he's how you thought he'd be?
+
+**Sam Parr:** Yeah, I thought, I thought, I feel like, I feel like his, uh... I feel like his like curiosity, enthusiasm, all that stuff is really cool. Yeah. I, I listened to him on Rogan, and he was really, he's really fascinating.
+
+**Shaan Puri:** And what about you? What was your first impression?
+
+**Sam Parr:** Uh, I mean, kind of the same thing. Like, it was, I mean, you were just easy to talk to, which I think was very nice. Like we were talking for like an hour.
+
+**Shaan Puri:** Yo, Sean, Sean just turned this into Indian matchmaking so fast. You're like, what did you think of him? What did you think of him? Hold hands. Just hold.
+
+**Sam Parr:** If you look at that ring on his finger, he's taken.
+
+**Shaan Puri:** Yeah, I'm taken, buddy.
+
+**Sam Parr:** Dude, you said, so he said something really interesting to me earlier. We were just, you and I were shooting the shit.
+
+**Shaan Puri:** Oh god, what did I say?
+
+**Sam Parr:** And, uh, we were, uh, we were talking about, um, business. I, I think I, you said Elon Musk is like, I don't know if you said hero, but you're like, I think he's like the pinnacle of entrepreneurship.
+
+**Shaan Puri:** Entrepreneurship, yeah.
+
+**Sam Parr:** And I was like, well, what, what do you, what's going to be your SpaceX? Or what's going to be your like big rocket thing, you know? And you said, well, uh, Elon had Zip2 when he was around my age. So Zip2 was like his peer filing, his peer sharing service that he sold and he made like 20 or 30 million dollars. Yeah. And then he took that and he did PayPal and then whatever else he did. And you said something like, "You know, I think I can build like a hundred billion dollar company, but if I'm being modest, I'll build a couple, uh, a couple at least billion dollar companies." But, but then, but, but and then you go, "But I don't really care about the money. I just love winning. I just want to win." And I was like, "Yes." I'm about this. I like that.
+
+**Shaan Puri:** I mean, like, money is cool, but you know, I, I live in my studio. I don't have like a mansion. I don't drive a Lamborghini. So it's like, I like money cuz it can, I can hire more people and grow my business, but not so I can like increase my lifestyle or whatever. So, which, you know, most people when you say it, that's why I, I prefer to say I love winning cuz it, it kind of encapsulates it a little bit more cuz if, if you just like, you know, talk about money, then people just think you just want to buy expensive stuff.
+
+**Shaan Puri:** Do your employees who...
+
+**Sam Parr:** We, we went to his office today, or we went to his studio, and he's like, took us on a tour, cool, this is where we blow shit up. This is, oh, this guy's track.
+
+**Shaan Puri:** That one blew me off, by the way.
+
+**Sam Parr:** Yeah, yeah, yeah. You, you were supposed to be...
+
+**Shaan Puri:** Yeah, the Canada flight delays blew him off. Yeah, yeah. Kidding, kidding.
+
+**Sam Parr:** Uh, but we, we walked through. He's like, "All right, yeah, this is this boardroom. This is my office." And so we go in, and it's basically like, imagine like kind of like a, a, a gaming chair, computer, that's standard. Next to it, just like two other objects in the room. Just take a guess.
+
+**Shaan Puri:** Uh, that he had? Yeah. Analgesic water bottle and, uh, Just like a bench press on the floor. A bench press directly next to the desk. And then the walls were just like a Steve Jobs quote, an Elon quote, a Steve Jobs quote. And then there's like a timeline, like, at this age, Steve Jobs was here. At this age, Steve Jobs was... You're motivated by that shit.
+
+**Sam Parr:** I stay ahead of it. Also, some of those Elon quotes aren't even real. I love to just put fake Elon quotes, so if people read it to see if they're like, "Oh, that's inspiring," or just completely made up.
+
+**Shaan Puri:** Well, they're not that entire. One was just, the one right in front of your desk goes, "Work super hard." Elon Musk.
+
+**Sam Parr:** No, that's one of the real ones. But I have my assistant like trying to find the dumbest things Elon's ever publicly said, so I can put mixed with all the real quotes, just to see if people believe him or not.
+
+**Shaan Puri:** Were you good at school?
+
+**Sam Parr:** No, horrible. Really? God awful. Wow, okay. Yeah, that was like, I mean, I would act like I was studying, but you know, I was filming videos. I actually, my entire high school career, I never brought my book bag home or anything. I would just like throw it under like the bleachers, and then in the morning I'd just grab it.
+
+**Shaan Puri:** Your first video was what? You were like 12, right?
+
+**Sam Parr:** Yeah. Oh, actually, I started making around 11. Yeah.
+
+**Shaan Puri:** Wow, holy shit. And yeah, and it's crazy cuz I see 11-year-olds now, and they're like this tall and speakers, and I'm like, "How was I making videos?" This, this kid looks...
+
+**Shaan Puri:** Is your first video still live?
+
+**Sam Parr:** Uh, no, because I got embarrassed cuz people would play it in class. So I deleted my channel, and then I made a new one when I was 13.
+
+**Shaan Puri:** So a little... Wow, but the 13-year-old videos are still live.
+
+**Sam Parr:** Yeah, 13 are still live.
+
+**Shaan Puri:** Wow, okay.
+
+**Sam Parr:** He has one that's dope. That's like, a message to myself in five years. Uh, calling his shot.
+
+**Shaan Puri:** Do you know what he's talking about?
+
+**Sam Parr:** So, the, the greatest thing I ever did in my life is when I was studying for a history test, like back in a long time ago, when I had like 8,000 subscribers. I was like, "Screw this." I just closed my book, I threw it on the floor, and I just recorded a video. I scheduled uploaded a video for six months, and I go, "Hi me, in six months, I think I'll have 100,000 subscribers." Whatever. Or no, 10,000 subscribers. I was like, and then I hit stop recording, and then I hit record. "Hi me, in a year," and I schedule up, cuz you can upload videos to the future, a video a year out. I was like, "You better have 100,000." And I was like, "Hi me, in five years." Bro, if you don't have a million subscribers, you're a fucking idiot. Uh, and I just would talk to me five years from now, and I was just like talking about the channel. But I filmed it when I had 8,000 subscribers a long time ago. And then I did "Hi me, in 10 years," blah, blah, blah. So 10 years hasn't come out yet, but "Hi me, in five years" came out. My prediction was I'd have a million subscribers. So it goes live on the channel like two years ago, and I had like 40 million subscribers. But in the video that goes live, it's like, "Here's the date, here's the time. I'm like a fucking stupid teenage kid," and I'm like, "I hope you have at least a million subscribers, and maybe you're doing this as a job." I don't know, I make like 10 bucks a month right now. Like, "I hope you can make it a job in the next five years." And that went public, and I completely forgot I even did that. And I just, I was like, "Oh shit." I opened up YouTube, and I saw, and everyone thought it was, I, they thought it was one of the coolest things I ever did.
+
+**Shaan Puri:** Wow, and you're like a little kid in it.
+
+**Sam Parr:** Yeah, and so, in like three more years, "Hi me, in 10 years" goes up. And I'm like, I think I...
+
+**Shaan Puri:** Do you remember what's in it?
+
+**Sam Parr:** I'm just like, "I hope by now you should be out of college." Yeah, you're definitely out of college. I think that's how I started it. And you should be doing YouTube full-time. Like, there's just no world you're not after 10 years. Like, you're probably making a little bit of money. I just hope you are. Like, I hope you didn't...
+
+**Shaan Puri:** And how much were you at the time?
+
+**Sam Parr:** Uh, like I was, I had 8k subs, like making 10 bucks a month. And so, I, my prediction in 10 years was like, "I hope you're doing this as a job." And so when that goes up, I think that's going to be crazy.
+
+## The Certainty of Success [10:48]
+
+**Shaan Puri:** And when we were talking today, you, like you talk with a lot of certainty about like where you're going, what you're doing. There's like very like, if everybody's got this knob that's like doubt, your knob's set to zero on doubt. That's my, that's my, I don't know, is that accurate?
+
+**Sam Parr:** Uh, yeah. Well, the thing is, we, I don't know, we probably spend like 20, 30 times longer thinking of ideas than other people. We probably film like 10 times more than other people. We probably spend 100 times for a video more than other people. So it's like, we put in the effort, but I don't, I don't know how to say it where it's not arrogant. I just believe in what we're doing, you know what I mean?
+
+**Shaan Puri:** Back then, like how much do you think you believed when you, when you recorded that video that that was actually going to happen?
+
+**Sam Parr:** Oh no, I mean, those were just different times. I was in the middle of bumfuck nowhere, North Carolina. So it's like, everyone, you know, constantly wanted to remind me, "You're not going to be a YouTuber. Grow up. Be realistic."
+
+**Shaan Puri:** I think it's amazing that you never left North Carolina, though. Yeah, you're still in bumfuck North Carolina. What are you talking about?
+
+**Sam Parr:** I'm trying to make it not bumfuck anymore, but it's a work in progress.
+
+**Shaan Puri:** Do you still rep it really hard?
+
+**Sam Parr:** Uh, I mean, I just, I got a lot, I mean, some of these people over here work there. I just got a lot of people, and it's too much to move.
+
+**Shaan Puri:** What was, what was your metric instead of subscribers and like views when you were younger? Because with, with, with business, it's like revenue or employees. You guys are both business, but you're also like a more creative thing. So what was yours?
+
+**Sam Parr:** Yeah, when I was coming up, it was probably, "Did, can you do a set on late night? Can you do like a Conan set?" Yeah. Could you, could you be on, I'll be a, um, I'll be a cast member of SNL. Like, those were the metrics, kind of, those like legacy media comedy institutions. I'll be in a movie. I want to be in a sitcom. I want to be in a TV show.
+
+**Shaan Puri:** And what did it feel like when you started actually, like, you know, the Daily Show and then selling out?
+
+**Sam Parr:** Yeah, that felt like a real like kind of checkmark. Like, wow, you, you've turned the corner.
+
+**Shaan Puri:** Didn't you tell me that that like, right before that happened, you were living in a basement?
+
+**Sam Parr:** I was living in an attic, bro. Don't, just, yeah, yeah. Attics are actually above sea level, but basements are below sometimes, you know? So, yeah, I was living like a kind of, in a not a great situation, though.
+
+**Shaan Puri:** How, I'm amazed at your confidence, bro. The level of, the level of confidence, like the, the, no, just the sheer amount of confidence you have, cuz I, I, I still think maybe a downside of comedy is you have to have like a very high level, uh, self-deprecation and self-awareness to be like, you know what I mean?
+
+**Shaan Puri:** Well, you told me something cuz I was like trying to be funny, and you sent me these like iMessage things that are like just gold. You just, you just sent me these voice notes. And one of the things you had said, He was trying to write, he was like trying to do kind of like a comedy monologue. Yeah, YouTube video's up there, 17,000 views, no big deal. Um, so, but, but you gave me a little hit. You go, The ego on this man. I know. I know. Bro, you started an A, K, I'm at 17K, I'm at least going to be. I'm kidding. But he says something, you go, "Comedy is low, low status game. You start low status." And you, and you told me, is that a trade secret, or can you reveal that?
+
+**Sam Parr:** Yeah, yeah, you, you know, it's like there's high status and low status. Generally, if you're low status, they're going to empathize with you. You know what I mean? So, So like, what's an example? You get on stage, You being like, "I, I got 17,000 views in front of a guy who gets like 50 million views." And but, but we're going to, but we're going to empathize more with you than we are with MrBeast in that scenario, because you're like, "Oh man, you know." And if you're, if you're like funny about it, and to be confident about um, that, well, if, if you kind of own it, people are like, "Oh, like I Even just now, we did like an awkward icebreaker of the group. If you, and I was thinking about this cuz, you know, I, my prompt was, "Say your name and say one thing that nobody in the in the room knows about you." Which was basically like, you can't be like, "Oh, I'm MrBeast, I make a bunch of YouTube videos." I'm, you know, it's like, you can't use your claim to fame. You got to use something else. Right. And everybody was saying something interesting, and then I think Suli was the first one who was just like, "I played one game of Little League baseball in my life because I shit my pants, and they wouldn't let me come back." That was really great. Yeah. That's a low status. Yeah, that's by the way, 100,000 people are going to listen to that one. Um, but he did a low status one where everybody else was saying a fun fact, like a cool fact about them. He went low, and somebody else was like, "You know, I remarried my ex-wife, which makes me either the biggest idiot in the world or I guess the biggest idiot in the world." You know what I'm saying? And he's like, "Hey group, share something no one on the planet knows. No one." And then five minutes later, "All right, podcast, here's what they said." Yeah, yeah. Yeah. I mean, shitting your, shitting your pants at Little League. Pretty, yeah, yeah, pretty low status. And then, yeah, being like, "All right, I double-backed and married my ex-wife again." Like, yeah, yeah. Like, no one knows this. Jimmy, were, were you confident as a, as a kid? In the career? Yeah. Just as a kid. Uh, no, I had a fucking god-awful acne when I was younger. I still have a ton of acne scars, so it was even worse. What are you not confident about? So you're confident in your work, in your ability to hit certain goals, whether revenue targets. Yeah, actually, it leads me, honestly, I'm still trying to get confidence speaking in front of large groups of people, which made me want to ask you a question cuz you were talking about stand-up. How, um, so let's say if I dedicated my life to trying to be a stand-up comic, how long do you think it would take for me to get good at it? I mean, it, I What's the typical curve? Everybody says it takes you 10 years to get good, but I think just think it all depends on um, like your natural capacity and inclination for it. Like there's some people I've seen when they're open micers, they're amazing. You know, they just have great stage presence, they have great stories, they're, they're amazing on stage. So there's people like that, comics that I've met where I'm like, the first time I saw them, they were amazing. Like who? Um, Gerard Carmichael was like that. He was incredible. He was just incredible. He was so comfortable. We would do open mics and he would just, everybody was doing, was turning left, and he was just turning right. Like, just his, his vulnerability, his stage presence, people would do their set, he would do things where like, it'd be like a Conan showcase, and everyone would do their polished material. Like, "Hey, what's up, I'm Hasan," and you know, and "dating's hard." He would just get up and he would just off the dome, like kind of do a brand-new set that night. And how do you, you could tell, you could tell, you're like, "Oh, this is kind of crazy." So how long do you think it would take him to get good? I don't know. I mean, it's, that's like, the question you just asked is like, "How long would it take me to be as good as Ariana Grande at singing?" You're like, "How would I even..." They're like, it's not a, it's not a hack. Like, you know what I mean? Or if you asked, if you asked like a MMA fighter, like, "How long would it take me to get as good as you?" Like, it's a, oh, thank you. Um, it's a See, that's a, you put them in low status. You offered the two waters to me. Now I feel weird. Now I got to put the water on the side. No, I got to put the water on the side. No, dude, low status. I spent my whole life trying to be high status. You got, no, no, you guys all got the water now on par. That sounds way easier. Yeah. Yeah, yeah, yeah. I have to, I have to, I have to give MrBeast his water, you know what I mean? Jimmy, what are you, what are your You legacy media hack. And I just got to, I got to pour the water for him and the, yeah. Fuck out of here. Is your company ran like a normal company at all? Or, uh, and what would your employees say about working with you? Uh, I mean, Tariq, you want to just come say? I don't know. That's a Tariq question. That's a Tariq question. I don't know. Yeah. Have you had like, how did you learn how to run a company? Do you ever have, did you have to hire someone? Yeah, that's what's hard cuz like, yeah, um, yeah, sure, he wants to come on in. That, that, there's a couple questions. Yeah, you take over. So, the question was like, What's it like working with him? Oh, it's great. I mean, it's always different. No, it really is. It's always, you know, the thing, here's the thing, no, here's the thing, here's the thing, here's the thing. We know it's great. You're fired. I'm already fired. I'm already fired. I mean, how, like, the house Tariq can answer that, but not, well, listen, he pays the bills. Go ahead. Ask a, ask a better question. Let me ask you a better question. All right, so the better question is, what's the, um, What's the like extreme, either extreme good part or extreme bad part about working with him? We know it's overall extreme. Actually, I will, I will say that right now, for real. So, extreme good part is, is the experiences, like I've done experiences that I've never could have imagined in my entire life, like the traveling, the doing the coolest stunts that we've ever done. Uh, the, the worst part is, is I guess not knowing like what's next in terms of routine, and he knows this best too. Like, we all kind of go through it. If, if you work at MrBeast, so, but that comes with it, you know what I mean? And, and that's something that you kind of have to accept. Um, but yeah, I think that's my answer. All right. Well, and the reason I was asking was because, uh, you Why are you your favorite boss? I'm a great person. So far, 100%. Well, no, I was, I was asking cuz my, my employees sometimes would complain that I'd be like too aggressive, changing things too much, but you seem more aggressive than I am. Yeah. And for a certain type of person, they like that. But for you to achieve your goals, you're going to have to have a lot of people, and then every once in a while, process, and every once in a while, infrastructure, and every once in a while, planning. Are you a perfectionist? Well, of course. Yeah. Um, I, you know, it just I just like to make the greatest YouTube videos possible, and that's, that's literally all I want. So, yeah, I mean, if it's not the greatest video, I just won't upload it. And so after you scrap a few videos, we kind of, everyone, you know, just kind of starts to figure it out. Does it scare you that you can't stop? Do you ever feel like, "Damn, I'm like, I'm, I'm just throwing all these coals on the, on the embers of the, the algorithm." Yeah. I like to use the very analogy. It's like a treadmill where I'm like 12, like the 12 speed, and I've been going at a couple years. And no, it doesn't scare me, but so I, like I was telling him, the way I like to work is like, I like to go, basically wake up, obsess over something, go to bed, wake up, obsess, go to bed. Like every second of the day, until I just have a mental breakdown and I burn out, and then I like take a day off, or maybe a day and a half off, and I like to go right back to it. So I don't like work certain days. I just go as hard as I can, every ounce of my entire body, until I just crash. And somehow that's sustainable. What time, what time do you sleep? Uh, right now, usually around 3:00 a.m. Wow. And then, and then, and then you get up at like Whenever, whenever Rohan or one of them knock on my door. Tariq will wake you up and just like Well, yeah, people will roll me out of bed, they like, "You need to go watch this video so we can submit it," or "I need help with a thumbnail," or "You got to go film." It's like, I don't know. I, I'm kind of, I, they tell me what to do. I don't dictate my life. Well, I'm just shocked at like the numbers, so like your, the, the, I, I don't, I'll let you reveal any numbers, but you've some big numbers for revenue for your other businesses. Yeah. And you have to have infrastructure for that. So that's why I was wondering. I was like, cuz you, you are like this, Oh, gotcha. Yeah, so like on the stereotype, you're like this crazy creative person who's disorganized, and that's perfect. Yeah. But to sell that much of candy and or of, uh, burgers, like you got to be Yeah, so those are all separate entities. So for our snack brand, we hired Jim, who helped build our RX bar, and we built the team around him. So that's a whole independent company that doesn't even work out of our studio. And same thing with Beast Burger. So that's the beauty. I like to just find people who are just the best in the goddamn world at their job and then just empower them and give them money and let them So how many people work at the studio? Uh, in the studio? Like 60, cuz we don't have enough space to fit everyone. So that's why we're trying to build more, but building things just take forever. Do you, do people like working for you, you think? No, this, the reason I'm asking is like, these like creative types, I'm like curious about like, because the goal is to make one of us like a big deal. Everyone is working for that, whereas a lot of other companies, it's like, no, there's like this It's not necessarily that either. There's also certain projects where I'd be like, "I'd love to learn from you." So there's been shows and movies that I've done, like The Morning Show, like, I've never done a sexy one-hour drama. I want to learn from Reese Witherspoon. I want to learn from Jennifer Aniston. I want to learn from the show creators. Like, "How do you do that? How do you shoot that? What's that lens? What are you doing that? Is that a 50? Is that a 75? How do you do that? How did you do that tracking shot? Why did you do that tracking shot? Let me see the script. Let me see the future script." There's all these things where I'm like, "I just want to absorb. I just want to see how you do the whole thing." You know what I mean? Like, and that's an additive like positive value for me. Because most people don't have that access to that. You know? Yeah, I mean, the example is Tariq got to meet his idol today. Oh man. Bro, Tariq, Tariq, you got to set the bar. Yeah, we had told them that you were coming today to the thing, and like the look of disappointment when they saw it was I was the only brown guy there. They're like, "That ain't hustle." They're like, "Yo, they're like, 'Yo, hustle's changed, bro.'" I was like, "Yo, hustle's changed." I'm not trying to be funny on top of it, and they were like, "What the fuck?" The camera really does add 10 pounds, bro. Yeah. I don't do that, bro. Don't do that. Don't do that. When we were at your office, so you you have like a big Elon, Steve Jobs, like you admire these guys. That's why you like the How to Take Over the World podcast cuz you like learning from them. What's a story that you heard that you're like that like stuck with you? That like you remembered, you referenced, it like kind of changed the way you were thinking. From those two in particular, I think the biggest thing is like that Steve became a billionaire from Pixar, you know, um, not even Apple. And so like the fact that he could go to this just not even hardware company, more creative storytelling company and just kick ass and create films like Toy Story and all these other bangers, um, and just just build that company up to whatever it was, like then Disney buy it for 7 billion. And meanwhile, Apple is just falling to the ground and about to go out of business, and they, you know, buy him back with Next and all of a sudden rebounds and basically the way they did it was just getting rid of 90% of products and just focusing on like four or five. I mean, it just shows like the power that one individual had, even though both companies had, yeah, I don't know about Pixar, but Apple had thousands of employees and Pixar probably had at least hundreds. And despite all that, you know, one man can make that much of a difference. Like the power of having good vision and just not relenting is like invaluable. Do you think your your biggest strength is probably your curiosity? That you're you're down to do anything and down to do whatever. Well, so I think what you have to do is you have to always be learning, right? That's how you can like, so like with our ideas, right? Cuz we like to do original ideas that no one's ever done before. Um, and I I might have told you this when we were talking on the phone. Thing is like, if there was a hypothetical fruit in Japan that if you eat it, makes it where you can jump 30 feet taller, right? If that exists in this world right now, you didn't know it existed, so you couldn't come up with something around that. That's very hyper specific. But there's like a million things like that in the world that like, if you don't know about it or you're not intaking the inspiration, you can't really come up with something. Like if I were to try again in the stand-up, like that's how I would try to do something different. I just try to take intake a bunch of different uh information and see what spawns in my head. So I try to always be learning. Would the MrBeast version of stand-up be like, "I'm going to do the longest set ever. I'm going to do the longest comedy set ever." Would it have to be, would that be the MrBeast like twist on it? I would have to find something different cuz obviously the whatever's currently out there, cuz I have a bunch of people on my team who are stand-ups, like that's been done a bunch of times. So we'd have to figure out something different, uh, which I would love to one day, just cuz it seems fun, cuz Tariq talks to me about it all the time. But in general, you got to always just be intaking inspiration from different places, whether it be different podcasts, books, or different knowledge. I have people that I pay that just teach me things. Just whatever, like things that I think I don't know. What do you mean by that? Like they'll just find things that they don't think I'm aware of or show me cool things and be like, "I don't think you know this is a thing. Here, read about it." And so that way I'm always intaking. Like what's an example? How many How many of these people do you have? This is awesome. Right now, just like two or three. Yeah, Jimmy, they they call those people, those are teachers. Yeah. Okay. He's like, he's like, he's like, "They'll sit me down for about an hour at a time, and what's what's wild is they'll focus on a subject, and it's like, it's like, what's going on right now? You know, I never thought about that. Damn, a couple hundred grand. That's why we keep them around. That's why we keep them around. No, but it's like different topics. So, I got you, I got you. Yeah, like the last one was like, uh, about just like crazy online, um, like which like these like little things where they'll upload a file to Reddit and then like inside's an encrypted code, which takes you to a website, which takes you to a book, and like these little like wild goose chase puzzles and like seeing if that inspired me. I don't know, it's just random things like that. I'm blessed. In point, I'm trying to always expand my uh knowledge well in my head with new things that I can draw inspiration from. I was giving him props earlier where I said, so much of people who kind of rev the algorithm are usually being divisive. They're they're saying something that's going to make you mad. Right. Like I have a joke where I make fun of MDs and DOs, and DOs get really mad, and you know, it's like that's like a niche physician's joke, but people get upset. Right. But what I was saying was so cool about um what you do is, I think really what you've tapped into is joy and spectacle and wonder. Which is, which is like a counter to that, and it's very rare to see that really take off on the internet. So, what made you feel like, "I'm going to do that versus do videos that that might that might agitate people per se?" Yeah. Well, I do think in general, it is a little bit easier just to piss people off and get attention. It's a lot harder to do good and get attention. So that's why I think a lot of people don't. But for me, because we just had this ability to go viral, it just kind of like, there's a world where I make videos and I don't help people, and there's a world where I make videos and I do help people. The one where I do help people is just a little bit more fun, so that's why I do it. I don't, I, you know, PR-wise, I should have a better answer, but that's kind of the truth. Our software is the worst. Have you heard of HubSpot? See, most CRMs are a cobbled-together mess, but HubSpot is easy to adopt and actually looks gorgeous. I think I love our new CRM. Our software is the best. HubSpot. Grow better. What creators do you guys look up to? Oh, I'm curious to see what you say. What creators do I look up to? You two. There's podcasters, there's comedians. Podcasters. I was going to say creators. Yeah. It could be any, it could be anybody. Anybody. I think one of the first people that really inspired me, I think was probably Steven Spielberg. Really? Yeah, I mean, he's one of the greatest storytellers ever. What was the first movie that you saw where you were like, "Oh my god, I was blown away?" For me, it was Jurassic Park. Um, as a kid. I, I only watched YouTube growing up. I've seen That's it. Yeah. I made fun of all the time. What was the last movie that you watched? Uh, well, I watched the, the Spider-Man 3 one, because, but I never saw the earlier ones. Really? Yeah. Like you have no time for movies. No, it's not that time. I just, I don't know. I, I need to. Like, I need to go back and watch Star Wars and Harry Potter and all that stuff to get brought up on culture, but I was just like, uh, You didn't, and so you didn't see Squid Game. You just did the Squid Game remake. Uh, Squid Game, I watched it, yeah, before we did it. But like, I wouldn't count that as a movie. Like, I watched a ton of anime, but yeah, movies, and weirdly enough, like growing up, I didn't listen to music or watch movies. So I was like so out of culture. It was brutal, which is part of why I was an introvert. There's this Conor McGregor quote where they're like, you know, he was on BBC or something, and they're like, "Oh, it's a bigger appearance, not just niche UFC thing." Yeah. And they're like, "What do you think about this team or this game?" And he's like, he's like, "You know, the, uh, yeah, that one you said, they're great." It was like, it was like Arsenal or something. Yeah, he's like, "Oh, Arsenal," and they're like, "You don't know anything about Arsenal, right?" He's like, he's like, "I don't watch the news, he's like, I don't watch, I don't follow the news, I don't watch sports, I don't do anything." He goes, "I have lost my mind to the game." He goes, "I am obsessed with my game. I have lost my mind to it. I don't have time for anything else. I don't want to know about anything else. I only want to know about this game." When we were hanging out, I feel like you had that vibe where you were like, uh, you said a couple of things. You were like, "I decided I was going to be a YouTuber, and I was going to make great videos, and it didn't matter if I died the most famous YouTuber of all time or 90 years old with a thousand subscribers, I was going to make great YouTube videos." Like that's that's what I decided I was going to do, and that's all I do. Wake up, and I do that thing. What was the first YouTube video that you saw that like kind of filled you with that wonder where you were like, "Wow." Oh, well, this guy actually, uh, got hacked like a very long time ago. This like Call of Duty YouTuber, and they like leaked his earnings, and he had made like $100,000 a year the last few years. And I remember being like 10 and being like, "What the fuck? They make that kind, they make money doing this?" And I was just so mind-blown that they actually made money. They make more than my mom. Like Yeah, and it was right there when I was like, "Okay, I'm doing this." Like I just don't care. I'm being a YouTuber, or I'm going to fucking die trying. I just don't care. And that like, the second I saw that was actually possible, that's when I was like, "That's it." And it's funny also talking about like obsession and stuff like this, cuz it's funny how it changes. Why, when you're like, and maybe it's different now cuz social media is a little bit cooler, but when I was younger, like no one wanted to be a YouTuber. Like most people when I was 13, 14, didn't even have phones yet. Like it was kind of like a little bit of an older thing, and maybe it's just cuz where I grew up. But it's funny cuz back then, people are like, "Get a life. Stop being a fucking nerd. Like you're too obsessive, you're weirdo." And then now it's like, "Oh, bro, he was so obsessive. He's, it's so great." Like, look at that. It's a positive quality. And it's so funny like looking back on our life, going from a fucking loser nerd who's too obsessive and won't go anywhere to like, "Damn, that's really inspiring." And it's like, "Damn, that was very hurtful back then, but I'm glad it's inspiring now." And so it's funny to see how it changes, but I like to bring that up because if there are younger people or parents who have kids who are obsessive like this, that's typically what happens. Like younger kids don't understand that, and it's different. And so you don't watch the newest South Park or the newest movie or whatever, so you you don't talk about the same things, so then people are just like, "Oh, well, you know, fucking sucks." You know what I mean? How would you, how would you deal with that? Cuz you have kids, I have kids. If they go, "I want to be a Twitch streamer, I want to be a video gamer." You're like, "Let's go." I had the same realization. I was like, "Oh, so wait a minute. We spend the first 18 years of our life trying to fit in." That's how I felt in school. I was trying to fit in all the time. What do, what do people do that's cool? How do I do that thing? Right. And then once I was like, in the adult world, it's like, "Oh shit, now we spend our whole life trying to stand out." Like, what was all that other shit? Why was I, why was I so focused on fitting in if the rest of your life you're trying to stand out? And I just realized like, "Oh shit, standing out has been the game the whole time." And the way you stand out is not by trying to figure it out, just like whatever you're obsessed with, just let that ride, cuz you'll go on a path that nobody else is going to copy, and then you'll, you know, you'll land in a good spot. So if my kid, like, my daughter's two right now, Right. If she was into gaming or she was trying to be a creator, all that stuff, I would be all in on it. Cuz I know even if that's not your end game, following your obsession is like the thing to do in life. You know, that will always work out, but, you know, if you like actually go down that path. Well, most people do is they hedge. They like this thing, but then they see this path that's more proven or shiny, or they don't know if it's going to work, so they only half try. Right? And then it's like that hedge is actually what gets you. It's not that the career path was that hard, it's that hedging is like, you know, What was your major in college? Biology. The ultimate hedge! The ultimate hedge! That was different. I just didn't know. I didn't know what I wanted. Well, what I think is actually interesting is you could be doing the like YouTube, TikTok, I feel like you can look at his videos and be like, "All right, I get it. I get why people like this. I get why this pops." Probably pretty tempting to be like, "Could I go get 50 million views, 100 million views? That seems nice." Like to do what he's done, what he's done, I'm not going to say I'm not allowed to say, you said you you spent X number of dollars every video. Oh yeah. I'll let you say. No, no, no, but it started off. But you can say, yeah, or average is around $1.5 million. I mean, that's Well, he he does that now, but you can go look at his archive, right? It's like he took a plastic knife and tried to cut a plastic table and it took him 48 hours to do that. Yeah. That's a that's a $1.50 video, right? Like that's not a 1.5 million, that's 1.5. Yeah. Counting to 100,000, $0. It's a different thing. It's a different thing. So that's like a different type of skill set and muscle. So the the types of videos he's producing, stand-up is different. If if if a musician was here, if a DJ was here, it's not all the same just cuz it's on YouTube. So we all do different types of media. This is a different type of media. Are you tempted to like, you know, dabble? Yeah, we talked about this, right? I mean, I I the only the the thing that I uh would be um I would be reticent of is what if I have I have to put this thing out and I don't believe in it or I'm just doing it just to do it. That's the that would be the problem. But I have to put up a new video every Tuesday. That's the Well, just delete the video. Who cares? What do you do if you if you Sometimes we don't upload for two months. I mean, you just only upload when it's a great video. That's all that matters. Yeah. So, I think it's dumb when people stick to like a schedule and they are like, "Oh, the video's not great, but I upload every Tuesday." It's like, who cares? What are you guys trying to figure out right now? Cuz I think if you watch a lot of interviews with people, it's like they it's all buttoned up. It's all figured out. They're already successful. It's all working. And then the person who's watching these videos, typically somebody who doesn't have it all figured out. Right. And they're just sort of like, "Oh, that's different." Like, that'd be nice to have it all figured out, but the reality is nobody's got it all figured out, right? Like, we were in your office, the whiteboard's full because you're thinking of new Yeah. Like, where are we going? What's not figured out? We got to figure it out. So what's on both your all's plate of like what are you still trying to figure out in your game? Uh, well, I'll let you take it first. Yeah, Sean, what are you trying to figure out? Yeah, what are you trying to figure out? Yeah, come on, Sean. Uh, I'm trying to figure out, I'll tell you, I'm trying to figure out if I want to go all in on content creating. Wow. Like, I basically built businesses. I have the most fun doing this, but I don't know if I have the most fun just cuz it's a hobby. Right. And like, I you know, I only get the good, I don't put all the work in, or If you love it, then go all in. I mean, it's not going to be less. Do you love it? I love doing it the way we're doing it now. Yeah. If I was like him, obsessed every hour of every day trying to be like, "How are we going to grow this channel?" I might not love it as much. Did you like doing the Twitter thing? Uh, for a period of time. It got old. Yeah. Yeah. It got old. It was it was fun to chase the number. Can we get to 100,000 in like a few months? Yeah, it was fun to chase the number, but that didn't that didn't last. Yeah, I got sick of it, too. So that gets me worried. But that's the thing I'm trying to figure out. It's like, should I go all in on content creating or should I stay with creating businesses? Which one is like what what I want to be when I grow up? That's the question. I I'm asking myself the exact same question, too. Cuz sometimes like when you're when you're creating business first, and then you go to content, I'm like, "Oh man, am I just going to talk about doing it all the time, or am I just going to fucking do it?" Yeah. So I I I know exactly what you mean. Yeah, I feel exactly the same way. What about you? Uh, right right now, um, I'm trying to stay loose for this game tomorrow. That's what I'm trying to do. I'm not trying to get tight, man. I'm I'm 36, bro, pushing 37, like He's a young boy. Like he he might run us off the court. Yeah. Yeah. He was he was like, "Let's get on the court tonight." Yeah. I got 6 games in me and I'm done. I'm like, dude, my L4 is hurting. Like my my hamstrings are kind of tight from this flight. Um We got to his studio and he was like, uh he's got a hoop there. Yeah. He's like, "Oh, we got we got six. Let's play a game." Yeah. He's wearing his like Yeezy slides. I was like, "Bro, I need 15 minutes of stretching." And then like, you know, I need like proper medical attention if we're going to try to do something here. You know what I mean? Do you guys want to go ball? Yeah. If there was an indoor court, we would do it. Yeah. I play I play 21 with Jimmy right now. Yeah. Okay. That'd be a fun That would be a That would be a fun video. That would be a fun video. You want to make it happen? Yeah. Let's do it. Can you find a court somewhere around here? Right here. We'll play 21. Amazing. We'll play 21. We'll play 21 or horse. Yeah. We'll wrap up with this with with your with your answer. Okay. Oh, what was the question? What's not figured out? What are you trying to figure out in in in your Oh god, everything. So I'm just going to say a funny joke to change the topic. All right. Sure. Basketball, how to not strain my legs tomorrow. There you go. There we go.

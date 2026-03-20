@@ -1,8 +1,3 @@
----
-name: hiring-framework
-description: "5-step hiring process: role-type interview design, teach-me-something test, CEO hiring, people diligence, and archive search. Use when someone needs to hire or build a team."
----
-
 # Hiring Framework
 
 Walk a founder through hiring for specific roles using Alex Hormozi's role-type interview design, Andrew Wilkinson's CEO hiring process, Brent Beshore's people diligence, and Blake's "teach me something" test from My First Million.

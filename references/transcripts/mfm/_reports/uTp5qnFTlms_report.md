@@ -1,0 +1,29 @@
+# Polish Report: 10 Years of Money Wisdom in 51 Minutes | Morgan Housel
+
+- **Source file:** 10_years_of_money_wisdom_in_51.md
+- **YouTube ID:** uTp5qnFTlms
+- **URL:** https://www.youtube.com/watch?v=uTp5qnFTlms
+- **Input words:** 11,221
+- **Output words:** 10,083
+- **Retention:** 89.9%
+- **Sections created:** 25
+- **Speakers identified:** Sam Parr (host), Shaan Puri (host), Morgan Housel (guest)
+- **Sponsor segments removed:** Yes, removed HubSpot/Sam's cheat sheet ad read (~150 words around the "four rules of how to make money" promo mid-episode)
+- **Proper nouns fixed:**
+  - "Morgan Hel" → Morgan Housel
+  - "Berkshire Hathway" / "Bergkshire" → Berkshire Hathaway (multiple instances)
+  - "talriven" → tail-driven
+  - "Monish Pabry" / "Mona" / "Monus PBR" / "Monis PBri" → Mohnish Pabrai
+  - "Charlie Mer" → Charlie Munger
+  - "Kiana Reeves" → Keanu Reeves
+  - "Rammit STI" / "Reit" → Ramit Sethi
+  - "Andrew Wilson" → Andrew Wilkinson
+  - "Jesse Sler" → Jesse Itzler
+  - "anothetical" → antithetical
+  - "IRRa" → IRR
+  - HTML entities: &amp; → &, &gt;&gt; → removed, &nbsp; → removed
+- **Confidence notes:**
+  - Sam vs. Shaan attribution in the mid-episode section about admirable traits required careful context analysis. The "tall, dark, and handsome" joke and "dream hunk" exchange helped disambiguate. Shaan asks Sam about his "type," then Sam turns it back to Shaan — this is the typical MFM dynamic.
+  - The section where Shaan discusses his freedom number and tutoring at Duke is clearly Shaan based on biographical context (Duke, startup founding).
+  - In the Collab Fund/venture capital discussion, Shaan mentions joining in 2016 — this aligns with Shaan's known VC involvement, though the speaker labels "Who are the big winners for Collab?" likely comes from Sam as the questioner.
+  - The spending discussion near the end has rapid back-and-forth. Sam's comment about "owning a home is a stupid financial decision" and "I study investing but don't even invest" aligns with Sam's known contrarian style. Morgan's closing remarks about identity and saving habits were attributed based on flow.

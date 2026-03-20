@@ -1,8 +1,3 @@
----
-name: cold-outreach
-description: "5-phase outreach system for getting first customers: target list, email template, follow-up cadence, conversation flow, and scaling. Use when someone needs customers, leads, or sales."
----
-
 # Cold Outreach System
 
 Walk a founder through building a cold outreach engine using Sam Parr's email playbook, Sarah Moore's mass outreach system, and Shaan Puri's creative access strategies from My First Million.

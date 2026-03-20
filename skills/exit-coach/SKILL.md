@@ -1,8 +1,3 @@
----
-name: exit-coach
-description: "4-phase negotiation guide for selling a company: should you sell, preparation, negotiation, post-close identity. Use when someone is thinking about selling their business or planning an exit."
----
-
 # Exit Negotiation Coach
 
 Walk a founder through selling their company using hard-won lessons from Sam Parr (sold The Hustle to HubSpot), Shaan Puri (sold Milk Road), and guests on My First Million.

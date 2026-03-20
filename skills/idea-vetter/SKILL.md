@@ -1,8 +1,3 @@
----
-name: idea-vetter
-description: "Walk a founder through evaluating a business idea using the 6-filter framework: Thiel test, Hormozi value equation, unit economics, North Star formula, validation plan, and playbook clone check. Use when someone says 'I have an idea' or 'should I start this business.'"
----
-
 # Idea Vetter
 
 Walk a founder through evaluating a business idea using frameworks from Sam Parr, Shaan Puri, and guests on My First Million.
