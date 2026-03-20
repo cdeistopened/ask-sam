@@ -1,106 +1,144 @@
 # I Am Sam
 
-876 episodes of My First Million (793) and MoneyWise (83), decomposed into frameworks and packaged as a Claude Code plugin. Sam Parr, Shaan Puri, and 500+ guests across deal evaluation, pricing, negotiation, hiring, wealth, content strategy, and life design.
+A Claude Code plugin built from 876 episodes of [My First Million](https://www.youtube.com/c/MyFirstMillionPod) and [MoneyWise](https://www.youtube.com/@moneywise). Business frameworks, deal evaluation tools, people intelligence, and 773 searchable transcripts — all grounded in specific episodes and real quotes.
 
-18 skills. 134 framework articles. 38 people profiles. Entity intelligence. 773 searchable transcripts. Every quote traces to a source episode.
+18 skills. 134 framework articles. 38 people profiles. Entity intelligence.
 
-## Install
+## Setup
+
+### 1. Clone the repo
 
 ```bash
-claude plugin add cdeistopened/i-am-sam
+git clone https://github.com/cdeistopened/i-am-sam.git
 ```
 
-Or clone it:
-```bash
-git clone https://github.com/cdeistopened/i-am-sam.git ~/.claude/plugins/i-am-sam
+### 2. Add it to Claude Code
+
+In your project's `.claude/settings.json`:
+
+```json
+{
+  "plugins": [
+    "/path/to/i-am-sam"
+  ]
+}
 ```
+
+Or add it globally in `~/.claude/settings.json` to make it available in every project.
+
+### 3. Restart Claude Code
+
+The plugin loads on startup. After adding the path, restart your Claude Code session.
+
+### 4. (Optional) Index with QMD for better retrieval
+
+If you have [QMD](https://github.com/cdeistopened/qmd) installed, indexing the transcripts gives Claude semantic search over the full archive instead of relying on grep:
+
+```bash
+# Add to your ~/.config/qmd/index.yml:
+# i-am-sam-transcripts:
+#   path: /path/to/i-am-sam/references/transcripts
+#   glob: "**/*.md"
+
+qmd reindex i-am-sam-transcripts
+qmd embed i-am-sam-transcripts
+```
+
+This is optional — the plugin works without it, using indexes and grep. But QMD makes cross-archive questions ("every time someone mentioned PE rollups across all 876 episodes") significantly faster and more accurate.
+
+## Try it
+
+```
+I have an idea for a premium dog food subscription box. Run the gauntlet.
+```
+
+This runs the idea through 5 evaluation stages — idea validation, market sizing, pricing architecture, team blueprint, exit lens — each with pass/fail criteria drawn from specific MFM frameworks.
+
+Other good starting questions:
+
+- "I'm thinking about buying a laundromat chain for $1.2M — is it a good deal?"
+- "Build me a dossier on Alex Hormozi — every episode, key quotes, who he's connected to"
+- "Help me prepare for a negotiation with my landlord"
+- "What topics have been mentioned across many episodes but never got a deep dive?"
+- "How should I deploy $500K in capital?"
 
 ## Skills
 
 ### Decision Skills (10)
 
-You bring a real situation, the skill applies the relevant frameworks.
+Bring a real situation, get a structured evaluation.
 
-| Skill | Use when... |
-|-------|------------|
-| `idea-vetter` | You have a business idea to pressure-test |
-| `acquisition-evaluator` | You want to buy a business |
-| `exit-coach` | You're thinking about selling |
-| `negotiation-coach` | You're preparing for a specific negotiation |
-| `pricing-optimizer` | Your pricing needs work |
-| `cold-outreach` | You need first customers |
-| `hiring-framework` | You need to hire |
-| `goal-architect` | You want to set goals or redesign your life |
-| `wealth-allocator` | You have capital to deploy |
-| `gauntlet` | Run a business idea through all 5 evaluation stages at once |
+| Skill | What it does |
+|-------|-------------|
+| `idea-vetter` | Pressure-test a business idea (Thiel test, Hormozi value equation, unit economics) |
+| `acquisition-evaluator` | Evaluate a business to buy (PE rollups, main street, SaaS) |
+| `exit-coach` | Plan a company sale (timing, valuation, deal structure) |
+| `negotiation-coach` | Prepare for a specific negotiation (Voss, Gon, Suli Ali) |
+| `pricing-optimizer` | Set or fix pricing (ProfitWell frameworks, add-on strategy) |
+| `cold-outreach` | Get first customers with direct outreach |
+| `hiring-framework` | Make a hiring decision (role-specific interview design) |
+| `goal-architect` | Design goals (Dyrdek life accounting, Wilkinson systems) |
+| `wealth-allocator` | Deploy capital (Howard Marks, Pabrai, TIGER 21) |
+| `gauntlet` | Run all 5 evaluation stages sequentially — the "run everything" skill |
 
 ### Intelligence Skills (2)
 
-| Skill | Use when... |
-|-------|------------|
-| `people-intel` | You want a dossier on anyone in Sam's network — episodes, quotes, relationships, draft intro |
-| `content-miner` | You need content ideas from the archive — gaps, revisits, guest callbacks, clip discovery |
+| Skill | What it does |
+|-------|-------------|
+| `people-intel` | Dossier on anyone in the archive — episodes, quotes, co-occurrence, relationships |
+| `content-miner` | Find content opportunities — topic gaps, revisit-worthy predictions, guest callbacks, clip discovery |
 
 ### Tutor Skills (4)
 
-Guided learning through conversation. Each level has questions and exercises before moving on.
+Guided learning. Each level has questions and exercises.
 
-| Tutor | What it covers |
+| Skill | What it covers |
 |-------|---------------|
-| `business-fundamentals` | Thiel test, Hormozi value equation, unit economics, North Star formula, exit basics |
+| `business-fundamentals` | Unit economics, distribution, moats, market timing, exit basics |
 | `deal-making-masterclass` | Sourcing, valuation, deal structure, negotiation, selling |
-| `wealth-mindset` | Enough number, wealth staircase, post-exit identity, giving and legacy |
-| `negotiation-fundamentals` | Tactical empathy, calibrated questions, accusation audits, mirroring, MFM deal playbook |
+| `wealth-mindset` | Wealth stages, post-exit identity, spending frameworks, giving |
+| `negotiation-fundamentals` | Tactical empathy, calibrated questions, accusation audits, mirroring |
 
 ### Utility
 
-| Skill | Use when... |
-|-------|------------|
-| `i-am-sam` | General business questions — routes to the right skill |
+| Skill | What it does |
+|-------|-------------|
+| `i-am-sam` | Routes general questions to the right skill |
 | `episode-recommender` | Find episodes by topic or guest |
-
-## The progression
-
-```
-/i-am-sam:business-fundamentals
-    │
-    ├── Got an idea?           → idea-vetter → gauntlet (full evaluation)
-    ├── Want to buy?           → acquisition-evaluator
-    │                               └── deal-making-masterclass
-    ├── Need customers?        → cold-outreach
-    ├── Pricing wrong?         → pricing-optimizer
-    ├── Need to hire?          → hiring-framework
-    ├── Ready to sell?         → exit-coach
-    │                               └── wealth-allocator → wealth-mindset
-    ├── Who is [person]?       → people-intel
-    ├── Content ideas?         → content-miner
-    ├── Learn negotiation?     → negotiation-fundamentals
-    │                               └── negotiation-coach (bring a real deal)
-    └── Life design            → goal-architect
-```
 
 ## What's in the repo
 
-| | Count |
-|-|-------|
-| MFM transcripts | 690 |
-| MoneyWise transcripts | 83 |
-| Framework articles | 134 |
-| People profiles | 38 |
-| Entity intelligence files | 2 |
-| Indexes (topic, guest, framework) | 3 |
-| Interactive skills | 18 |
+```
+i-am-sam/
+├── .claude-plugin/plugin.json
+├── CLAUDE.md                          # Plugin context (Claude reads this)
+├── INSTALL.md
+├── skills/                            # 18 skill definitions
+│   ├── i-am-sam/SKILL.md             # Router
+│   ├── idea-vetter/SKILL.md
+│   ├── gauntlet/SKILL.md
+│   ├── people-intel/SKILL.md
+│   └── ...
+└── references/
+    ├── frameworks/                    # 134 framework articles
+    ├── people/                        # 38 people profiles
+    ├── entities/                      # Entity intelligence (co-occurrence, sentiment)
+    ├── indexes/                       # by-framework, by-guest, by-topic
+    └── transcripts/
+        ├── mfm/                       # 690 polished MFM transcripts
+        └── moneywise/                 # 83 MoneyWise transcripts
+```
 
 ## How it works
 
-Three layers. Skills are the interactive coaching sessions. Reference articles are the 134 written framework guides (PE rollups, zero-dollar acquisitions, tactical empathy, emotional home framework, spending frameworks, etc.). Transcripts are the 773 polished episodes, searchable by grep.
+Three layers. Skills are interactive — they ask about your situation and apply frameworks step by step. Framework articles are the 134 written guides (PE rollups, zero-dollar acquisitions, tactical empathy, emotional home framework, etc.) with source quotes. Transcripts are the raw archive, searchable for any question the articles don't cover.
 
-You start with a skill. If you need more depth, the skill pulls from articles and people profiles. If you need a specific quote or want to explore something the articles don't cover, it searches transcripts and entity data.
+Skills pull from articles when they need depth. Articles cite specific transcripts. Everything traces back to a real episode.
 
 ## Credits
 
-Source material: [My First Million](https://www.youtube.com/c/MyFirstMillionPod) by Sam Parr and Shaan Puri, plus [MoneyWise](https://www.youtube.com/@moneywise) by Sam Parr. The full archive is also browsable at [myfirstmillion.wiki](https://myfirstmillion.wiki).
+Source material: [My First Million](https://www.youtube.com/c/MyFirstMillionPod) by Sam Parr & Shaan Puri, and [MoneyWise](https://www.youtube.com/@moneywise) by Sam Parr.
 
 Built by [Creative Intelligence Agency](https://creativeintel.agency).
 
-This is an editorial reorganization of publicly available podcast content. Not affiliated with Sam Parr, Shaan Puri, or Hampton.
+Not affiliated with Sam Parr, Shaan Puri, or Hampton. This is an editorial reorganization of publicly available podcast content.
