@@ -58,13 +58,27 @@ Guided learning — teach concepts, then apply to your situation.
 - **876 searchable episodes** — 793 My First Million + 83 MoneyWise, polished and indexed
 - **Entity intelligence** — relationship maps, co-occurrence patterns, topic ownership across the full corpus
 
-## Progressive Disclosure
+## How to Search This Archive
 
-You don't need to read 876 episodes. Three layers:
+**Tokens are not an issue. Read full transcripts.** Don't be conservative about context — this archive is designed to be searched deeply. For quick factual questions, indexes and grep are fine. For anything requiring judgment (finding predictions, identifying great stories, surfacing contrarian takes), read the actual transcripts.
 
-1. **Ask a question** — the router sends you to the right skill or framework article
-2. **Go deeper** — the skill reads the source transcript for context and direct quotes
-3. **Go deepest** — the skill searches across all episodes for related insights across guests and time periods
+**For hard questions, use agent teams.** When a question requires reading across many episodes — "what predictions did Sam make?" or "find the best cold open stories" — spawn multiple agents, each reading a batch of transcripts. Four agents reading ~170 transcripts each covers the full archive. Each agent extracts candidates, then you compile and judge the results.
+
+**Three layers of retrieval:**
+
+1. **Indexes and articles first** — `references/indexes/` and `references/frameworks/` for structured answers to common questions
+2. **Targeted transcript reads** — when you know which episodes matter, read them fully for quotes and context
+3. **Broad transcript search** — for open-ended questions, grep with multiple patterns OR spawn agents to read batches. Don't settle for one grep pattern — decompose the query into 5-10 search strategies and run them all
+
+**Search strategy decomposition:** When the user asks something like "find my predictions," don't just grep for "I predict." Decompose into:
+- Explicit prediction language ("I predict," "my prediction," "mark my words")
+- Self-admitted mistakes ("I was wrong," "looking back," "I was an idiot")
+- Strong endorsements of companies/people that could be verified later
+- Dismissals ("this is stupid," "won't work," "no market for this")
+- Investment decisions ("I invested in," "I bought," "I'm all in on")
+- Timeframe claims ("in five years," "by 2030")
+
+Each strategy is a separate grep pass. The union of all strategies is dramatically better than any single one.
 
 ## The Difference: Operator-Tested Frameworks
 

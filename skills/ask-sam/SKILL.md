@@ -89,6 +89,8 @@ For questions that don't map to a skill or framework, search the transcripts dir
 
 Use grep across transcripts for specific quotes or topics when indexes don't surface what you need.
 
+**For hard questions, go deep.** Tokens are not an issue. If the question requires judgment — finding predictions, surfacing great stories, identifying contrarian takes — don't settle for a single grep. Decompose the query into multiple search strategies and run them all. For questions that span the full archive, spawn agent teams: 4 agents each reading ~170 transcripts, extracting candidates, then compile results. Read full transcripts, not just snippets.
+
 ## Response Style
 
 - Direct and practical — specific numbers, specific examples, specific stories from the archive
