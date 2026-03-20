@@ -9,12 +9,12 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/cdeistopened/i-am-sam.git
+git clone https://github.com/cdeistopened/ask-sam.git
 ```
 
 Put it wherever you keep plugins. Common locations:
-- `~/.claude/plugins/i-am-sam`
-- `~/plugins/i-am-sam`
+- `~/.claude/plugins/ask-sam`
+- `~/plugins/ask-sam`
 - Anywhere — just note the path
 
 ### 2. Add to Claude Code
@@ -24,7 +24,7 @@ Add the plugin path to your settings. For global access (available in every proj
 ```json
 {
   "plugins": [
-    "/absolute/path/to/i-am-sam"
+    "/absolute/path/to/ask-sam"
   ]
 }
 ```
@@ -38,7 +38,7 @@ Plugins load on startup. After editing settings, restart your session for the sk
 ### 4. Verify
 
 ```
-/i-am-sam
+/ask-sam
 ```
 
 You should see the router respond. If it says the skill isn't found, check that the path in your settings.json is correct and absolute.
@@ -50,20 +50,20 @@ If you have [QMD](https://github.com/cdeistopened/qmd) installed, you can index 
 Add to your `~/.config/qmd/index.yml`:
 
 ```yaml
-i-am-sam-mfm:
-  path: /path/to/i-am-sam/references/transcripts/mfm
+ask-sam-mfm:
+  path: /path/to/ask-sam/references/transcripts/mfm
   glob: "**/*.md"
 
-i-am-sam-moneywise:
-  path: /path/to/i-am-sam/references/transcripts/moneywise
+ask-sam-moneywise:
+  path: /path/to/ask-sam/references/transcripts/moneywise
   glob: "**/*.md"
 ```
 
 Then:
 
 ```bash
-qmd reindex i-am-sam-mfm i-am-sam-moneywise
-qmd embed i-am-sam-mfm i-am-sam-moneywise
+qmd reindex ask-sam-mfm ask-sam-moneywise
+qmd embed ask-sam-mfm ask-sam-moneywise
 ```
 
 The plugin works without QMD — it uses framework indexes and grep. QMD just makes retrieval better for open-ended questions that span many episodes.
@@ -93,8 +93,8 @@ What topics have been discussed across many episodes but never got a dedicated d
 ## Troubleshooting
 
 - **Skills not found:** Check the path in `settings.json` is absolute (starts with `/`). Restart Claude Code after editing.
-- **Generic answers:** Invoke a skill directly — e.g., `/i-am-sam:idea-vetter` — to use the structured framework path instead of open-ended chat.
-- **Old prefix:** If you had the previous version, update `/ask-sam:` to `/i-am-sam:` in any saved prompts.
+- **Generic answers:** Invoke a skill directly — e.g., `/ask-sam:idea-vetter` — to use the structured framework path instead of open-ended chat.
+- **Old prefix:** If you had the previous version, update `/ask-sam:` to `/ask-sam:` in any saved prompts.
 
 ## Learn More
 

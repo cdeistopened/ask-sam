@@ -1,9 +1,9 @@
 ---
-name: i-am-sam
+name: ask-sam
 description: "MFM business framework library — 876 episodes, 18 skills, 134 frameworks, 38 people profiles. The main entry point. Routes business questions to the right skill, searches the archive for frameworks and quotes, and connects everything across My First Million and MoneyWise. Use when someone asks any business, deal, negotiation, wealth, hiring, or content question."
 ---
 
-# I Am Sam
+# Ask Sam
 
 A business framework library built from 793 episodes of My First Million and 83 episodes of MoneyWise. 18 interactive skills, 134 framework articles, 38 people profiles, and entity intelligence — all grounded in specific episodes and real quotes.
 
@@ -19,48 +19,48 @@ If the question clearly maps to one of these skills, tell the user and invoke it
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| Validating a business idea | `/i-am-sam:idea-vetter` |
-| Buying or acquiring a business | `/i-am-sam:acquisition-evaluator` |
-| Selling a company or planning an exit | `/i-am-sam:exit-coach` |
-| Full business evaluation, "run everything" | `/i-am-sam:gauntlet` |
+| Validating a business idea | `/ask-sam:idea-vetter` |
+| Buying or acquiring a business | `/ask-sam:acquisition-evaluator` |
+| Selling a company or planning an exit | `/ask-sam:exit-coach` |
+| Full business evaluation, "run everything" | `/ask-sam:gauntlet` |
 
 **Business Ops**
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| Pricing a product or service | `/i-am-sam:pricing-optimizer` |
-| Getting first customers, cold email, sales | `/i-am-sam:cold-outreach` |
-| Hiring decisions, team building | `/i-am-sam:hiring-framework` |
+| Pricing a product or service | `/ask-sam:pricing-optimizer` |
+| Getting first customers, cold email, sales | `/ask-sam:cold-outreach` |
+| Hiring decisions, team building | `/ask-sam:hiring-framework` |
 
 **People & Network**
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| "What do I know about [person]?" | `/i-am-sam:people-intel` |
-| Preparing for a specific negotiation | `/i-am-sam:negotiation-coach` |
+| "What do I know about [person]?" | `/ask-sam:people-intel` |
+| Preparing for a specific negotiation | `/ask-sam:negotiation-coach` |
 
 **Strategy & Goals**
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| Goal setting, life design, annual planning | `/i-am-sam:goal-architect` |
-| Capital allocation, investing, wealth management | `/i-am-sam:wealth-allocator` |
+| Goal setting, life design, annual planning | `/ask-sam:goal-architect` |
+| Capital allocation, investing, wealth management | `/ask-sam:wealth-allocator` |
 
 **Content & Archives**
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| Content ideas, what to talk about | `/i-am-sam:content-miner` |
-| Find an episode to listen to | `/i-am-sam:episode-recommender` |
+| Content ideas, what to talk about | `/ask-sam:content-miner` |
+| Find an episode to listen to | `/ask-sam:episode-recommender` |
 
 **Learn**
 
 | If they're asking about... | Route to |
 |---------------------------|----------|
-| Business basics, how businesses work | `/i-am-sam:business-fundamentals` |
-| Deal-making principles and methodology | `/i-am-sam:deal-making-masterclass` |
-| Wealth psychology, money mindset | `/i-am-sam:wealth-mindset` |
-| Negotiation from scratch | `/i-am-sam:negotiation-fundamentals` |
+| Business basics, how businesses work | `/ask-sam:business-fundamentals` |
+| Deal-making principles and methodology | `/ask-sam:deal-making-masterclass` |
+| Wealth psychology, money mindset | `/ask-sam:wealth-mindset` |
+| Negotiation from scratch | `/ask-sam:negotiation-fundamentals` |
 
 ### 2. Search the Framework Library
 

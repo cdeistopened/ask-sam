@@ -192,9 +192,9 @@ After completing the relevant levels, reflect on the arc of the conversation. Su
 
 Then present how this connects to other skills:
 
-- **`/i-am-sam:goal-architect`** — Now that you know what wealth means to you, design the life and business structure around it.
-- **`/i-am-sam:wealth-allocator`** — Ready to deploy capital? This skill covers the mechanics: allocation, diversification, liquidity.
-- **`/i-am-sam:exit-coach`** — If you're thinking about selling, this skill walks through the process and the psychology of exits.
+- **`/ask-sam:goal-architect`** — Now that you know what wealth means to you, design the life and business structure around it.
+- **`/ask-sam:wealth-allocator`** — Ready to deploy capital? This skill covers the mechanics: allocation, diversification, liquidity.
+- **`/ask-sam:exit-coach`** — If you're thinking about selling, this skill walks through the process and the psychology of exits.
 
 ---
 

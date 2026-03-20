@@ -1,4 +1,4 @@
-# I Am Sam
+# Ask Sam
 
 A Claude Code plugin built from 876 episodes of [My First Million](https://www.youtube.com/c/MyFirstMillionPod) and [MoneyWise](https://www.youtube.com/@moneywise). Business frameworks, deal evaluation tools, people intelligence, and 773 searchable transcripts — all grounded in specific episodes and real quotes.
 
@@ -9,7 +9,7 @@ A Claude Code plugin built from 876 episodes of [My First Million](https://www.y
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/cdeistopened/i-am-sam.git
+git clone https://github.com/cdeistopened/ask-sam.git
 ```
 
 ### 2. Add it to Claude Code
@@ -19,7 +19,7 @@ In your project's `.claude/settings.json`:
 ```json
 {
   "plugins": [
-    "/path/to/i-am-sam"
+    "/path/to/ask-sam"
   ]
 }
 ```
@@ -36,12 +36,12 @@ If you have [QMD](https://github.com/cdeistopened/qmd) installed, indexing the t
 
 ```bash
 # Add to your ~/.config/qmd/index.yml:
-# i-am-sam-transcripts:
-#   path: /path/to/i-am-sam/references/transcripts
+# ask-sam-transcripts:
+#   path: /path/to/ask-sam/references/transcripts
 #   glob: "**/*.md"
 
-qmd reindex i-am-sam-transcripts
-qmd embed i-am-sam-transcripts
+qmd reindex ask-sam-transcripts
+qmd embed ask-sam-transcripts
 ```
 
 This is optional — the plugin works without it, using indexes and grep. But QMD makes cross-archive questions ("every time someone mentioned PE rollups across all 876 episodes") significantly faster and more accurate.
@@ -103,18 +103,18 @@ Guided learning. Each level has questions and exercises.
 
 | Skill | What it does |
 |-------|-------------|
-| `i-am-sam` | Routes general questions to the right skill |
+| `ask-sam` | Routes general questions to the right skill |
 | `episode-recommender` | Find episodes by topic or guest |
 
 ## What's in the repo
 
 ```
-i-am-sam/
+ask-sam/
 ├── .claude-plugin/plugin.json
 ├── CLAUDE.md                          # Plugin context (Claude reads this)
 ├── INSTALL.md
 ├── skills/                            # 18 skill definitions
-│   ├── i-am-sam/SKILL.md             # Router
+│   ├── ask-sam/SKILL.md             # Router
 │   ├── idea-vetter/SKILL.md
 │   ├── gauntlet/SKILL.md
 │   ├── people-intel/SKILL.md

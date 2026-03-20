@@ -14,11 +14,11 @@ This is the "run everything" skill. Each stage produces a clear pass/fail. After
 Run stages sequentially. Do NOT skip ahead. Present each stage's result before moving to the next. After each stage, ask: **"Ready for the next stage, or want to go deeper on this one?"**
 
 If they want to go deeper on any stage, point them to the full skill:
-- Stage 1 → `/i-am-sam:idea-vetter`
+- Stage 1 → `/ask-sam:idea-vetter`
 - Stage 2 → (built into idea-vetter filter 3)
-- Stage 3 → `/i-am-sam:pricing-optimizer`
-- Stage 4 → `/i-am-sam:hiring-framework`
-- Stage 5 → `/i-am-sam:exit-coach` and `/i-am-sam:acquisition-evaluator`
+- Stage 3 → `/ask-sam:pricing-optimizer`
+- Stage 4 → `/ask-sam:hiring-framework`
+- Stage 5 → `/ask-sam:exit-coach` and `/ask-sam:acquisition-evaluator`
 
 ---
 
@@ -275,8 +275,8 @@ If it failed stages, say exactly which assumptions need to change for it to work
 
 ## Go Deeper
 [List the full skills to run for the weakest 1-2 stages, e.g.:]
-- Pricing was the weakest stage. Run `/i-am-sam:pricing-optimizer` for the full Patrick Campbell framework and quarterly pricing calendar.
-- Your first 3 hires are unclear. Run `/i-am-sam:hiring-framework` for role-specific interview design.
+- Pricing was the weakest stage. Run `/ask-sam:pricing-optimizer` for the full Patrick Campbell framework and quarterly pricing calendar.
+- Your first 3 hires are unclear. Run `/ask-sam:hiring-framework` for role-specific interview design.
 
 ## Source Episodes
 [List every episode referenced across all 5 stages with titles]

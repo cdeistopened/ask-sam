@@ -19,34 +19,34 @@ Or use a specific skill directly.
 
 Bring your situation, get a structured evaluation.
 
-- `/i-am-sam:idea-vetter` — Validate a business idea (Thiel test, Hormozi value equation, unit economics, North Star formula)
-- `/i-am-sam:acquisition-evaluator` — Evaluate a business to buy (PE rollups, main street acquisitions, SaaS)
-- `/i-am-sam:exit-coach` — Plan a company sale (timing, valuation, deal structure)
-- `/i-am-sam:negotiation-coach` — Prepare for any negotiation (Voss, Gon, Shaan, Suli Ali frameworks)
-- `/i-am-sam:pricing-optimizer` — Set or fix pricing strategy (ProfitWell frameworks, add-on strategy)
-- `/i-am-sam:cold-outreach` — Get first customers with direct outreach
-- `/i-am-sam:hiring-framework` — Make a hiring decision (role-specific interview design)
-- `/i-am-sam:goal-architect` — Design goals (Dyrdek life accounting, Wilkinson systems)
-- `/i-am-sam:wealth-allocator` — Deploy capital (Howard Marks, Pabrai, TIGER 21 frameworks)
-- `/i-am-sam:gauntlet` — Full 5-stage evaluation: Idea Check → Market Sizing → Pricing → Team → Exit
+- `/ask-sam:idea-vetter` — Validate a business idea (Thiel test, Hormozi value equation, unit economics, North Star formula)
+- `/ask-sam:acquisition-evaluator` — Evaluate a business to buy (PE rollups, main street acquisitions, SaaS)
+- `/ask-sam:exit-coach` — Plan a company sale (timing, valuation, deal structure)
+- `/ask-sam:negotiation-coach` — Prepare for any negotiation (Voss, Gon, Shaan, Suli Ali frameworks)
+- `/ask-sam:pricing-optimizer` — Set or fix pricing strategy (ProfitWell frameworks, add-on strategy)
+- `/ask-sam:cold-outreach` — Get first customers with direct outreach
+- `/ask-sam:hiring-framework` — Make a hiring decision (role-specific interview design)
+- `/ask-sam:goal-architect` — Design goals (Dyrdek life accounting, Wilkinson systems)
+- `/ask-sam:wealth-allocator` — Deploy capital (Howard Marks, Pabrai, TIGER 21 frameworks)
+- `/ask-sam:gauntlet` — Full 5-stage evaluation: Idea Check → Market Sizing → Pricing → Team → Exit
 
 ## Intelligence Skills (2)
 
-- `/i-am-sam:people-intel` — Dossier on anyone in the archive: episode appearances, co-occurrence, key quotes, relationship map
-- `/i-am-sam:content-miner` — Find content opportunities: topic gaps, revisit-worthy predictions, guest callbacks, clip discovery
+- `/ask-sam:people-intel` — Dossier on anyone in the archive: episode appearances, co-occurrence, key quotes, relationship map
+- `/ask-sam:content-miner` — Find content opportunities: topic gaps, revisit-worthy predictions, guest callbacks, clip discovery
 
 ## Tutor Skills (4)
 
 Guided learning — teach concepts, then apply to your situation.
 
-- `/i-am-sam:business-fundamentals` — Core business principles: unit economics, distribution, moats, market timing
-- `/i-am-sam:deal-making-masterclass` — Deal mechanics: LOIs, due diligence, earnouts, seller psychology
-- `/i-am-sam:wealth-mindset` — How operators think about money: wealth stages, post-exit identity, spending frameworks
-- `/i-am-sam:negotiation-fundamentals` — Negotiation from scratch: tactical empathy, calibrated questions, accusation audits, mirroring
+- `/ask-sam:business-fundamentals` — Core business principles: unit economics, distribution, moats, market timing
+- `/ask-sam:deal-making-masterclass` — Deal mechanics: LOIs, due diligence, earnouts, seller psychology
+- `/ask-sam:wealth-mindset` — How operators think about money: wealth stages, post-exit identity, spending frameworks
+- `/ask-sam:negotiation-fundamentals` — Negotiation from scratch: tactical empathy, calibrated questions, accusation audits, mirroring
 
 ## Utility (1)
 
-- `/i-am-sam:episode-recommender` — Find the right episode by topic, guest, or situation
+- `/ask-sam:episode-recommender` — Find the right episode by topic, guest, or situation
 
 ---
 
