@@ -26,7 +26,7 @@ Three sub-tests:
 
 Ask the user: "When you tell people about this idea, do they immediately get excited — or do they look confused or skeptical?" If the answer is "everyone loves it," that's actually a yellow flag.
 
-**Source transcript:** `transcripts/k7UycsE_QoA.md`
+**Source transcript:** `transcripts/mfm/2025-03-27-i-built-a-1b-company-heres-7-business-ideas-i-would-start-this-year.md`
 
 ### Filter 2: The Value Equation (Hormozi)
 
@@ -44,7 +44,7 @@ Walk through each variable:
 
 The goal: maximize the numerator, minimize the denominator. If the idea scores poorly on time delay or effort, ask whether there's a way to restructure.
 
-**Source transcript:** `transcripts/9htyfIZ9iPk.md`
+**Source transcript:** `transcripts/mfm/2024-08-17-how-to-craft-a-100m-offer-in-6-minutes.md`
 
 ### Filter 3: The Unit Economics Check (Sam's Math)
 
@@ -64,7 +64,7 @@ If the revenue ceiling is under $1M/year, the idea may work as a lifestyle busin
 
 Then ask: "What does it cost you to acquire one customer?" If they don't know, walk them through Sam's method: run a small test (ads, cold outreach, content) to find the real CAC, not the theoretical one.
 
-**Source transcript:** `transcripts/Poc5H6aVTlw.md`
+**Source transcript:** `transcripts/mfm/2022-06-03-follow-these-3-steps-to-start-a-1000000-lead-generation-business.md`
 
 ### Filter 4: The North Star Formula (Shaan's Compression)
 
@@ -79,7 +79,7 @@ Ask: "Can you express your entire business model in one multiplication?" Example
 
 If the user can't compress it to one equation, the business model might be too complex or unclear. Push them to simplify until they can.
 
-**Source transcript:** `transcripts/y1lXudPJZ9c.md`
+**Source transcript:** `transcripts/mfm/2023-04-04-how-to-buy-a-d2c-startup-for-cheap-and-sell-it-for-millions.md`
 
 ### Filter 5: The Validation Plan (Sam's 100 Conversations)
 
@@ -98,7 +98,7 @@ Help the user build a validation plan:
 3. Set a threshold: "If X out of 100 say 'give it to me now,' proceed"
 4. Time-box: 2-4 weeks to complete the conversations
 
-**Source transcripts:** `transcripts/k7UycsE_QoA.md`, `transcripts/dL60Qvntw58.md`
+**Source transcripts:** `transcripts/mfm/2025-03-27-i-built-a-1b-company-heres-7-business-ideas-i-would-start-this-year.md`, `transcripts/mfm/2022-08-19-how-to-close-your-first-1000-customers-startup-sales-101.md`
 
 ### Filter 6: The Playbook Clone Check
 
@@ -118,7 +118,7 @@ If a similar business exists:
 
 The best version of the user's idea might be "X but for Y" — and the transcripts may contain the X.
 
-**Source transcript:** `transcripts/gkrUXS8pRT0.md`
+**Source transcript:** `transcripts/mfm/2022-05-04-from-small-business-to-franchise-how-to-make-it-happen.md`
 
 ## Output
 

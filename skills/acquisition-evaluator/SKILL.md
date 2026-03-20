@@ -48,7 +48,7 @@ From Sarah Moore's zero-money-down acquisition process (`dF6zvTXimxY.md`):
 - If the seller thinks their business is worth 10x earnings, end the conversation
 - You're looking for: consistently profitable for multiple years + willing to discuss a seller's note
 
-**Source transcript:** `transcripts/dF6zvTXimxY.md`
+**Source transcript:** `transcripts/mfm/2023-11-02-how-i-bought-a-multi-million-dollar-egg-carton-business-for-0-sarah-moore-interv.md`
 
 ## Phase 3: Valuation — What to Pay
 
@@ -117,7 +117,7 @@ From Andrew Wilkinson's Tiny Corp approach (`RzwS8iUHeQo.md`):
 - For equity: require them to write a check (not options) — Wilkinson will even loan them the money
 - After hiring: send financials monthly. Annual in-person meeting. Leave them alone.
 
-**Source transcript:** `transcripts/RzwS8iUHeQo.md`
+**Source transcript:** `transcripts/mfm/2024-05-20-the-lazy-millionaire-i-own-40-companies-but-dont-run-any-of-them.md`
 
 ## Phase 7: Search the Archive
 

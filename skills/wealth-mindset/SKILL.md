@@ -42,7 +42,7 @@ From the wealth-allocator framework: what's the number where you'd stop optimizi
 **Shaan's Emotional Home**
 Shaan Puri describes your "emotional home" — the default emotional state you always return to. Some people's emotional home is anxiety. Some people's is contentment. Your emotional home drives every financial decision you make. If your emotional home is scarcity, no amount of money fixes it.
 
-Source: `transcripts/0-_DpXtdCT0.md`
+Source: `transcripts/mfm/2023-12-27-10-lessons-we-learned-from-filming-131-episodes-of-my-first-million-in-2023.md`
 
 ### Exercise
 
@@ -74,12 +74,12 @@ From Hampton member data and conversations with Jackie, Sam breaks down what act
 - **$30M**: You can fund other people's dreams. Family dynamics change.
 - **$100M+**: Your problems are legacy problems. Who you spend time with matters more than what you spend money on.
 
-Source: `transcripts/10m_vs__100m__the_difference_between_being_rich_a.md`
+Source: `transcripts/moneywise/10m_vs__100m__the_difference_between_being_rich_a.md`
 
 **Five Pillars of True Wealth**
 Steve Houghton ($1B+ builder) describes five pillars: health, relationships, growth, purpose, financial freedom. Financial freedom is just one pillar. Most entrepreneurs over-index on it and let the other four atrophy.
 
-Source: `transcripts/1b_and_counting__steve_houghton_s_five_pillars_fo.md`
+Source: `transcripts/moneywise/1b_and_counting__steve_houghton_s_five_pillars_fo.md`
 
 **Cam's $150M Story**
 Cam has $150M liquid and spends $5K a month. Lives simply. The point isn't that everyone should live like Cam — the point is that wealth and spending are completely decoupled. Your spending number is a lifestyle choice, not a wealth indicator.
@@ -119,22 +119,22 @@ Source: `transcripts/i_didn_t_have_any_idea_what_i_was_spending___near.md`
 
 Neil Patel spending $200K a month is the extreme version. The number isn't the problem — the unconsciousness is.
 
-Source: `transcripts/how_neil_patel_spends__200k_a_month.md`
+Source: `transcripts/moneywise/how_neil_patel_spends__200k_a_month.md`
 
 **Net Worth Is a Lie**
 Mike Brown: $13M net worth, zero cash. Everything locked in illiquid assets. Net worth on paper means nothing if you can't access it. The accumulator-to-defender transition is one of the hardest psychological shifts — you have to stop building and start protecting.
 
-Source: `transcripts/13m_but_zero_cash__why_net_worth_is_a_lie.md`
+Source: `transcripts/moneywise/13m_but_zero_cash__why_net_worth_is_a_lie.md`
 
 **Infinite vs. Finite Games**
 Shaan reframes careers as infinite games: the goal isn't to win, it's to keep playing. When you treat business as a finite game (hit the number, sell, done), you lose your reason to get up in the morning. The people who stay happy treat it as infinite — the work is the point.
 
-Source: `transcripts/0-_DpXtdCT0.md`
+Source: `transcripts/mfm/2023-12-27-10-lessons-we-learned-from-filming-131-episodes-of-my-first-million-in-2023.md`
 
 **The "Safe" Path**
 Which path is actually riskier — the conventional career or the entrepreneurial one? Sam and Shaan argue that the "safe" path has its own massive risks: dependence on an employer, no equity, capped upside, soul erosion. The risky path only looks risky from the outside.
 
-Source: `transcripts/YAtQSKJ2HCA.md`
+Source: `transcripts/mfm/2022-07-15-this-mindset-made-me-a-millionaire-by-age-29.md`
 
 ### Exercise
 
@@ -168,12 +168,12 @@ Beckham talks about the integration of money and meaning — that they aren't op
 **Kids and Wealth**
 Dr. Becky Kennedy on raising kids without entitlement: the goal isn't to hide wealth, it's to give kids agency and responsibility within it. Taylor Adams grew up in a billionaire family and talks about how wealth can rob motivation if the family doesn't actively counteract it.
 
-Source: `transcripts/how_to_not_ruin_your_kids_with_your_wealth_ft__dr.md`, `transcripts/born_a_billionaire__how_to_avoid_wealth_robbing_yo.md`
+Source: `transcripts/moneywise/how_to_not_ruin_your_kids_with_your_wealth_ft__dr.md`, `transcripts/moneywise/born_a_billionaire__how_to_avoid_wealth_robbing_yo.md`
 
 **Marriage and Money Alignment**
 One of the most overlooked wealth topics. Misalignment with a partner on money values destroys more wealth than bad investments. Sam talks about the importance of choosing someone whose relationship with money complements yours.
 
-Source: `transcripts/be_careful_who_you_choose_to_spend_the_rest_of_you.md`
+Source: `transcripts/moneywise/be_careful_who_you_choose_to_spend_the_rest_of_you.md`
 
 ### Exercise
 

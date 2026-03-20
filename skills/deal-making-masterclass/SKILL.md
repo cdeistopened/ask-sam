@@ -39,7 +39,7 @@ Before teaching anything, ask:
 
 ### Sourcing: Where Deals Come From
 
-#### The Mass Outreach System (Sarah Moore, `transcripts/7nWa1F3GJy4.md`)
+#### The Mass Outreach System (Sarah Moore, `transcripts/mfm/2024-04-17-data-backed-businesses-guaranteed-to-make-1m-from-day-1.md`)
 
 Sarah Moore built a machine for finding off-market deals. The system:
 - Identify a niche (laundromats, SaaS, local services)
@@ -51,7 +51,7 @@ The key is volume. Most people send 5 letters and give up. Sarah sends hundreds.
 
 > Ask the user: "What category of business would you target? And how many owners could you realistically reach out to this month?"
 
-#### Hang Around the Hoop (Andrew Wilkinson / Jeremy Giffin, `transcripts/7nWa1F3GJy4.md`)
+#### Hang Around the Hoop (Andrew Wilkinson / Jeremy Giffin, `transcripts/mfm/2024-04-17-data-backed-businesses-guaranteed-to-make-1m-from-day-1.md`)
 
 Andrew Wilkinson's approach at Tiny Capital is different — he doesn't hunt, he positions.
 
@@ -65,7 +65,7 @@ Jeremy Giffin runs Tiny's deal flow. His version: build relationships with found
 
 ### Valuation: What's a Business Worth?
 
-#### James Altucher's Three Methods (`transcripts/GkNJbj5qbXM.md`)
+#### James Altucher's Three Methods (`transcripts/mfm/2020-05-26-entrepreneur-who-lost-millions-breaks-down-how-to-come-back-financially.md`)
 
 James Altucher breaks valuation into three approaches:
 
@@ -77,7 +77,7 @@ James Altucher breaks valuation into three approaches:
 
 > Ask the user: "If you had to guess the annual profit of the business you're eyeing, what would you say? And do you know what similar businesses have sold for?"
 
-### The Zero-Dollar Acquisition (Codie Sanchez, `transcripts/CarCWCl1JFk.md`)
+### The Zero-Dollar Acquisition (Codie Sanchez, `transcripts/mfm/2021-04-28-how-to-buy-distressed-assets-how-to-network-with-codie-sanchez.md`)
 
 Codie Sanchez made her name buying businesses with little or no money down. The playbook:
 
@@ -121,7 +121,7 @@ Every deal is some combination of:
 
 The art is combining these so the deal works for both sides. The seller wants certainty. You want to minimize risk. The gap between those two things is where creativity lives.
 
-### Client-Financed Acquisitions (Alex Hormozi, `transcripts/TAXPyRnWwI0.md`)
+### Client-Financed Acquisitions (Alex Hormozi, `transcripts/mfm/2025-08-06-these-4-math-equations-will-make-you-a-millionaire-alex-hormozi.md`)
 
 Alex Hormozi's framework flips the script: design an offer so good that the revenue from the deal covers the acquisition cost.
 
@@ -129,7 +129,7 @@ The concept: before you close the acquisition, pre-sell a product or service to 
 
 > Ask the user: "If you bought your target business tomorrow, what could you sell to their existing customers in the first 30 days?"
 
-### The Rollup Arbitrage (Suli Ali, `transcripts/F-McXK-60BI.md`)
+### The Rollup Arbitrage (Suli Ali, `transcripts/mfm/2023-01-24-behind-the-scenes-of-selling-my-company-for-millions-suli-ali-410.md`)
 
 Suli Ali explained private equity's simplest trick:
 
@@ -143,7 +143,7 @@ This only works if you can actually operate the combined entity — integration 
 
 > Ask the user: "Could you buy 2-3 similar businesses and combine them? What would the combined entity look like?"
 
-### Pre-Deposit Development (Preston Holland, `transcripts/EDjT_goV9Ow.md`)
+### Pre-Deposit Development (Preston Holland, `transcripts/mfm/2024-06-03-this-50myr-side-hustle-is-on-track-to-make-1-billion-by-2030.md`)
 
 Preston Holland builds real estate projects using customer deposits before breaking ground. The principle applies to any capital-intensive deal:
 
@@ -176,7 +176,7 @@ Write it out as a simple term sheet. Then we move to negotiation.
 2. What do you think their biggest concern is about selling?
 3. What's your walk-away point — the price or terms where you'd say no?
 
-### Tactical Empathy (Chris Voss, `transcripts/3yR5qVe_iXA.md`)
+### Tactical Empathy (Chris Voss, `transcripts/mfm/2025-09-17-5-lessons-in-business-negotiation-from-an-fbi-hostage-negotiator.md`)
 
 Chris Voss was the FBI's lead international kidnapping negotiator. His system works in business because it works on the same brain.
 
@@ -232,7 +232,7 @@ Proactively table all the bad news about your business. Every skeleton in the cl
 
 This does two things: it kills bad buyers early (saving you months), and it builds deep trust with serious buyers who read it as integrity.
 
-### The "Move to the End" Strategy (Shaan Puri, `transcripts/LzUMOVNGkwo.md`)
+### The "Move to the End" Strategy (Shaan Puri, `transcripts/mfm/2022-04-14-elon-musk-offers-to-buy-twitter-for-43-billion-the-breakdown-by-my-first-million.md`)
 
 When you have high conviction and want to skip the negotiation theater:
 
@@ -264,7 +264,7 @@ Share it. We'll refine it together before moving to Level 4.
 2. What would you do the day after you sold? (Be honest — most people have no answer.)
 3. Do you have a number in mind? Where did that number come from?
 
-### Signal Without Desperation (Suli Ali, `transcripts/F-McXK-60BI.md`)
+### Signal Without Desperation (Suli Ali, `transcripts/mfm/2023-01-24-behind-the-scenes-of-selling-my-company-for-millions-suli-ali-410.md`)
 
 When someone shows interest in buying your business, the wrong responses are:
 - "No, we're not for sale" (they cross you off the list)
@@ -278,7 +278,7 @@ Say: "We've had interest and had some conversations, but nothing felt right yet.
 
 This signals availability without desperation. It makes them pursue you.
 
-### The Courtship Process (James Altucher, `transcripts/GkNJbj5qbXM.md`)
+### The Courtship Process (James Altucher, `transcripts/mfm/2020-05-26-entrepreneur-who-lost-millions-breaks-down-how-to-come-back-financially.md`)
 
 James Altucher compares selling a company to dating:
 
@@ -354,12 +354,12 @@ Then ask: "What's the one action you're going to take this week?"
 
 | Guest | Topic | Transcript |
 |-------|-------|-----------|
-| Sarah Moore | Mass outreach deal sourcing | `transcripts/7nWa1F3GJy4.md` |
-| Andrew Wilkinson / Jeremy Giffin | Hang around the hoop | `transcripts/7nWa1F3GJy4.md` |
-| James Altucher | Three valuation methods, courtship selling | `transcripts/GkNJbj5qbXM.md` |
-| Codie Sanchez | Zero-dollar acquisitions | `transcripts/CarCWCl1JFk.md` |
-| Alex Hormozi | Client-financed acquisitions | `transcripts/TAXPyRnWwI0.md` |
-| Suli Ali | Rollup arbitrage, signal without desperation | `transcripts/F-McXK-60BI.md` |
-| Preston Holland | Pre-deposit development | `transcripts/EDjT_goV9Ow.md` |
-| Chris Voss | Tactical empathy, accusation audits, labels | `transcripts/3yR5qVe_iXA.md` |
-| Shaan Puri | Skeleton disclosure, move to the end | `transcripts/LzUMOVNGkwo.md` |
+| Sarah Moore | Mass outreach deal sourcing | `transcripts/mfm/2024-04-17-data-backed-businesses-guaranteed-to-make-1m-from-day-1.md` |
+| Andrew Wilkinson / Jeremy Giffin | Hang around the hoop | `transcripts/mfm/2024-04-17-data-backed-businesses-guaranteed-to-make-1m-from-day-1.md` |
+| James Altucher | Three valuation methods, courtship selling | `transcripts/mfm/2020-05-26-entrepreneur-who-lost-millions-breaks-down-how-to-come-back-financially.md` |
+| Codie Sanchez | Zero-dollar acquisitions | `transcripts/mfm/2021-04-28-how-to-buy-distressed-assets-how-to-network-with-codie-sanchez.md` |
+| Alex Hormozi | Client-financed acquisitions | `transcripts/mfm/2025-08-06-these-4-math-equations-will-make-you-a-millionaire-alex-hormozi.md` |
+| Suli Ali | Rollup arbitrage, signal without desperation | `transcripts/mfm/2023-01-24-behind-the-scenes-of-selling-my-company-for-millions-suli-ali-410.md` |
+| Preston Holland | Pre-deposit development | `transcripts/mfm/2024-06-03-this-50myr-side-hustle-is-on-track-to-make-1-billion-by-2030.md` |
+| Chris Voss | Tactical empathy, accusation audits, labels | `transcripts/mfm/2025-09-17-5-lessons-in-business-negotiation-from-an-fbi-hostage-negotiator.md` |
+| Shaan Puri | Skeleton disclosure, move to the end | `transcripts/mfm/2022-04-14-elon-musk-offers-to-buy-twitter-for-43-billion-the-breakdown-by-my-first-million.md` |

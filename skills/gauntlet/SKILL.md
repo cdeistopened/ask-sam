@@ -37,7 +37,7 @@ Three sub-tests:
 2. **Is there an inflection point?** Something changed — technology, regulation, culture — that makes this possible NOW but wasn't before. No inflection point = you're late.
 3. **Does it scare people off?** Difficulty, weirdness, or stigma creates a natural moat. Easy ideas attract competition.
 
-**Source:** `transcripts/k7UycsE_QoA.md`
+**Source:** `transcripts/mfm/2025-03-27-i-built-a-1b-company-heres-7-business-ideas-i-would-start-this-year.md`
 
 ### The Value Equation (Hormozi)
 
@@ -53,7 +53,7 @@ Score each variable 1-5:
 
 Calculate: (Dream x Likelihood) / (Time x Effort). Above 4 is strong. Below 2 is a problem.
 
-**Source:** `transcripts/9htyfIZ9iPk.md`
+**Source:** `transcripts/mfm/2024-08-17-how-to-craft-a-100m-offer-in-6-minutes.md`
 
 ### The North Star Formula (Shaan)
 
@@ -68,7 +68,7 @@ Examples:
 
 If they can't compress it to one equation, the model is too complex. Push until they can.
 
-**Source:** `transcripts/y1lXudPJZ9c.md`
+**Source:** `transcripts/mfm/2023-04-04-how-to-buy-a-d2c-startup-for-cheap-and-sell-it-for-millions.md`
 
 ### Stage 1 Pass Criteria
 
@@ -106,7 +106,7 @@ If they don't know (most don't), prescribe Sam's test: run $500 in ads or 100 co
 
 **CAC sanity check:** If CAC > 30% of first-year revenue per customer, the unit economics don't work without significant retention.
 
-**Source:** `transcripts/Poc5H6aVTlw.md`
+**Source:** `transcripts/mfm/2022-06-03-follow-these-3-steps-to-start-a-1000000-lead-generation-business.md`
 
 ### Stage 2 Pass Criteria
 
@@ -130,7 +130,7 @@ Most founders underwork monetization. Acquisition gets all the attention. The th
 2. **Localization:** "The Nordics are willing to pay ~30% higher than the US for the exact same product." If selling internationally, geo-based pricing (even just 3-4 tiers) captures 15-20% more revenue.
 3. **Tiering:** Create Good/Better/Best where the middle tier is the one you want most people to buy. The top tier exists to make the middle feel reasonable (anchoring).
 
-**Source:** `transcripts/6Ui-FxhUUPU.md`
+**Source:** `transcripts/mfm/2023-11-16-brainstorming-ideas-with-the-200m-man-ft-patrick-campbell-519.md`
 
 ### Price Sensitivity Test
 
@@ -140,7 +140,7 @@ Two questions to ask 10-20 potential customers:
 
 The sweet spot is between those two numbers, biased toward the upper end. From Shaan: "Unless half the people are saying no, you're priced way too low."
 
-**Source:** `transcripts/biuC4bUMvV0.md`
+**Source:** `transcripts/mfm/2022-01-25-coaching-our-producer-to-make-5000hour-with-consulting.md`
 
 ### The Add-On Strategy
 
@@ -176,7 +176,7 @@ Map it:
 - **Hire #2:** ___ (scales founder strength) — Role: ___, Est. cost: $___/year
 - **Hire #3:** ___ (operations/independence) — Role: ___, Est. cost: $___/year
 
-**Source:** `transcripts/C7degTzRk_A.md`
+**Source:** `transcripts/mfm/2025-11-14-alex-hormozis-best-frameworks-for-business-and-beyond.md`
 
 ### Cost Model
 
@@ -195,7 +195,7 @@ Use Blake's "teach me something" test for critical hires:
 
 **Rule:** If the role requires deep domain expertise (the person needs to teach YOU things about the business), hire FTE. If the role is execution of a known playbook (you could teach THEM), use a contractor.
 
-**Source:** `transcripts/3VLDuDZ6Qvo.md`
+**Source:** `transcripts/mfm/2025-05-07-how-i-got-5-billion-in-preorders-for-a-supersonic-jet-company.md`
 
 ### Stage 4 Pass Criteria
 
@@ -219,7 +219,7 @@ Ask: "Which of these three is most likely to want YOUR business? Why?"
 
 If the answer is "nobody" — that's not necessarily fatal (some businesses are better as hold-forever cash machines), but the user should know that going in.
 
-**Source:** `transcripts/IOXkz1A5Kls.md` (Sam/Shaan exit debrief)
+**Source:** `transcripts/mfm/2022-03-18-i-sold-my-company-for-millions-heres-what-i-got-wrong.md` (Sam/Shaan exit debrief)
 
 ### Valuation Method
 
@@ -243,7 +243,7 @@ Three options:
 
 Ask: "Which timeline fits your life right now?"
 
-**Source:** `transcripts/IOXkz1A5Kls.md`, `transcripts/dF6zvTXimxY.md`
+**Source:** `transcripts/mfm/2022-03-18-i-sold-my-company-for-millions-heres-what-i-got-wrong.md`, `transcripts/mfm/2023-11-02-how-i-bought-a-multi-million-dollar-egg-carton-business-for-0-sarah-moore-interv.md`
 
 ### Stage 5 Pass Criteria
 

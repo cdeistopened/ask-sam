@@ -31,7 +31,7 @@ Imad Akhund built Mercury into a $3.5B company. Sam's observation from that epis
 
 > "The best ideas come disguised as bad ideas. If everyone immediately gets it, someone's already doing it."
 
-Source: `transcripts/k7UycsE_QoA.md`
+Source: `transcripts/mfm/2025-03-27-i-built-a-1b-company-heres-7-business-ideas-i-would-start-this-year.md`
 
 The Thiel test: a great idea looks wrong to most people but right to you, because you know something they do not. If your idea sounds obvious, it is probably too late. If it sounds stupid, ask why you believe it anyway. That reason is your edge.
 
@@ -67,7 +67,7 @@ Value = (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort Required)
 
 Most people try to increase Dream Outcome. The real leverage is in the denominator — reduce the time it takes and the effort required, and you multiply perceived value without changing your product.
 
-Source: `transcripts/TAXPyRnWwI0.md`
+Source: `transcripts/mfm/2025-08-06-these-4-math-equations-will-make-you-a-millionaire-alex-hormozi.md`
 
 **Kevin Ryan's $1-to-$2 Machine:**
 
@@ -75,7 +75,7 @@ Kevin Ryan built Gilt Groupe, MongoDB, Business Insider. His test for whether a 
 
 > "Can you put in $1 and get back $2? If you can do that reliably, everything else is just scale."
 
-Source: `transcripts/0cLWUCE02KE.md`
+Source: `transcripts/mfm/2023-09-14-how-this-billionaire-founder-finds-20b-business-ideas-kevin-ryan-interview-495.md`
 
 That means you need to know three numbers cold:
 - **Revenue per user** — what one customer pays you over their lifetime
@@ -115,7 +115,7 @@ Ramit Sethi on the show:
 
 > "I would mass-disqualify people. If you're looking for a coupon, I don't want you. If you're not willing to do the work, I don't want you. The best thing I ever did was turn away customers."
 
-Source: `transcripts/40cZdzYHd2I.md`
+Source: `transcripts/mfm/2021-08-27-why-you-should-have-a-diversified-investment-portfolio.md`
 
 Most founders try to serve everyone. The ones who win define a narrow customer and say no to everyone else. Saying no is a growth strategy. Every bad-fit customer you take on costs you three good-fit customers in support time, refund requests, and bad word of mouth.
 
@@ -196,7 +196,7 @@ James Altucher described his courtship process for exits:
 
 > "I start dating the acquirer 2-3 years before I want to sell. I do small deals with them. I make myself useful. By the time I'm ready to sell, they already know they want to buy."
 
-Source: `transcripts/GkNJbj5qbXM.md`
+Source: `transcripts/mfm/2020-05-26-entrepreneur-who-lost-millions-breaks-down-how-to-come-back-financially.md`
 
 The worst time to sell is when you need to. The best time is when you do not. Altucher's approach — build the relationship years in advance — means you are never desperate.
 
