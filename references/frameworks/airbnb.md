@@ -4,20 +4,20 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Airbnb
 
 Airbnb the company is worth over $80 billion. Owning an Airbnb property is, according to the show's most prolific business ranker, a D-tier business model. The gap between those two facts contains most of what you need to know about the difference between building a platform and operating on one.
 
-On My First Million, Airbnb appears in two entirely distinct conversations that almost never overlap. There is Airbnb the startup story -- the canonical tale of founders who sold cereal boxes to fund their company and grew it into a generational platform. And there is Airbnb the business model -- the idea that regular people can build wealth by listing properties on the platform. The show treats the first story with admiration and the second with polite skepticism.
+On [[frameworks/my-first-million|My First Million]], Airbnb appears in two entirely distinct conversations that almost never overlap. There is Airbnb the startup story -- the canonical tale of founders who sold cereal boxes to fund their company and grew it into a generational platform. And there is Airbnb the business model -- the idea that regular people can build wealth by listing properties on the platform. The show treats the first story with admiration and the second with polite skepticism.
 
 ## "We Were Inventing the Market"
 
 Brian Chesky has a quote that circulates in the MFM universe as a kind of mantra for founders who are told their market is too small: "We didn't know the size of the market because we were inventing it. If we listened to market research, we would have just made a better Couchsurfing app" ([[5-startups-that-looked-dumb-un|5 Startups That Looked Dumb Until They Didn't]]).
 
-Sam paired this with an equally defiant quote from Elon Musk: "I don't care about the market size. I care about if we can make something fundamentally different because if you make something great, the market will come." The juxtaposition is deliberate. Both founders ignored the market-sizing exercise that every VC and every MBA program teaches as fundamental. Both were right.
+Sam paired this with an equally defiant quote from [[frameworks/elon-musk|Elon Musk]]: "I don't care about the market size. I care about if we can make something fundamentally different because if you make something great, the market will come." The juxtaposition is deliberate. Both founders ignored the market-sizing exercise that every VC and every MBA program teaches as fundamental. Both were right.
 
 The lesson MFM draws is not that market sizing is useless. It is that market sizing measures what exists, not what could exist. Airbnb did not take share from hotels. It created a category of travel accommodation that did not previously have a name. The total addressable market was zero until it was enormous, with nothing in between.
 
@@ -59,7 +59,7 @@ The Airbnb story on MFM distills to a tension that applies far beyond travel:
 
 **The business model** proves that operating on someone else's platform is a structurally difficult position, regardless of how attractive the unit economics appear in a spreadsheet.
 
-The gap between those two truths is where most business decisions happen. Most people cannot build the next Airbnb. The question is whether operating on Airbnb is the best use of their capital and time, or whether that energy is better directed elsewhere. Andrew Wilkinson's D-tier rating suggests the latter.
+The gap between those two truths is where most business decisions happen. Most people cannot build the next Airbnb. The question is whether operating on Airbnb is the best use of their capital and time, or whether that energy is better directed elsewhere. [[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s D-tier rating suggests the latter.
 
 ## Sources
 

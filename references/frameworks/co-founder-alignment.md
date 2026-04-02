@@ -1,19 +1,26 @@
 ---
 name: Co-Founder Alignment Framework
-description: Help someone evaluate co-founder fit before committing — covering success vision, work style, time horizon, equity expectations, and values under pressure. Use when someone is about to take on a co-founder, is early in a business partnership and feeling friction, is trying to decide whether a friend or colleague would be a good business partner, or has been burned by a co-founder before. Also activate when someone says "we're best friends so it should be fine" or "we've already agreed on equity."
+description: >-
+  Help someone evaluate co-founder fit before committing — covering success
+  vision, work style, time horizon, equity expectations, and values under
+  pressure. Use when someone is about to take on a co-founder, is early in a
+  business partnership and feeling friction, is trying to decide whether a
+  friend or colleague would be a good business partner, or has been burned by a
+  co-founder before. Also activate when someone says "we're best friends so it
+  should be fine" or "we've already agreed on equity."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 9yjQGdw_QhY
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Sam Parr
 ---
 
 # Co-Founder Alignment Framework
 
-Walk someone through evaluating co-founder fit with the exercise Sam Parr used in practice — written-answer alignment on vision, success definition, work style, and values under pressure.
+Walk someone through evaluating co-founder fit with the exercise [[frameworks/sam-parr|Sam Parr]] used in practice — written-answer alignment on vision, success definition, work style, and values under pressure.
 
 ## When to Use
 
@@ -168,4 +175,4 @@ After the session, deliver:
 
 ## Source
 
-[Grant Cardone Just Bought A $60M Malibu House... Is He Legit?](https://www.youtube.com/watch?v=9yjQGdw_QhY) — Sam Parr and Shaan Puri cover Grant Cardone, N2 Publishing, and Sam's co-founder alignment process.
+[Grant Cardone Just Bought A $60M Malibu House... Is He Legit?](https://www.youtube.com/watch?v=9yjQGdw_QhY) — Sam Parr and [[frameworks/shaan-puri|Shaan Puri]] cover Grant Cardone, N2 Publishing, and Sam's co-founder alignment process.

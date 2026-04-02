@@ -4,22 +4,22 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Contrarian Thinking
 
-Codie Sanchez started writing a newsletter without realizing it was a business. She was doing it because she liked watching people grow based on ideas she shared with them. By the time she appeared on MFM, Contrarian Thinking had a couple hundred thousand subscribers, and the overall media operation was doing 100 million views a month with 5 million subscribers.
+[[frameworks/codie-sanchez|Codie Sanchez]] started writing a newsletter without realizing it was a business. She was doing it because she liked watching people grow based on ideas she shared with them. By the time she appeared on MFM, Contrarian Thinking had a couple hundred thousand subscribers, and the overall media operation was doing 100 million views a month with 5 million subscribers.
 
 ## What It Is
 
-Contrarian Thinking is Codie Sanchez's media company — newsletter, YouTube, TikTok, social — built around a single thesis: boring businesses are the most reliable path to financial independence. The brand name is both a description of the content and a positioning statement. The conventional wisdom is to chase venture-backed startups or climb the corporate ladder. Contrarian Thinking says: buy a laundromat, a plumbing company, a lawn care business — something that already has customers and cash flow.
+Contrarian Thinking is Codie Sanchez's media company — newsletter, YouTube, TikTok, social — built around a single thesis: [[frameworks/boring-businesses|boring businesses]] are the most reliable path to financial independence. The brand name is both a description of the content and a positioning statement. The conventional wisdom is to chase venture-backed startups or climb the corporate ladder. Contrarian Thinking says: buy a laundromat, a plumbing company, a lawn care business — something that already has customers and cash flow.
 
 As Codie described her editorial philosophy: "I write about all the things I wish I knew when I was first figuring out anything to do with money."
 
 ## The Founder's Background
 
-The credibility behind Contrarian Thinking comes from an unusual career path. Codie started as a journalist covering human trafficking along the U.S.-Mexico border. She then moved to Vanguard's accelerated development program (where she was present at the beginning of the ETF industry), then to Goldman Sachs, then to State Street running the international investment business, then to building out a Latin American institutional investment operation that grew to a couple billion dollars. Then she went into cannabis private equity — a $200 million fund called Entourage Effect Capital — before starting the media company.
+The credibility behind Contrarian Thinking comes from an unusual career path. Codie started as a journalist covering human trafficking along the U.S.-Mexico border. She then moved to Vanguard's accelerated development program (where she was present at the beginning of the ETF industry), then to Goldman Sachs, then to State Street running the international investment business, then to building out a Latin American institutional investment operation that grew to a couple billion dollars. Then she went into cannabis [[frameworks/private-equity|private equity]] — a $200 million fund called Entourage Effect Capital — before starting the media company.
 
 When she joined Shaan on MFM (guest-hosting while Sam was on paternity leave), she described her micro PE operation: a separate ~$20 million fund buying boring businesses. "Things your father did when you were growing up and you didn't really tell people about." Laundromats, plumbing companies, lawn care, podcast production. Her first acquisition came from watching her uncle Ebb wind down a five-million-dollar plumbing business with $2-3 million in annual profit rather than sell it — because he didn't know there was a buyer.
 

@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # IdeaBrowser.com
 
-Greg Eisenberg built IdeaBrowser.com for himself. He runs a holding company that's constantly evaluating and incubating new businesses, and he needed a faster way to identify which trends were worth pursuing. The tool went public, and by the time he appeared on MFM to demo it live, Sam Parr's reaction mid-episode was to message his team: "Schedule Greg another time to come on, right now. My mind is blown."
+Greg Eisenberg built IdeaBrowser.com for himself. He runs a holding company that's constantly evaluating and incubating new businesses, and he needed a faster way to identify which trends were worth pursuing. The tool went public, and by the time he appeared on MFM to demo it live, [[frameworks/sam-parr|Sam Parr]]'s reaction mid-episode was to message his team: "Schedule Greg another time to come on, right now. My mind is blown."
 
 ## What It Does
 
@@ -33,7 +33,7 @@ The positioning is interesting because it acknowledges the gap most idea tools i
 
 ## The AI Ahrefs Scenario
 
-During the "Business Is Now On Easy Mode" episode, Greg demonstrated using IdeaBrowser as a step in a full business-building workflow: idea (IdeaBrowser) → scope (Manus) → prototype (Bolt.new) → automate marketing (Lindy AI). He used the tool to evaluate whether to build an "AI version of Ahrefs" for LLM SEO — a product that would track how businesses appear in ChatGPT and Claude searches rather than Google. The tool returned a detailed product roadmap including a $99/month starter plan recommendation.
+During the "[[episodes/d0j_n3OOM7c|Business Is Now On Easy Mode]]" episode, Greg demonstrated using IdeaBrowser as a step in a full business-building workflow: idea (IdeaBrowser) → scope (Manus) → prototype (Bolt.new) → automate marketing (Lindy AI). He used the tool to evaluate whether to build an "AI version of Ahrefs" for LLM SEO — a product that would track how businesses appear in ChatGPT and Claude searches rather than Google. The tool returned a detailed product roadmap including a $99/month starter plan recommendation.
 
 Sam's pushback: "Can Bolt.new actually make all the code that creates what Ahrefs does? There must be a reason Ahrefs has 300 developers." Greg's answer was practical: IdeaBrowser gives you the strategic map; the execution stack (Cursor, Bolt, Replit) fills in the building; the combination gets you to a working MVP faster than any prior era made possible.
 

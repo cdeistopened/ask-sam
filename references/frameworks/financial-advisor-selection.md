@@ -1,13 +1,22 @@
 ---
 name: Financial Advisor Selection Framework
-description: Help someone evaluate whether they need a financial advisor and, if so, how to pick a good one — and avoid getting burned by the industry's structural problems. Use this when someone is managing significant wealth without a plan, is confused by fee structures and fiduciary language, has been pitched on complex investment products, or is asking whether a financial advisor is worth it at all. Trigger phrases include "should I hire a financial advisor," "is my advisor actually good," "what does fiduciary mean," "I keep getting pitched private deals," "are financial advisors worth it," or "I'm just keeping it all in cash."
+description: >-
+  Help someone evaluate whether they need a financial advisor and, if so, how to
+  pick a good one — and avoid getting burned by the industry's structural
+  problems. Use this when someone is managing significant wealth without a plan,
+  is confused by fee structures and fiduciary language, has been pitched on
+  complex investment products, or is asking whether a financial advisor is worth
+  it at all. Trigger phrases include "should I hire a financial advisor," "is my
+  advisor actually good," "what does fiduciary mean," "I keep getting pitched
+  private deals," "are financial advisors worth it," or "I'm just keeping it all
+  in cash."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - rob_townsend__the__10m_advisor_who_thinks_you_re_i
   - 10m_vs__100m__the_difference_between_being_rich_a
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Rob Townsend
   - Jackie (Hampton data)
@@ -22,7 +31,7 @@ Help someone cut through the noise in the financial advisory industry, understan
 The user has accumulated meaningful wealth but isn't sure whether their current approach is optimal. They may be holding cash they haven't invested, have been pitched on complex products, or are wondering if their advisor is actually earning their fee. They might say:
 
 - "I'm keeping most of my money in a savings account"
-- "My advisor keeps recommending these private equity funds with 20% IRR"
+- "My advisor keeps recommending these [[frameworks/private-equity|private equity]] funds with 20% IRR"
 - "I don't know if my advisor is a fiduciary"
 - "Should I just do index funds?"
 - "I got pitched on a product I don't understand"
@@ -78,7 +87,7 @@ Townsend's own mistake:
 
 Before evaluating any pitch, you need a benchmark for what is realistically achievable.
 
-> "Most major markets, if you go back, you're looking at a return of about 10% just for overall markets. The highest sustainable return that we've ever seen is Warren Buffett at 20% per year. So anytime you're getting pitched on anything that's more than 20%, you should think, 'Ooh, jeez, that seems unlikely.'"
+> "Most major markets, if you go back, you're looking at a return of about 10% just for overall markets. The highest sustainable return that we've ever seen is [[frameworks/warren-buffett|Warren Buffett]] at 20% per year. So anytime you're getting pitched on anything that's more than 20%, you should think, 'Ooh, jeez, that seems unlikely.'"
 
 On outperforming advisors:
 

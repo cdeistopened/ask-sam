@@ -5,12 +5,12 @@ domain: people
 status: draft
 episodes:
   - morning-brew-postmortem-6X64f1AndtM
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Austin Rief
 
-Austin Rief is, by Sam Parr's assessment, "probably the smartest business person I've ever met." That's a notable claim from someone who has spent years in rooms with billionaires.
+Austin Rief is, by [[frameworks/sam-parr|Sam Parr]]'s assessment, "probably the smartest business person I've ever met." That's a notable claim from someone who has spent years in rooms with billionaires.
 
 What Sam means is something specific. Austin approaches every business problem with a combination that is genuinely rare: deep emotional investment in getting things right, paired with an almost surgical ability to remove emotion from tactical decisions. He could care intensely about a company and still give ruthlessly clear advice about what it needed to do.
 
@@ -26,7 +26,7 @@ The advantage they had that Sam Parr did not: they were still in school. That ga
 
 ## Building Like Underdogs
 
-Austin and Alex approached Morning Brew with the mentality of people who had nothing to lose. They printed out Morning Brew, Axios, The Hustle, and The Skimm every morning. With paper and pen, they circled what they liked and crossed out what they didn't. Alex was not gentle with their own writers.
+Austin and Alex approached [[frameworks/morning-brew|Morning Brew]] with the mentality of people who had nothing to lose. They printed out Morning Brew, Axios, [[frameworks/the-hustle-story|The Hustle]], and The Skimm every morning. With paper and pen, they circled what they liked and crossed out what they didn't. Alex was not gentle with their own writers.
 
 Their core values: ownership mentality and underdog mentality. Austin described how it worked in practice:
 

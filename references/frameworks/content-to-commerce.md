@@ -1,5 +1,5 @@
 ---
-title: "Content to Commerce: When Audiences Become Customers"
+title: 'Content to Commerce: When Audiences Become Customers'
 type: framework
 domain: frameworks
 status: draft
@@ -9,7 +9,7 @@ episodes:
   - mrbeast_shares_his_best_busine
   - samir_explains_why_99_of_conte
   - how_to_make_25_million_with_a_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Content to Commerce: When Audiences Become Customers
@@ -18,7 +18,7 @@ In 2014, Dr. Dre sold a headphone company to Apple for $3 billion. He never manu
 
 The pattern has accelerated since then. [[mrbeast]] built a $500 million business empire not by inventing a new technology but by accumulating attention on YouTube, then converting that attention into chocolate bars. [[logan-paul]] and [[ksi]] generated $250 million in their first year selling hydration drinks—not because they understood sports nutrition better than Gatorade's scientists, but because they had already spent years earning trust with an audience that Gatorade could never reach.
 
-On My First Million, this model has a name: content to commerce. The underlying economics are simple, even if their implications are not. Build an audience first. Earn their attention through content. Then sell them products that fit what they already came for.
+On [[frameworks/my-first-million|My First Million]], this model has a name: content to commerce. The underlying economics are simple, even if their implications are not. Build an audience first. Earn their attention through content. Then sell them products that fit what they already came for.
 
 ---
 
@@ -28,7 +28,7 @@ The term describes a specific sequence. First, create content that attracts and 
 
 The critical insight is economic. Customer acquisition cost, or CAC, represents what a company pays to get each new customer. For most consumer brands, this number is positive and often substantial. Facebook ads, Google search, retail shelf fees—the machinery of modern commerce extracts significant margin.
 
-Content creators start with a structural advantage. When your YouTube videos already reach millions, the cost of making those viewers aware of your product approaches zero. [[reed-duchscher]], who manages [[mrbeast]] and runs [[night-media]], describes the phenomenon in straightforward terms: "We've started to call ourselves a *creator holding company*... we have a venture studio which has created things like Feastables."
+Content creators start with a structural advantage. When your YouTube videos already reach millions, the cost of making those viewers aware of your product approaches zero. [[reed-duchscher]], who manages [[mrbeast]] and runs [[night-media]], describes the phenomenon in straightforward terms: "We've started to call ourselves a *creator holding company*... we have a venture studio which has created things like [[frameworks/feastables|Feastables]]."
 
 The holding company framing matters. Night Media does not simply manage talent—it builds businesses around that talent. The talent management itself, Duchscher *acknowledges*, is "a pretty commoditized business." They use it as a wedge to access equity opportunities in the businesses their creators launch.
 
@@ -135,7 +135,7 @@ Yes, though the products will likely be different. Digital products—courses, t
 ## Sources & Episodes
 
 - [[episodesthemanbehindmrbeasts500mb|The Man Behind MrBeast’s $500M Business Portfolio (#475)]] -- Reed Duchscher on Night Media, Night Labs, and the creator holding company model
-- [[episodesispent48hourswithmrbeast|I Spent 48 Hours With MrBeast To Learn Business From Him (#355)]] -- Shaan Puri on Kamikaze Commitment and MrBeast's operational intensity
+- [[episodesispent48hourswithmrbeast|I Spent 48 Hours With MrBeast To Learn Business From Him (#355)]] -- [[frameworks/shaan-puri|Shaan Puri]] on Kamikaze Commitment and MrBeast's operational intensity
 - [[episodesmrbeastshareshisbestbusine|MrBeast Shares His Best Business Advice]] -- Feastables mission and ethical chocolate sourcing
 - [[episodessamirexplainswhy99ofconte|Samir Explains Why 99% Of Content Creators Fail At YouTube | Samir Chaudry Interview]] -- Content-product fit concept with examples from AmandaRachLee, Mark Rober, Ryan Holiday
 - [[episodeshowtomake25millionwitha|How To Make $25 Million With A Niche Hobbyist Magazine (#419)]] -- Hodinkee and enthusiast content commerce

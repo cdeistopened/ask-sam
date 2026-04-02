@@ -6,7 +6,7 @@ status: draft
 episodes:
   - should-you-start-a-company-hG96Z4U3l3o
   - hubspot-story
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Brian Halligan
@@ -61,7 +61,7 @@ The founding insight behind [[hubspot-story|HubSpot]] was that the internet had 
 
 Halligan and co-founder [[dharmesh-shah]] coined the term "inbound marketing" and, notably, did not trademark it. Their reasoning: if it's just ours, it's marketing speak. If everyone uses it, it becomes a category. They wanted to own the category, not the phrase.
 
-Sam Parr knows this decision personally. When HubSpot acquired [[the-hustle-story|The Hustle]], Halligan was the CEO completing that deal. Two weeks after closing, Halligan was in a life-threatening accident. Sam has said that if it had happened two weeks earlier, the entire deal might have unraveled. Luck is real, and it runs in both directions.
+[[frameworks/sam-parr|Sam Parr]] knows this decision personally. When HubSpot acquired [[the-hustle-story|The Hustle]], Halligan was the CEO completing that deal. Two weeks after closing, Halligan was in a life-threatening accident. Sam has said that if it had happened two weeks earlier, the entire deal might have unraveled. Luck is real, and it runs in both directions.
 
 ## After HubSpot
 

@@ -1,11 +1,16 @@
 ---
 name: gauntlet
-description: "Run a business idea through a 5-stage evaluation gauntlet — idea validation, market sizing, pricing architecture, team blueprint, and exit lens. The 'run everything' skill. Use when someone says 'evaluate this business,' 'run the gauntlet,' 'full business evaluation,' or brings an idea they want pressure-tested from every angle."
+description: >-
+  Run a business idea through a 5-stage evaluation gauntlet — idea validation,
+  market sizing, pricing architecture, team blueprint, and exit lens. The 'run
+  everything' skill. Use when someone says 'evaluate this business,' 'run the
+  gauntlet,' 'full business evaluation,' or brings an idea they want
+  pressure-tested from every angle.
 ---
 
 # The Gauntlet
 
-Five stages. Each one kills bad ideas and sharpens good ones. You bring a business idea or opportunity — we run it through the full battery of frameworks from 793 episodes of My First Million.
+Five stages. Each one kills bad ideas and sharpens good ones. You bring a business idea or opportunity — we run it through the full battery of frameworks from 793 episodes of [[frameworks/my-first-million|My First Million]].
 
 This is the "run everything" skill. Each stage produces a clear pass/fail. After each stage, the user decides: move forward or go deeper.
 
@@ -28,7 +33,7 @@ Three frameworks, run in order.
 
 ### The Thiel Test
 
-From Imad Rahimi (Mercury, $3.5B) — "I Built A $1B Company... Here's 7 Business Ideas I Would Start This Year":
+From Imad Rahimi (Mercury, $3.5B) — "[[episodes/k7UycsE_QoA|I Built A $1B Company... Here's 7 Business Ideas I Would Start This Year]]":
 
 > "The best ideas come disguised as bad ideas. You're looking for the overlap between 'sounds like a bad idea' and 'actually a good idea.'"
 
@@ -102,7 +107,7 @@ Then the reality check:
 
 Then ask: **"What does it cost you to acquire one customer?"**
 
-If they don't know (most don't), prescribe Sam's test: run $500 in ads or 100 cold outreach messages. Measure cost per sign-up. That's your real CAC — not the theoretical one.
+If they don't know (most don't), prescribe Sam's test: run $500 in ads or 100 [[skills/cold-outreach|cold outreach]] messages. Measure cost per sign-up. That's your real CAC — not the theoretical one.
 
 **CAC sanity check:** If CAC > 30% of first-year revenue per customer, the unit economics don't work without significant retention.
 
@@ -211,7 +216,7 @@ Two frameworks. You should know the ending before you start.
 
 Who buys this business? Three categories:
 
-1. **Strategic Acquirer** (competitor or adjacent company): They're buying your customers, your technology, or your market position. Pays the highest multiples because the value to them exceeds the standalone value. Sam sold The Hustle to HubSpot — a strategic acquisition.
+1. **Strategic Acquirer** (competitor or adjacent company): They're buying your customers, your technology, or your market position. Pays the highest multiples because the value to them exceeds the standalone value. Sam sold [[frameworks/the-hustle-story|The Hustle]] to HubSpot — a strategic acquisition.
 2. **PE Firm** (financial buyer / rollup): They're buying cash flow. They want stable, predictable revenue with room to optimize. Pays 3-7x EBITDA for small businesses. Good if you're building a boring, profitable machine.
 3. **Individual Buyer** (operator/lifestyle): They're buying a job they own. Pays 2-4x SDE. Good for businesses under $5M revenue where the owner IS the business.
 
@@ -226,7 +231,7 @@ If the answer is "nobody" — that's not necessarily fatal (some businesses are 
 From James Altucher and multiple acquisition episodes:
 
 Three approaches to know:
-1. **Earnings Multiple** (most common): Annual profit x industry multiple. SaaS: 5-15x ARR. Service businesses: 2-5x profit. E-commerce: 2-4x profit. Boring businesses: 2.5-4x SDE.
+1. **Earnings Multiple** (most common): Annual profit x industry multiple. SaaS: 5-15x ARR. Service businesses: 2-5x profit. E-commerce: 2-4x profit. [[frameworks/boring-businesses|Boring businesses]]: 2.5-4x SDE.
 2. **Comparable Transactions:** What did similar businesses sell for? Search BizBuySell, Acquire.com, or MFM episodes for comps.
 3. **Strategic Premium:** If a buyer NEEDS what you have (customer list, technology, team), the multiple goes up 2-3x over standard earnings.
 
@@ -234,7 +239,7 @@ Ask: "Based on your Stage 2 revenue ceiling and this valuation framework, what's
 
 ### Exit Timeline
 
-> "Know your exit before you start." — Sam Parr
+> "Know your exit before you start." — [[frameworks/sam-parr|Sam Parr]]
 
 Three options:
 - **3-year flip:** Build fast, get to profitability, sell to PE or strategic. Optimize for growth rate and clean books.
@@ -286,6 +291,18 @@ Use these result markers:
 - **pass** = solid, move forward with confidence
 - **warn** = passable but has a known weakness — flag it
 - **fail** = this stage broke — fix it before proceeding
+
+## Deep-Dive References
+
+When the gauntlet reveals a weak stage, point the user to these references in addition to the full skill:
+
+- Read `references/frameworks/million-dollar-business-ideas.md` for proven idea patterns (Stage 1 remediation)
+- Read `references/frameworks/saas-metrics.md` for SaaS market sizing benchmarks (Stage 2 remediation)
+- Read `references/frameworks/customer-exclusion-policy.md` for narrowing the customer to improve pricing (Stage 3)
+- Read `references/frameworks/co-founder-alignment.md` for co-founder fit before hiring (Stage 4)
+- Read `references/frameworks/three-method-company-valuation.md` for valuation methodology (Stage 5)
+- Read `references/frameworks/boring-businesses.md` for the boring business thesis if the idea is too exciting
+- Read `references/frameworks/one-to-two-dollar-machine.md` for unit economics sanity check
 
 ## Voice
 

@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Savannah Bananas
 
-Sam Parr had one note about Jesse Cole in all caps: "THIS GUY DESERVES A BILLION DOLLARS." He said he had never thought that about anyone before. Shaan Puri said after doing a deep dive: "I want to be like him."
+[[frameworks/sam-parr|Sam Parr]] had one note about [[frameworks/jesse-cole|Jesse Cole]] in all caps: "THIS GUY DESERVES A BILLION DOLLARS." He said he had never thought that about anyone before. [[frameworks/shaan-puri|Shaan Puri]] said after doing a deep dive: "I want to be like him."
 
 This is how two experienced entrepreneurs who have seen a lot of businesses react to a baseball team with $268 in its checking account when it started.
 
@@ -31,7 +31,7 @@ Cole met his future wife Emily at a seminar he hosted for minor league baseball 
 
 It didn't start well. He sold two tickets in the first months. He hosted a fan event and so few people showed up that the venue didn't charge him for the food out of pity. He and his wife ran out of money. She sold their house. They moved into a garage apartment and slept on a twin air mattress in socks.
 
-Cole's source of motivation: Walt Disney went bankrupt. PT Barnum struggled. "This is just our struggle era."
+Cole's source of motivation: [[frameworks/walt-disney|Walt Disney]] went bankrupt. PT Barnum struggled. "This is just our struggle era."
 
 ## The Name and the Philosophy
 

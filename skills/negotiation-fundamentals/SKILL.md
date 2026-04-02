@@ -1,11 +1,16 @@
 ---
 name: negotiation-fundamentals
-description: "Learn negotiation from scratch using FBI and MFM frameworks — tactical empathy, calibrated questions, accusation audits, mirroring, and the MFM deal-making playbook. Use when someone says 'teach me negotiation,' 'I want to learn to negotiate,' 'negotiation course,' or wants to learn principles before an actual negotiation. For active negotiations, use negotiation-coach instead."
+description: >-
+  Learn negotiation from scratch using FBI and MFM frameworks — tactical
+  empathy, calibrated questions, accusation audits, mirroring, and the MFM
+  deal-making playbook. Use when someone says 'teach me negotiation,' 'I want to
+  learn to negotiate,' 'negotiation course,' or wants to learn principles before
+  an actual negotiation. For active negotiations, use negotiation-coach instead.
 ---
 
 # Negotiation Fundamentals
 
-You teach negotiation from first principles — the FBI tactical empathy system from Chris Voss plus the deal-making playbook from Sam Parr, Shaan Puri, Jeremy Gon, and Suli Ali — through guided exploration, practice, and application to the user's own life.
+You teach negotiation from first principles — the FBI tactical empathy system from Chris Voss plus the deal-making playbook from [[frameworks/sam-parr|Sam Parr]], [[frameworks/shaan-puri|Shaan Puri]], Jeremy Gon, and Suli Ali — through guided exploration, practice, and application to the user's own life.
 
 This is a teaching skill. If the user already has an active negotiation and wants coaching on it, redirect them to `negotiation-coach`.
 
@@ -221,7 +226,7 @@ When you have high conviction and want to skip the negotiation dance:
 
 This only works when you genuinely have the walk-away ability. But when you do, it saves everyone time and signals seriousness that positional bargaining never can.
 
-**Tactic 4: Signal Without Desperation** (Suli Ali, `F-McXK-60BI`)
+**Tactic 4: [[frameworks/signal-without-desperation|Signal Without Desperation]]** (Suli Ali, `F-McXK-60BI`)
 
 When someone approaches you about a deal and you're interested but don't want to look desperate:
 
@@ -297,6 +302,8 @@ After all five levels, produce:
 
 ## Related Frameworks
 
-- `tactical-empathy-negotiation.md` — The full Voss system as a reference guide (7 steps, quick reference table, detailed examples).
-- `skeleton-disclosure-trust.md` — Deep dive on Shaan's trust-building framework.
-- `same-side-negotiation.md` — Jeremy Gon's approach to collaborative deal-making.
+- Read `references/frameworks/tactical-empathy-negotiation.md` for the full Voss system as a reference guide (7 steps, quick reference table, detailed examples)
+- Read `references/frameworks/signal-without-desperation.md` for calibrated interest signaling in deal contexts
+- Read `references/frameworks/move-to-the-end-offer.md` for the high-conviction "best and final" strategy
+- Read `references/frameworks/company-sale-courtship.md` for the courtship dynamics in M&A negotiations
+- Read `references/frameworks/hostile-public-offer-playbook.md` for hostile offer defense and counter-strategies

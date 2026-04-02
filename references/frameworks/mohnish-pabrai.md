@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Mohnish Pabrai
@@ -45,11 +45,11 @@ His shorthand for this: heads I win, tails I do not lose much.
 
 ## The Rick Guerin Lesson
 
-Pabrai paid $650,000 for lunch with Warren Buffett. What he learned over that meal was worth considerably more.
+Pabrai paid $650,000 for lunch with [[frameworks/warren-buffett|Warren Buffett]]. What he learned over that meal was worth considerably more.
 
 Buffett told him about [[rick-guerin]], his third partner alongside [[charlie-munger]]. Guerin was every bit as smart as Buffett and Munger. But he was in a hurry. He used leverage.
 
-When the 1973-74 crash came, Guerin got margin called. He had to sell his Berkshire Hathaway shares to Buffett at $40 per share. Today those shares trade above $700,000.
+When the 1973-74 crash came, Guerin got margin called. He had to sell his [[frameworks/berkshire-hathaway|Berkshire Hathaway]] shares to Buffett at $40 per share. Today those shares trade above $700,000.
 
 The lesson Buffett drew: if you are even a slightly above-average investor, spend less than you earn, and use no leverage, you cannot help but get rich over a lifetime. ([YouTube](https://youtu.be/asking_billionaire_investor?t=1826))
 
@@ -113,4 +113,4 @@ He takes a daily nap. Working tired, he says, produces a dimly flickering light.
 
 *See also: [[warren-buffett]], [[charlie-munger]], [[value-investing]], [[dakshana-foundation]]*
 
-*Source: [Asking a Billionaire Investor How to Turn $10,000 into $1M ft. Mohnish Pabrai](https://www.youtube.com/watch?v=asking_billionaire_investor) - My First Million*
+*Source: [Asking a Billionaire Investor How to Turn $10,000 into $1M ft. Mohnish Pabrai](https://www.youtube.com/watch?v=asking_billionaire_investor) - [[frameworks/my-first-million|My First Million]]*

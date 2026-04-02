@@ -1,19 +1,24 @@
 ---
 name: Zero-Dollar Distressed Asset Acquisition
-description: Walk someone through acquiring a business or customer base for zero dollars down using seller financing, rev shares, earnouts, or assumption of liabilities. Activate when someone asks how to buy a business without capital, how to structure a no-money-down deal, how to pick up distressed competitors, or when someone says "I don't have money to buy a business but I want to."
+description: >-
+  Walk someone through acquiring a business or customer base for zero dollars
+  down using seller financing, rev shares, earnouts, or assumption of
+  liabilities. Activate when someone asks how to buy a business without capital,
+  how to structure a no-money-down deal, how to pick up distressed competitors,
+  or when someone says "I don't have money to buy a business but I want to."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - CarCWCl1JFk
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Codie Sanchez
 ---
 
 # Zero-Dollar Distressed Asset Acquisition
 
-Walk someone through acquiring a business — or its most valuable assets — for zero dollars out of pocket, using Codie Sanchez's distressed asset playbook from My First Million Ep. #176.
+Walk someone through acquiring a business — or its most valuable assets — for zero dollars out of pocket, using [[frameworks/codie-sanchez|Codie Sanchez]]'s distressed asset playbook from [[frameworks/my-first-million|My First Million]] Ep. #176.
 
 ## When to Use
 
@@ -21,7 +26,7 @@ The user wants to buy a business but doesn't think they have the capital. They m
 - "I want to buy a business but I don't have money"
 - "How do I structure a no-money-down deal?"
 - "There are competitors going out of business — how do I take advantage of that?"
-- "What is seller financing and how does it work?"
+- "What is [[frameworks/seller-financing|seller financing]] and how does it work?"
 - "Can I acquire a customer list without buying the whole company?"
 
 ## The Core Principle
@@ -169,4 +174,4 @@ After the session, deliver:
 
 ## Source
 
-[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — Sam Parr and Shaan Puri interview Codie Sanchez.
+[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Codie Sanchez.

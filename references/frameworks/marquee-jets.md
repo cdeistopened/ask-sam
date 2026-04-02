@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Marquee Jets
 
-Jesse Itzler was a guest on a friend's private jet when the business idea arrived fully formed. He looked around and thought: "What is this? What is this that I'm on?" He had never flown privately before. Within a few years, he had sold his private aviation company to Berkshire Hathaway.
+[[frameworks/jesse-itzler|Jesse Itzler]] was a guest on a friend's private jet when the business idea arrived fully formed. He looked around and thought: "What is this? What is this that I'm on?" He had never flown privately before. Within a few years, he had sold his private aviation company to [[frameworks/berkshire-hathaway|Berkshire Hathaway]].
 
 ## The White Space
 
@@ -27,13 +27,13 @@ Both businesses were fundamentally in the same category: making premium access f
 
 ## The Berkshire Acquisition
 
-Marquee Jets was eventually sold to Warren Buffett's Berkshire Hathaway, which already owned NetJets — the partner Itzler had built the business around. The buyer was not a surprise. What was remarkable was that a business born from a single ride on a friend's plane became significant enough to land on Buffett's desk.
+Marquee Jets was eventually sold to [[frameworks/warren-buffett|Warren Buffett]]'s Berkshire Hathaway, which already owned NetJets — the partner Itzler had built the business around. The buyer was not a surprise. What was remarkable was that a business born from a single ride on a friend's plane became significant enough to land on Buffett's desk.
 
 Itzler's description of what drove him after the sale was telling. He said there's no business he could build that would give him the return on investment he was getting from his family and health: "What, build another Marquee jet, work 20-hour days? That's not going to give me that sense of impact, legacy for my kids, and that feeling."
 
 ## The Playbook
 
-Sam Parr summarized the MFM takeaway on Itzler's career arc: he found opportunities by being a guest somewhere, noticing what was missing, and moving fast. The underlying pattern — fly on a private jet, build a jet card company; drink coconut water, partner with Zico — is less about industry expertise and more about proximity to experiences that others haven't fully built businesses around yet.
+[[frameworks/sam-parr|Sam Parr]] summarized the MFM takeaway on Itzler's career arc: he found opportunities by being a guest somewhere, noticing what was missing, and moving fast. The underlying pattern — fly on a private jet, build a jet card company; drink coconut water, partner with Zico — is less about industry expertise and more about proximity to experiences that others haven't fully built businesses around yet.
 
 The Marquee Jets episode is often referenced on MFM as a case study in finding white space between existing options. Not better than the existing product, not cheaper — just positioned for a customer segment that the existing products were inadvertently excluding.
 

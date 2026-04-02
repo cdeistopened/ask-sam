@@ -5,7 +5,7 @@ domain: people
 status: draft
 episodes:
   - fV6nXzGYiLk
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Hayes Barnard
@@ -30,7 +30,7 @@ Then he pointed at some rocks offshore and said he'd always seen them but never 
 
 "This guy does everything at a ten," Shaan said. "I was doing those same activities at a seven. He just goes for it. He plays full out."
 
-Hayes told them the intensity started when he worked with Elon Musk — ten years that broke his entire frame of reference for what was possible.
+Hayes told them the intensity started when he worked with [[frameworks/elon-musk|Elon Musk]] — ten years that broke his entire frame of reference for what was possible.
 
 ## The Time Hack
 

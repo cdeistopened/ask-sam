@@ -1,19 +1,24 @@
 ---
 name: PE Rollup Valuation Arbitrage
-description: Explain how private equity rollup strategy works and help someone evaluate whether to use it themselves. Use when someone asks about PE rollups, why their small business got acquired at a low multiple, how to think about buying multiple small businesses in a niche, or how to get from a 7x exit to a 15x exit. The dental practice example makes it concrete.
+description: >-
+  Explain how private equity rollup strategy works and help someone evaluate
+  whether to use it themselves. Use when someone asks about PE rollups, why
+  their small business got acquired at a low multiple, how to think about buying
+  multiple small businesses in a niche, or how to get from a 7x exit to a 15x
+  exit. The dental practice example makes it concrete.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - F-McXK-60BI
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Suli Ali
 ---
 
 # PE Rollup Valuation Arbitrage
 
-Walk someone through how private equity rollup strategy works — buying fragmented businesses cheap, combining them, and selling the combined entity at a dramatically higher multiple — using Suli Ali's dental practice example from My First Million.
+Walk someone through how [[frameworks/private-equity|private equity]] rollup strategy works — buying fragmented businesses cheap, combining them, and selling the combined entity at a dramatically higher multiple — using Suli Ali's dental practice example from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -66,7 +71,7 @@ The dental example hit all four. Suli Ali's description of the improvements the 
 
 The individual practice owner wasn't optimizing for profit — he was optimizing for lifestyle. The PE firm saw every inefficiency as value to unlock.
 
-Shaan Puri's parallel example: CSC Generation buying fragmented furniture retailers:
+[[frameworks/shaan-puri|Shaan Puri]]'s parallel example: CSC Generation buying fragmented furniture retailers:
 
 > "He's trying to build what Constellation Software did for small SaaS companies but for large furniture companies. Constellation built an amazing intake engine to buy like 30 software companies a year and unlock more value from them."
 
@@ -107,7 +112,7 @@ The key insight: you do not need to be a PE firm to execute a rollup. You need:
 1. A target industry you understand operationally
 2. A repeatable acquisition thesis (what you'll do differently with each business)
 3. Access to deal flow (often just operator relationships + reputation)
-4. Enough capital for the first acquisition (often SBA loans work for small businesses)
+4. Enough capital for the first acquisition (often [[frameworks/sba-loans|SBA loans]] work for small businesses)
 
 Suli Ali on the economics of small business rollups:
 

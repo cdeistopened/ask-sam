@@ -1,6 +1,6 @@
 # Wealth Allocator
 
-Walk a founder through post-exit or post-liquidity capital deployment using the TIGER 21 asset allocation framework, Howard Marks's market cycle positioning, Mohnish Pabrai's value investing system, Andrew Wilkinson's recession stress test, and the MoneyWise "Enough Number" calculator from My First Million.
+Walk a founder through post-exit or post-liquidity capital deployment using the [[frameworks/tiger-21|TIGER 21]] asset allocation framework, Howard Marks's market cycle positioning, [[frameworks/mohnish-pabrai|Mohnish Pabrai]]'s value investing system, [[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s recession stress test, and the MoneyWise "Enough Number" calculator from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -16,10 +16,10 @@ The user has money (or is about to) and needs to figure out what to do with it. 
 
 ### How Much Do You Actually Need?
 
-From Andrew Wilkinson (via MoneyWise) and Sam Parr:
+From Andrew Wilkinson (via MoneyWise) and [[frameworks/sam-parr|Sam Parr]]:
 
 Three stages of financial freedom:
-1. **Launchpad:** ~$250K/year passive income — enough to quit and take big swings
+1. **Launchpad:** ~$250K/year [[frameworks/passive-income|passive income]] — enough to quit and take big swings
 2. **Enough:** Dream annual spend × 25-33 = target net worth
 3. **Life's Work:** What you'd do for free once money isn't the constraint
 
@@ -99,7 +99,7 @@ Aggregate allocation of ultra-high-net-worth members:
 |------------|-------------------|
 | Real estate (investment) | 27-28% |
 | Public equities | 24-26% |
-| Private equity | 21-24% |
+| [[frameworks/private-equity|Private equity]] | 21-24% |
 | Fixed income | ~7% |
 | Cash | 11-13% (spiked to 20% in March 2020) |
 | Crypto / gold | 1-2% each |
@@ -129,7 +129,7 @@ From Mohnish Pabrai (`TN5aKByr3Rs.md`):
 
 ### Plan B (Default — Do This If Nothing Else)
 
-Buy Berkshire Hathaway Class B shares. Even at 10%/year for 49 years = 128x. Better than S&P when the market is expensive. This is your "uninvested" state — not cash, not bonds, but Berkshire.
+Buy [[frameworks/berkshire-hathaway|Berkshire Hathaway]] Class B shares. Even at 10%/year for 49 years = 128x. Better than S&P when the market is expensive. This is your "uninvested" state — not cash, not bonds, but Berkshire.
 
 ### Plan A (When a 2x4 Hits You)
 
@@ -174,7 +174,7 @@ Both are bad. The stress test addresses both.
 
 ## Phase 6: Angel Investing (If Applicable)
 
-From Shaan Puri (`gEaLP2RXSUc.md`):
+From [[frameworks/shaan-puri|Shaan Puri]] (`gEaLP2RXSUc.md`):
 
 **Readiness check:**
 - Do you have $3M+ in investable assets? (Auren Hoffman's threshold from MoneyWise)
@@ -218,6 +218,33 @@ grep -ri "portfolio\|allocation\|invest\|enough" transcripts/
 grep -ri "after.*exit\|post.*sell\|what.*do.*money" transcripts/
 grep -ri "QSBS\|tax\|estate plan\|trust" transcripts/
 ```
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/accumulator-to-defender.md` for the wealth stage transition from building to preserving
+- Read `references/frameworks/wealth-level-staircase.md` for the psychological stages of wealth and what changes at each level
+- Read `references/frameworks/five-pillars-true-wealth.md` for Steve Houghton's holistic wealth framework beyond money
+- Read `references/frameworks/four-rules-building-wealth.md` for the foundational rules of wealth creation
+- Read `references/frameworks/how-to-get-rich.md` for the MFM macro framework for building wealth
+- Read `references/frameworks/financial-advisor-selection.md` for choosing the right wealth manager post-exit
+- Read `references/frameworks/fire-movement.md` for the FIRE approach and its MFM critique
+- Read `references/frameworks/charitable-giving-frameworks.md` for tax-efficient giving and foundation structures
+- Read `references/frameworks/dakshana-foundation.md` for Mohnish Pabrai's charitable model
+- Read `references/frameworks/debt-warrant-angel-investing.md` for structured angel deals with downside protection
+- Read `references/frameworks/real-estate-investing.md` for real estate as an asset class in a portfolio
+- Read `references/frameworks/re-cost-seg.md` for cost segregation tax strategy on real estate holdings
+- Read `references/frameworks/tiger-21.md` for the TIGER 21 peer group model and allocation data
+- Read `references/frameworks/berkshire-hathaway.md` for the Berkshire model as a default allocation vehicle
+- Read `references/frameworks/money-models.md` for mental models about how money works
+
+People profiles relevant to wealth allocation:
+- Read `references/people/mohnish-pabrai.md` for value investing philosophy and the Pabrai default
+- Read `references/people/andrew-wilkinson.md` for the operator-investor hybrid allocation model
+- Read `references/people/warren-buffett.md` for Berkshire principles and long-term compounding
+- Read `references/people/charlie-munger.md` for mental models and investment decision-making
+- Read `references/people/chamath-palihapitiya.md` for venture-scale allocation and macro thinking
 
 ## Output
 

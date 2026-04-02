@@ -1,12 +1,17 @@
 ---
 name: Pre-Deposit Real Estate Development
-description: Walk someone through financing a real estate development project using customer deposits collected before breaking ground. Activate when someone asks how to fund a development without traditional financing, how to validate a real estate concept before building, how deposits can replace or complement construction loans, or when a developer is trying to de-risk a project.
+description: >-
+  Walk someone through financing a real estate development project using
+  customer deposits collected before breaking ground. Activate when someone asks
+  how to fund a development without traditional financing, how to validate a
+  real estate concept before building, how deposits can replace or complement
+  construction loans, or when a developer is trying to de-risk a project.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - EDjT_goV9Ow
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Preston Holland
   - Craig Fuller
@@ -14,7 +19,7 @@ source_guests:
 
 # Pre-Deposit Real Estate Development
 
-Walk someone through using customer deposits to validate demand, attract bank financing, and fund a real estate development — before breaking ground — using the Firecrown/Flying Magazine air park playbook from My First Million.
+Walk someone through using customer deposits to validate demand, attract bank financing, and fund a real estate development — before [[episodes/Dwi6UbdpZyk|breaking]] ground — using the Firecrown/Flying Magazine air park playbook from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -32,7 +37,7 @@ From Preston Holland, CEO of Flying Magazine (`EDjT_goV9Ow.md`):
 
 > "We are we've taken $25 million of pre-deposits. So that's people basically sending us a percentage of the deposit."
 
-And from Shaan Puri's framing of the model:
+And from [[frameworks/shaan-puri|Shaan Puri]]'s framing of the model:
 
 > "You basically funded it through the pre the the deposits. Kind of like how Tesla does with the trucks and all that before they before they build the trucks, they they take the deposits and they use that to to basically finance the the manufacturing."
 
@@ -136,7 +141,7 @@ The deposits don't replace the construction loan — they make the construction 
 
 The pre-deposit model is dramatically easier if you already have an audience in the vertical. This is why Craig Fuller's media strategy and his real estate strategy are the same strategy.
 
-Sam Parr's description of the Firecrown model (`EDjT_goV9Ow.md`):
+[[frameworks/sam-parr|Sam Parr]]'s description of the Firecrown model (`EDjT_goV9Ow.md`):
 
 > "He bought Flying Magazine, and then he also bought a $7 million like 300-acre plot of land in Tennessee and was turning that into basically a flying club where you it's kind of like a country club where you like can own a home on a golf course, except now you own it around an airplane strip and an airplane hangar. And they used the magazine to sell plots of land."
 

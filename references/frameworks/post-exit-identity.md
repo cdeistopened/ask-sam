@@ -1,6 +1,16 @@
 ---
 name: Post-Exit Identity Reset
-description: Walk someone through the psychological crash that follows a major exit — the emptiness, loss of identity, and depression that catch most founders completely off guard. Use this when someone has recently sold a company and feels worse than expected, is anticipating an exit and wants to prepare, built their self-worth almost entirely on their business, or is asking why they feel so hollow after achieving what they worked toward for years. Trigger phrases include "post-exit depression," "I sold my company and feel nothing," "the exit was supposed to fix everything," "I don't know who I am without my company," "lost my purpose after the sale," or "I can't get excited about anything."
+description: >-
+  Walk someone through the psychological crash that follows a major exit — the
+  emptiness, loss of identity, and depression that catch most founders
+  completely off guard. Use this when someone has recently sold a company and
+  feels worse than expected, is anticipating an exit and wants to prepare, built
+  their self-worth almost entirely on their business, or is asking why they feel
+  so hollow after achieving what they worked toward for years. Trigger phrases
+  include "post-exit depression," "I sold my company and feel nothing," "the
+  exit was supposed to fix everything," "I don't know who I am without my
+  company," "lost my purpose after the sale," or "I can't get excited about
+  anything."
 type: framework
 domain: frameworks
 status: published
@@ -8,7 +18,7 @@ episodes:
   - sold_for__80_million___then_hit_rock_bottom
   - 10m_vs__100m__the_difference_between_being_rich_a
   - top_money_and_life_secrets_from_25_millionaires__w
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Josh Payne
   - Jackie (Hampton data)
@@ -110,7 +120,7 @@ Josh Payne's framework for the next chapter:
 
 > "There's this idea of the second mountain, and that's exactly how I think about it. The money provides that platform or that security blanket for you to shift focus from like survival mode into like I can do something more existential for myself and for other people too, which is really cool."
 
-Sam Parr's formulation:
+[[frameworks/sam-parr|Sam Parr]]'s formulation:
 
 > "You kind of shift from just being a hardcore capitalist to like life being richer than just money and more of a craftsman."
 
@@ -133,7 +143,7 @@ Josh Payne:
 
 He rebuilt his self-concept through coaching and therapy over roughly two years. Sam Parr also references the pattern across multiple MoneyWise guests — nearly everyone who navigated a successful post-exit life did so with structured support (therapy, coaching, a community like Hampton or YPO/Tiger 21).
 
-Josh on Tiger 21:
+Josh on [[frameworks/tiger-21|Tiger 21]]:
 
 > "I joined this this group called Tiger 21 which I think I joined last year. And as a part of Tiger 21, it's similar to Hampton or YPO, you know, you have a forum, you have to present your portfolio and say, this is exactly how much money I have, this is how it's broken down, this is where I spend it, here's how I spend it by category, here's how much I've made over the last year."
 

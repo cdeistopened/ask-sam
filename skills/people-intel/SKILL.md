@@ -1,20 +1,24 @@
 ---
 name: people-intel
-description: "Build a dossier on any person in Sam's network — episodes, quotes, relationships, draft intro email. Use when someone says 'what do I know about [person],' 'tell me about [person],' 'who is [person],' or wants intelligence before a meeting, partnership, or outreach."
+description: >-
+  Build a dossier on any person in Sam's network — episodes, quotes,
+  relationships, draft intro email. Use when someone says 'what do I know about
+  [person],' 'tell me about [person],' 'who is [person],' or wants intelligence
+  before a meeting, partnership, or outreach.
 ---
 
 # People Intel
 
-Build a structured intelligence dossier on any person mentioned across 793 episodes of My First Million and 83 episodes of MoneyWise. You bring a name, you get everything Sam knows about them — episodes, quotes, relationships, frameworks, and a draft intro email referencing specific conversations.
+Build a structured intelligence dossier on any person mentioned across 793 episodes of [[frameworks/my-first-million|My First Million]] and 83 episodes of MoneyWise. You bring a name, you get everything Sam knows about them — episodes, quotes, relationships, frameworks, and a draft intro email referencing specific conversations.
 
 ## When to Use
 
 The user wants intel on a specific person. They might say:
-- "What do I know about Alex Hormozi?"
-- "Tell me about Codie Sanchez"
+- "What do I know about [[frameworks/alex-hormozi|Alex Hormozi]]?"
+- "Tell me about [[frameworks/codie-sanchez|Codie Sanchez]]"
 - "I have a meeting with Chris Voss next week — what's the background?"
 - "Who is Elaine Zelby?"
-- "I want to reach out to Andrew Wilkinson — what should I reference?"
+- "I want to reach out to [[frameworks/andrew-wilkinson|Andrew Wilkinson]] — what should I reference?"
 - "Pull up everything on [name]"
 
 ## The Intelligence Gathering Process
@@ -44,7 +48,7 @@ If found, extract:
 - **Sentiment breakdown** — positive / negative / neutral ratio
 - **Top co-occurrences** — the 5 people/companies most frequently mentioned alongside them
 
-The co-occurrence data is gold for the relationship map. If Alex Hormozi co-occurs with Leila Hormozi (16), Acquisition.com (11), and Gym Launch (11), that tells you the conversation clusters.
+The co-occurrence data is gold for the relationship map. If Alex Hormozi co-occurs with [[frameworks/leila-hormozi|Leila Hormozi]] (16), [[frameworks/acquisition-com|Acquisition.com]] (11), and Gym Launch (11), that tells you the conversation clusters.
 
 ### Layer 3: Guest Index
 
@@ -106,7 +110,7 @@ List every episode where they appeared as a guest or were discussed, with contex
 
 | Episode | Role | What Was Discussed |
 |---------|------|--------------------|
-| [Title] (ep. ID) | Guest | [Specific topics — not "business advice" but "client-financed acquisition math, the $300M gym CRM mistake"] |
+| [Title] (ep. ID) | Guest | [Specific topics — not "business advice" but "[[frameworks/client-financed-acquisition|client-financed acquisition]] math, the $300M gym CRM mistake"] |
 | [Title] (ep. ID) | Mentioned | [Context — who mentioned them, why, what was said] |
 
 #### 3. Key Quotes
@@ -117,7 +121,7 @@ Pull the strongest 3-5 direct quotes, attributed to specific episodes:
 
 If the person was not a guest but was discussed, pull Sam or Shaan's quotes *about* them:
 
-> "Quote about them here." — Sam Parr, *[Episode Title]* (ep. ID)
+> "Quote about them here." — [[frameworks/sam-parr|Sam Parr]], *[Episode Title]* (ep. ID)
 
 #### 4. Relationship Map
 
@@ -189,6 +193,29 @@ If a name returns zero results across all five layers:
 2. Suggest similar names if there is a possible misspelling or alternate name (e.g., "Did you mean Codie Sanchez?" if they searched "Cody Sanchez")
 3. Offer to search for their company name or a topic associated with them instead
 4. If the user provides context ("they're in the SaaS space"), search transcripts for that context to see if the person was mentioned without being named
+
+## Pre-Built People Profiles
+
+38 profiles exist at `references/people/`. When building a dossier, always check for a pre-built profile first. Available profiles: alex-hormozi, alex-lieberman, amjad-masad, andrew-wilkinson, austin-rief, ben-horowitz, blake-scholl, brent-beshore, brian-halligan, chamath-palihapitiya, charlie-munger, chris-koerner, codie-sanchez, dharmesh-shah, elon-musk, greg-isenberg, hayes-barnard, james-currier, jesse-cole, jesse-itzler, kevin-espiritu, leila-hormozi, logan-paul, marc-andreessen, mohnish-pabrai, mrbeast, naval-[[frameworks/naval-ravikant|ravikant]], nick-huber, paul-graham, peter-thiel, sam-parr, scott-galloway, shaan-puri, steve-jobs, tim-ferriss, walt-disney, warren-buffett.
+
+Many guests also have companion framework articles at `references/frameworks/` with the same filename — these contain the distilled methodology or case study associated with that person. Always check both locations.
+
+Person-specific framework articles (contain case studies, business breakdowns, and methodology beyond the people profile):
+- Read `references/frameworks/alex-lieberman.md` for [[frameworks/morning-brew|Morning Brew]] co-founder business breakdown
+- Read `references/frameworks/amjad-masad.md` for Replit founder's product and AI strategy
+- Read `references/frameworks/austin-rief.md` for Morning Brew operator perspective
+- Read `references/frameworks/brian-halligan.md` for HubSpot founder's inbound playbook
+- Read `references/frameworks/dharmesh-shah.md` for HubSpot CTO's product philosophy
+- Read `references/frameworks/elon-musk.md` for Musk's first-principles and negotiation analysis
+- Read `references/frameworks/hayes-barnard.md` for solar industry disruption case study
+- Read `references/frameworks/kevin-espiritu.md` for [[frameworks/epic-gardening|Epic Gardening]] content-to-commerce breakdown
+- Read `references/frameworks/logan-paul.md` for creator commerce and [[frameworks/feastables|Feastables]] case study
+- Read `references/frameworks/marc-andreessen.md` for VC perspective and "software eating the world"
+- Read `references/frameworks/naval-ravikant.md` for leverage, judgment, and wealth creation philosophy
+- Read `references/frameworks/paul-graham.md` for startup philosophy and YC frameworks
+- Read `references/frameworks/peter-thiel.md` for [[frameworks/contrarian-thinking|contrarian thinking]] and zero-to-one analysis
+- Read `references/frameworks/steve-jobs.md` for product obsession and reality distortion field
+- Read `references/frameworks/walt-disney.md` for vertical integration and entertainment empire building
 
 ## Handling Thin Profiles
 

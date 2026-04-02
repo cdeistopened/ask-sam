@@ -1,19 +1,24 @@
 ---
 name: Signal Without Desperation Seller Positioning
-description: Walk someone through how to signal acquisition interest without looking desperate. Use when a founder is fielding inbound from a buyer, being asked "are you open to selling?", or trying to create competitive tension in a sale process without scaring buyers off. Cover how to get a soft offer first, how to respond to inbound, and what exact language to use across the bar.
+description: >-
+  Walk someone through how to signal acquisition interest without looking
+  desperate. Use when a founder is fielding inbound from a buyer, being asked
+  "are you open to selling?", or trying to create competitive tension in a sale
+  process without scaring buyers off. Cover how to get a soft offer first, how
+  to respond to inbound, and what exact language to use across the bar.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - F-McXK-60BI
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Suli Ali
 ---
 
 # Signal Without Desperation Seller Positioning
 
-Walk a founder through how to position themselves as a willing-but-not-desperate seller when fielding acquisition interest — using Suli Ali's framework from advising multiple company sales including Milk Road.
+Walk a founder through how to position themselves as a willing-but-not-desperate seller when fielding acquisition interest — using Suli Ali's framework from advising multiple company sales including [[frameworks/milk-road|Milk Road]].
 
 ## When to Use
 
@@ -77,7 +82,7 @@ Suli's metaphor:
 
 Once a buyer is engaged, resist the instinct to hide weaknesses. Surface them early and proactively.
 
-Shaan Puri's account of the Milk Road sale:
+[[frameworks/shaan-puri|Shaan Puri]]'s account of the Milk Road sale:
 
 > "Sam goes, 'Just tell them up front all the shitty things about your business that might scare them away. Because guess what? They're going to find those anyway when it comes to due diligence, and you're going to be four or six weeks in, emotionally invested, and it's going to get ugly later. They're going to feel like they found some big wart on the deal at that point.'"
 

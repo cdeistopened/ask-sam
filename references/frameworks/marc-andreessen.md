@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Marc Andreessen
@@ -23,7 +23,7 @@ Andreessen co-created Mosaic, the first widely used web browser, while he was st
 
 What happened next is the part people forget. Netscape lost the browser war to Microsoft. The company was sold to AOL. The product that made Andreessen famous was, by conventional standards, a failure. He was right about the internet but wrong about his own company's ability to dominate it.
 
-The lesson Andreessen seemed to extract from this was not about building better products. It was about picking better markets. As Sam Parr relays Andreessen's philosophy: "People are like, 'Marc, what's most important? Is it having a good team? Is it having a good product? Or is it picking the right market?' And he goes, 'It's picking the right market. That's easily the most important thing because if you pick the right market, you could have a bad team and a bad product and the market pulls the success out of you.'" [[5-under-the-radar-trends|5 Under the Radar Trends]]
+The lesson Andreessen seemed to extract from this was not about building better products. It was about picking better markets. As [[frameworks/sam-parr|Sam Parr]] relays Andreessen's philosophy: "People are like, 'Marc, what's most important? Is it having a good team? Is it having a good product? Or is it picking the right market?' And he goes, 'It's picking the right market. That's easily the most important thing because if you pick the right market, you could have a bad team and a bad product and the market pulls the success out of you.'" [[5-under-the-radar-trends|5 Under the Radar Trends]]
 
 This is a counterintuitive claim from a man who literally built one of the defining products of the internet. He is telling you that his product mattered less than the wave it rode.
 
@@ -45,13 +45,13 @@ At the other extreme stood firms like [[benchmark]] and Founders Fund, which too
 
 ## The Philosopher and the Executor
 
-When Amjad Masad, the founder of [[replit]], was raising money from a16z, Marc invited him to breakfast at 10:00 AM at his house. Masad expected to discuss the business. Instead, they spent two or three hours talking about politics, philosophy, and the state of the world. [[i-got-rejected-from-yc-4x|I Got Rejected from YC 4x]]
+When [[frameworks/amjad-masad|Amjad Masad]], the founder of [[replit]], was raising money from a16z, Marc invited him to breakfast at 10:00 AM at his house. Masad expected to discuss the business. Instead, they spent two or three hours talking about politics, philosophy, and the state of the world. [[i-got-rejected-from-yc-4x|I Got Rejected from YC 4x]]
 
 Masad's observation is revealing: "I felt like this guy is more than just a technologist, he's like a philosopher. And so right now he's going out and he's talking about this stuff, like his Joe Rogan interview went super viral. He's always had these interesting ideas about the world."
 
 The dynamic between the two founders of a16z is something Masad noticed immediately. "His partner Ben is sort of the executor, the executive. He wrote *The Hard Thing About Hard Things*, where he teaches you about what it means to run a company. It's painful, it's hard, and what it means to hire executives, what it means to scale. And so you have this duo of the doer and the philosopher. And I think they have really big plans and they're almost just getting started."
 
-Ben Horowitz, in his own appearance on MFM, demonstrates exactly this complementary energy. Where Marc deals in abstractions and grand narratives, Ben talks about fining employees $10 per minute for being late to meetings with founders, about firing people who talk smack about entrepreneurs on social media, about the difference between cultural values plastered on a wall and cultural virtues practiced as daily habits. "A culture is a set of actions," Ben says. Not ideas. Actions. [[weird-ways-ben-horowitz-makes|Weird Ways Ben Horowitz Makes Founders More Confident]]
+[[frameworks/ben-horowitz|Ben Horowitz]], in his own appearance on MFM, demonstrates exactly this complementary energy. Where Marc deals in abstractions and grand narratives, Ben talks about fining employees $10 per minute for being late to meetings with founders, about firing people who talk smack about entrepreneurs on social media, about the difference between cultural values plastered on a wall and cultural virtues practiced as daily habits. "A culture is a set of actions," Ben says. Not ideas. Actions. [[weird-ways-ben-horowitz-makes|Weird Ways Ben Horowitz Makes Founders More Confident]]
 
 The firm they built reflects both personalities. It manages over $46 billion in assets and has invested in Stripe, Coinbase, OpenAI, and dozens of other companies that define the current technology landscape. But it also does something that no prior venture firm did at scale: it produces content.
 
@@ -134,14 +134,14 @@ He represents several themes central to the podcast: the power of picking the ri
 - [[how-to-scale-a-profitable-agen|How to Scale a Profitable Agency with AI]] - Matt Mazzeo on a16z's institutionalization of venture, the CAA model, and how Marc saw the mega-fund era coming
 - [[weird-ways-ben-horowitz-makes|Weird Ways Ben Horowitz Makes Founders More Confident]] - Ben Horowitz on a16z culture rules, the $10/minute lateness fine, and the doer-philosopher partnership
 - [[i-got-rejected-from-yc-4x|I Got Rejected from YC 4x]] - Amjad Masad on raising from a16z, Marc as philosopher, and the Ben-Marc dynamic
-- [[5-under-the-radar-trends|5 Under the Radar Trends]] - Steph Smith (formerly a16z) on Marc's "pick the right market" philosophy
+- [[5-under-the-radar-trends|5 Under the Radar Trends]] - [[episodes/LrO2Cwq2KGM|Steph Smith]] (formerly a16z) on Marc's "pick the right market" philosophy
 - [[100b-founder-breaks-down-the|$100B Founder Breaks Down the Future]] - Marc giving $50K of crypto to an AI Twitter bot
 - [[i-ranked-the-best-worst-busi|I Ranked the Best and Worst Businesses]] - Contrarian investing DNA, Founders Fund parallels
 - [[the-crazy-story-of-googles-7|The Crazy Story of Google's $7B Angel]] - Marc Andreessen as student when Ron Conway first went all-in on the internet
 - [[how-i-built-a-3b-ai-startup|How I Built a $3B AI Startup]] - Guillermo Rauch on Marc pressuring Brendan Eich to create JavaScript in 10 days
 - [[no-small-boy-stuff-investing|No Small Boy Stuff: Investing]] - Sam and Shaan joking about Marc being threatened by AI
 - [[ocean-is-the-new-space|Ocean is the New Space]] - Technology windows theory, Marc as the archetypal hobbyist-to-status figure
-- [[asking-a-billionaire-investor|Asking a Billionaire Investor]] - Mohnish Pabrai on Andreessen's father-in-law John Arrillaga and "billionaire to the power of billionaire"
+- [[asking-a-billionaire-investor|Asking a Billionaire Investor]] - [[frameworks/mohnish-pabrai|Mohnish Pabrai]] on Andreessen's father-in-law John Arrillaga and "billionaire to the power of billionaire"
 
 ## Related
 

@@ -1,6 +1,6 @@
 # Hiring Framework
 
-Walk a founder through hiring for specific roles using Alex Hormozi's role-type interview design, Andrew Wilkinson's CEO hiring process, Brent Beshore's people diligence, and Blake's "teach me something" test from My First Million.
+Walk a founder through hiring for specific roles using [[frameworks/alex-hormozi|Alex Hormozi]]'s role-type interview design, [[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s CEO hiring process, [[frameworks/brent-beshore|Brent Beshore]]'s people diligence, and Blake's "teach me something" test from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -138,6 +138,22 @@ grep -ri "first employee\|first hire\|building a team" transcripts/
 ```
 
 Search for the specific role type — there may be a relevant episode with detailed advice.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's hiring situation calls for them:
+
+- Read `references/frameworks/co-founder-alignment.md` for co-founder selection and partnership dynamics
+- Read `references/frameworks/customer-exclusion-policy.md` for analogous filtering principles applied to team building
+- Read `references/frameworks/holdco-model.md` for how [[frameworks/holding-companies|holding companies]] structure leadership across multiple businesses
+- Read `references/frameworks/somewhere-com.md` for global talent sourcing and remote hiring
+
+People profiles relevant to hiring:
+- Read `references/people/alex-hormozi.md` for role-type interview design and the script test
+- Read `references/people/andrew-wilkinson.md` for CEO hiring and the Tiny delegation model
+- Read `references/people/brent-beshore.md` for people diligence and personality assessment
+- Read `references/people/blake-scholl.md` for the "teach me something" interview technique
+- Read `references/people/leila-hormozi.md` for operational hiring and team building at scale
 
 ## Output
 

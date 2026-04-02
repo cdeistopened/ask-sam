@@ -1,5 +1,5 @@
 ---
-title: "Passive Income Ideas: The MFM Guide to Making Money While You Sleep"
+title: 'Passive Income Ideas: The MFM Guide to Making Money While You Sleep'
 type: seo
 domain: seo
 status: draft
@@ -12,7 +12,7 @@ episodes:
   - i_failed_12_times_before_makin
   - make_8kday_from_these_side_hus
   - 8_profitable_side_hustles_for_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Passive Income Ideas: The MFM Guide to Making Money While You Sleep
@@ -21,7 +21,7 @@ An engineer at a gaming company once watched his employer sell a franchise of mo
 
 The story challenges the prevailing narrative about passive income. Most advice involves hustle: build an audience, launch a course, automate your fulfillment. But the engineer's approach was different. He did not create. He acquired. And then he stepped back.
 
-On My First Million, [[sam-parr]] and [[shaan-puri]] have spent hundreds of hours dissecting what it actually takes to generate income without trading time for money. Their conclusions are more nuanced than the internet gurus suggest—and more attainable than the skeptics believe.
+On [[frameworks/my-first-million|My First Million]], [[sam-parr]] and [[shaan-puri]] have spent hundreds of hours dissecting what it actually takes to generate income without trading time for money. Their conclusions are more nuanced than the internet gurus suggest—and more attainable than the skeptics believe.
 
 ---
 
@@ -78,7 +78,7 @@ The reframe changes behavior. Instead of maximizing lifetime earnings, it sugges
 
 ## How the Ultra-Wealthy Actually Invest
 
-The Tiger 21 data is instructive because it reveals what people do once they have options—not what they say while building.
+The [[frameworks/tiger-21|Tiger 21]] data is instructive because it reveals what people do once they have options—not what they say while building.
 
 [According to Sonnenfeldt](https://youtube.com/watch?v=behind_the_scenes_of_the_billi&t=1995), members with average net worth above $100 million allocate their assets as follows:
 
@@ -86,7 +86,7 @@ The Tiger 21 data is instructive because it reveals what people do once they hav
 |-------------|------------|
 | Real Estate | 27-28% |
 | Public Equity | 24-26% |
-| Private Equity | 21-24% |
+| [[frameworks/private-equity|Private Equity]] | 21-24% |
 | Cash | 11-13% |
 | Fixed Income | 7% |
 | Crypto/Gold | 1-2% each |
@@ -177,7 +177,7 @@ This math explains why many founders regret selling—not because the price was 
 
 The insight applies directly to passive income. The strategies that sound most exciting—cryptocurrency, angel investing, viral content—also have the worst odds. The strategies that sound pedestrian—rental properties, franchise locations, productized services—have the most predictable outcomes.
 
-Andrew Wilkinson makes a similar point with an analogy: angel investing is roulette, buying cash-flowing businesses is poker. Roulette is fun and high-status, but the odds are poor. Poker rewards skill and better odds allow for consistent winning.
+[[frameworks/andrew-wilkinson|Andrew Wilkinson]] makes a similar point with an analogy: angel investing is roulette, buying cash-flowing businesses is poker. Roulette is fun and high-status, but the odds are poor. Poker rewards skill and better odds allow for consistent winning.
 
 ---
 
@@ -189,7 +189,7 @@ The 2% rule provides guidance: take your desired annual spending and multiply by
 
 **What is the easiest passive income to start?**
 
-Shaan Puri argues that productized services are the most accessible path to $10,000 per month. Unlike newsletters or e-commerce, they do not require audience-building or product development. You package a skill (SEO, email marketing, lead generation) for a specific niche and charge a flat monthly fee. The business is not passive initially, but it can become semi-passive as you hire contractors for delivery.
+[[frameworks/shaan-puri|Shaan Puri]] argues that productized services are the most accessible path to $10,000 per month. Unlike newsletters or e-commerce, they do not require audience-building or product development. You package a skill (SEO, email marketing, lead generation) for a specific niche and charge a flat monthly fee. The business is not passive initially, but it can become semi-passive as you hire contractors for delivery.
 
 **Is passive income a myth?**
 

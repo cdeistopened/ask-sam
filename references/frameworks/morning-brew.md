@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Morning Brew
 
-Alex Lieberman and Austin Rief started Morning Brew as a PDF attached to a campus email listserv in 2015. They were both in college at Michigan, Austin a sophomore and Alex a senior, and the premise was simple: students going into finance had to read the Wall Street Journal, but they found it dry and couldn't get through it. Morning Brew would be the version they'd actually read.
+[[frameworks/alex-lieberman|Alex Lieberman]] and [[frameworks/austin-rief|Austin Rief]] started Morning Brew as a PDF attached to a campus email listserv in 2015. They were both in college at Michigan, Austin a sophomore and Alex a senior, and the premise was simple: students going into finance had to read the Wall Street Journal, but they found it dry and couldn't get through it. Morning Brew would be the version they'd actually read.
 
-Seven years later, the company sold to Axel Springer for a reported $75 million with a majority stake, reached $70 million in annual revenue by 2022, and became the most studied newsletter success story in business media. Sam Parr built [[the-hustle-story]] in parallel over the same years. The two companies were rivals who barely knew each other, mirrored examples of how the same idea — friendly, smart, readable business news delivered by email — could be executed with slightly different strategies and arrive at roughly the same destination.
+Seven years later, the company sold to Axel Springer for a reported $75 million with a majority stake, reached $70 million in annual revenue by 2022, and became the most studied newsletter success story in business media. [[frameworks/sam-parr|Sam Parr]] built [[the-hustle-story]] in parallel over the same years. The two companies were rivals who barely knew each other, mirrored examples of how the same idea — friendly, smart, readable business news delivered by email — could be executed with slightly different strategies and arrive at roughly the same destination.
 
 ---
 
@@ -19,7 +19,7 @@ Seven years later, the company sold to Axel Springer for a reported $75 million 
 
 In a rare side-by-side post-mortem, both founding teams sat down with Sam to go through the revenue year by year. The data is precise and the contrast with typical startup mythology is striking.
 
-**2016**: Morning Brew did $25,000 in revenue. Three people. Their first ad deal was $3,000 with a watch brand. The Hustle did $400,000 (mostly conference revenue). Morning Brew had 100,000 subscribers by end of year.
+**2016**: Morning Brew did $25,000 in revenue. Three people. Their first ad deal was $3,000 with a watch brand. [[frameworks/the-hustle-story|The Hustle]] did $400,000 (mostly conference revenue). Morning Brew had 100,000 subscribers by end of year.
 
 **2017**: Morning Brew hit $300,000 in revenue, 100,000 subscribers, salaries of $60K each. They hired Tyler Denk — later the CEO of Beehiiv — as a "growth engineer."
 

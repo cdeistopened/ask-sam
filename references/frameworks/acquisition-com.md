@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Acquisition.com
 
-Alex Hormozi sold Gym Launch on Christmas Eve 2021 and started Acquisition.com the next day. Not the day after the holiday. The next day.
+[[frameworks/alex-hormozi|Alex Hormozi]] sold Gym Launch on Christmas Eve 2021 and started Acquisition.com the next day. Not the day after the holiday. The next day.
 
 That detail tells you something about what kind of company this is — and what kind of person built it.
 
@@ -67,7 +67,7 @@ The portfolio's biggest win at time of interview was a company that came in doin
 
 Hormozi frames Acquisition.com's mission in a single phrase: "build a company off of praise, not punishment."
 
-His claim is that high-performance cultures — Goldman Sachs, McKinsey, the traditional private equity world — are punishment-driven environments. People perform because they fear consequences. Acquisition.com is an attempt to prove there's a better way: that raising the bar without creating fear produces better results and better people.
+His claim is that high-performance cultures — Goldman Sachs, McKinsey, the traditional [[frameworks/private-equity|private equity]] world — are punishment-driven environments. People perform because they fear consequences. Acquisition.com is an attempt to prove there's a better way: that raising the bar without creating fear produces better results and better people.
 
 "If we can prove one thesis — that people want to work, most environments are set up to punish people — then I think we've done something. The billion-dollar story is basically irrelevant. But if we can prove that thesis, we've done something."
 

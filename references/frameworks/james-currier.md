@@ -4,12 +4,12 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # James Currier
 
-Most investors talk about network effects. James Currier catalogued 17 of them.
+Most investors talk about [[frameworks/network-effects|network effects]]. James Currier catalogued 17 of them.
 
 That distinction matters. It is the difference between knowing a word and knowing a language. Currier spent decades building companies where network effects determined survival, then codified those patterns into a framework anyone can use. He sold [[tickle]] to Monster for $110 million. He built a gaming company that generated tens of millions. He now runs [[nfx]], a venture fund managing close to $1.6 billion, investing almost exclusively in companies with defensible network effects.
 
@@ -133,4 +133,4 @@ Currier is one of the most cited guests and thinkers on the show. His ideas surf
 
 ---
 
-**Primary Source**: *From making $6/week selling worms to making $110M+* - Full interview covering his background, frameworks, and philosophy.
+**Primary Source**: *From making $6/week selling worms to making $110M+* - [[episodes/kfgBpNJe6Yc|Full interview]] covering his background, frameworks, and philosophy.

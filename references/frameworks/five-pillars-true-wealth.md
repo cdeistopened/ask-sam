@@ -1,12 +1,20 @@
 ---
 name: Five Pillars of True Wealth
-description: Walk someone through Steve Houghton's five-pillar framework for evaluating whether they are truly wealthy — not just financially, but across health, relationships, mental growth, purpose, and financial independence. Use this when someone is asking whether they have "made it," feeling empty despite financial success, or trying to design a meaningful wealthy life. Trigger phrases include "is money enough," "I feel like something is missing," "what does true wealth mean," "made a lot of money but not happy," or "what should I be optimizing for."
+description: >-
+  Walk someone through Steve Houghton's five-pillar framework for evaluating
+  whether they are truly wealthy — not just financially, but across health,
+  relationships, mental growth, purpose, and financial independence. Use this
+  when someone is asking whether they have "made it," feeling empty despite
+  financial success, or trying to design a meaningful wealthy life. Trigger
+  phrases include "is money enough," "I feel like something is missing," "what
+  does true wealth mean," "made a lot of money but not happy," or "what should I
+  be optimizing for."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 1b_and_counting__steve_houghton_s_five_pillars_fo
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Steve Houghton
 ---
@@ -31,7 +39,7 @@ From Steve Houghton (`1b_and_counting__steve_houghton_s_five_pillars_fo.md`):
 
 > "I think of money as a magnifier. And if you're a jerk and you get rich, you'll be a bigger jerk. If you're a really nice person and you get rich, you'll be an even nicer person. It will magnify whatever you really are."
 
-Houghton hit the point in his early 40s where his passive income clearly exceeded his spending forever. He had dreamed of that moment his entire life — and felt nothing:
+Houghton hit the point in his early 40s where his [[frameworks/passive-income|passive income]] clearly exceeded his spending forever. He had dreamed of that moment his entire life — and felt nothing:
 
 > "I'll always remember in my early 40s, waking up and just realizing, wow, I don't really need to work. And I had dreamed my whole life of getting to that point... and I almost felt like I had lost my purpose."
 

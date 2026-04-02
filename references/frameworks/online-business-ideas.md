@@ -1,5 +1,5 @@
 ---
-title: "Online Business Ideas: The MFM Playbook for Digital Wealth"
+title: 'Online Business Ideas: The MFM Playbook for Digital Wealth'
 type: seo
 domain: seo
 status: draft
@@ -11,14 +11,14 @@ episodes:
   - 10_ai_business_ideas_from_the_
   - how_to_scale_a_profitable_agen
   - the_easiest_way_to_make_10000m
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Online Business Ideas: The MFM Playbook for Digital Wealth
 
 [[dharmesh-shah]], co-founder of HubSpot—a company worth $30 billion—built a word game called Wordplay.com in 48 hours. It now generates $90,000 per month from Google AdSense alone. No employees. No venture capital. No product launches. Just a weekend project that prints money while the billionaire sleeps.
 
-The observation is uncomfortable for anyone who believes wealth requires suffering. On My First Million, [[sam-parr]] and [[shaan-puri]] have spent years cataloging businesses like this—digital operations that generate outsized returns with minimal overhead. The pattern that emerges is counterintuitive: the most successful online businesses often look nothing like what ambitious people imagine when they picture entrepreneurship.
+The observation is uncomfortable for anyone who believes wealth requires suffering. On [[frameworks/my-first-million|My First Million]], [[sam-parr]] and [[shaan-puri]] have spent years cataloging businesses like this—digital operations that generate outsized returns with minimal overhead. The pattern that emerges is counterintuitive: the most successful online businesses often look nothing like what ambitious people imagine when they picture entrepreneurship.
 
 ---
 
@@ -36,7 +36,7 @@ The asymmetry explains why the category attracts so much attention on the podcas
 
 ## The Newsletter Model: Media Without the Media Company
 
-The economics of newsletter businesses have surprised even their founders. [[austin-rief]] [described the early days](https://youtube.com/watch?v=how_to_grow_a_75m_newsletter_b&t=360) of Morning Brew with a detail that reveals the scrappiness required:
+The economics of newsletter businesses have surprised even their founders. [[austin-rief]] [described the early days](https://youtube.com/watch?v=how_to_grow_a_75m_newsletter_b&t=360) of [[frameworks/morning-brew|Morning Brew]] with a detail that reveals the scrappiness required:
 
 > "I was literally going to every lecture hall at the University of Michigan, going up to the professor before class, and saying hey, I'm a student here, I have a new newsletter, can I have two minutes after class ends to collect emails?"
 
@@ -101,7 +101,7 @@ Several mental models recur across episodes when the hosts evaluate online busin
 
 **Bottom of Funnel Monetization**: Every successful creator business ends with a transaction. Content without commerce is a hobby. The question is not whether you can build an audience but whether you can build an audience for something they will buy.
 
-**Content as Market Research**: Viral content reveals demand before you invest in inventory. Kevin Espiritu at Epic Gardening does not guess which products to develop. The audience tells him through their engagement.
+**Content as Market Research**: Viral content reveals demand before you invest in inventory. [[frameworks/kevin-espiritu|Kevin Espiritu]] at [[frameworks/epic-gardening|Epic Gardening]] does not guess which products to develop. The audience tells him through their engagement.
 
 **IQ Arbitrage**: Talent is mispriced. Smart people from non-elite backgrounds, from non-traditional industries, or from countries with lower wage expectations can deliver exceptional work at below-market rates. The gap is the margin.
 
@@ -117,7 +117,7 @@ Newsletter businesses at scale—Morning Brew ($75M revenue), The Hustle ($20M a
 
 **How much does it cost to start an online business?**
 
-The range spans from effectively nothing to millions. Dharmesh Shah built a $90K/month side project in a weekend. Austin Rief started Morning Brew with email signups collected in college lecture halls. Newsletter and content businesses can launch with no capital beyond time. AI businesses may require more investment in tooling. The barrier is usually not money but skill and persistence.
+The range spans from effectively nothing to millions. [[frameworks/dharmesh-shah|Dharmesh Shah]] built a $90K/month side project in a weekend. [[frameworks/austin-rief|Austin Rief]] started Morning Brew with email signups collected in college lecture halls. Newsletter and content businesses can launch with no capital beyond time. AI businesses may require more investment in tooling. The barrier is usually not money but skill and persistence.
 
 **What is the fastest path to $10K per month online?**
 
@@ -136,7 +136,7 @@ The opportunity is real but the landscape shifts rapidly. Sarah Guo observes tha
 ## Sources & Episodes
 
 - [[episodeshowtobuilda100mnewsletter|How to build a $100M+ newsletter business]] -- Austin Rief on Morning Brew, lecture hall email collection, horizontal vs. vertical newsletters
-- [[episodeshowtobuilda100mnewsletter|How to build a $100M+ newsletter business]] -- The Hustle story, ad sales economics, IQ arbitrage
+- [[episodeshowtobuilda100mnewsletter|How to build a $100M+ newsletter business]] -- [[frameworks/the-hustle-story|The Hustle story]], ad sales economics, IQ arbitrage
 - [[episodes7youtubersmaking5myearwith|7 YouTubers Making +$5M/Year With Weird Hobbies]] -- Creator to commerce case studies, bottom of funnel framework, Slow Ventures approach
 - [[episodesheturneda300mogardeningsi|He Turned A $300/Mo Gardening Side Hustle Into $45 Million/Year | Kevin Espiritu Interview]] -- Kevin Espiritu, Epic Gardening, content as market research
 - [[episodeshowibuilta90000monthside|How I Built A $90,000/Month Side Hustle In 48 Hours | ft. Dharmesh Shah]] -- Dharmesh Shah, Wordplay.com, viral mechanics

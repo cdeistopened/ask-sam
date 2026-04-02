@@ -1,19 +1,28 @@
 ---
 name: Move Straight to the End Offer
-description: Walk someone through the aggressive negotiation posture of making your best offer first, naming a deadline, and being prepared to walk away — skipping the back-and-forth game entirely. Use when someone is making an offer to buy a business, negotiating a deal where time is a constraint, or is tired of being strung along in a negotiation. Also use when someone has leverage and wants to signal it without bluffing. Trigger phrases include "I want to make an offer but I don't know where to start", "I'm done going back and forth", "how do I show them I'm serious?", "how did Elon buy Twitter?", or "I want to close this quickly."
+description: >-
+  Walk someone through the aggressive negotiation posture of making your best
+  offer first, naming a deadline, and being prepared to walk away — skipping the
+  back-and-forth game entirely. Use when someone is making an offer to buy a
+  business, negotiating a deal where time is a constraint, or is tired of being
+  strung along in a negotiation. Also use when someone has leverage and wants to
+  signal it without bluffing. Trigger phrases include "I want to make an offer
+  but I don't know where to start", "I'm done going back and forth", "how do I
+  show them I'm serious?", "how did Elon buy Twitter?", or "I want to close this
+  quickly."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - LzUMOVNGkwo
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Shaan Puri
 ---
 
 # Move Straight to the End Offer
 
-Walk someone through the Elon Musk Twitter offer approach — as analyzed by Shaan Puri on My First Million. Skip negotiation theater. Make your best offer first. Name a deadline. Walk away cleanly if rejected. This works when you have a strong position and time is not on your side.
+Walk someone through the [[frameworks/elon-musk|Elon Musk]] Twitter offer approach — as analyzed by [[frameworks/shaan-puri|Shaan Puri]] on [[frameworks/my-first-million|My First Million]]. Skip negotiation theater. Make your best offer first. Name a deadline. Walk away cleanly if rejected. This works when you have a strong position and time is not on your side.
 
 ## When to Use
 
@@ -66,7 +75,7 @@ Elon's filing made this explicit:
 
 > *"If the deal does not work, given that I do not have confidence in management nor do I believe I can drive the necessary change in the public market, I will need to reconsider my position as a shareholder. This is not a threat."*
 
-Sam Parr noted: "It is a threat. The biggest threat I've ever heard."
+[[frameworks/sam-parr|Sam Parr]] noted: "It is a threat. The biggest threat I've ever heard."
 
 The walk-away communicates two things:
 1. You have real alternatives (you won't be desperate if they say no)

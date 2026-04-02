@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # MetaLab
 
-Andrew Wilkinson started MetaLab in 2006 at age 19, in Victoria, British Columbia, with no clients, no track record, and no particular reason anyone should hire him. He was a 22-year-old pip-squeak, by his own description, getting seats at tables he didn't deserve to be at — meeting the founders of Pinterest, Slack, and other early-stage startups who were asking his opinion on product and design.
+[[frameworks/andrew-wilkinson|Andrew Wilkinson]] started MetaLab in 2006 at age 19, in Victoria, British Columbia, with no clients, no track record, and no particular reason anyone should hire him. He was a 22-year-old pip-squeak, by his own description, getting seats at tables he didn't deserve to be at — meeting the founders of Pinterest, Slack, and other early-stage startups who were asking his opinion on product and design.
 
 It was exhilarating. It was also, eventually, exhausting in the way that agencies always become exhausting. And when he finally stepped back, MetaLab had become the engine that funded everything else.
 
@@ -45,7 +45,7 @@ One of the more counterintuitive facts about MetaLab's economics: the firm didn'
 
 "They don't do a lot of outbound. It's mostly inbound demand," Wilkinson said. "A lot of big agencies have much lower margins because they have to have a whole bunch of people out there cold calling and selling. We don't have that problem to the same degree. People come to us. The sales team is maybe six or seven people. The whole company is about 150 or so."
 
-This inbound-only model was built through reputation and content — the same playbook Sam Parr had used at The Hustle, and that Wilkinson described as the core of MetaLab's early growth strategy.
+This inbound-only model was built through reputation and content — the same playbook [[frameworks/sam-parr|Sam Parr]] had used at [[frameworks/the-hustle-story|The Hustle]], and that Wilkinson described as the core of MetaLab's early growth strategy.
 
 "I chalk up the only reason MetaLab worked was because we would pick fights," Wilkinson said in the same episode. "We'd write these controversial articles, and I knew how to take a boring topic, find a wedge, and get people going on it. That always results in people knowing of you, passing your name around, you become a topic of conversation. It led to lots of client work and other stuff."
 
@@ -67,9 +67,9 @@ Most of those satellite agencies started for $25,000 or less. The largest now pr
 
 MetaLab's arc — struggling startup to reputation juggernaut to golden goose to holding company foundation — is Wilkinson's primary case study for compounding slowly.
 
-"Warren Buffett made like 97% of his wealth after the age of 55. It all happens very slowly," he told Sam and Shaan. "The same thing happened with us. We didn't really talk about what we did. People would meet us and be like, 'Oh, you're some schmoes from Victoria who own some digital agency.' And so it requires being kind of underestimated and dismissed, playing a very boring game while watching everyone else go make billions of dollars taking risk in startups."
+"[[frameworks/warren-buffett|Warren Buffett]] made like 97% of his wealth after the age of 55. It all happens very slowly," he told Sam and Shaan. "The same thing happened with us. We didn't really talk about what we did. People would meet us and be like, 'Oh, you're some schmoes from Victoria who own some digital agency.' And so it requires being kind of underestimated and dismissed, playing a very boring game while watching everyone else go make billions of dollars taking risk in startups."
 
-What MetaLab taught Wilkinson: boring businesses done well for a long time produce extraordinary results. The key is not to optimize for the next year, but to build something people will still pay a premium for a decade later.
+What MetaLab taught Wilkinson: [[frameworks/boring-businesses|boring businesses]] done well for a long time produce extraordinary results. The key is not to optimize for the next year, but to build something people will still pay a premium for a decade later.
 
 The design agency with a few employees in Victoria became the foundation of a publicly traded holding company valued at $800 million. That trajectory was invisible for most of its duration. Which, Wilkinson would say, was part of the point.
 

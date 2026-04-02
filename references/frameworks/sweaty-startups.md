@@ -1,5 +1,5 @@
 ---
-title: "Sweaty Startups: The MFM Guide to Getting Rich with Physical Labor Businesses"
+title: 'Sweaty Startups: The MFM Guide to Getting Rich with Physical Labor Businesses'
 type: framework
 domain: frameworks
 status: draft
@@ -10,7 +10,7 @@ episodes:
   - the_richest_people_i_know_do_o
   - i_ranked_the_best___worst_busi
   - 3_simple_businesses_that_make_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Sweaty Startups: The MFM Guide to Getting Rich with Physical Labor Businesses
@@ -25,7 +25,7 @@ The business world loves to celebrate the exceptional. We obsess over unicorns, 
 
 A sweaty startup is a local service business that requires physical labor rather than digital innovation. Window cleaning. Gutter cleaning. Self-storage. Moving companies. HVAC. Pressure washing.
 
-The term was popularized by [[nick-huber]], whose book *The Sweaty Startup: How to Get Rich Doing Boring Things* became a manifesto for entrepreneurs who prefer cash flow over cap tables. Shaan Puri put it simply when recommending the book to young founders: "You guys are all doing sweaty startups. This is great."
+The term was popularized by [[nick-huber]], whose book *The Sweaty Startup: [[frameworks/how-to-get-rich|How to Get Rich]] Doing Boring Things* became a manifesto for entrepreneurs who prefer cash flow over cap tables. [[frameworks/shaan-puri|Shaan Puri]] put it simply when recommending the book to young founders: "You guys are all doing sweaty startups. This is great."
 
 These are [[boring-businesses]] by design. No algorithms. No disruption. Just solving persistent, unglamorous problems that people will pay money to make disappear.
 
@@ -35,13 +35,13 @@ The appeal is straightforward: while everyone else chases the next AI startup, s
 
 ## Why Sweaty Startups Work
 
-Nick Huber remembers the moment he committed to a different path. "When I started my moving company, we bought a cargo van for $3,000. Our buddies were playing beer pong and thought we were crazy for wanting to sweat and pick up boxes for $30. They had zero energy for it."
+[[frameworks/nick-huber|Nick Huber]] remembers the moment he committed to a different path. "When I started my moving company, we bought a cargo van for $3,000. Our buddies were playing beer pong and thought we were crazy for wanting to sweat and pick up boxes for $30. They had zero energy for it."
 
 That last line reveals the entire strategy. Sweaty startups work because the competition is often lazy, unmarketable, or both.
 
 The advantages compound. Startup costs are low, frequently under $5,000. Cash flow begins immediately because there is no waiting for product-market fit. Recession-resistant local demand means customers will always need someone to clean their gutters, move their furniture, or store their belongings.
 
-Sam Parr captured the refreshing nature of this world: "It's also awesome not to hear about AI. Like these guys are actually doing the damn thing in real life and it sounds awesome to hear different stuff."
+[[frameworks/sam-parr|Sam Parr]] captured the refreshing nature of this world: "It's also awesome not to hear about AI. Like these guys are actually doing the damn thing in real life and it sounds awesome to hear different stuff."
 
 ---
 
@@ -55,7 +55,7 @@ The ideas that work are deceptively simple:
 
 **Gutter cleaning** has produced remarkable success stories. Shaan Puri once declared: "I want to show you the perfect landing page. The best landing page I have ever seen, the greatest marketing landing page of all time. I want you to go to www.suckmyguttersclean.com." That business generates $1.5-2 million annually.
 
-**[[self-storage]]** scaled Nick Huber's Bolt Storage to $103 million in acquisitions across 61 properties.
+**[[self-storage]]** scaled Nick Huber's [[frameworks/bolt-storage|Bolt Storage]] to $103 million in acquisitions across 61 properties.
 
 **Moving companies, HVAC, plumbing, and roofing** all follow the same pattern. They serve essential needs that technology cannot fully automate.
 
@@ -79,7 +79,7 @@ For administrative work, Huber recommends global talent. "We get 60,000 applican
 
 Not everyone is convinced sweaty startups are the right path. Sam Parr has been direct about his preference: "Personally I think making money digitally is significantly better because it requires close to no capital in some cases you can work from anywhere. I think that it's way harder to make a million dollars a year from a brick and mortar business than it does digitally."
 
-Shaan Puri shares the concern. "I don't want to go worry about the roof damage at my self storage facility or that the 15 an hour employee called out sick." He contrasts this with [[milk-road]], their newsletter that "we pushed one button to send to 300,000 people and just printed profits from month one."
+Shaan Puri shares the concern. "I don't want to go worry about the roof damage at my [[frameworks/self-storage|self storage]] facility or that the 15 an hour employee called out sick." He contrasts this with [[milk-road]], their newsletter that "we pushed one button to send to 300,000 people and just printed profits from month one."
 
 [[andrew-wilkinson]] offers a balanced view. "I love Cody and I love Nick. I think what they're advocating is basically, 'Look, don't go and work for someone else when you can create your own job.'"
 
@@ -125,13 +125,13 @@ Most sweaty startups can be started for under $5,000. Nick Huber started his mov
 
 **Are sweaty startups a good path to wealth?**
 
-It depends. Sam Parr and Shaan Puri argue digital businesses are easier to scale and more profitable. Andrew Wilkinson rates sweaty startups as C-tier because many are essentially buying yourself a job. However, for those willing to build systems and scale, businesses like Nick Huber's Bolt Storage show the potential.
+It depends. Sam Parr and Shaan Puri argue digital businesses are easier to scale and more profitable. [[frameworks/andrew-wilkinson|Andrew Wilkinson]] rates sweaty startups as C-tier because many are essentially buying yourself a job. However, for those willing to build systems and scale, businesses like Nick Huber's Bolt Storage show the potential.
 
 ---
 
 ## Sources & Episodes
 
-- [[episodescanyougetrichwithabluec|Can You Get Rich with A Blue Collar Hustle? | My First Million Q&A (#457)]] -- Primary: sweaty vs digital debate
+- [[episodescanyougetrichwithabluec|Can You Get Rich with A Blue Collar Hustle? | [[episodes/gesHCZsWw00|My First Million Q&A]] (#457)]] -- Primary: sweaty vs digital debate
 - [[episodeshelaunchedasweatystartupi|He launched a sweaty startup in high school. Now he'll be a millionaire by 18]] -- Primary: Lincoln Snyder success story
 - [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- Primary: Nick Huber's empire
 - [[episodestherichestpeopleiknowdoo|The Richest People I Know Do One Thing]] -- Primary: Nick Huber's evolved perspective

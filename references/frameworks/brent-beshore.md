@@ -5,7 +5,7 @@ domain: people
 status: draft
 episodes:
   - 50m-founder-explains-golden-businesses-3q1QvEkbbyk
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Brent Beshore
@@ -28,9 +28,9 @@ He asked his newly married wife to sign a personal guarantee. He had to explain 
 
 That first company — Media Cross, a military recruitment firm — was what Brent calls the original Golden Goose. He'd then spend five more years finding the next one: a pool business in Arizona. Then an aerospace company. Then 13 more.
 
-The phrase "stacking geese" is not just colorful. It describes the architecture of his model: each acquisition generates enough cash flow to provide runway for the next one, without needing to sell any of them. This is the opposite of private equity's typical 10-year fund timeline.
+The phrase "stacking geese" is not just colorful. It describes the architecture of his model: each acquisition generates enough cash flow to provide runway for the next one, without needing to sell any of them. This is the opposite of [[frameworks/private-equity|private equity]]'s typical 10-year fund timeline.
 
-**The Permanent Equity model is the inverse of traditional private equity:**
+**The [[frameworks/permanent-equity|Permanent Equity]] model is the inverse of traditional private equity:**
 
 - No fees of any kind. No management fees, no expense reimbursements.
 - No debt on acquisitions. All-equity deals.
@@ -43,7 +43,7 @@ He explained it to his eventual partner, Patrick O'Shaughnessy, who came to Colu
 
 ## Why No Debt
 
-Sam Parr pushed him on this directly: why not just a little debt? Brent's answer was not philosophical. It was empirical.
+[[frameworks/sam-parr|Sam Parr]] pushed him on this directly: why not just a little debt? Brent's answer was not philosophical. It was empirical.
 
 In 2019, Permanent Equity acquired PackAir, an aerospace business. An adviser to the sellers said they were idiots for not using leverage on a business that had never declined in its entire history.
 
@@ -75,7 +75,7 @@ Brent's most practical framework for evaluating people is also his most revealin
 
 He also eats with people and watches how they treat service staff. He meets their significant other. He tries to understand their Enneagram number. A candidate who tests beautifully in a conference room and falls apart at a gate delay is a candidate he doesn't take.
 
-Charlie Munger once told Brent, over dinner, that he still didn't know what the perfect incentive structure looked like after hundreds of deals. Munger's honesty about the limits of his own frameworks stuck with Brent. The willingness to remain uncertain about things you should know, after decades of experience — that itself is a form of intellectual humility.
+[[frameworks/charlie-munger|Charlie Munger]] once told Brent, over dinner, that he still didn't know what the perfect incentive structure looked like after hundreds of deals. Munger's honesty about the limits of his own frameworks stuck with Brent. The willingness to remain uncertain about things you should know, after decades of experience — that itself is a form of intellectual humility.
 
 ## Related
 

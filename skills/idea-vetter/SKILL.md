@@ -1,6 +1,6 @@
 # Idea Vetter
 
-Walk a founder through evaluating a business idea using frameworks from Sam Parr, Shaan Puri, and guests on My First Million.
+Walk a founder through evaluating a business idea using frameworks from [[frameworks/sam-parr|Sam Parr]], [[frameworks/shaan-puri|Shaan Puri]], and guests on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -15,7 +15,7 @@ Run the idea through these filters in order. Each builds on the previous. Stop a
 
 ### Filter 1: The Thiel Test (Disguised as Bad)
 
-From Imad Rahimi (Mercury, $3.5B) in the episode "I Built A $1B Company... Here's 7 Business Ideas I Would Start This Year":
+From Imad Rahimi (Mercury, $3.5B) in the episode "[[episodes/k7UycsE_QoA|I Built A $1B Company... Here's 7 Business Ideas I Would Start This Year]]":
 
 > "The best ideas come disguised as bad ideas. You're looking for the overlap between 'sounds like a bad idea' and 'actually a good idea.'"
 
@@ -30,7 +30,7 @@ Ask the user: "When you tell people about this idea, do they immediately get exc
 
 ### Filter 2: The Value Equation (Hormozi)
 
-From Alex Hormozi across multiple episodes:
+From [[frameworks/alex-hormozi|Alex Hormozi]] across multiple episodes:
 
 ```
 Value = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort Required)
@@ -62,7 +62,7 @@ Calculate: `Price × Frequency × TAM × Capture Rate = Revenue ceiling`
 
 If the revenue ceiling is under $1M/year, the idea may work as a lifestyle business but won't be venture-scale. That's not necessarily bad — just know what you're building.
 
-Then ask: "What does it cost you to acquire one customer?" If they don't know, walk them through Sam's method: run a small test (ads, cold outreach, content) to find the real CAC, not the theoretical one.
+Then ask: "What does it cost you to acquire one customer?" If they don't know, walk them through Sam's method: run a small test (ads, [[skills/cold-outreach|cold outreach]], content) to find the real CAC, not the theoretical one.
 
 **Source transcript:** `transcripts/mfm/2022-06-03-follow-these-3-steps-to-start-a-1000000-lead-generation-business.md`
 
@@ -131,3 +131,34 @@ After running all six filters, summarize:
 6. **Playbook Clone:** Any existing models found in the archive
 
 Then give an honest assessment: "Based on these frameworks, here's where this idea is strong and where it needs work." Don't just be encouraging — Sam and Shaan are blunt, and so should this assessment be.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's idea falls into a specific category:
+
+- Read `references/frameworks/million-dollar-business-ideas.md` for the MFM pattern library of ideas that actually worked
+- Read `references/frameworks/online-business-ideas.md` for the MFM digital business playbook
+- Read `references/frameworks/small-business-ideas.md` for opportunities hiding in plain sight
+- Read `references/frameworks/side-hustle-ideas.md` for part-time and margin business models
+- Read `references/frameworks/boring-businesses.md` for the full boring business thesis
+- Read `references/frameworks/sweaty-startups.md` for service-based startup opportunities
+- Read `references/frameworks/1000-true-fans.md` for the minimum viable audience model
+- Read `references/frameworks/creator-economy.md` for creator-first business models
+- Read `references/frameworks/content-to-commerce.md` for audience-to-product conversion patterns
+- Read `references/frameworks/negative-cac-media-commerce.md` for businesses where content IS the acquisition channel
+- Read `references/frameworks/newsletter-business.md` for newsletter-as-business economics
+- Read `references/frameworks/community-building.md` for community-driven business models
+- Read `references/frameworks/franchising.md` for franchise model evaluation
+- Read `references/frameworks/saas-metrics.md` for SaaS-specific unit economics and benchmarks
+- Read `references/frameworks/network-effects.md` for network effect types and defensibility
+- Read `references/frameworks/personal-monopoly.md` for building a business only you can build
+- Read `references/frameworks/productize-yourself.md` for the leverage and productization framework
+- Read `references/frameworks/skill-stacking.md` for combining skills into unique market positions
+- Read `references/frameworks/contrarian-thinking.md` for the contrarian thesis in business ideas
+- Read `references/frameworks/one-to-two-dollar-machine.md` for the simple unit economics mental model
+- Read `references/frameworks/ideabrowser-com.md` for Sam's idea validation tool
+
+People profiles relevant to idea validation:
+- Read `references/people/alex-hormozi.md` for the value equation and offer creation frameworks
+- Read `references/people/greg-isenberg.md` for community-first business validation
+- Read `references/people/james-currier.md` for [[frameworks/network-effects|network effects]] and defensibility analysis

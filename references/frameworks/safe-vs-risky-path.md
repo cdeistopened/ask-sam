@@ -1,19 +1,27 @@
 ---
 name: Safe vs Risky Path Career Clarity
-description: Help someone stuck between the "safe" path and the "risky" path figure out which is actually safer for them — by clarifying what they want, mapping both paths to that outcome, and identifying which path is truly irreversible. Use when someone is considering leaving a stable job, debating whether to start a company, torn between a prestigious conventional career and something unconventional, or asking "am I making a mistake by not taking the safe path?" Also activate when someone is trying to justify staying on a path they don't actually want.
+description: >-
+  Help someone stuck between the "safe" path and the "risky" path figure out
+  which is actually safer for them — by clarifying what they want, mapping both
+  paths to that outcome, and identifying which path is truly irreversible. Use
+  when someone is considering leaving a stable job, debating whether to start a
+  company, torn between a prestigious conventional career and something
+  unconventional, or asking "am I making a mistake by not taking the safe path?"
+  Also activate when someone is trying to justify staying on a path they don't
+  actually want.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - YAtQSKJ2HCA
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Shaan Puri
 ---
 
 # Safe vs Risky Path Career Clarity
 
-Help someone redefine "safe" and "risky" based on what they actually want — using Shaan Puri's framework from My First Million.
+Help someone redefine "safe" and "risky" based on what they actually want — using [[frameworks/shaan-puri|Shaan Puri]]'s framework from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 

@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Codie Sanchez
@@ -19,7 +19,7 @@ Then she started buying laundromats.
 
 There is a popular narrative about entrepreneurs that involves burning bridges, taking massive risks, and diving headfirst into the unknown. Codie Sanchez did the opposite. She bought businesses while still collecting a corporate paycheck.
 
-"I made millions before I ever really ran my own thing by myself," she explained on My First Million (*ep. 512, 31:00*). "I was actually so scared to leave the big corporate canopy that I bought businesses while I was still working for somebody else."
+"I made millions before I ever really ran my own thing by myself," she explained on [[frameworks/my-first-million|My First Million]] (*ep. 512, 31:00*). "I was actually so scared to leave the big corporate canopy that I bought businesses while I was still working for somebody else."
 
 This is not the founder mythology we are used to hearing. It is more honest. The average person considering entrepreneurship does not want to bet everything on a single idea. They want optionality. They want to test the waters before jumping in. Sanchez provides a blueprint for that quieter path.
 
@@ -80,7 +80,7 @@ Wilkinson identified the core tension in the [[sweaty startups]] movement: "Ther
 
 Before the MBAs and the hedge funds and the laundromats, Sanchez was a journalist. She graduated early from Arizona State with a journalism degree. She won the Robert F. Kennedy Award for print journalism, covering violence in Juarez, Mexico.
 
-This background explains something about her content strategy. She knows how to tell stories. She knows how to find the interesting angle. When she talks about boring businesses, she makes them sound fascinating because she understands narrative structure.
+This background explains something about her content strategy. She knows how to tell stories. She knows how to find the interesting angle. When she talks about [[frameworks/boring-businesses|boring businesses]], she makes them sound fascinating because she understands narrative structure.
 
 It also explains her content volume. She treats social media like a newsroom, publishing constantly across platforms, testing what resonates, following the data.
 
@@ -112,7 +112,7 @@ Her success in making laundromats and car washes seem appealing is, in a sense, 
 
 ## The Digital vs. Physical Debate
 
-[[shaan-puri]] has acknowledged the validity of Sanchez's path while expressing a personal preference for digital businesses. "I'd rather be in the situation of being able to choose to spend my time doing it the other way," he said, while adding he would "ask Nick Huber and Codie Sanchez which one they think is better" (*Q&A ep. 457, 01:15*).
+[[shaan-puri]] has acknowledged the validity of Sanchez's path while expressing a personal preference for digital businesses. "I'd rather be in the situation of being able to choose to spend my time doing it the other way," he said, while adding he would "ask [[frameworks/nick-huber|Nick Huber]] and Codie Sanchez which one they think is better" (*Q&A ep. 457, 01:15*).
 
 This captures something true about the boring business movement. It is not for everyone. Managing physical locations with employees and equipment involves a different kind of work than building software. Some people thrive in that environment. Others would be miserable.
 
@@ -133,4 +133,4 @@ The contribution Sanchez has made is expanding the menu of options. For the pers
 
 ---
 
-*Codie Sanchez has appeared on My First Million multiple times, including as a guest co-host on episode 512 (October 2023) when Sam Parr was on paternity leave, and as a guest on episode 176 (April 2021) discussing distressed asset acquisitions.*
+*Codie Sanchez has appeared on My First Million multiple times, including as a guest co-host on episode 512 (October 2023) when [[frameworks/sam-parr|Sam Parr]] was on paternity leave, and as a guest on episode 176 (April 2021) discussing distressed asset acquisitions.*

@@ -6,7 +6,7 @@ status: draft
 episodes:
   - TOQtJch3kGk
   - cdHRnyFbwh4
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Amjad Masad
@@ -17,7 +17,7 @@ Amjad Masad started coding in an internet cafe in Jordan because he didn't have 
 
 Every time Masad went to the cafe to code, he spent an hour setting up the environment. New session, new setup, from scratch. It was the same friction every time: download this package, configure that path, try to remember what you installed last time.
 
-Most people learning to code in America set up their environment once, struggle a little, and move on. Masad hit it face-first every single day. That's Paul Graham's theory of great startups made concrete: you felt the problem ten times more intensely than the person who eventually would have built a solution anyway.
+Most people learning to code in America set up their environment once, struggle a little, and move on. Masad hit it face-first every single day. That's [[frameworks/paul-graham|Paul Graham]]'s theory of great startups made concrete: you felt the problem ten times more intensely than the person who eventually would have built a solution anyway.
 
 His insight: the web was already running Google Docs, Gmail, all these client-side applications. Why couldn't you just type code into the browser and run it? In 2009 he started working on it. In 2011, Replit had a breakthrough: they were the first to compile Python, Ruby, and other languages to JavaScript and run them in the browser. Brendan Eich — the inventor of JavaScript, then CTO at Mozilla — tweeted about it.
 

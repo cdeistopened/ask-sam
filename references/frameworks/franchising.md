@@ -4,7 +4,7 @@ type: framework
 domain: frameworks
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Franchising
@@ -35,7 +35,7 @@ This is not a criticism. The Chick-fil-A model produces excellent outcomes for t
 
 [[flynn-group]] is the largest franchisee in America. They generated $6.3 billion in revenue last year as a franchisee alone. That figure exceeds the revenue of parent brands like KFC or Domino's. The franchisee became bigger than the franchisor.
 
-[[garnett-station-partners]] was founded by two best friends who are only 38 years old. They have raised $3.5 billion for franchise roll-ups, buying gyms, funeral homes, and car washes. The Wall Street Journal called them "private equity's newest young stars."
+[[garnett-station-partners]] was founded by two best friends who are only 38 years old. They have raised $3.5 billion for franchise roll-ups, buying gyms, funeral homes, and car washes. The Wall Street Journal called them "[[frameworks/private-equity|private equity]]'s newest young stars."
 
 On the other side of the table sits [[roark-capital]], a private equity firm with $37 billion under management. They own the franchisors themselves: Driven Brands, Inspire Brands (Arby's, Buffalo Wild Wings), Jimmy John's, and Dunkin'. Their playbook is to buy the franchisor and collect the 6% royalty stream indefinitely.
 
@@ -57,13 +57,13 @@ The model works differently than traditional franchises. You buy the equipment f
 
 Each location runs on about 50-100 square feet of space. Locations average around $10,000 per month at roughly 50% gross margin. The company does $540 million or more per year in total.
 
-Sam Parr called it "the Dollar General of pizza." That is not an insult. It is a description of a business model that serves an underserved market profitably.
+[[frameworks/sam-parr|Sam Parr]] called it "the Dollar General of pizza." That is not an insult. It is a description of a business model that serves an underserved market profitably.
 
 ## The Hidden Gems at Lower Price Points
 
 Not every franchise requires millions in capital. [[another-nine]], an indoor golf franchise, costs $320,000-$800,000 to start. You need about $50,000 liquid and can finance the rest through an SBA loan.
 
-What makes the model interesting is the labor structure. The facilities run 24/7 with fob access via phone. There are no employees during operating hours. The business runs 55% profit margins. Five units could generate $750,000 in largely passive income ([The 'Boring' Business Model Making Regular People Millionaires](https://youtube.com/watch?v=EPISODE_ID&t=870)).
+What makes the model interesting is the labor structure. The facilities run 24/7 with fob access via phone. There are no employees during operating hours. The business runs 55% profit margins. Five units could generate $750,000 in largely [[frameworks/passive-income|passive income]] ([The 'Boring' Business Model Making Regular People Millionaires](https://youtube.com/watch?v=EPISODE_ID&t=870)).
 
 [[waterloo-turf]], an artificial turf installation franchise, starts at $105,000-$150,000. Average locations do $1.3 million in revenue and $270,000 in profit. No retail location is required. The artificial turf industry is a $4 billion market with no national brand.
 

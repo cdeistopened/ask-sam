@@ -1,12 +1,21 @@
 ---
 name: The $1 Into $2 Machine
-description: Walk someone through evaluating whether their business has found a unit economics machine — a model that reliably turns $1 of investment into $2 of return — and help them decide whether to pour in capital or hold back. Use when someone is deciding whether to raise money, hire aggressively, or scale spending. Also use when someone says their business is growing but they're unsure whether to keep investing in growth. Trigger phrases include "should I raise?", "should I be spending more on marketing?", "how do I know if my unit economics work?", "is it time to scale?", or "I keep hiring but I don't know if it's paying off."
+description: >-
+  Walk someone through evaluating whether their business has found a unit
+  economics machine — a model that reliably turns $1 of investment into $2 of
+  return — and help them decide whether to pour in capital or hold back. Use
+  when someone is deciding whether to raise money, hire aggressively, or scale
+  spending. Also use when someone says their business is growing but they're
+  unsure whether to keep investing in growth. Trigger phrases include "should I
+  raise?", "should I be spending more on marketing?", "how do I know if my unit
+  economics work?", "is it time to scale?", or "I keep hiring but I don't know
+  if it's paying off."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 0cLWUCE02KE
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Kevin Ryan
 ---
@@ -28,7 +37,7 @@ The user is trying to decide whether to invest more capital — in people, in ma
 
 ## The Core Principle
 
-From Sam Parr (`0cLWUCE02KE.md`), paraphrasing Kevin Ryan's framework:
+From [[frameworks/sam-parr|Sam Parr]] (`0cLWUCE02KE.md`), paraphrasing Kevin Ryan's framework:
 
 > "If my idea is good enough, I'm going to build a machine that turns $1 into $2. And if I have that machine, what are you going to do? You're going to go get as much money as you can and back that truck up into that machine and dump it in there." — Sam Parr, paraphrasing Kevin Ryan
 
@@ -124,7 +133,7 @@ After the machine test, the answer should be clear:
 | 1. Find the unit | What repeatable thing produces $2 from $1? | A salesperson, campaign, or market with a >2x return |
 | 2. Test it | Does the ratio hold across multiple instances? | Consistency = machine is real |
 | 3. Dilution test | Is the raise worth the equity? | Machine return > dilution cost |
-| 4. Know when to stop | Is the machine still working? | CAC rising = machine breaking |
+| 4. Know when to stop | Is the machine still working? | CAC rising = machine [[episodes/Dwi6UbdpZyk|breaking]] |
 | 5. Decide | Back the truck or hold? | Binary: all in or fix first |
 
 ## Search the Archive

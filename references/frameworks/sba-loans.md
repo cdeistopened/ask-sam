@@ -7,7 +7,7 @@ episodes:
   - VYH5AdhJt54
   - 3q1QvEkbbyk
   - qkcFcwb6mk0
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # SBA Loans
@@ -40,7 +40,7 @@ This shifts the underwriting frame from "can you personally afford this?" to "ca
 
 ## The Sarah Moore Example
 
-Shaan used a real-world case to make acquisition entrepreneurship concrete: Sarah Moore, who graduated from college and wanted to buy a business rather than start one. She searched locally for businesses already generating about a million dollars in profit annually. Using an SBA loan plus some [[seller-financing]], she bought an egg carton business — "the styrofoam containers for eggs" — with zero of her own cash. That business does millions in profit annually.
+Shaan used a real-world case to make [[frameworks/acquisition-entrepreneurship|acquisition entrepreneurship]] concrete: Sarah Moore, who graduated from college and wanted to buy a business rather than start one. She searched locally for businesses already generating about a million dollars in profit annually. Using an SBA loan plus some [[seller-financing]], she bought an egg carton business — "the styrofoam containers for eggs" — with zero of her own cash. That business does millions in profit annually.
 
 The lesson: SBA loans make it possible to skip the startup phase entirely. You're not betting on whether a business will work. It already works.
 

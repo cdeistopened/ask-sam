@@ -1,19 +1,24 @@
 ---
 name: Three-Method Company Valuation
-description: Walk someone through how to value any company using all three standard methods — industry earnings multiple, formula-based strategic value, and comparable sales. Use when someone asks how much their company is worth, how buyers value businesses, what multiple they should expect, or how to prepare for an acquisition conversation.
+description: >-
+  Walk someone through how to value any company using all three standard methods
+  — industry earnings multiple, formula-based strategic value, and comparable
+  sales. Use when someone asks how much their company is worth, how buyers value
+  businesses, what multiple they should expect, or how to prepare for an
+  acquisition conversation.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - GkNJbj5qbXM
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - James Altucher
 ---
 
 # Three-Method Company Valuation
 
-Walk someone through how to value any company using James Altucher's three-method framework — drawn from his experience selling multiple companies and investing in dozens more, discussed on My First Million.
+Walk someone through how to value any company using James Altucher's three-method framework — drawn from his experience selling multiple companies and investing in dozens more, discussed on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -150,4 +155,4 @@ After working through this framework, deliver:
 
 ## Source
 
-[Entrepreneur Who Lost Millions Breaks Down How To Come Back Financially](https://www.youtube.com/watch?v=GkNJbj5qbXM) — Sam Parr and Shaan Puri interview James Altucher, May 2020.
+[Entrepreneur Who Lost Millions Breaks Down How To Come Back Financially](https://www.youtube.com/watch?v=GkNJbj5qbXM) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview James Altucher, May 2020.

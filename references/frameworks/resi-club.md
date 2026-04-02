@@ -4,7 +4,7 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Resi Club
@@ -23,7 +23,7 @@ Rather than hire a team and build an editorial operation from scratch, Resi Club
 
 As Pomp described it: "We basically said, 'Look, we want to build the dominant platform in residential real estate coverage. Why don't we do it together? We know how to scale and monetize. You know the content and you're the expert.'"
 
-This is a pattern Sam Parr has used repeatedly — find the domain expert who has the knowledge and the audience seed, combine with distribution and business infrastructure.
+This is a pattern [[frameworks/sam-parr|Sam Parr]] has used repeatedly — find the domain expert who has the knowledge and the audience seed, combine with distribution and business infrastructure.
 
 ## The Monetization Path
 
@@ -35,7 +35,7 @@ The long game is more ambitious. Pomp described the trajectory: newsletter to me
 
 ## Shaan's Take
 
-Shaan Puri told Pomp he thought Resi Club was a $50 to $100 million outcome bootstrapped. The residential real estate market is simultaneously niche (specific focus) and massive (largest asset class in the world). The audience is huge: home builders, real estate agents, buyers, sellers, mortgage professionals, investors. Pomp's description captured the paradox: "It's small and specific but also large and broad at the same time."
+[[frameworks/shaan-puri|Shaan Puri]] told Pomp he thought Resi Club was a $50 to $100 million outcome bootstrapped. The residential real estate market is simultaneously niche (specific focus) and massive (largest asset class in the world). The audience is huge: home builders, real estate agents, buyers, sellers, mortgage professionals, investors. Pomp's description captured the paradox: "It's small and specific but also large and broad at the same time."
 
 ## The False Start
 

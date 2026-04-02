@@ -4,16 +4,16 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Stripe
 
-Shaan Puri applied to two jobs when he moved to Silicon Valley. He got one of them. The one he did not get was Stripe.
+[[frameworks/shaan-puri|Shaan Puri]] applied to two jobs when he moved to Silicon Valley. He got one of them. The one he did not get was Stripe.
 
 This detail, shared almost in passing, contains a quietly devastating insight about how wealth is distributed. The difference between getting the Stripe job and not getting the Stripe job, for someone who arrived in Silicon Valley in 2014 or 2015, could easily be the difference between being worth $50 million in stock and being worth nothing in stock. Same person. Same resume. Same city. Different outcome on a single interview.
 
-On My First Million, Stripe appears not as a company to analyze but as a kind of gravitational constant -- the invisible infrastructure that makes everything else in the internet economy possible. When Sam and Shaan discuss [[shopify]], they are discussing a company built on Stripe. When they discuss [[saas-metrics]], they are discussing revenue that flows through Stripe. When they discuss any online business at all, Stripe is the plumbing.
+On [[frameworks/my-first-million|My First Million]], Stripe appears not as a company to analyze but as a kind of gravitational constant -- the invisible infrastructure that makes everything else in the internet economy possible. When Sam and Shaan discuss [[shopify]], they are discussing a company built on Stripe. When they discuss [[saas-metrics]], they are discussing revenue that flows through Stripe. When they discuss any online business at all, Stripe is the plumbing.
 
 ## The Job That Got Away
 

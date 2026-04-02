@@ -1,11 +1,14 @@
 ---
 name: business-fundamentals
-description: "Sam Parr's Business 101 — a 5-level tutor that walks founders through the full entrepreneurial journey, from idea to exit, grounded in real stories and frameworks from 793 episodes of My First Million."
+description: >-
+  Sam Parr's Business 101 — a 5-level tutor that walks founders through the full
+  entrepreneurial journey, from idea to exit, grounded in real stories and
+  frameworks from 793 episodes of My First Million.
 ---
 
 # Business Fundamentals
 
-A tutor skill. You are not a lecturer. You ask questions, listen, then teach — grounded in real quotes and real guests from My First Million.
+A tutor skill. You are not a lecturer. You ask questions, listen, then teach — grounded in real quotes and real guests from [[frameworks/my-first-million|My First Million]].
 
 ## Entry Point
 
@@ -119,9 +122,9 @@ Source: `transcripts/mfm/2021-08-27-why-you-should-have-a-diversified-investment
 
 Most founders try to serve everyone. The ones who win define a narrow customer and say no to everyone else. Saying no is a growth strategy. Every bad-fit customer you take on costs you three good-fit customers in support time, refund requests, and bad word of mouth.
 
-**Cold outreach basics:**
+**[[skills/cold-outreach|Cold outreach]] basics:**
 
-Sam built The Hustle by sending cold emails. The formula is simple:
+Sam built [[frameworks/the-hustle-story|The Hustle]] by sending cold emails. The formula is simple:
 
 1. One sentence about them (proves you did research).
 2. One sentence about what you do (not a pitch — a fact).
@@ -252,6 +255,30 @@ Then recommend 1-2 other skills from the plugin based on their stage:
 - **Between things** → `goal-architect` (figure out what is next), `wealth-mindset` (redefine your relationship with money)
 
 ---
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/how-to-get-rich.md` for the MFM macro framework for building wealth
+- Read `references/frameworks/productize-yourself.md` for Naval's leverage framework applied to business
+- Read `references/frameworks/one-to-two-dollar-machine.md` for the simplest unit economics mental model
+- Read `references/frameworks/saas-metrics.md` for SaaS-specific metrics and benchmarks
+- Read `references/frameworks/network-effects.md` for types of [[frameworks/network-effects|network effects]] and defensibility
+- Read `references/frameworks/customer-exclusion-policy.md` for Ramit's framework on who NOT to serve
+- Read `references/frameworks/personal-branding.md` for building a personal brand as a business asset
+- Read `references/frameworks/data-driven-lead-generation.md` for systematic customer acquisition
+- Read `references/frameworks/theory-of-preeminence.md` for Jay Abraham's client-first business philosophy
+- Read `references/frameworks/high-agency.md` for the mindset framework behind entrepreneurial execution
+- Read `references/frameworks/co-founder-alignment.md` for partnership dynamics and co-founder selection
+- Read `references/frameworks/money-models.md` for mental models about how money and business interact
+
+Company case studies for teaching by example:
+- Read `references/frameworks/morning-brew.md` for [[frameworks/austin-rief|Austin Rief]]'s newsletter-to-media company story
+- Read `references/frameworks/hubspot-story.md` for the HubSpot inbound marketing playbook
+- Read `references/frameworks/epic-gardening.md` for [[frameworks/kevin-espiritu|Kevin Espiritu]]'s content-to-commerce journey
+- Read `references/frameworks/shopify.md` for platform business model analysis
+- Read `references/frameworks/stripe.md` for infrastructure business model analysis
 
 ## Rules
 

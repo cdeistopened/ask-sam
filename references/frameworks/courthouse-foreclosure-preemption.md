@@ -1,19 +1,24 @@
 ---
 name: Courthouse Foreclosure Pre-emption
-description: Walk someone through finding distressed properties before they hit Zillow or go to auction, using courthouse lists and direct owner contact. Activate when someone asks how to find below-market real estate deals, how foreclosure auctions work, how to buy properties before they're listed, or says they want to invest in real estate but can't find good deals.
+description: >-
+  Walk someone through finding distressed properties before they hit Zillow or
+  go to auction, using courthouse lists and direct owner contact. Activate when
+  someone asks how to find below-market real estate deals, how foreclosure
+  auctions work, how to buy properties before they're listed, or says they want
+  to invest in real estate but can't find good deals.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - CarCWCl1JFk
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Codie Sanchez
 ---
 
 # Courthouse Foreclosure Pre-emption
 
-Walk someone through finding and buying distressed properties before they reach auction or public listing — using Codie Sanchez's courthouse research method from My First Million Ep. #176.
+Walk someone through finding and buying distressed properties before they reach auction or public listing — using [[frameworks/codie-sanchez|Codie Sanchez]]'s courthouse research method from [[frameworks/my-first-million|My First Million]] Ep. #176.
 
 ## When to Use
 
@@ -167,4 +172,4 @@ After the session, deliver:
 
 ## Source
 
-[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — Sam Parr and Shaan Puri interview Codie Sanchez.
+[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Codie Sanchez.

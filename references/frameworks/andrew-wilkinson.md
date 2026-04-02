@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Andrew Wilkinson
@@ -91,7 +91,7 @@ On life philosophy:
 
 ## MFM Appearances
 
-Andrew Wilkinson has appeared on My First Million multiple times and co-hosts the annual Milly Awards with [[sam-parr]] and [[shaan-puri]]:
+Andrew Wilkinson has appeared on [[frameworks/my-first-million|My First Million]] multiple times and co-hosts the annual Milly Awards with [[sam-parr]] and [[shaan-puri]]:
 
 - [How I Made My First $1M - The Andrew Wilkinson Story](https://www.mfmpod.com/how-i-made-my-first-1m-the-andrew-wilkinson-story/) (Episode 604, July 2024)
 - [Andrew Wilkinson's $20,000 to $260,000,000 Story](https://www.mfmpod.com/andrew-wilkinsons-20000-to-260000000-story/) (Episode 521, November 2023)
@@ -105,7 +105,7 @@ Andrew Wilkinson has appeared on My First Million multiple times and co-hosts th
 - [[tiny]] - Wilkinson's publicly traded holding company
 - [[metalab]] - Design agency that funds the Tiny empire
 - [[dribbble]] - Designer portfolio platform acquired by Tiny
-- [[warren-buffett]] - Berkshire Hathaway model that inspired Tiny's structure
+- [[warren-buffett]] - [[frameworks/berkshire-hathaway|Berkshire Hathaway]] model that inspired Tiny's structure
 - [[shopify]] - Platform ecosystem where Tiny executes the barnacle strategy
 - [[the-giving-pledge]] - Philanthropic commitment Wilkinson has signed
 - *Never Enough: From Barista to Billionaire* - Wilkinson's memoir

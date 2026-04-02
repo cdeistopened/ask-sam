@@ -1,12 +1,20 @@
 ---
 name: Hang Around the Hoop Acquisition
-description: Walk someone through Andrew Wilkinson and Tiny's acquisition methodology — be present, make consistent low offers, don't take rejection personally, and follow up on a schedule. Most sellers say no today but yes later. Use when someone wants to buy a business, is building an acquisition pipeline, or has been turned down by a seller and doesn't know what to do next. Trigger phrases include "the seller said no", "how do I find businesses to buy?", "how does Tiny source deals?", "they're not interested in selling", or "I keep getting rejected when I reach out to owners."
+description: >-
+  Walk someone through Andrew Wilkinson and Tiny's acquisition methodology — be
+  present, make consistent low offers, don't take rejection personally, and
+  follow up on a schedule. Most sellers say no today but yes later. Use when
+  someone wants to buy a business, is building an acquisition pipeline, or has
+  been turned down by a seller and doesn't know what to do next. Trigger phrases
+  include "the seller said no", "how do I find businesses to buy?", "how does
+  Tiny source deals?", "they're not interested in selling", or "I keep getting
+  rejected when I reach out to owners."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 7nWa1F3GJy4
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Shaan Puri
   - Jeremy Giffin
@@ -14,7 +22,7 @@ source_guests:
 
 # Hang Around the Hoop Acquisition
 
-Walk someone through the Tiny acquisition methodology, as described by Jeremy Giffin (Tiny's first employee) and Shaan Puri. The framework is simple: be present, make low offers consistently, never take rejection personally, and set reminders to follow up. The 10% who eventually say yes are the deals.
+Walk someone through the Tiny acquisition methodology, as described by Jeremy Giffin (Tiny's first employee) and [[frameworks/shaan-puri|Shaan Puri]]. The framework is simple: be present, make low offers consistently, never take rejection personally, and set reminders to follow up. The 10% who eventually say yes are the deals.
 
 ## When to Use
 
@@ -29,9 +37,9 @@ The user wants to buy a business — or is in the process of trying — and is s
 
 ## The Core Principle
 
-From Shaan Puri, describing Andrew Wilkinson's method (`7nWa1F3GJy4.md`):
+From Shaan Puri, describing [[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s method (`7nWa1F3GJy4.md`):
 
-> "He was like, 'Yeah, I love that business, so I emailed them every month for like five years, and then finally one month they were like, Yeah, I'm willing to sell.' That was the case for Letterboxd or Dribbble — he was just emailing the founder continuously. Aeropress, same thing — emailing the guy, 'Hey, have you thought about selling this month?' Some version of that question, hanging around the hoop."
+> "He was like, 'Yeah, I love that business, so I emailed them every month for like five years, and then finally one month they were like, Yeah, I'm willing to sell.' That was the case for Letterboxd or [[frameworks/dribbble|Dribbble]] — he was just emailing the founder continuously. Aeropress, same thing — emailing the guy, 'Hey, have you thought about selling this month?' Some version of that question, hanging around the hoop."
 
 The hoop metaphor: in basketball, not every shot goes in. The players who score the most are the ones who keep showing up under the basket. In acquisitions, most sellers say no today. The ones who win are the buyers who are still there when the seller changes their mind.
 
@@ -85,7 +93,7 @@ The goal of the first contact is a conversation, not a deal. Most people won't r
 
 When a seller says no — or doesn't respond — most buyers move on. That's exactly wrong.
 
-From Shaan, describing what happened when Tiny tried to buy Milk Road and the deal fell through:
+From Shaan, describing what happened when Tiny tried to buy [[frameworks/milk-road|Milk Road]] and the deal fell through:
 
 > "If I'm them, I'm thinking, 'Hate those guys.' But instead they were super professional about it. 'Okay, no problem, sounds like you want to go a different direction.' They hung around the hoop. A month later he says, 'Hey, I didn't see any announcement, like no deal went through?' We said, 'No, we decided not to.' He goes, 'Well, we're still interested.'" — Shaan Puri
 

@@ -4,12 +4,12 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Naval Ravikant: The Philosopher Who Rewired How MFM Thinks About Wealth
 
-Naval Ravikant has never appeared on My First Million. This is worth noting because his ideas have appeared on nearly every episode.
+Naval Ravikant has never appeared on [[frameworks/my-first-million|My First Million]]. This is worth noting because his ideas have appeared on nearly every episode.
 
 He is quoted more often than most guests. His frameworks structure how [[sam-parr]] and [[shaan-puri]] analyze businesses, evaluate founders, and think about what wealth actually is. Yet he has no episode page, no guest bio, no intro music. He is the show's most influential person precisely because his influence is ambient rather than direct. Naval does not show up in the MFM universe as a character. He shows up as the operating system.
 
@@ -35,7 +35,7 @@ A grudge became a blog. The blog became a business. The business became a platfo
 
 ## The Tweetstorm That Became a Worldview
 
-In 2018, Naval published a tweetstorm titled "How to Get Rich (Without Getting Lucky)." It was 40 tweets long. It has since generated more MFM content than most actual interviews.
+In 2018, Naval published a tweetstorm titled "[[frameworks/how-to-get-rich|How to Get Rich]] (Without Getting Lucky)." It was 40 tweets long. It has since generated more MFM content than most actual interviews.
 
 The core idea is deceptively simple: find your specific knowledge, apply leverage, and package the result. Specific knowledge is what you know that cannot be easily taught, usually because you acquired it by following genuine curiosity rather than a syllabus. Leverage comes in three forms: code, content (media), and capital. The product is you, scaled beyond your direct involvement.
 
@@ -69,7 +69,7 @@ Shaan's subsequent reflection on the anecdote is revealing. He described Clubhou
 
 Rick Marini, a Silicon Valley veteran who appeared on the show, spoke about Naval with the familiarity of someone who had watched the evolution from insider to guru over two decades. "Naval was always really cerebral, incredibly smart, one of the smartest guys in Silicon Valley and that's a very high bar. He's definitely gone more the guru thing. He was someone that early days inspired me for angel investing and crypto." When Marini asked Naval about the future price of Bitcoin years ago, Naval's answer was a single word and a timeline: "A million. Before we die." [[how-two-straight-guys-bought-grindr|How Two Straight Guys Bought Grindr]]
 
-[[tim-ferriss]], another friend of the show, described Naval's investing integrity in a story that has circulated through the MFM community. A young developer with a trivial Facebook app received a term sheet from Naval when he was too naive to know what a term sheet was. Years later, the developer looked back at the document and realized it was remarkably fair. "He could have taken advantage of me and I didn't know anything. It was incredibly founder friendly and fair." [[the-first-time-tim-ferriss-met-naval|The First Time Tim Ferriss Met Naval]]
+[[tim-ferriss]], another friend of the show, described Naval's investing integrity in a story that has circulated through the MFM community. A young developer with a trivial Facebook app received a term sheet from Naval when he was too naive to know what a term sheet was. Years later, the developer looked back at the document and realized it was remarkably fair. "He could have taken advantage of me and I didn't know anything. It was incredibly founder friendly and fair." [[the-first-time-tim-ferriss-met-naval|The First Time [[frameworks/tim-ferriss|Tim Ferriss]] Met Naval]]
 
 Ferriss also articulated a principle he borrowed from Naval that captures the investor's approach to relationships: "If you're not going to work with someone for a lifetime, don't work with them for five minutes." [[talking-to-tim-ferriss-about-his-podcast|Talking to Tim Ferriss About His Podcast]]
 
@@ -93,7 +93,7 @@ MFM has explored the psychology of successful entrepreneurs at length, and Naval
 
 The Epinions wound drove Naval to create VentureHacks, which drove him to build AngelList. The revenge was productive because it was channeled into infrastructure. Naval did not merely complain about the system that screwed him. He built an alternative system that made the old one partially obsolete.
 
-Sam and Shaan treat this pattern as an investment signal. As Shaan explained: "If you have in your diligence checklist, 'Is this company a form of deep revenge?' The answer is yes, cut the check." He placed Naval alongside Travis Kalanick, Palmer Luckey, and Elon Musk as founders whose rage at being wronged generated asymmetric returns for everyone around them. [[the-1-most-underrated-quality-in-an-entrepreneur|The #1 Most Underrated Quality in an Entrepreneur]]
+Sam and Shaan treat this pattern as an investment signal. As Shaan explained: "If you have in your diligence checklist, 'Is this company a form of deep revenge?' The answer is yes, cut the check." He placed Naval alongside Travis Kalanick, Palmer Luckey, and [[frameworks/elon-musk|Elon Musk]] as founders whose rage at being wronged generated asymmetric returns for everyone around them. [[the-1-most-underrated-quality-in-an-entrepreneur|The #1 Most Underrated Quality in an Entrepreneur]]
 
 The pattern suggests something uncomfortable about motivation. Clean motives -- wanting to help people, wanting to solve an interesting problem -- are admirable. Messy motives -- wanting revenge, wanting to prove someone wrong -- are often more durable. Naval's career is a case study in converting the second type into outcomes that look like the first.
 

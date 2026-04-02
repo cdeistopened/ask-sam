@@ -1,12 +1,19 @@
 ---
 name: Accumulator to Defender Wealth Transition
-description: Walk someone through the shift from aggressively building wealth to protecting it — the transition most entrepreneurs miss entirely. Use this when someone has significant net worth but little liquidity, is reinvesting every dollar without a safety floor, is watching cash drain despite a large paper net worth, or is asking "when is enough?" Trigger phrases include "net worth on paper but no cash," "keep reinvesting everything," "illiquid assets," "when should I stop accumulating," or "rich on paper but broke in practice."
+description: >-
+  Walk someone through the shift from aggressively building wealth to protecting
+  it — the transition most entrepreneurs miss entirely. Use this when someone
+  has significant net worth but little liquidity, is reinvesting every dollar
+  without a safety floor, is watching cash drain despite a large paper net
+  worth, or is asking "when is enough?" Trigger phrases include "net worth on
+  paper but no cash," "keep reinvesting everything," "illiquid assets," "when
+  should I stop accumulating," or "rich on paper but broke in practice."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 13m_but_zero_cash__why_net_worth_is_a_lie
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Mike Brown
 ---
@@ -74,7 +81,7 @@ Mike Brown's mistake: he sold his cash-flowing oil and gas assets in 2019, simul
 The transition trigger should be pre-set and automatic, not reactive:
 - A specific liquidity percentage (example: 40% liquid, minimum)
 - A specific absolute amount (example: $X liquid before the next deal)
-- An income replacement threshold (example: passive income covers burn rate for 5 years)
+- An income replacement threshold (example: [[frameworks/passive-income|passive income]] covers burn rate for 5 years)
 
 **Ask the user:** What is the specific trigger that would cause you to stop deploying and start building the defense layer? Has that trigger already been hit?
 

@@ -2,6 +2,7 @@
   "name": "ask-sam",
   "description": "876 episodes of My First Million and MoneyWise, decomposed into 18 interactive skills, 134 framework articles, 38 people profiles, and entity intelligence. Business frameworks grounded in real quotes from Sam Parr, Shaan Puri, and 500+ guests.",
   "version": "2.0.0",
+  "homepage": "https://github.com/cdeistopened/samparr-wiki",
   "author": {
     "name": "Creative Intelligence Agency"
   }

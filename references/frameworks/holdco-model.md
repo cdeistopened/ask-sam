@@ -8,7 +8,7 @@ episodes:
   - 96CbVr_eDwE
   - 3q1QvEkbbyk
   - 831LY8VDTKI
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # HoldCo Model
@@ -31,7 +31,7 @@ This is the tension at the heart of the holdco model. Great investors don't nece
 
 ## The Permanent Equity Variation
 
-[[brent-beshore]]'s [[permanent-equity]] runs a version of the holdco model with a different philosophy on fees and time horizon. Brent explained his structure in contrast to traditional private equity:
+[[brent-beshore]]'s [[permanent-equity]] runs a version of the holdco model with a different philosophy on fees and time horizon. Brent explained his structure in contrast to traditional [[frameworks/private-equity|private equity]]:
 
 > "Our model: we take no fees of any kind, no reimbursements, there's no cash that comes from the portfolio companies or from the LPs to the GP outside of a percentage of free cash flow above a hurdle as we return cash back. We don't use debt. And we hold for a very long time — we have a 30-year initial term on our capital. A typical private equity firm has 10 years."
 
@@ -45,7 +45,7 @@ Their pitch: "We can hire 10 super-talented European coders for the cost of one 
 
 ## The Congo Brands Template
 
-Perhaps the most striking informal holdco on MFM: Congo Brands, which owns 60% of Prime Energy Drink alongside Logan Paul and KSI. The founders — who prefer anonymity — first built Alani Nu (the women's energy drink brand, over $100M in annual profit) under the Congo umbrella before launching Prime. Shaan's observation: "If anybody asks who owns Prime, they say Logan Paul and KSI. In reality, these guys own 60% of that company."
+Perhaps the most striking informal holdco on MFM: Congo Brands, which owns 60% of Prime Energy Drink alongside [[frameworks/logan-paul|Logan Paul]] and KSI. The founders — who prefer anonymity — first built Alani Nu (the women's energy drink brand, over $100M in annual profit) under the Congo umbrella before launching Prime. Shaan's observation: "If anybody asks who owns Prime, they say Logan Paul and KSI. In reality, these guys own 60% of that company."
 
 The holdco structure let them apply their consumer brand playbook — developed building Alani Nu — to an entirely new market with celebrity distribution as the accelerant.
 

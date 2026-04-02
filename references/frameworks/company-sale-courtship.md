@@ -1,12 +1,18 @@
 ---
 name: Company Sale Courtship Process
-description: Walk someone through the full arc of selling a company — from the initial "dating" phase through the painful due diligence waiting period to close. Use when someone is starting an acquisition process, has a buyer interested, is in due diligence and going crazy, or wants to understand what actually makes company sales succeed or fail. James Altucher's framework from selling five+ companies.
+description: >-
+  Walk someone through the full arc of selling a company — from the initial
+  "dating" phase through the painful due diligence waiting period to close. Use
+  when someone is starting an acquisition process, has a buyer interested, is in
+  due diligence and going crazy, or wants to understand what actually makes
+  company sales succeed or fail. James Altucher's framework from selling five+
+  companies.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - GkNJbj5qbXM
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - James Altucher
 ---
@@ -111,7 +117,7 @@ James Altucher:
 
 Tactics that work:
 - **Don't anchor first** if you can avoid it — make them put a number on the table
-- **Have a range ready** based on your three valuation methods (see the Three-Method Company Valuation framework)
+- **Have a range ready** based on your three valuation methods (see the [[frameworks/three-method-company-valuation|Three-Method Company Valuation]] framework)
 - **Anchor high within a credible range** — you can always come down, you can rarely go up
 
 The core negotiating skill Altucher identifies:
@@ -128,7 +134,7 @@ Altucher on what this means structurally:
 
 > "You also have to say, look, here's how one plus one equals three... you have to be able to express that this vision is going to benefit you personally if you partner with this other company."
 
-Suli Ali's assessment of the Milk Road deal structure (from `F-McXK-60BI.md`):
+Suli Ali's assessment of the [[frameworks/milk-road|Milk Road]] deal structure (from `F-McXK-60BI.md`):
 
 > "I love the deal structure that Milk Road ended up with — a bunch of cash up front and then a bunch of equity in the new company where those two guys want to grind it out for years and build a giant business. In my head, some percentage of the work they do is just creating value for you and Ben. I love that deal structure."
 
@@ -171,4 +177,4 @@ After working through this framework, deliver:
 
 ## Source
 
-[Entrepreneur Who Lost Millions Breaks Down How To Come Back Financially](https://www.youtube.com/watch?v=GkNJbj5qbXM) — Sam Parr and Shaan Puri interview James Altucher, May 2020.
+[Entrepreneur Who Lost Millions Breaks Down How To Come Back Financially](https://www.youtube.com/watch?v=GkNJbj5qbXM) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview James Altucher, May 2020.

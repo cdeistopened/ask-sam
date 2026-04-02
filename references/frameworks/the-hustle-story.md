@@ -4,7 +4,7 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # The Hustle
@@ -19,7 +19,7 @@ At 23 years old, Sam set a goal that sounds delusional until you hear him explai
 
 This reverse-engineering shaped every subsequent decision. The Hustle was not born from a passion for newsletters. It was the answer to a spreadsheet problem: what business could realistically get to $15 million in revenue within seven years? ([How To Get Ahead of 99% of People - 13:45](https://www.youtube.com/watch?v=example&t=825))
 
-He missed the deadline by one year, selling at 31 instead of 30. When he talks about this, there is no disappointment. The goal existed to create direction, not to create a scorecard. The point was breaking an intimidating number into something actionable. ([How To Get Ahead of 99% of People - 16:00](https://www.youtube.com/watch?v=example&t=960))
+He missed the deadline by one year, selling at 31 instead of 30. When he talks about this, there is no disappointment. The goal existed to create direction, not to create a scorecard. The point was [[episodes/Dwi6UbdpZyk|breaking]] an intimidating number into something actionable. ([How To Get Ahead of 99% of People - 16:00](https://www.youtube.com/watch?v=example&t=960))
 
 ## Three Percent Per Week
 

@@ -1,12 +1,22 @@
 ---
 name: Marriage and Money Alignment
-description: Walk someone through the financial dimensions of a serious relationship — how to evaluate money compatibility before marriage, how to structure shared finances, what red flags in a partner's money behavior actually mean, and how to navigate divorce if it comes to that. Use this when someone is getting serious with a partner and hasn't talked about money, is seeing money red flags in their relationship, is about to get married and considering a prenup, or is navigating a divorce and trying to protect assets. Trigger phrases include "prenup," "should we combine finances," "my partner is weird about money," "red flags in a relationship," "divorce and business valuation," or "50/50 split."
+description: >-
+  Walk someone through the financial dimensions of a serious relationship — how
+  to evaluate money compatibility before marriage, how to structure shared
+  finances, what red flags in a partner's money behavior actually mean, and how
+  to navigate divorce if it comes to that. Use this when someone is getting
+  serious with a partner and hasn't talked about money, is seeing money red
+  flags in their relationship, is about to get married and considering a prenup,
+  or is navigating a divorce and trying to protect assets. Trigger phrases
+  include "prenup," "should we combine finances," "my partner is weird about
+  money," "red flags in a relationship," "divorce and business valuation," or
+  "50/50 split."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - be_careful_who_you_choose_to_spend_the_rest_of_you
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Jennifer (anonymous)
   - Sam Parr
@@ -33,7 +43,7 @@ From Jennifer (`be_careful_who_you_choose_to_spend_the_rest_of_you.md`), who bui
 
 > "The way someone acts around money in a relationship is a sign that you should pay attention to."
 
-And from Sam Parr, who interviewed Jennifer:
+And from [[frameworks/sam-parr|Sam Parr]], who interviewed Jennifer:
 
 > "In my opinion, choosing the right spouse or life partner is arguably the most important financial decision that you're ever going to make in your life."
 

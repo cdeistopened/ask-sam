@@ -1,6 +1,16 @@
 ---
 name: Four Rules for Building Wealth
-description: Walk someone through the four foundational principles that govern how wealthy founders actually build and protect lasting wealth — distilled from 100+ MoneyWise interviews with founders ranging from $1M to $1B+ net worth. Use this when someone is in the accumulation phase and wants a clear framework, is making their first major investment decisions, is asking how to think about their money after an exit, or wants to understand the common thread across people who build wealth that lasts. Trigger phrases include "how do wealthy people actually invest," "what are the rules for building wealth," "I don't have an investment philosophy," "where do I start with my money," "how do the rich stay rich," or "what do I need to know."
+description: >-
+  Walk someone through the four foundational principles that govern how wealthy
+  founders actually build and protect lasting wealth — distilled from 100+
+  MoneyWise interviews with founders ranging from $1M to $1B+ net worth. Use
+  this when someone is in the accumulation phase and wants a clear framework, is
+  making their first major investment decisions, is asking how to think about
+  their money after an exit, or wants to understand the common thread across
+  people who build wealth that lasts. Trigger phrases include "how do wealthy
+  people actually invest," "what are the rules for building wealth," "I don't
+  have an investment philosophy," "where do I start with my money," "how do the
+  rich stay rich," or "what do I need to know."
 type: framework
 domain: frameworks
 status: published
@@ -10,7 +20,7 @@ episodes:
   - 10m_vs__100m__the_difference_between_being_rich_a
   - i_didn_t_have_any_idea_what_i_was_spending___near
   - top_money_and_life_secrets_from_25_millionaires__w
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Steve Houghton
   - Rob Townsend
@@ -36,7 +46,7 @@ The user is in the wealth-building phase and wants a clear, simple framework —
 
 ## The Core Principle
 
-From Sam Parr, after 100+ MoneyWise interviews with high-net-worth founders:
+From [[frameworks/sam-parr|Sam Parr]], after 100+ MoneyWise interviews with high-net-worth founders:
 
 > "In most every case, it's never going to feel like it's enough money. No matter what you have, if you think that you're going backwards or that you're going to run out, which it's very normal to feel like that, even if you have a billion, 100 million, or $10, you are always going to feel like it's not enough."
 
@@ -68,7 +78,7 @@ Hampton data confirms: the primary wealth-building vehicle for every tier up to 
 
 ## Rule 2: Don't Lose Money
 
-Warren Buffett's rules — cited by Rob Townsend as the foundational framework:
+[[frameworks/warren-buffett|Warren Buffett]]'s rules — cited by Rob Townsend as the foundational framework:
 
 > "We go back to Buffett's rule. What's the rule number one of investing? Don't lose money. What's rule number two? Don't forget rule number one. And I think what he's saying is it's important to study losing before concentrating on winning."
 
@@ -94,7 +104,7 @@ Wealthy people systematically undertrack their expenses. This is not a minor ove
 
 Ryan Begelman (`i_didn_t_have_any_idea_what_i_was_spending___near.md`), who made $13M and nearly burned through it:
 
-> "I didn't have any idea what I was spending. Only thing I tracked was my net worth. I had a spreadsheet. You'd think I would know a lot more about this because I was a banker and a private equity guy, and I knew a lot about modeling."
+> "I didn't have any idea what I was spending. Only thing I tracked was my net worth. I had a spreadsheet. You'd think I would know a lot more about this because I was a banker and a [[frameworks/private-equity|private equity]] guy, and I knew a lot about modeling."
 
 His burn peaked at $67K/month without his awareness:
 

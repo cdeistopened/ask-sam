@@ -1,6 +1,6 @@
 # Cold Outreach System
 
-Walk a founder through building a cold outreach engine using Sam Parr's email playbook, Sarah Moore's mass outreach system, and Shaan Puri's creative access strategies from My First Million.
+Walk a founder through building a cold outreach engine using [[frameworks/sam-parr|Sam Parr]]'s email playbook, Sarah Moore's mass outreach system, and [[frameworks/shaan-puri|Shaan Puri]]'s creative access strategies from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -136,8 +136,23 @@ Once you've found the message that gets replies and the conversation that conver
 - Track: emails sent, replies, meetings booked, conversions
 - Hire a VA to handle the mechanical parts (list building, email verification, scheduling)
 
-**Sam's scaling principle from The Hustle:**
+**Sam's scaling principle from [[frameworks/the-hustle-story|The Hustle]]:**
 He built The Hustle's initial audience through cold email to conference attendees. The process: attend events → collect business cards → email everyone → repeat. Volume + follow-up = growth.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/data-driven-lead-generation.md` for systematic lead list building and qualification
+- Read `references/frameworks/signal-without-desperation.md` for outreach that conveys value without neediness
+- Read `references/frameworks/theory-of-preeminence.md` for Jay Abraham's client-first approach to outreach
+- Read `references/frameworks/personal-branding.md` for building inbound authority that makes outreach easier
+- Read `references/frameworks/the-hustle-story.md` for Sam's full story of building The Hustle through cold outreach
+- Read `references/frameworks/move-to-the-end-offer.md` for skipping the dance and going direct
+
+People profiles relevant to outreach:
+- Read `references/people/sam-parr.md` for Sam's own cold outreach origin story
+- Read `references/people/nick-huber.md` for sweaty startup outreach and lead generation
 
 ## Output
 

@@ -1,10 +1,12 @@
 ---
-title: "1000 True Fans"
+title: 1000 True Fans
 type: business-model
 domain: business-models
 status: draft
-episodes: [7_people_making__5m__10m_from_, tim_ferriss_why_you_should_sto]
-date_created: 2026-02-05
+episodes:
+  - 7_people_making__5m__10m_from_
+  - tim_ferriss_why_you_should_sto
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 
@@ -17,13 +19,13 @@ In 2008, Kevin Kelly published a simple essay with a simple premise: if you can 
 [[tim-ferriss]] connects this to what he calls the Law of Category, taken from *The 22 Immutable Laws of Marketing*: "Rather than trying to be the best in a crowded category, try to be the *only* in a new category." This is not about competing better. It is about refusing to compete at all—carving out territory so specific that you own it by default.
 ## Quality Over Quantity: The Ferrari Principle
 
-Here is the counterintuitive truth that the entire creator economy gets backward: **who** follows you matters infinitely more than **how many** people follow you.
+Here is the counterintuitive truth that the entire [[frameworks/creator-economy|creator economy]] gets backward: **who** follows you matters infinitely more than **how many** people follow you.
 
-Shaan Puri illustrates this with a comparison that has stuck in my mind since I first heard it: "General Motors sells 2 and a half million cars a year and is a like 50 billion dollar company. Ferrari only sells 13,000 cars—200 times less right, 200 times fewer customers, less reach—but is at $80 billion company, almost double the value."
+[[frameworks/shaan-puri|Shaan Puri]] illustrates this with a comparison that has stuck in my mind since I first heard it: "General Motors sells 2 and a half million cars a year and is a like 50 billion dollar company. Ferrari only sells 13,000 cars—200 times less right, 200 times fewer customers, less reach—but is at $80 billion company, almost double the value."
 
 How is that possible? Ferrari chose to serve higher-end customers. One Ferrari buyer is worth 200 GM buyers.
 
-Tim Ferriss has a thought experiment that makes this personal: Would you rather have 100,000 Americans picked at random read your book—or have every member of Davos read your book and love your work?
+[[frameworks/tim-ferriss|Tim Ferriss]] has a thought experiment that makes this personal: Would you rather have 100,000 Americans picked at random read your book—or have every member of Davos read your book and love your work?
 
 Obviously you pick Davos. You pick the higher-value, higher-signal group.
 
@@ -37,7 +39,7 @@ The insight here is psychological, not tactical. Ignoring vanity metrics is not 
 
 If you cannot trust follower counts, downloads, or subscriber numbers, what can you trust?
 
-[[sam-parr]] has a tactic from his days at [[the-hustle]] that I find brilliantly simple: "At The Hustle, we used replies. I would purposely include typos or ask people to send pictures of their desks just to see the engagement. We once got 10,000 replies on 100,000 subscribers."
+[[sam-parr]] has a tactic from his days at [[the-hustle]] that I find brilliantly simple: "At [[frameworks/the-hustle-story|The Hustle]], we used replies. I would purposely include typos or ask people to send pictures of their desks just to see the engagement. We once got 10,000 replies on 100,000 subscribers."
 
 That is a 10% true-fan rate. One in ten subscribers cared enough to respond to a typo complaint or a desk photo request. That ratio told Sam something no platform metric could: these people were actually reading, actually paying attention, actually engaged.
 
@@ -69,7 +71,7 @@ The ultimate expression of this is what Shaan calls "productizing yourself": "Th
 
 The theory is elegant. But does it actually work?
 
-Sam Parr has spent considerable time investigating what he calls the "creator middle class"—people making serious money from seemingly tiny audiences. "There's so many people out there that are making $10, $20, $50 million a year and they have like 800 or 400,000 followers in a very niche community like meat smoking or something like that."
+[[frameworks/sam-parr|Sam Parr]] has spent considerable time investigating what he calls the "creator middle class"—people making serious money from seemingly tiny audiences. "There's so many people out there that are making $10, $20, $50 million a year and they have like 800 or 400,000 followers in a very niche community like meat smoking or something like that."
 
 Consider Jonathan Katz-Moses. He is a woodworker on YouTube. Sam describes his operation: "He only has 600,000 subscribers. Which I think most anyone dedicated four years to virtually any niche and they spend 20 hours a week on it, I think they can get to 600,000 subscribers. So he only has 600,000 subscribers and he only is outputting like one video a month... And his tool site is doing around $6 million in revenue now."
 
@@ -122,13 +124,13 @@ The algorithm is not your enemy. The algorithm is a mirror. It reflects what peo
 ## Sources
 
 ### Primary Episodes
-- "How To Grow An Audience If You Have 0 Followers"
+- "[[episodes/-8gQbaNl6Wk|How To Grow An Audience If You Have 0 Followers]]"
 - "How To Make $25 Million With A Niche Hobbyist Magazine (#419)"
 - [[episodes7peoplemaking5m10mfrom|7 People Making $5M-$10M From Weird Hobbies]] -- $10M From Weird Hobbies"
-- "7 YouTubers Making +$5M/Year With Weird Hobbies"
-- "The Blueprint for living a Dope Life | Tim Ferriss"
+- "[[episodes/ZDxyhh1P0aU|7 YouTubers Making +$5M/Year With Weird Hobbies]]"
+- "[[episodes/7D_AGAb_A-4|The Blueprint for living a Dope Life | Tim Ferriss]]"
 
 ### Secondary Episodes
 - [[episodestimferrisswhyyoushouldsto|Tim Ferriss: Why You Should Stop Over-Optimizing Your Life]] -- Optimizing Your Life"
 - "The Man Behind MrBeast's $500M Business Portfolio (#475)"
-- "Data Backed Businesses Guaranteed To Make +$1M From Day 1"
+- "[[episodes/7nWa1F3GJy4|Data Backed Businesses Guaranteed To Make +$1M From Day 1]]"

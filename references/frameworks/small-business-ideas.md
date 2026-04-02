@@ -1,5 +1,5 @@
 ---
-title: "Small Business Ideas: The MFM Guide to Opportunities Hiding in Plain Sight"
+title: 'Small Business Ideas: The MFM Guide to Opportunities Hiding in Plain Sight'
 type: seo
 domain: seo
 status: draft
@@ -9,14 +9,14 @@ episodes:
   - he_launched_a_sweaty_startup_i
   - 3_simple_businesses_that_make_
   - i_made__50m_buying___running_b
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Small Business Ideas: The MFM Guide to Opportunities Hiding in Plain Sight
 
 A woman named Heather Torres sells pumpkins. Not year-round. Not at scale. Just pumpkins, arranged tastefully on porches in affluent neighborhoods for six to eight weeks each fall. Her company, Porch Pumpkins, generates $1.5 to $2 million in annual revenue with 40 to 50 percent net margins. She works two months and earns what many tech workers chase for a decade.
 
-The pattern appears again and again on My First Million. The hosts and their guests keep stumbling onto businesses that seem too simple to work—kids' dance studios, gutter cleaning services, seasonal flower operations. Yet the numbers tell a different story. These small business ideas are not stepping stones to something bigger. For many operators, they are the destination.
+The pattern appears again and again on [[frameworks/my-first-million|My First Million]]. The hosts and their guests keep stumbling onto businesses that seem too simple to work—kids' dance studios, gutter cleaning services, seasonal flower operations. Yet the numbers tell a different story. These small business ideas are not stepping stones to something bigger. For many operators, they are the destination.
 
 What separates the ideas that print money from those that consume years of effort is rarely complexity. It is usually the opposite.
 
@@ -24,7 +24,7 @@ What separates the ideas that print money from those that consume years of effor
 
 ## What Makes a Small Business Idea Work
 
-The term "small business" carries baggage. It conjures images of struggle, of barely breaking even, of working harder for less than an employee would earn. But the businesses discussed on My First Million share characteristics that distinguish them from the median case.
+The term "small business" carries baggage. It conjures images of struggle, of barely [[episodes/Dwi6UbdpZyk|breaking]] even, of working harder for less than an employee would earn. But the businesses discussed on My First Million share characteristics that distinguish them from the median case.
 
 The best small business ideas share three traits: they serve a need that customers cannot ignore, they resist technological disruption, and they operate in markets where the smartest competitors refuse to play.
 
@@ -174,7 +174,7 @@ The MFM approach emphasizes observation. Drive through affluent neighborhoods an
 
 **Should I start a business or buy an existing one?**
 
-Starting requires less capital but more time to reach profitability. Buying requires more capital but generates immediate cash flow. Brent Beshore made 20x on his first acquisition. Lincoln Snyder built a profitable business in high school with almost no capital. Both paths work. The choice depends on resources, risk tolerance, and timeline.
+Starting requires less capital but more time to reach profitability. Buying requires more capital but generates immediate cash flow. [[frameworks/brent-beshore|Brent Beshore]] made 20x on his first acquisition. Lincoln Snyder built a profitable business in high school with almost no capital. Both paths work. The choice depends on resources, risk tolerance, and timeline.
 
 **What is the "gateway drug" business for beginners?**
 
@@ -188,7 +188,7 @@ Starting requires less capital but more time to reach profitability. Buying requ
 - [[episodesthesidehustleking11easy|The Side Hustle King: 11 Easy Businesses Anyone Can Start]] -- Porch Pumpkins, sport courts, in-ground trampolines, mobile fuel delivery, RV parks
 - [[episodeshelaunchedasweatystartupi|He launched a sweaty startup in high school. Now he'll be a millionaire by 18]] -- Lincoln Snyder's power washing business, Teens2Table, mums business
 - [[episodes3simplebusinessesthatmake|3 Simple Businesses That Make Millions]] -- Suck My Gutters Clean, Billy Bob's Teeth
-- [[episodesimade50mbuyingrunningb|I Made $50M Buying & Running Boring Businesses]] -- Brent Beshore, Permanent Equity, acquisition entrepreneurship
+- [[episodesimade50mbuyingrunningb|I Made $50M Buying & Running Boring Businesses]] -- Brent Beshore, [[frameworks/permanent-equity|Permanent Equity]], [[frameworks/acquisition-entrepreneurship|acquisition entrepreneurship]]
 
 ---
 

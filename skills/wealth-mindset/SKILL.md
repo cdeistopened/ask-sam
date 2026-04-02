@@ -1,6 +1,8 @@
 ---
 name: wealth-mindset
-description: "Money psychology coaching from 793 episodes of My First Million — tutor-led exploration of what wealth means, common traps, and building a legacy"
+description: >-
+  Money psychology coaching from 793 episodes of My First Million — tutor-led
+  exploration of what wealth means, common traps, and building a legacy
 ---
 
 # Wealth Mindset — Money Psychology from MFM
@@ -40,7 +42,7 @@ This exercise comes from the goal-architect skill, but it's the foundation of we
 From the wealth-allocator framework: what's the number where you'd stop optimizing? Most people have never calculated it. They just assume "more" is the answer. Sam pushes people to get specific — what does your life cost annually, what's the multiple you need invested, what's the number?
 
 **Shaan's Emotional Home**
-Shaan Puri describes your "emotional home" — the default emotional state you always return to. Some people's emotional home is anxiety. Some people's is contentment. Your emotional home drives every financial decision you make. If your emotional home is scarcity, no amount of money fixes it.
+[[frameworks/shaan-puri|Shaan Puri]] describes your "emotional home" — the default emotional state you always return to. Some people's emotional home is anxiety. Some people's is contentment. Your emotional home drives every financial decision you make. If your emotional home is scarcity, no amount of money fixes it.
 
 Source: `transcripts/mfm/2023-12-27-10-lessons-we-learned-from-filming-131-episodes-of-my-first-million-in-2023.md`
 
@@ -76,7 +78,7 @@ From Hampton member data and conversations with Jackie, Sam breaks down what act
 
 Source: `transcripts/moneywise/10m_vs__100m__the_difference_between_being_rich_a.md`
 
-**Five Pillars of True Wealth**
+**[[frameworks/five-pillars-true-wealth|Five Pillars of True Wealth]]**
 Steve Houghton ($1B+ builder) describes five pillars: health, relationships, growth, purpose, financial freedom. Financial freedom is just one pillar. Most entrepreneurs over-index on it and let the other four atrophy.
 
 Source: `transcripts/moneywise/1b_and_counting__steve_houghton_s_five_pillars_fo.md`
@@ -166,11 +168,11 @@ Source: `transcripts/the__300_million_exit_that_s_funding_humanity_s_fu.md`
 Beckham talks about the integration of money and meaning — that they aren't opposed. You can build wealth and build meaning simultaneously, but only if you're intentional about it. Wealth without meaning is just a scoreboard.
 
 **Kids and Wealth**
-Dr. Becky Kennedy on raising kids without entitlement: the goal isn't to hide wealth, it's to give kids agency and responsibility within it. Taylor Adams grew up in a billionaire family and talks about how wealth can rob motivation if the family doesn't actively counteract it.
+Dr. Becky Kennedy on [[frameworks/kids-and-wealth|raising kids without entitlement]]: the goal isn't to hide wealth, it's to give kids agency and responsibility within it. Taylor Adams grew up in a billionaire family and talks about how wealth can rob motivation if the family doesn't actively counteract it.
 
 Source: `transcripts/moneywise/how_to_not_ruin_your_kids_with_your_wealth_ft__dr.md`, `transcripts/moneywise/born_a_billionaire__how_to_avoid_wealth_robbing_yo.md`
 
-**Marriage and Money Alignment**
+**[[frameworks/marriage-and-money|Marriage and Money Alignment]]**
 One of the most overlooked wealth topics. Misalignment with a partner on money values destroys more wealth than bad investments. Sam talks about the importance of choosing someone whose relationship with money complements yours.
 
 Source: `transcripts/moneywise/be_careful_who_you_choose_to_spend_the_rest_of_you.md`
@@ -197,6 +199,29 @@ Then present how this connects to other skills:
 - **`/ask-sam:exit-coach`** — If you're thinking about selling, this skill walks through the process and the psychology of exits.
 
 ---
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/emotional-home-framework.md` for Shaan's full emotional home concept and how to change your default state
+- Read `references/frameworks/post-exit-identity.md` for the complete post-exit psychological crash playbook
+- Read `references/frameworks/spending-frameworks.md` for conscious spending systems and lifestyle design
+- Read `references/frameworks/kids-and-wealth.md` for raising children with money without destroying motivation
+- Read `references/frameworks/marriage-and-money.md` for partner alignment on money values
+- Read `references/frameworks/fire-movement.md` for the FIRE philosophy and Sam's critique of it
+- Read `references/frameworks/second-mountain.md` for what comes after financial success — purpose and meaning
+- Read `references/frameworks/safe-vs-risky-path.md` for the reframe on which career path is actually riskier
+- Read `references/frameworks/infinite-vs-finite-games.md` for Shaan's career-as-infinite-game philosophy
+- Read `references/frameworks/seasons-of-life-focus.md` for matching your money strategy to your life stage
+- Read `references/frameworks/five-pillars-true-wealth.md` for Steve Houghton's holistic wealth definition
+- Read `references/frameworks/wealth-level-staircase.md` for what changes psychologically at each wealth stage
+- Read `references/frameworks/charitable-giving-frameworks.md` for structured giving while still building
+- Read `references/frameworks/passive-income.md` for the MFM perspective on [[frameworks/passive-income|passive income]] myths and realities
+
+People profiles relevant to wealth mindset:
+- Read `references/people/jesse-itzler.md` for the adventure-wealth balance and living fully
+- Read `references/people/scott-galloway.md` for the algebra of happiness and wealth perspective
 
 ## Rules
 

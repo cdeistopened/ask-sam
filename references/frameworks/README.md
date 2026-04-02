@@ -1,6 +1,6 @@
 # Framework Articles
 
-47 business frameworks extracted from 793 episodes of My First Million and 83 episodes of MoneyWise.
+47 business frameworks extracted from 793 episodes of [[frameworks/my-first-million|My First Million]] and 83 episodes of MoneyWise.
 
 Each framework is a standalone guide that works as both a readable article and an interactive Claude skill.
 

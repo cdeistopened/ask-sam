@@ -10,7 +10,7 @@ episodes:
   - how_alex_hormozi_gets_other_pe
   - leila_hormozi__from_minimum_wa
   - its_my_best_deal_ever_alex_hor
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Alex Hormozi
@@ -41,7 +41,7 @@ When you hit this ratio, something unusual happens. You can outspend any competi
 
 This explains his obsession with [[money-models]] - deliberate sequences of offers designed to maximize front-end revenue. Not because he likes selling. Because the business that can spend more to acquire a customer usually wins.
 
-*Hormozi explaining the Money Models framework*
+*Hormozi explaining the [[frameworks/money-models|Money Models]] framework*
 
 ## The Talent Thesis
 
@@ -145,7 +145,7 @@ Barely. His media operation brings in roughly $1.5 million annually from AdSense
 **What is Alex Hormozi's net worth?**
 Over $100 million, built primarily through the Gym Launch exit and subsequent [[acquisitioncom]] portfolio companies.
 
-**What does Acquisition.com do?**
+**What does [[frameworks/acquisition-com|Acquisition.com]] do?**
 Acquires minority stakes in businesses typically doing $3-30 million in revenue and helps them scale using Hormozi's operational frameworks.
 
 ## Sources and Episodes

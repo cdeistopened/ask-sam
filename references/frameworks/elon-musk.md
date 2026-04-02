@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Elon Musk
@@ -47,7 +47,7 @@ When [[amjad-masad]] was building the seed deck for [[replit]], the company that
 
 Tesla's version: build an expensive sports car (Roadster), use that money to build a more affordable sedan (Model S), use that money to build a mass-market car (Model 3), and along the way provide zero-emission electric power generation options. Each step funds the next. Each step expands the addressable market. The plan reads less like a business strategy and more like a proof by mathematical induction.
 
-The reason this format spread to other founders is that it solves a specific fundraising problem. Investors are skeptical of grandiose visions but attracted to logical sequences. The master plan format lets you pitch the moon landing while showing the engineering for each intermediate step. It domesticates ambition by breaking it into milestones.
+The reason this format spread to other founders is that it solves a specific fundraising problem. Investors are skeptical of grandiose visions but attracted to logical sequences. The master plan format lets you pitch the moon landing while showing the engineering for each intermediate step. It domesticates ambition by [[episodes/Dwi6UbdpZyk|breaking]] it into milestones.
 
 ## The Operator Behind the Operator
 

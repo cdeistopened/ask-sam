@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Tim Ferriss
@@ -81,9 +81,9 @@ The danger of being known for one thing: if that thing becomes irrelevant or you
 
 ## MFM Context
 
-Tim Ferriss has appeared on My First Million multiple times, with his ideas referenced throughout the show's history. [[sam-parr]] and [[shaan-puri]] frequently discuss concepts from his work, particularly around lifestyle design, freedom numbers, and the experimental approach to building businesses.
+Tim Ferriss has appeared on [[frameworks/my-first-million|My First Million]] multiple times, with his ideas referenced throughout the show's history. [[sam-parr]] and [[shaan-puri]] frequently discuss concepts from his work, particularly around lifestyle design, freedom numbers, and the experimental approach to building businesses.
 
-His influence on the modern creator economy is hard to overstate. Before "creator economy" was a phrase, Ferriss was demonstrating that one person with good ideas and distribution could build a business that looked nothing like a traditional company.
+His influence on the modern [[frameworks/creator-economy|creator economy]] is hard to overstate. Before "creator economy" was a phrase, Ferriss was demonstrating that one person with good ideas and distribution could build a business that looked nothing like a traditional company.
 
 ---
 
@@ -98,4 +98,4 @@ His influence on the modern creator economy is hard to overstate. Before "creato
 
 ---
 
-*Sources: "Tim Ferriss: Why You Should Stop Over-Optimizing Your Life," "Talking to Tim Ferriss about how to live a dope life," "The Blueprint for living a Dope Life | Tim Ferriss," "Meeting Tim Ferriss, Real Estate & SaaS ideas (#395)"*
+*Sources: "[[episodes/Ql8aB0tqC0o|Tim Ferriss: Why You Should Stop Over-Optimizing Your Life]]," "Talking to Tim Ferriss about how to live a dope life," "[[episodes/7D_AGAb_A-4|The Blueprint for living a Dope Life | Tim Ferriss]]," "Meeting Tim Ferriss, Real Estate & SaaS ideas (#395)"*

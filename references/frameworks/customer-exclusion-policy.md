@@ -1,19 +1,25 @@
 ---
 name: Customer Exclusion Policy
-description: Help someone identify which customers to stop accepting — and build a deliberate exclusion policy that improves product outcomes, community quality, and profit margins. Use when someone says "our refund rate is high," "some customers are exhausting," "we attract the wrong people," "our community feels diluted," or "we keep taking clients who aren't ready." Also activate when someone is building a paid community and wants to filter for fit.
+description: >-
+  Help someone identify which customers to stop accepting — and build a
+  deliberate exclusion policy that improves product outcomes, community quality,
+  and profit margins. Use when someone says "our refund rate is high," "some
+  customers are exhausting," "we attract the wrong people," "our community feels
+  diluted," or "we keep taking clients who aren't ready." Also activate when
+  someone is building a paid community and wants to filter for fit.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 40cZdzYHd2I
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Ramit Sethi
 ---
 
 # Customer Exclusion Policy
 
-Help someone deliberately identify and exclude non-ideal customers to improve product outcomes, community quality, and long-term margins — using Ramit Sethi's framework from My First Million.
+Help someone deliberately identify and exclude non-ideal customers to improve product outcomes, community quality, and long-term margins — using Ramit Sethi's framework from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -90,7 +96,7 @@ Turning someone away is only as good as the alternative you provide. A bare "we 
 
 Ramit's version includes a graceful exit: "Enjoy my free material. Use it for as long as you want. When you are ready, I will be here."
 
-The exclusion policy and the Theory of Preeminence work together. You turn away the customer who isn't ready — and simultaneously point them toward what they need to get ready.
+The exclusion policy and the [[frameworks/theory-of-preeminence|Theory of Preeminence]] work together. You turn away the customer who isn't ready — and simultaneously point them toward what they need to get ready.
 
 **Ask the user:**
 - What would the excluded customer need to do or achieve before they'd be a good fit?
@@ -145,4 +151,4 @@ After the session, deliver:
 
 ## Source
 
-[Why You Should Have a Diversified Investment Portfolio](https://www.youtube.com/watch?v=40cZdzYHd2I) — Sam Parr and Shaan Puri interview Ramit Sethi on My First Million.
+[Why You Should Have a Diversified Investment Portfolio](https://www.youtube.com/watch?v=40cZdzYHd2I) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Ramit Sethi on My First Million.

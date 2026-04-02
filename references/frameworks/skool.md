@@ -4,7 +4,7 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Skool
@@ -13,13 +13,13 @@ Sam Ovens invested $10 million of his own money into building Skool — reported
 
 ## What Skool Is
 
-Skool is a community platform that lets creators build paid membership communities. As Sam Parr described it on MFM: "It's a community building tool — you can create a paid community and people can join it." The platform is heavily used in the affiliate marketing, e-commerce, and online business education space. When Sam browsed the top communities on the site, he found categories around better finances, better body, better style — "anything aspirational you'd want."
+Skool is a community platform that lets creators build paid membership communities. As [[frameworks/sam-parr|Sam Parr]] described it on MFM: "It's a [[frameworks/community-building|community building]] tool — you can create a paid community and people can join it." The platform is heavily used in the affiliate marketing, e-commerce, and online business education space. When Sam browsed the top communities on the site, he found categories around better finances, better body, better style — "anything aspirational you'd want."
 
-The competition includes Circle.so, which has raised tens of millions of dollars in venture capital. Skool, built on one founder's personal savings, outpaced them anyway. As Shaan Puri noted: "Skool has more than doubled their traffic — and they doubled it before they even took the money. That's insane."
+The competition includes Circle.so, which has raised tens of millions of dollars in venture capital. Skool, built on one founder's personal savings, outpaced them anyway. As [[frameworks/shaan-puri|Shaan Puri]] noted: "Skool has more than doubled their traffic — and they doubled it before they even took the money. That's insane."
 
 ## The Hormozi Investment
 
-[[alex-hormozi]] bought into Skool from [[acquisition-com]], and he described it as the best deal he had ever done. He explained his reasoning on MFM: his audience skews heavily toward people who want to start a business, and he needed a product for that segment that wouldn't cannibalize his other companies. Skool fit — it was demand-constrained (not supply-constrained), had network effects built in, and was compounding 20% month over month.
+[[alex-hormozi]] bought into Skool from [[acquisition-com]], and he described it as the best deal he had ever done. He explained his reasoning on MFM: his audience skews heavily toward people who want to start a business, and he needed a product for that segment that wouldn't cannibalize his other companies. Skool fit — it was demand-constrained (not supply-constrained), had [[frameworks/network-effects|network effects]] built in, and was compounding 20% month over month.
 
 But the real constraint wasn't financial. Hormozi said the brand commitment was the "butt-clenching" part, not the cash: "You only have three or four brand bullets that you can use where you're going to promote without becoming a shell." He spent nine months negotiating every component of the deal because he treated his endorsement as the scarcest asset he had.
 

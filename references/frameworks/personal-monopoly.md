@@ -5,7 +5,7 @@ domain: frameworks
 status: draft
 episodes:
   - kKozccr60XM
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Personal Monopoly
@@ -52,7 +52,7 @@ The lesson: personal monopoly accrues through consistency over time. The value i
 
 Sam identified a pattern across entertainment and media: Jeff Probst with Survivor, Chris Harrison with The Bachelor. Hosts who look like they say a few lines and could be swapped for anyone. But they can't be, because the audience's attachment to the franchise is partially attachment to them.
 
-The non-entertainment application: the same dynamic operates in business. Tim Ferriss is synonymous with lifestyle design and the 4-hour workweek — nobody else can claim that mental territory without fighting a deeply entrenched association. Jack Butcher owns "Visualize Value" — one graphic that explains a complicated concept — and built a $2-3M annual course business from it.
+The non-entertainment application: the same dynamic operates in business. [[frameworks/tim-ferriss|Tim Ferriss]] is synonymous with lifestyle design and the 4-hour workweek — nobody else can claim that mental territory without fighting a deeply entrenched association. Jack Butcher owns "Visualize Value" — one graphic that explains a complicated concept — and built a $2-3M annual course business from it.
 
 ## Building Yours
 

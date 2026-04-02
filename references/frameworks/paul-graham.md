@@ -9,12 +9,12 @@ episodes:
   - Tcs3r5DYytw
   - 4Kew0XhMck4
   - 2VNflAMbWEk
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Paul Graham
 
-Paul Graham sold Viaweb to Yahoo for $49 million in 1998, used the money to fund the first Y Combinator batch in 2005, and then wrote essays that reached more founders more directly than anything else in the history of startup advice. He is the most cited thinker on My First Million whose name most casual listeners might not immediately recognize.
+Paul Graham sold Viaweb to Yahoo for $49 million in 1998, used the money to fund the first Y Combinator batch in 2005, and then wrote essays that reached more founders more directly than anything else in the history of startup advice. He is the most cited thinker on [[frameworks/my-first-million|My First Million]] whose name most casual listeners might not immediately recognize.
 
 ## The Collison Installation
 
@@ -38,7 +38,7 @@ The point isn't aggression or competitiveness. It's a quality of engagement — 
 
 ## Replit, PG, and the Email Relationship
 
-Amjad Masad had an extended email relationship with Graham after Sam Altman connected them. Masad described spending hours crafting each message. Graham had been thinking about similar problems to Replit — coding environments, accessible programming — since selling Viaweb.
+[[frameworks/amjad-masad|Amjad Masad]] had an extended email relationship with Graham after Sam Altman connected them. Masad described spending hours crafting each message. Graham had been thinking about similar problems to Replit — coding environments, accessible programming — since selling Viaweb.
 
 When Amjad got into YC on his fifth attempt, after Rick Rolling the application video, Graham had been a champion behind the scenes. Masad described him as "a great writer" who engaged seriously with the technical problems. The email exchanges helped Masad develop his thinking about what Replit was actually for.
 
@@ -62,8 +62,8 @@ Most managers pick a level and stay there. Founder mode is the ability to hold b
 
 ## YC as a Cultural Institution
 
-Y Combinator's impact on the MFM universe is pervasive. Blake Scholl credits YC with saving Boom Supersonic — the demo day format forced him to get his first real customer letters of intent, which led to the Virgin partnership that financed the company's survival. Amjad Masad describes the YC period as transformational for Replit's product.
+Y Combinator's impact on the MFM universe is pervasive. [[frameworks/blake-scholl|Blake Scholl]] credits YC with saving Boom Supersonic — the demo day format forced him to get his first real customer letters of intent, which led to the Virgin partnership that financed the company's survival. Amjad Masad describes the YC period as transformational for Replit's product.
 
-What Graham built at YC, Ben Horowitz noted, is a culture where people tell you what they really think. Michael Seibel telling Blake Scholl his pitch sounded "completely full of shit" is the canonical example. The feedback that founders actually need — direct, honest, without performance — is rare. Graham built an institution that delivers it at scale.
+What Graham built at YC, [[frameworks/ben-horowitz|Ben Horowitz]] noted, is a culture where people tell you what they really think. Michael Seibel telling Blake Scholl his pitch sounded "completely full of shit" is the canonical example. The feedback that founders actually need — direct, honest, without performance — is rare. Graham built an institution that delivers it at scale.
 
 Graham himself was a consistent presence in these stories: the person who noticed Replit was important enough to email Altman about, the person who was visibly moved watching the Boom test flight, the person whose essays founders are still citing fifteen years after he wrote them. He built the institution and then stepped back. The essays remain.

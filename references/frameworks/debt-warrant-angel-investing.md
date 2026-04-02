@@ -1,19 +1,24 @@
 ---
 name: Debt + Warrant Angel Investing
-description: Walk someone through structuring early-stage investments as debt with equity warrants instead of pure equity. Activate when someone asks how to angel invest more safely, how to get downside protection in startup deals, what alternatives exist to YC-style SAFEs, or when an investor is frustrated with the all-or-nothing binary of traditional angel investing.
+description: >-
+  Walk someone through structuring early-stage investments as debt with equity
+  warrants instead of pure equity. Activate when someone asks how to angel
+  invest more safely, how to get downside protection in startup deals, what
+  alternatives exist to YC-style SAFEs, or when an investor is frustrated with
+  the all-or-nothing binary of traditional angel investing.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - CarCWCl1JFk
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Codie Sanchez
 ---
 
 # Debt + Warrant Angel Investing
 
-Walk someone through structuring startup investments as interest-bearing debt with equity warrants — capturing downside protection and upside potential simultaneously — using Codie Sanchez's framework from My First Million Ep. #176.
+Walk someone through structuring startup investments as interest-bearing debt with equity warrants — capturing downside protection and upside potential simultaneously — using [[frameworks/codie-sanchez|Codie Sanchez]]'s framework from [[frameworks/my-first-million|My First Million]] Ep. #176.
 
 ## When to Use
 
@@ -69,7 +74,7 @@ Not every startup is appropriate for debt financing. The structure works best wi
 **Poor candidates:**
 - Pre-revenue companies (nothing to secure debt against)
 - Companies burning cash with no clear path to revenue
-- Consumer apps dependent on network effects
+- Consumer apps dependent on [[frameworks/network-effects|network effects]]
 - Companies needing a 10x outcome to justify the investment — debt limits their leverage for that bet
 
 **Ask the user:** Does the company you're considering have revenue? What's the monthly burn rate versus monthly revenue? Do they have receivables or contracts that could secure a loan?
@@ -186,4 +191,4 @@ After the session, deliver:
 
 ## Source
 
-[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — Sam Parr and Shaan Puri interview Codie Sanchez.
+[How to Buy Distressed Assets, How to Network with Codie Sanchez | My First Million Ep. #176](https://www.youtube.com/watch?v=CarCWCl1JFk) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Codie Sanchez.

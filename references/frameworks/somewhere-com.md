@@ -4,18 +4,18 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Somewhere.com
 
-Nick Huber bought a company for $52 million. He had never bought a company before. He was negotiating against Andrew Wilkinson — a friend who had acquired over 40 businesses — and Wilkinson eventually stepped aside. Then three things happened at once that nearly broke the acquisition: the name changed, Elon Musk bought Twitter, and competitors poured in. What followed was one of the most honest post-acquisition stories anyone has told on MFM.
+[[frameworks/nick-huber|Nick Huber]] bought a company for $52 million. He had never bought a company before. He was negotiating against [[frameworks/andrew-wilkinson|Andrew Wilkinson]] — a friend who had acquired over 40 businesses — and Wilkinson eventually stepped aside. Then three things happened at once that nearly broke the acquisition: the name changed, [[frameworks/elon-musk|Elon Musk]] bought Twitter, and competitors poured in. What followed was one of the most honest post-acquisition stories anyone has told on MFM.
 
 ## What Somewhere.com Is
 
 Somewhere.com — formerly Support Shepherd — is a global talent marketplace that helps businesses find skilled workers in the Philippines, Colombia, South Africa, Egypt, and other international markets. The original focus was executive assistants and repeatable tasks. Under Nick Huber's ownership, it expanded into mid-level and eventually senior-level international hires.
 
-Shaan Puri described the company's pitch simply: "The idea is you can find amazing talent, they're just somewhere out in the world, you just have to find them." The company generates 60,000 applicants per month and has 160 employees — six of whom are American.
+[[frameworks/shaan-puri|Shaan Puri]] described the company's pitch simply: "The idea is you can find amazing talent, they're just somewhere out in the world, you just have to find them." The company generates 60,000 applicants per month and has 160 employees — six of whom are American.
 
 ## The Origin: Support Shepherd
 

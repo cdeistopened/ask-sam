@@ -1,5 +1,5 @@
 ---
-title: "Acquisition Entrepreneurship: Why Buying Beats Building"
+title: 'Acquisition Entrepreneurship: Why Buying Beats Building'
 type: framework
 domain: frameworks
 status: draft
@@ -11,16 +11,16 @@ episodes:
   - the_boring_business_model_maki
   - alex_hormozis_plan_to_grow_acq
   - how_nick_huber_built_a_100m_se
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Acquisition Entrepreneurship: Why Buying Beats Building
 
 Sarah Moore owned nothing but a 2012 RAV4. No savings. No collateral. No investors. Eighteen months later, she owned a multi-million dollar business that ships packaging to Boeing, SpaceX, and Disney.
 
-The business was eggcartons.com. She found it after having 50 unpaid Craigslist interns sift through 400,000 private companies. She contacted over 100 banks before one agreed to an uncollateralized loan. The final structure was 75% bank debt and 25% seller financing. Her cash outlay at closing was zero.
+The business was eggcartons.com. She found it after having 50 unpaid Craigslist interns sift through 400,000 private companies. She contacted over 100 banks before one agreed to an uncollateralized loan. The final structure was 75% bank debt and 25% [[frameworks/seller-financing|seller financing]]. Her cash outlay at closing was zero.
 
-The story is not unusual. On My First Million, acquisition entrepreneurship has emerged as a recurring theme—a path to wealth that requires neither a brilliant idea nor venture capital, just persistence and a willingness to buy what already works.
+The story is not unusual. On [[frameworks/my-first-million|My First Million]], acquisition entrepreneurship has emerged as a recurring theme—a path to wealth that requires neither a brilliant idea nor venture capital, just persistence and a willingness to buy what already works.
 
 ---
 
@@ -86,7 +86,7 @@ Cal Gulapali worked as an investment banker before buying a few butcher shops. T
 
 The economics explain the trajectory. A real estate investor celebrates 12 to 16% IRR. A franchisee is disappointed with anything below 25%. The cash-on-cash returns often double what real estate offers, though the operational complexity is substantially higher.
 
-One data point worth sitting with: there are more millionaires generated from franchising than from all players who have ever competed in the NFL, combined.
+One data point worth sitting with: there are more millionaires generated from [[frameworks/franchising|franchising]] than from all players who have ever competed in the NFL, combined.
 
 ### The College Laundromat: 10x in Four Years
 
@@ -98,11 +98,11 @@ Four years later, he sold the business for $400,000—more than ten times his pu
 
 ## The Holding Company Question
 
-The holdco model has become fashionable among acquisition entrepreneurs. Build a portfolio of businesses, install CEOs in each, allocate capital across the portfolio, and compound wealth without operational involvement.
+The [[frameworks/holdco-model|holdco model]] has become fashionable among acquisition entrepreneurs. Build a portfolio of businesses, install CEOs in each, allocate capital across the portfolio, and compound wealth without operational involvement.
 
-[[michael-girdley]], who runs ten businesses generating over $100 million in revenue, offers a corrective. The misconception is that holding companies require less work. In reality, they require different work—and all the habits that make someone effective as a CEO become counterproductive in a holdco context.
+[[michael-girdley]], who runs ten businesses generating over $100 million in revenue, offers a corrective. The misconception is that [[frameworks/holding-companies|holding companies]] require less work. In reality, they require different work—and all the habits that make someone effective as a CEO become counterproductive in a holdco context.
 
-Nick Huber has made a similar admission. After being labeled a "holdco guy," he started more than ten companies over three years. Four have been shut down. His evolved perspective: running a holding company is overrated. Most wealthy people he knows focused on one thing for a long time.
+[[frameworks/nick-huber|Nick Huber]] has made a similar admission. After being labeled a "holdco guy," he started more than ten companies over three years. Four have been shut down. His evolved perspective: running a holding company is overrated. Most wealthy people he knows focused on one thing for a long time.
 
 The romance of empire-building appeals to certain personalities. The evidence suggests that focus typically beats diversification.
 
@@ -120,7 +120,7 @@ Target businesses with complexity that cannot be easily replicated. Physical man
 
 ### Independent Sponsor Model
 
-Unlike traditional private equity, raise capital on a deal-by-deal basis rather than from a fixed fund. Each acquisition may have different equity partners. The flexibility allows for varied deal structures but requires relationship maintenance with a broader investor base.
+Unlike traditional [[frameworks/private-equity|private equity]], raise capital on a deal-by-deal basis rather than from a fixed fund. Each acquisition may have different equity partners. The flexibility allows for varied deal structures but requires relationship maintenance with a broader investor base.
 
 ### Liquidity-First Investing
 
@@ -128,7 +128,7 @@ Focus on how quickly cash can be extracted rather than long-term equity apprecia
 
 ### Profit First for Acquisitions
 
-Strip cash from acquired businesses immediately, leaving only two to four weeks of operating capital. The discipline forces efficiency and reveals whether the business can function without excess reserves. Andrew Wilkinson applies this approach across the Tiny portfolio.
+Strip cash from acquired businesses immediately, leaving only two to four weeks of operating capital. The discipline forces efficiency and reveals whether the business can function without excess reserves. [[frameworks/andrew-wilkinson|Andrew Wilkinson]] applies this approach across the Tiny portfolio.
 
 ---
 
@@ -148,7 +148,7 @@ It depends on personality and skill set. Michael Girdley warns that holdco opera
 
 **What types of businesses work best for acquisition?**
 
-Podcast guests consistently mention boring businesses with operational complexity: egg cartons, self-storage, specialty packaging, franchise concepts, home services. The common thread is recurring revenue from essential services, limited competition from venture-backed disruptors, and complexity that creates barriers to entry. Distressed D2C brands offer a different opportunity—buy cheap, fix operations, flip to strategic buyers.
+Podcast guests consistently mention [[frameworks/boring-businesses|boring businesses]] with operational complexity: egg cartons, self-storage, specialty packaging, franchise concepts, home services. The common thread is recurring revenue from essential services, limited competition from venture-backed disruptors, and complexity that creates barriers to entry. Distressed D2C brands offer a different opportunity—buy cheap, fix operations, flip to strategic buyers.
 
 **How does acquisition compare to starting from scratch?**
 
@@ -164,8 +164,8 @@ Starting a business means building customers, revenue, and systems from nothing.
 - [[episodeshowtobuyad2cstartupforc|How To Buy A D2C Startup For Cheap and Sell It For Millions]] -- Independent sponsor model, liquidity-first thesis, operations moat
 - [[episodesthisentrepreneurmakes100mw|This Entrepreneur Makes $100M+ With A Portfolio Of 10 Businesses]] -- Michael Girdley's holdco approach, misconceptions about portfolio management
 - [[episodestheboringbusinessmodelmaki|The “Boring” Business Model Making Regular People Millionaires]] -- Franchise economics, Cal Gulapali case study, SBA loan structures
-- [[episodesalexhormozisplantogrowacq|Alex Hormozi’s Plan To Grow Acquisition.com To $1 Billion (#462)]] -- Portfolio acquisition approach, combining financial engineering with operational growth
-- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- Twitter capital raising, Bolt Storage portfolio, content as deal flow
+- [[episodesalexhormozisplantogrowacq|Alex Hormozi’s Plan To Grow [[frameworks/acquisition-com|Acquisition.com]] To $1 Billion (#462)]] -- Portfolio acquisition approach, combining financial engineering with operational growth
+- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M [[frameworks/self-storage|Self Storage]] Empire (#420)]] -- Twitter capital raising, Bolt Storage portfolio, content as deal flow
 
 ---
 

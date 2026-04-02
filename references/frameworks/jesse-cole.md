@@ -3,8 +3,10 @@ title: Jesse Cole & Savannah Bananas
 type: person
 domain: people
 status: draft
-episodes: [the__improbable__story_of_sava, he_turned_a_broke_team_into_a_]
-date_created: 2026-02-05
+episodes:
+  - the__improbable__story_of_sava
+  - he_turned_a_broke_team_into_a_
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Jesse Cole & Savannah Bananas
@@ -176,7 +178,7 @@ The statement sounds hyperbolic until you study what Cole actually built. Then i
 
 ## Sources
 
-- [[episodestheimprobablestoryofsava|The (Improbable) Story of Savannah Bananas' Rise to a $1B Empire]] -- Full interview with Jesse Cole
+- [[episodestheimprobablestoryofsava|The (Improbable) Story of Savannah Bananas' Rise to a $1B Empire]] -- [[episodes/kfgBpNJe6Yc|Full interview]] with Jesse Cole
 - [[episodesheturnedabroketeamintoa|He turned a broke team into a billion dollars ]] -- Sam and Shaan analysis episode
 
 ## Related

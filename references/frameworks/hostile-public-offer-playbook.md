@@ -1,12 +1,18 @@
 ---
 name: Hostile Public Offer Playbook
-description: Walk someone through the strategy of acquiring undervalued public companies via hostile or semi-hostile public offers. Use when someone asks about buying a public company, taking a company private, activist investing, or making an unsolicited acquisition offer. Cover how CSC Generation did it with furniture companies, how Suli thought about Squarespace, and what the legal mechanics are.
+description: >-
+  Walk someone through the strategy of acquiring undervalued public companies
+  via hostile or semi-hostile public offers. Use when someone asks about buying
+  a public company, taking a company private, activist investing, or making an
+  unsolicited acquisition offer. Cover how CSC Generation did it with furniture
+  companies, how Suli thought about Squarespace, and what the legal mechanics
+  are.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - F-McXK-60BI
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Suli Ali
   - Shaan Puri
@@ -14,7 +20,7 @@ source_guests:
 
 # Hostile Public Offer Playbook
 
-Walk someone through how to identify and acquire undervalued public companies using the public offer strategy — combining Justin Yoshimura's CSC Generation playbook with Suli Ali's Squarespace thesis, both discussed on My First Million.
+Walk someone through how to identify and acquire undervalued public companies using the public offer strategy — combining Justin Yoshimura's CSC Generation playbook with Suli Ali's Squarespace thesis, both discussed on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -23,12 +29,12 @@ The user is thinking about acquiring a public company, making an unsolicited off
 - "There's a public company I think is undervalued and mismanaged — how do I take it private?"
 - "How do hostile takeovers actually work?"
 - "What's the CSC Generation strategy?"
-- "I want to do what Elon Musk did with Twitter"
+- "I want to do what [[frameworks/elon-musk|Elon Musk]] did with Twitter"
 - "How do activist investors force companies to sell?"
 
 ## The Core Principle
 
-From Shaan Puri (`F-McXK-60BI.md`), describing Justin Yoshimura's strategy:
+From [[frameworks/shaan-puri|Shaan Puri]] (`F-McXK-60BI.md`), describing Justin Yoshimura's strategy:
 
 > "He's trying to build what Constellation Software did for small SaaS companies but for large furniture companies. Constellation built an amazing intake engine to buy like 30 software companies a year and unlock more value from them. He's trying to do the same with furniture."
 

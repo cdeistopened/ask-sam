@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Uber
 
 A valuation professor at NYU once published a detailed analysis proving Uber was worth $5.9 billion. A legendary venture capitalist published a rebuttal proving the professor was wrong. The professor was Aswath Damodaran, arguably the world's leading authority on corporate valuation. The VC was Bill Gurley, one of Uber's earliest and most consequential investors. Uber is now worth over $150 billion. The professor's model was off by a factor of 25.
 
-The Uber story on My First Million is not really about ridesharing. It is about what happens when a company creates a market so large that every existing framework for measuring markets breaks.
+The Uber story on [[frameworks/my-first-million|My First Million]] is not really about ridesharing. It is about what happens when a company creates a market so large that every existing framework for measuring markets breaks.
 
 ## The Valuation Debate That Defined an Era
 

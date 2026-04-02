@@ -1,5 +1,5 @@
 ---
-title: "Holding Companies: The MFM Guide to Owning Everything While Running Nothing"
+title: 'Holding Companies: The MFM Guide to Owning Everything While Running Nothing'
 type: framework
 domain: frameworks
 status: draft
@@ -11,7 +11,7 @@ episodes:
   - alex_hormozis_plan_to_grow_acq
   - how_nick_huber_built_a_100m_se
   - my_first_million_live_event_wi
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Holding Companies: The MFM Guide to Owning Everything While Running Nothing
@@ -28,7 +28,7 @@ The appeal is obvious. The execution is harder than it appears.
 
 A holding company—often shortened to "HoldCo"—is a corporate structure that owns stakes in multiple operating businesses without directly managing day-to-day operations. The holding company itself generates no revenue from products or services. It exists to allocate capital, hire leadership, and compound returns across its portfolio.
 
-The distinction from private equity matters. Traditional PE funds buy companies, optimize them over five to ten years, and sell them to return capital to investors. The holding company model, at least as practiced by guests on My First Million, emphasizes buying and holding permanently. The term [[brent-beshore]] uses for his firm—[[permanent-equity]]—captures the philosophy precisely.
+The distinction from [[frameworks/private-equity|private equity]] matters. Traditional PE funds buy companies, optimize them over five to ten years, and sell them to return capital to investors. The holding company model, at least as practiced by guests on [[frameworks/my-first-million|My First Million]], emphasizes buying and holding permanently. The term [[brent-beshore]] uses for his firm—[[permanent-equity]]—captures the philosophy precisely.
 
 The key figures who have appeared on MFM to discuss this approach include [[andrew-wilkinson]] (Tiny), [[brent-beshore]] (Permanent Equity), [[alex-hormozi]] ([[acquisitioncom]]), and [[nick-huber]] (Bolt Storage and various service businesses). Each operates with different capital structures, industries, and temperaments. All share the conviction that owning multiple businesses is preferable to running one.
 
@@ -58,7 +58,7 @@ Hormozi's approach differs from both Wilkinson and Beshore. He built a portfolio
 
 The current portfolio includes 11 companies. The model involves taking equity stakes—minority to majority—in service businesses and providing growth assistance. Hormozi *invests roughly $500,000 annually in labor costs* from his holding company to install systems and find talent in portfolio companies.
 
-His stated ambition: build something like Berkshire Hathaway, but with his own approach to culture. The cultural emphasis distinguishes him from the more hands-off Wilkinson model.
+His stated ambition: build something like [[frameworks/berkshire-hathaway|Berkshire Hathaway]], but with his own approach to culture. The cultural emphasis distinguishes him from the more hands-off Wilkinson model.
 
 ---
 
@@ -112,7 +112,7 @@ The phrase he uses elsewhere—"every business is a slow motion knife fight"—c
 
 **Constant crisis management.** Beshore's warning about businesses being "loosely functioning disasters" is not theoretical. Expect employees in jail, in rehab, in crisis. The work never stabilizes, even when the returns are excellent.
 
-**Illiquidity.** Capital locked in private businesses cannot be easily accessed. Nick Huber *personally guarantees over $50 million in debt* while maintaining only $3.6 million in liquid assets. The net worth is high. The flexibility is low.
+**Illiquidity.** Capital locked in private businesses cannot be easily accessed. [[frameworks/nick-huber|Nick Huber]] *personally guarantees over $50 million in debt* while maintaining only $3.6 million in liquid assets. The net worth is high. The flexibility is low.
 
 ---
 
@@ -134,7 +134,7 @@ The phrase he uses elsewhere—"every business is a slow motion knife fight"—c
 
 **How much money do you need to start a holding company?**
 
-The practitioners who have appeared on MFM all started with meaningful capital. Wilkinson had millions in agency profits. Beshore raised investor funds. Hormozi used proceeds from a $46 million exit. The model requires either accumulated profits from an existing business, outside investment, or access to debt financing through vehicles like SBA loans.
+The practitioners who have appeared on MFM all started with meaningful capital. Wilkinson had millions in agency profits. Beshore raised investor funds. Hormozi used proceeds from a $46 million exit. The model requires either accumulated profits from an existing business, outside investment, or access to debt financing through vehicles like [[frameworks/sba-loans|SBA loans]].
 
 **What kinds of businesses work best in a holding company structure?**
 
@@ -161,7 +161,7 @@ Bad CEO hires can destroy individual businesses. Poor capital allocation can des
 - [[episodesiown38businesseshereswhat|I Own 38 Businesses. Here's What Actually Makes Money.]] -- Business model tier list, permanent capital as S-tier, Tiny origin
 - [[episodes50mfounderexplainshowhefi|$50M Founder Explains How He Finds “Golden” Businesses]] -- Brent Beshore's Permanent Equity model, no fees, no debt, 30-year hold
 - [[episodesalexhormozisplantogrowacq|Alex Hormozi’s Plan To Grow Acquisition.com To $1 Billion (#462)]] -- Portfolio company approach, culture emphasis, minority stake lessons
-- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- Audience leverage for deal flow, delegation as skill
+- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M [[frameworks/self-storage|Self Storage]] Empire (#420)]] -- Audience leverage for deal flow, delegation as skill
 - [[episodesmyfirstmillionliveeventwi|My First Million Live Event With Andrew Wilkinson (Austin Texas)]] -- Near-failures at Tiny, Chris Sparling's role, "slow motion knife fight" quote
 
 ---

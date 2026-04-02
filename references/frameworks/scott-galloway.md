@@ -7,12 +7,12 @@ episodes:
   - C4ylGGYD-3c
   - nCBv-jwqZ1w
   - P7FQKRfpYTA
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Scott Galloway
 
-Scott Galloway has been more honest about money — how he made it, how he lost it, how he still worries about it despite having plenty — than almost anyone else who has appeared on My First Million. That honesty is his competitive advantage.
+Scott Galloway has been more honest about money — how he made it, how he lost it, how he still worries about it despite having plenty — than almost anyone else who has appeared on [[frameworks/my-first-million|My First Million]]. That honesty is his competitive advantage.
 
 ## The Algebra of Wealth
 
@@ -32,7 +32,7 @@ Galloway's most cited advice contradicts what successful people usually tell you
 
 His alternative: find what you could be genuinely good at, commit to developing mastery in it, and let the passion follow. "If you can develop mastery in anything that has a 90-plus-percent employment rate — the economic security, the camaraderie, the prestige, just the sheer joy of mastery will make you passionate about whatever it is."
 
-His own path: investment banking (terrible at it), business school, brand strategy firm Prophet (grew to a couple hundred people, sold for $33 million), activist investing (interesting, not particularly skilled), NYU marketing professor (stayed), L2 (the big win).
+His own path: investment banking (terrible at it), business school, [[episodes/iB3kIRL5Q4M|brand strategy]] firm Prophet (grew to a couple hundred people, sold for $33 million), activist investing (interesting, not particularly skilled), NYU marketing professor (stayed), L2 (the big win).
 
 ## Engineering L2 Around an Exit
 

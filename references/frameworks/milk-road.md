@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Milk Road
 
-Shaan Puri described Milk Road's origin with remarkable directness: "Milk Road is the Hustle but in the crypto lane — I just took your blueprint for the Hustle and copy-pasted it over."
+[[frameworks/shaan-puri|Shaan Puri]] described Milk Road's origin with remarkable directness: "Milk Road is [[frameworks/the-hustle-story|the Hustle]] but in the crypto lane — I just took your blueprint for the Hustle and copy-pasted it over."
 
 He even copied Sam's Twitter bio. "Your smart, good-looking friend who tells you everything you need to know" became "your smart, good-looking friend who tells you everything you need to know about crypto." He deleted "business" and inserted "crypto" and called it research.
 

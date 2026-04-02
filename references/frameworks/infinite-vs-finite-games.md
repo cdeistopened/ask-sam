@@ -1,19 +1,26 @@
 ---
 name: Infinite vs Finite Games Career Framework
-description: Help someone reframe their career or business decisions through James Carse's infinite/finite games lens, as applied by Shaan Puri. Use when someone is chasing a goal that keeps moving, feels like they're on a treadmill, is miserable despite "winning," wonders why achieving the goal didn't feel like they thought it would, or is trying to decide between a path that sounds impressive and one that actually sounds fun. Also activate when someone is comparing themselves obsessively to others.
+description: >-
+  Help someone reframe their career or business decisions through James Carse's
+  infinite/finite games lens, as applied by Shaan Puri. Use when someone is
+  chasing a goal that keeps moving, feels like they're on a treadmill, is
+  miserable despite "winning," wonders why achieving the goal didn't feel like
+  they thought it would, or is trying to decide between a path that sounds
+  impressive and one that actually sounds fun. Also activate when someone is
+  comparing themselves obsessively to others.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 0-_DpXtdCT0
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Shaan Puri
 ---
 
 # Infinite vs Finite Games Career Framework
 
-Help someone identify which game they're actually playing — and whether it's the right one — using James Carse's framework as applied by Shaan Puri on My First Million.
+Help someone identify which game they're actually playing — and whether it's the right one — using James Carse's framework as applied by [[frameworks/shaan-puri|Shaan Puri]] on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -149,4 +156,4 @@ After the session, deliver:
 
 ## Source
 
-[10 Lessons We Learned From Filming 131 Episodes of My First Million In 2023](https://www.youtube.com/watch?v=0-_DpXtdCT0) — Shaan Puri and Sam Parr reflecting on 100 million views and their biggest personal lessons.
+[10 Lessons We Learned From Filming 131 Episodes of My First Million In 2023](https://www.youtube.com/watch?v=0-_DpXtdCT0) — Shaan Puri and [[frameworks/sam-parr|Sam Parr]] reflecting on 100 million views and their biggest personal lessons.

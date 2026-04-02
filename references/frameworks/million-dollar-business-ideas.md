@@ -1,5 +1,7 @@
 ---
-title: "Million Dollar Business Ideas: What My First Million Actually Teaches About Getting Rich"
+title: >-
+  Million Dollar Business Ideas: What My First Million Actually Teaches About
+  Getting Rich
 type: seo
 domain: seo
 status: draft
@@ -10,12 +12,12 @@ episodes:
   - this_50myr_side_hustle_is_on_t
   - 100m_founder_reveals_the_secre
   - reddit_for_moms_a_validated_bu
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Million Dollar Business Ideas: What My First Million Actually Teaches About Getting Rich
 
-In 2013, Kevin Espiritu started a gardening blog to pad his web design portfolio. He had no particular passion for plants. The site earned $300 a month—barely enough to notice. A decade later, [[epic-gardening]] generates $45 million in annual revenue, and Espiritu has raised $17 million from the [[chernin-group]].
+In 2013, [[frameworks/kevin-espiritu|Kevin Espiritu]] started a gardening blog to pad his web design portfolio. He had no particular passion for plants. The site earned $300 a month—barely enough to notice. A decade later, [[epic-gardening]] generates $45 million in annual revenue, and Espiritu has raised $17 million from the [[chernin-group]].
 
 The trajectory is striking: $17,000 to $72,000 to $225,000 to $550,000 to $2.8 million to $7.3 million to $45 million. But the most instructive detail is not the growth curve. It is the moment Espiritu realized that media was merely the top of his business, not the whole thing. Brands wanted access to his audience. He had complete access. Why was he settling for ad revenue?
 
@@ -27,7 +29,7 @@ On My First Million, [[shaan-puri]] and [[sam-parr]] have spent hundreds of epis
 
 The term itself is somewhat misleading. A million dollars in revenue is not the same as a million dollars in profit, which is not the same as a million dollars in net worth. The podcast uses the phrase loosely to mean businesses that can generate meaningful wealth for their operators—somewhere between $500,000 and $50 million annually, depending on the model.
 
-What unites these opportunities is accessibility. They do not require venture capital, Ivy League credentials, or a background in engineering. Many of them feel almost embarrassingly simple. [[sarah-moore]] graduated from college, wanted to buy a business, and ended up acquiring an egg carton company using an SBA loan and seller financing. The business now generates millions in annual profit. No patents. No software. Just packaging for eggs.
+What unites these opportunities is accessibility. They do not require venture capital, Ivy League credentials, or a background in engineering. Many of them feel almost embarrassingly simple. [[sarah-moore]] graduated from college, wanted to buy a business, and ended up acquiring an egg carton company using an SBA loan and [[frameworks/seller-financing|seller financing]]. The business now generates millions in annual profit. No patents. No software. Just packaging for eggs.
 
 The underlying philosophy is captured in a quote [[shaan-puri]] often references from [[nassim-taleb]]: the three most harmful addictions in the world are heroin, carbohydrates, and a monthly salary. The salary traps potential entrepreneurs in what Shaan calls "zoo tiger" mode—comfortable but unable to survive in the wild when opportunities arise.
 
@@ -45,7 +47,7 @@ The model works because small business owners need marketing but cannot afford t
 
 ### 2. Franchise Empire Building
 
-[[sam-parr]] has observed that franchising produces more millionaires than all NFL players combined. The statement sounds hyperbolic until you examine the numbers. Franchising represents 8% of U.S. GDP—roughly $800 billion annually flowing through 4,000 brands.
+[[sam-parr]] has observed that [[frameworks/franchising|franchising]] produces more millionaires than all NFL players combined. The statement sounds hyperbolic until you examine the numbers. Franchising represents 8% of U.S. GDP—roughly $800 billion annually flowing through 4,000 brands.
 
 [[cal-gulapali]] acquired 120 franchise locations across eight different brands. His company, [[another-nine]], now generates half a billion dollars in annual revenue. The economics favor operators who can scale: a single franchise location might return 25% IRR, but a portfolio of locations creates operational leverage that compounds.
 
@@ -55,7 +57,7 @@ The insight is that franchising is not about owning one restaurant. It is about 
 
 [[kevin-espiritu]]'s trajectory illustrates the model perfectly. Start with content—a blog, a YouTube channel, a podcast. Build an audience around a genuine interest. Then sell products to that audience instead of merely selling access to advertisers.
 
-In *his interview on the podcast*, Espiritu explained the math that changed his perspective. In 2021, Epic Gardening hit $7.3 million with a team of five people: himself, a garden assistant, a general assistant, a video editor, and a writer. Profit margins approached 50% because customer acquisition cost was effectively zero. The audience already existed.
+In *his interview on the podcast*, Espiritu explained the math that changed his perspective. In 2021, [[frameworks/epic-gardening|Epic Gardening]] hit $7.3 million with a team of five people: himself, a garden assistant, a general assistant, a video editor, and a writer. Profit margins approached 50% because customer acquisition cost was effectively zero. The audience already existed.
 
 The commerce component—raised beds, seeds, tools—transformed a media property into a genuine business. Media was the top of the funnel, not the whole thing.
 
@@ -95,7 +97,7 @@ The business model is advertising and commerce. The moat is human curation in a 
 
 [[sarah-moore]]'s egg carton business represents a broader strategy: skip the startup phase entirely. Buy something that already works.
 
-SBA loans allow buyers to acquire businesses with 10% down. Seller financing covers additional gaps. The baby boomer retirement wave means thousands of profitable businesses need successors. Many owners will finance the sale themselves because they cannot find buyers willing to learn their operations.
+[[frameworks/sba-loans|SBA loans]] allow buyers to acquire businesses with 10% down. Seller financing covers additional gaps. The baby boomer retirement wave means thousands of profitable businesses need successors. Many owners will finance the sale themselves because they cannot find buyers willing to learn their operations.
 
 The risk profile differs from starting something new. The business already has customers, cash flow, and proof of concept. What it lacks is an operator.
 
@@ -157,7 +159,7 @@ For data businesses specifically: Edge (do you have a unique advantage?), Collec
 
 **What is the fastest path to a million dollars?**
 
-The podcast guests converge on acquisition entrepreneurship. Buying an existing profitable business eliminates the startup phase—the period of highest risk and longest duration. SBA loans and seller financing make the capital requirement manageable. The constraint is finding a business worth buying and developing the operational competence to run it.
+The podcast guests converge on [[frameworks/acquisition-entrepreneurship|acquisition entrepreneurship]]. Buying an existing profitable business eliminates the startup phase—the period of highest risk and longest duration. SBA loans and seller financing make the capital requirement manageable. The constraint is finding a business worth buying and developing the operational competence to run it.
 
 **Do I need capital to start?**
 

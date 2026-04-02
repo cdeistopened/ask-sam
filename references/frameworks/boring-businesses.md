@@ -14,14 +14,14 @@ episodes:
   - i_ranked_the_best___worst_busi
   - how_to_buy_a_multi_million_dol
   - i_made__50m_buying___running_b
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Boring Businesses: The MFM Guide to Getting Rich Without the Glamour
 
 In 1987, a man named Greg Flynn took out an SBA loan to buy a single Applebee's franchise. Today, the Flynn Restaurant Group generates $6.3 billion in annual revenue—more than the parent companies of KFC or Domino's themselves. Flynn never invented anything. He never went viral. He just kept buying restaurants that most people consider unsexy.
 
-What if the fastest path to becoming a millionaire is not a tech startup, but a laundromat? On My First Million, guests like [[codie-sanchez]], [[nick-huber]], and Brent Beshore have made compelling cases for what they call "boring businesses"—unglamorous enterprises that quietly generate wealth while everyone else chases the next AI unicorn.
+What if the fastest path to becoming a millionaire is not a tech startup, but a laundromat? On [[frameworks/my-first-million|My First Million]], guests like [[codie-sanchez]], [[nick-huber]], and [[frameworks/brent-beshore|Brent Beshore]] have made compelling cases for what they call "boring businesses"—unglamorous enterprises that quietly generate wealth while everyone else chases the next AI unicorn.
 
 The pattern repeats across industries that most ambitious people refuse to consider. And that refusal, it turns out, is precisely what creates the opportunity.
 
@@ -39,9 +39,9 @@ The category includes self-storage facilities, car washes, HVAC companies, prope
 
 The core thesis is counterintuitive but simple: talent follows prestige, and prestige follows technology. This creates a vacuum in industries where the smartest people refuse to compete.
 
-Brent Beshore, who built [[permanent-equity]] into a $350 million portfolio of holding companies, captures the dynamic well. The opportunity in small business, he notes, "is dressed in overalls and likes hard work." The metaphor is intentional. These businesses require effort that cannot be outsourced to an algorithm or delegated to contractors in a different time zone. That effort requirement functions as a moat.
+Brent Beshore, who built [[permanent-equity]] into a $350 million portfolio of [[frameworks/holding-companies|holding companies]], captures the dynamic well. The opportunity in small business, he notes, "is dressed in overalls and likes hard work." The metaphor is intentional. These businesses require effort that cannot be outsourced to an algorithm or delegated to contractors in a different time zone. That effort requirement functions as a moat.
 
-The numbers reinforce the point. [[franchising]] alone represents 8% of U.S. GDP—roughly $800 billion flowing through 4,000 different brands annually. Yet the industry remains nearly invisible in mainstream business media. One franchise consultant who appeared on the podcast made an observation worth sitting with: there are more millionaires generated from franchising than from all players who have ever competed in the NFL, combined.
+The numbers reinforce the point. [[franchising]] alone represents 8% of U.S. GDP—roughly $800 billion flowing through 4,000 different brands annually. Yet the industry remains nearly invisible in mainstream business media. One franchise consultant who appeared on the podcast made an observation worth sitting with: there are more millionaires generated from [[frameworks/franchising|franchising]] than from all players who have ever competed in the NFL, combined.
 
 The returns can be striking. A typical real estate investor celebrates a 12 to 16 percent IRR. A franchise owner gets upset if their returns fall below 25 percent. The gap exists because the work is harder and the prestige is lower. Most people choose the easier path with worse returns.
 
@@ -55,13 +55,13 @@ Theory matters less than evidence. The podcast has catalogued dozens of specific
 
 [[nick-huber]] first appeared on My First Million with 15 properties and $20 million in [[self-storage]] assets. By his return visit, the portfolio had grown to 61 properties, 1.8 million square feet, and $103 million in acquisitions. The growth trajectory is impressive, but the capital source is more instructive.
 
-Ninety-six percent of his investor capital came from Twitter. His entire real estate private equity company was built on the back of a social media platform—not by going viral with entertainment, but by consistently sharing the unglamorous mechanics of buying storage facilities. The combination of content and boring business proved synergistic in ways that neither alone could replicate.
+Ninety-six percent of his investor capital came from Twitter. His entire real estate [[frameworks/private-equity|private equity]] company was built on the back of a social media platform—not by going viral with entertainment, but by consistently sharing the unglamorous mechanics of buying storage facilities. The combination of content and boring business proved synergistic in ways that neither alone could replicate.
 
 ### Laundromats: The Gateway Drug
 
 The economics of a laundromat are modest but accessible. [[codie-sanchez]] estimates the average laundromat generates somewhere between $100,000 and $500,000 annually, with margins in the 10 to 15 percent range. Not transformative wealth. But the simplicity creates a learning environment.
 
-One podcast guest, a franchise consultant named Alex, bought a laundry business during his freshman year of college. He had to learn what seller financing meant at age 18. Four years later, he sold the business for more than ten times what he paid. The laundromat itself was not the point. The education was.
+One podcast guest, a franchise consultant named Alex, bought a laundry business during his freshman year of college. He had to learn what [[frameworks/seller-financing|seller financing]] meant at age 18. Four years later, he sold the business for more than ten times what he paid. The laundromat itself was not the point. The education was.
 
 ### Home Services: Gutter Cleaning to Millions
 
@@ -75,7 +75,7 @@ The lesson is not about gutters. It is about what happens when marketing sophist
 
 Wilkinson describes his personality as "incredibly lazy"—not as an insult to himself, but as an explanation for his strategy. He structured a life around not being operationally involved in the businesses he owns.
 
-Brent Beshore takes a similar approach at Permanent Equity, though with a different temperament. His observation about the reality of ownership is worth remembering: "All businesses are loosely functioning disasters. Some just happen to make money." The quote functions as both warning and encouragement. Perfection is not the standard. Cash flow is.
+Brent Beshore takes a similar approach at [[frameworks/permanent-equity|Permanent Equity]], though with a different temperament. His observation about the reality of ownership is worth remembering: "All businesses are loosely functioning disasters. Some just happen to make money." The quote functions as both warning and encouragement. Perfection is not the standard. Cash flow is.
 
 ## How to Find Boring Businesses to Buy
 
@@ -135,15 +135,15 @@ Podcast guests consistently recommend categories with recurring revenue and esse
 
 **How do I buy a boring business with no money?**
 
-Seller financing is the primary mechanism. If an owner claims their business is excellent and easy to operate, there is no logical reason they would refuse to finance a portion of the purchase price. SBA loans allow 90% leverage. One guest bought his first laundromat at 18 with seller financing and sold it for ten times his purchase price. The constraint is not capital. It is conviction.
+Seller financing is the primary mechanism. If an owner claims their business is excellent and easy to operate, there is no logical reason they would refuse to finance a portion of the purchase price. [[frameworks/sba-loans|SBA loans]] allow 90% leverage. One guest bought his first laundromat at 18 with seller financing and sold it for ten times his purchase price. The constraint is not capital. It is conviction.
 
 **Are boring businesses better than tech startups?**
 
-The comparison involves different risk profiles. Tech startups offer higher ceilings with 90% failure rates. Boring businesses offer lower variance, tangible assets, and immediate cash flow. Sam Parr prefers digital. Nick Huber built $100 million in boring businesses. Both paths work. The question is which matches your temperament and circumstances.
+The comparison involves different risk profiles. Tech startups offer higher ceilings with 90% failure rates. Boring businesses offer lower variance, tangible assets, and immediate cash flow. [[frameworks/sam-parr|Sam Parr]] prefers digital. Nick Huber built $100 million in boring businesses. Both paths work. The question is which matches your temperament and circumstances.
 
 **What is the "gateway drug" business?**
 
-Codie Sanchez coined the term to describe laundromats. They are simple enough that a beginner can understand the operations, limited enough in downside that failure is not catastrophic, and educational enough that owners learn the skills of due diligence and management. The laundromat is not necessarily where you build wealth. It is where you learn how to buy and operate.
+[[frameworks/codie-sanchez|Codie Sanchez]] coined the term to describe laundromats. They are simple enough that a beginner can understand the operations, limited enough in downside that failure is not catastrophic, and educational enough that owners learn the skills of due diligence and management. The laundromat is not necessarily where you build wealth. It is where you learn how to buy and operate.
 
 ---
 
@@ -153,10 +153,10 @@ This article draws from the following My First Million episodes:
 
 - [[episodestheboringbusinessmodelmaki|The “Boring” Business Model Making Regular People Millionaires]] -- Franchising economics with Alex
 - [[episodesimade50mbuyingrunningb|I Made $50M Buying & Running Boring Businesses]] -- Brent Beshore and Permanent Equity
-- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- Self-storage case study
-- [[episodesthelazymillionaireiown40|The Lazy Millionaire: I Own 40 Companies, But Don't Run Any Of Them]] -- Andrew Wilkinson and Tiny
+- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M [[frameworks/self-storage|Self Storage]] Empire (#420)]] -- Self-storage case study
+- [[episodesthelazymillionaireiown40|The Lazy Millionaire: I Own 40 Companies, But Don't Run Any Of Them]] -- [[frameworks/andrew-wilkinson|Andrew Wilkinson]] and Tiny
 - "4 Profitable Business Ideas" – Codie Sanchez on laundromats
-- [[episodescanyougetrichwithabluec|Can You Get Rich with A Blue Collar Hustle? | My First Million Q&A (#457)]] -- Digital vs. boring debate
+- [[episodescanyougetrichwithabluec|Can You Get Rich with A Blue Collar Hustle? | [[episodes/gesHCZsWw00|My First Million Q&A]] (#457)]] -- Digital vs. boring debate
 - [[episodesirankedthebestworstbusi|I Ranked the Best & WORST Businesses to Start Before 2026 | Andrew Wilkinson]] -- Business tier rankings
 - [[episodes3simplebusinessesthatmake|3 Simple Businesses That Make Millions]] -- Suck My Gutters Clean case study
 - [[episodestherichestpeopleiknowdoo|The Richest People I Know Do One Thing]] -- Nick Huber on focus vs. diversification

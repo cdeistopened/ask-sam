@@ -8,7 +8,7 @@ episodes:
   - 7nWa1F3GJy4
   - HuytSzVYEpA
   - 5tre0ceg2bs
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Logan Paul
@@ -39,7 +39,7 @@ Each phase expanded the audience rather than replacing it. Each venture compound
 
 ## The Personal Brand Moat
 
-Sam described Logan as a case study in personal brand optionality. In a conversation with Andrew Wilkinson, Sam mentioned he'd just done a Twitter Spaces with Logan, who was promoting Liquid Marketplace — a fractional collectibles trading platform built around his Charizard card collection.
+Sam described Logan as a case study in personal brand optionality. In a conversation with [[frameworks/andrew-wilkinson|Andrew Wilkinson]], Sam mentioned he'd just done a Twitter Spaces with Logan, who was promoting Liquid Marketplace — a fractional collectibles trading platform built around his Charizard card collection.
 
 Sam's observation: "It's crazy, the moat of a personal brand. Those guys can build 100 businesses off their following."
 

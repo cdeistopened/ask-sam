@@ -5,7 +5,7 @@ domain: people
 status: draft
 episodes:
   - leila-hormozi-minimum-wage-to-100m-QEdABcTBmF8
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Leila Hormozi
@@ -56,7 +56,7 @@ Leila's explanation for why they chose this path over going direct-to-consumer o
 
 > "What kind of person do I want to be? And the business is just a vehicle for personal growth. For Alex, he wanted to be more patient — and this business requires patience. For me, in order to really win, I have to learn to make content and be public-facing. It forces me to learn those things in order to achieve my goals."
 
-The fitness industry no longer interested her. The networking, the competitors, the people she'd compare herself to — none of it was inspiring the way private equity was. She wanted to be in rooms with people she aspired to be like.
+The fitness industry no longer interested her. The networking, the competitors, the people she'd compare herself to — none of it was inspiring the way [[frameworks/private-equity|private equity]] was. She wanted to be in rooms with people she aspired to be like.
 
 Acquisition.com takes minority stakes in businesses doing $3–30 million in revenue and brings operational expertise from their playbooks. The workshops, which have put roughly 1,800 founders through $5,000 programs, are simultaneously revenue, dealflow, and talent pipeline.
 

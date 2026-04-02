@@ -8,7 +8,7 @@ episodes:
   - 4qQG8qRltG4
   - 79mG0s-TiMo
   - 831LY8VDTKI
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Peter Thiel
@@ -29,7 +29,7 @@ His framing: "If you allow yourself to have more than one focus, you've already 
 
 Noah Kagan had a four-hour dinner with Thiel and came back with a collection of Thiel's phrases. The one Shaan found most interesting: "zombification."
 
-Thiel's concern: everyone has the same thoughts. He's looking for anyone with unique thoughts. The zombification of conventional wisdom — the way ideas that once required careful reasoning become reflexes, then become invisible — is what makes contrarian thinking both difficult and valuable. You have to notice that you're not actually thinking.
+Thiel's concern: everyone has the same thoughts. He's looking for anyone with unique thoughts. The zombification of conventional wisdom — the way ideas that once required careful reasoning become reflexes, then become invisible — is what makes [[frameworks/contrarian-thinking|contrarian thinking]] both difficult and valuable. You have to notice that you're not actually thinking.
 
 Other phrases from that dinner: "look-ahead function" — how far you're thinking ahead when making a decision. "Incremental versus monumental shifts." "Companies are mortal, cities are immortal." The last one led to Thiel's stated obsession with cities as the durable unit of civilization, contrasted with businesses that come and go.
 
@@ -49,7 +49,7 @@ He stayed with the group for four hours without checking his phone. He was gener
 
 Thiel's intellectual reputation rests on *Zero to One* and on the questions he's known to ask in investor meetings: "What do you believe that almost nobody else believes?" The show discusses this framing repeatedly, particularly in conversations about [[boring-businesses]] and about finding opportunities others overlook.
 
-Blake Scholl's "bystander effect in business" is essentially a restatement of Thiel's thesis applied to entrepreneurship: the best opportunities are the ones nobody is working on precisely because they seem too obvious or too impossible. The more obviously good an idea, the more likely everyone assumes someone else is handling it, which means nobody is.
+[[frameworks/blake-scholl|Blake Scholl]]'s "bystander effect in business" is essentially a restatement of Thiel's thesis applied to entrepreneurship: the best opportunities are the ones nobody is working on precisely because they seem too obvious or too impossible. The more obviously good an idea, the more likely everyone assumes someone else is handling it, which means nobody is.
 
 Joe Lonsdale — who came up through Thiel's orbit and went on to found Palantir and several other billion-dollar companies — told Shaan that the key Thiel lesson he still wrestles with is focus. "Almost always it's better to put energy into your main compounding thing that has a lot more room to run. There's more area under the curve to fill in something that's really working than to go start something from zero."
 
@@ -57,7 +57,7 @@ Joe Lonsdale — who came up through Thiel's orbit and went on to found Palantir
 
 Sam finds Thiel's original Facebook investment philosophically interesting. Thiel put in $500,000 for 10% of Facebook in 2004 when it was a dorm-room project. He has never sold a share. The investment is worth billions.
 
-What made it possible was seeing something almost nobody else saw — and being willing to make a concentrated bet on it. Thiel has said he made the investment because he believed Facebook had real network effects and that Zuckerberg was the right person to build it. Most people who saw the same things looked away.
+What made it possible was seeing something almost nobody else saw — and being willing to make a concentrated bet on it. Thiel has said he made the investment because he believed Facebook had real [[frameworks/network-effects|network effects]] and that Zuckerberg was the right person to build it. Most people who saw the same things looked away.
 
 Matt Mazzeo, when he beat out Thiel for the Replit investment, described it this way: "When you go against Peter Thiel, you plan to lose." He won because he'd been obsessively using the product and sending Amjad product feedback at all hours. "Not because it was the art of the VC deal. Because I genuinely loved it."
 

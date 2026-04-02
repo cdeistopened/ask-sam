@@ -1,5 +1,5 @@
 ---
-title: "High Agency: The Most Important Trait Nobody Talks About"
+title: 'High Agency: The Most Important Trait Nobody Talks About'
 type: framework
 domain: frameworks
 status: draft
@@ -10,7 +10,7 @@ episodes:
   - y_combinator_ceo_shares_how_th
   - our_best_and_worst_investments
   - business_as_a_sport__surge_ai_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # High Agency: The Most Important Trait Nobody Talks About
@@ -61,7 +61,7 @@ At Y Combinator's Demo Day, most founders showed slides. Scholl [displayed an ac
 
 ### The Reddit Founders: A Train Ride That Changed Everything
 
-Steve Huffman and Alexis Ohanian were students in Virginia when they heard that Paul Graham was giving a talk at Harvard. The distance was considerable. The effort required to attend was not trivial. They [took a train to Massachusetts](https://youtube.com/watch?v=6VrUuJl4JhY&t=0) just to hear Graham speak.
+Steve Huffman and Alexis Ohanian were students in Virginia when they heard that [[frameworks/paul-graham|Paul Graham]] was giving a talk at Harvard. The distance was considerable. The effort required to attend was not trivial. They [took a train to Massachusetts](https://youtube.com/watch?v=6VrUuJl4JhY&t=0) just to hear Graham speak.
 
 They applied to Y Combinator and got rejected. But Jessica Livingston, Graham's wife and YC co-founder, vouched for them. They got a callback. They shipped Reddit in three weeks. They created thirty fake accounts to seed the initial content and establish the culture they wanted.
 
@@ -87,7 +87,7 @@ Mack has developed a checklist for identifying high agency individuals before th
 
 **Energy distortion field.** Some people leave you more energized than when you arrived. Mack calls them "treadmill friends" as opposed to "sofa friends." The former make you want to run. The latter make you want to sit.
 
-**Willingness to spend their own money to move faster.** Shaan Puri observed that when an employee pays out of pocket to accelerate a project—buying equipment the company has not yet approved, taking a cab instead of waiting for reimbursement—they are revealing that they cannot tolerate being blocked. The trait is rare and diagnostic.
+**Willingness to spend their own money to move faster.** [[frameworks/shaan-puri|Shaan Puri]] observed that when an employee pays out of pocket to accelerate a project—buying equipment the company has not yet approved, taking a cab instead of waiting for reimbursement—they are revealing that they cannot tolerate being blocked. The trait is rare and diagnostic.
 
 **Hacked a real-world system.** Y Combinator asks applicants to describe a system they have exploited for personal benefit. The question sounds like an invitation to confess wrongdoing. It is actually a filter for resourcefulness. People who have never found a loophole have probably never looked for one.
 

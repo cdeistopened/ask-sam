@@ -1,12 +1,21 @@
 ---
 name: Data-Driven B2B Lead Generation
-description: Walk someone through building a signal-based B2B prospecting system — using public data signals like job postings, tech stack changes, funding rounds, and hiring patterns to identify and prioritize sales leads before they raise their hand. Use when someone is trying to build a B2B sales pipeline, has a long sales cycle with enterprise customers, is struggling to identify who to reach out to, or wants to build a systematic outreach process instead of relying on referrals or inbound. Trigger phrases include "how do I find leads?", "we're trying to do outbound", "how do I know who to call?", "we need a more systematic approach to sales", or "I keep reaching out to the wrong people."
+description: >-
+  Walk someone through building a signal-based B2B prospecting system — using
+  public data signals like job postings, tech stack changes, funding rounds, and
+  hiring patterns to identify and prioritize sales leads before they raise their
+  hand. Use when someone is trying to build a B2B sales pipeline, has a long
+  sales cycle with enterprise customers, is struggling to identify who to reach
+  out to, or wants to build a systematic outreach process instead of relying on
+  referrals or inbound. Trigger phrases include "how do I find leads?", "we're
+  trying to do outbound", "how do I know who to call?", "we need a more
+  systematic approach to sales", or "I keep reaching out to the wrong people."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - hQTZDC47MN8
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Elaine Zelby
 ---
@@ -198,4 +207,4 @@ After the session, deliver:
 
 ## Source
 
-[Brainstorming Million Dollar Ideas with Elaine Zelby | My First Million Ep. #175](https://www.youtube.com/watch?v=hQTZDC47MN8) — Sam Parr and Shaan Puri interview Elaine Zelby (partner at SignalFire VC) on data-driven investment and sales methodology.
+[Brainstorming Million Dollar Ideas with Elaine Zelby | [[frameworks/my-first-million|My First Million]] Ep. #175](https://www.youtube.com/watch?v=hQTZDC47MN8) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Elaine Zelby (partner at SignalFire VC) on data-driven investment and sales methodology.

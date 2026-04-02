@@ -7,7 +7,7 @@ episodes:
   - TAXPyRnWwI0
   - H3clU6Qq5xw
   - ReMOG_XwVBo
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Money Models
@@ -54,7 +54,7 @@ When a TikTok creator with 200 million views called in to the Hormozi Hotline ep
 
 The problem wasn't content quality or audience size — it was the absence of a monetization sequence. In Hormozi's framework, the content is the top of the funnel. Without a deliberate sequence of offers below it, the audience generates attention but not economics.
 
-This is the most common failure mode in the creator economy: confusing distribution (audience) with a money model (the sequence that converts that audience into revenue).
+This is the most common failure mode in the [[frameworks/creator-economy|creator economy]]: confusing distribution (audience) with a money model (the sequence that converts that audience into revenue).
 
 ## Applied Example: A Staffing Business
 

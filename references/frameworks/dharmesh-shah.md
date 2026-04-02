@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Dharmesh Shah
@@ -127,4 +127,4 @@ In practical terms: move from overhead roles to core business activities. The fu
 
 ---
 
-*Sources: My First Million episodes [#197](https://www.mfmpod.com/197), [Billion Dollar Business Philosophies](https://www.mfmpod.com/billion-dollar-business-philosophies), [#438](https://www.mfmpod.com/438), [#655](https://www.mfmpod.com/655)*
+*Sources: [[frameworks/my-first-million|My First Million]] episodes [#197](https://www.mfmpod.com/197), [Billion Dollar Business Philosophies](https://www.mfmpod.com/billion-dollar-business-philosophies), [#438](https://www.mfmpod.com/438), [#655](https://www.mfmpod.com/655)*

@@ -5,14 +5,14 @@ domain: people
 status: draft
 episodes:
   - morning-brew-postmortem-6X64f1AndtM
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Alex Lieberman
 
 Alex Lieberman started [[morning-brew]] as a senior at the University of Michigan because he couldn't understand the business news he was supposed to care about for finance recruiting. He was fixing his own problem. He had no idea it was the best business to be in.
 
-By the time he sold it — six years later, to Axel Springer — Morning Brew had 2.5 million subscribers, $46 million in annual revenue, and $10 million in profit. Alex was 26.
+By the time he sold it — six years later, to Axel Springer — [[frameworks/morning-brew|Morning Brew]] had 2.5 million subscribers, $46 million in annual revenue, and $10 million in profit. Alex was 26.
 
 ## Before Morning Brew
 
@@ -26,7 +26,7 @@ The name change to Morning Brew came later. So did everything else. First it was
 
 ## The Thing They Did Every Morning
 
-From 2016 to 2019, Austin and Alex printed out Morning Brew next to competitors — Axios, The Hustle, The Skimm — and circled what they liked and crossed out what they didn't. With a red pen. Every morning.
+From 2016 to 2019, Austin and Alex printed out Morning Brew next to competitors — Axios, [[frameworks/the-hustle-story|The Hustle]], The Skimm — and circled what they liked and crossed out what they didn't. With a red pen. Every morning.
 
 Alex was not gentle with his own writers, including himself. The standard was: did this make someone's morning better? Did it make business news genuinely enjoyable? If not, cut it.
 

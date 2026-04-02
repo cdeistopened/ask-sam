@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Tiny
 
-Andrew Wilkinson built a billion-dollar holding company from a single design agency in Victoria, British Columbia — a city that most people in tech cannot locate on a map — and he did it in a way so boring that for the first fifteen years, almost nobody noticed.
+[[frameworks/andrew-wilkinson|Andrew Wilkinson]] built a billion-dollar holding company from a single design agency in Victoria, British Columbia — a city that most people in tech cannot locate on a map — and he did it in a way so boring that for the first fifteen years, almost nobody noticed.
 
 That was the point.
 
@@ -17,7 +17,7 @@ That was the point.
 
 ## The Compounding Game Nobody Wanted to Play
 
-"Warren Buffett made like 97% of his wealth after the age of 55," Wilkinson told Sam and Shaan. "It all happens very slowly. He started in his 20s, wasn't really well-known until the 90s. And the same thing happened with us."
+"[[frameworks/warren-buffett|Warren Buffett]] made like 97% of his wealth after the age of 55," Wilkinson told Sam and Shaan. "It all happens very slowly. He started in his 20s, wasn't really well-known until the 90s. And the same thing happened with us."
 
 While the venture world was chasing billion-dollar outcomes and burning cash to win market share, Wilkinson was doing something that felt almost provincial: taking 70% of his profits and reinvesting them, taking the other 30% to live on, and repeating the cycle. No outside investors. No fund structure. No exit pressure.
 

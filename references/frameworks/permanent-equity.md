@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Permanent Equity
 
-Brent Beshore accidentally bought his first business at age 24. He didn't know what due diligence was. He Googled it while his lawyer was explaining it to him on the phone. A week before closing, he realized he'd forgotten to set up a line of credit and had no way to make payroll after the seller took the cash out.
+[[frameworks/brent-beshore|Brent Beshore]] accidentally bought his first business at age 24. He didn't know what due diligence was. He Googled it while his lawyer was explaining it to him on the phone. A week before closing, he realized he'd forgotten to set up a line of credit and had no way to make payroll after the seller took the cash out.
 
 "He actually lent me money as a line of credit to keep the business operating because I didn't even think about it."
 
@@ -33,7 +33,7 @@ The cash from Media Cross became the capital for a pool business in Arizona, whi
 
 When Patrick O'Shaughnessy flew to Columbia, Missouri to visit Beshore and hear about what he was doing, O'Shaughnessy asked how much these businesses sold for. Beshore said three to five times earnings. O'Shaughnessy: "What? Are these businesses going out of business? Are these distressed?" They weren't. They were healthy businesses in fragmented markets that no one was paying attention to.
 
-Beshore's fund structure is the deliberate opposite of traditional private equity:
+Beshore's fund structure is the deliberate opposite of traditional [[frameworks/private-equity|private equity]]:
 
 - **No fees**: No 2-and-20, no management fee, no reimbursements. The hold-co team is paid from Beshore's own GP profits.
 - **No debt**: All-equity deals. "We've had that happen over and over again. We never know what the future holds, but we know there are going to be options to invest in really interesting things. If the cash flow is all going to the bank, you don't have that option."
@@ -60,7 +60,7 @@ The math works: buy a business with no debt at 5-7x earnings, achieve organic gr
 
 Beshore's conversation with [[warren-buffett]] itself shaped his understanding of what the Berkshire model really was at its origins.
 
-"Go back and look at Buffalo News. Buffett and Munger were literally living in Buffalo. They were writing headlines." When Berkshire acquired the newspaper, Buffett was personally involved in advertising placement, headline writing, and retail strategy for See's Candy. It was Steve Jobs and the Apple Store — product-oriented obsession with details.
+"Go back and look at Buffalo News. Buffett and Munger were literally living in Buffalo. They were writing headlines." When Berkshire acquired the newspaper, Buffett was personally involved in advertising placement, headline writing, and retail strategy for See's Candy. It was [[frameworks/steve-jobs|Steve Jobs]] and the Apple Store — product-oriented obsession with details.
 
 "'Berkshire buys businesses and leaves them alone.' That was not how they operated for the vast majority of their history. They eventually had to because they got to such a scale they literally couldn't intervene anymore."
 

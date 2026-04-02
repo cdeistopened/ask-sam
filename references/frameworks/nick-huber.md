@@ -3,15 +3,18 @@ title: Nick Huber
 type: person
 domain: people
 status: draft
-episodes: [how_nick_huber_built_a_100m_se, the_6_traits_of_a_successful_e, the_richest_people_i_know_do_o]
-date_created: 2026-02-05
+episodes:
+  - how_nick_huber_built_a_100m_se
+  - the_6_traits_of_a_successful_e
+  - the_richest_people_i_know_do_o
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Nick Huber
 
 Most startup founders dream of raising money from Andreessen Horowitz or Sequoia. Nick Huber raised $40 million from Twitter followers.
 
-That fact alone captures something important about how wealth actually gets built in America. Not through gatekeepers and pitch decks, but through a cargo van, a willingness to sweat, and the patience to talk about boring businesses on the internet for years.
+That fact alone captures something important about how wealth actually gets built in America. Not through gatekeepers and pitch decks, but through a cargo van, a willingness to sweat, and the patience to talk about [[frameworks/boring-businesses|boring businesses]] on the internet for years.
 
 ## The Cargo Van Origin
 
@@ -25,9 +28,9 @@ The sale itself is unremarkable. What matters is what came next.
 
 ## Building a $100M Portfolio on Twitter
 
-By his second appearance on My First Million in 2023, Nick's self-storage company Bolt Storage had grown from 15 properties to 61, with 1.8 million square feet of storage acquired for $103 million. The capital came from an unlikely source.
+By his second appearance on [[frameworks/my-first-million|My First Million]] in 2023, Nick's self-storage company [[frameworks/bolt-storage|Bolt Storage]] had grown from 15 properties to 61, with 1.8 million square feet of storage acquired for $103 million. The capital came from an unlikely source.
 
-"96% of it has come from Twitter. My entire real estate private equity company was built on the back of Twitter," Nick explained. "We've raised $40 million from 320 people." [How Nick Huber Built A $100M Self Storage Empire, 00:03:15](https://youtube.com/watch?v=...)
+"96% of it has come from Twitter. My entire real estate [[frameworks/private-equity|private equity]] company was built on the back of Twitter," Nick explained. "We've raised $40 million from 320 people." [How Nick Huber Built A $100M Self Storage Empire, 00:03:15](https://youtube.com/watch?v=...)
 
 He built that following by doing something counterintuitive: sharing everything. The economics of his deals, the mistakes he made, the unsexy reality of owning storage facilities in secondary markets. His @sweatystartup account became a masterclass in transparent entrepreneurship.
 
@@ -49,9 +52,9 @@ This stance puts Nick at odds with Silicon Valley's obsession with exits and ent
 
 Perhaps the most striking number in Nick's business empire: 22 Americans across 325 total employees.
 
-His companies Bolt Storage, Somewhere.com, and RE Cost Seg run mostly on talent from South Africa, Colombia, Brazil, and the Philippines. The payroll math is hard to argue with: a $100 million operation runs on roughly $1.5 million in labor costs.
+His companies Bolt Storage, [[frameworks/somewhere-com|Somewhere.com]], and [[frameworks/re-cost-seg|RE Cost Seg]] run mostly on talent from South Africa, Colombia, Brazil, and the Philippines. The payroll math is hard to argue with: a $100 million operation runs on roughly $1.5 million in labor costs.
 
-"I have six Americans at Somewhere out of 160 employees. RE Cost Seg has 130 employees and seven Americans. Bolt Storage has six Americans out of 60. They are mostly in sales because I can't replicate the American ability to close high-ticket deals yet." [The Richest People I Know Do One Thing, 00:15:30](https://youtube.com/watch?v=...)
+"I have six Americans at Somewhere out of 160 employees. RE Cost Seg has 130 employees and seven Americans. Bolt Storage has six Americans out of 60. They are mostly in sales because I can't replicate the American ability to close high-ticket deals yet." [The [[episodes/R4uQlm2xF1I|Richest People I Know Do One Thing]], 00:15:30](https://youtube.com/watch?v=...)
 
 In May 2024, Nick acquired Support Shepherd (now [[somewherecom]]) for $52 million, essentially buying the infrastructure that enables his own talent strategy. The company receives 60,000 applicants monthly.
 
@@ -89,7 +92,7 @@ Perhaps the most revealing moment from Nick's podcast appearances was not about 
 
 After attending Camp MFM with [[mrbeast]] and other successful entrepreneurs, Nick wrote a blog post with three takeaways: he wanted a therapist, he wanted to be more present with his kids, and he wanted to drink less alcohol.
 
-Not exactly the hustle culture gospel. But perhaps closer to the truth.
+Not exactly [[frameworks/the-hustle-story|the hustle]] culture gospel. But perhaps closer to the truth.
 
 ---
 
@@ -97,7 +100,7 @@ Not exactly the hustle culture gospel. But perhaps closer to the truth.
 
 | Framework | Description |
 |-----------|-------------|
-| **Sweaty Startups** | Focus on boring, unglamorous local service businesses with physical labor and sweat equity |
+| **[[frameworks/sweaty-startups|Sweaty Startups]]** | Focus on boring, unglamorous local service businesses with physical labor and sweat equity |
 | **Cash Flow over EV** | Prioritize monthly cash flow over building enterprise value for a future exit |
 | **80/10/10 Hiring** | Recruit from the 80% who are employed but open, not the 10% who are desperate |
 | **Global Talent Arbitrage** | Hire top 1% talent from lower-cost countries; keep only high-ticket sales in the US |
@@ -116,7 +119,7 @@ Not exactly the hustle culture gospel. But perhaps closer to the truth.
 
 ## Sources & Episodes
 
-- [#127: Building a $10M Self-Storage Business and the Opportunities in 'Sweaty Startups'](https://youtube.com/watch?v=...) - November 2020
+- [#127: Building a $10M [[frameworks/self-storage|Self-Storage Business]] and the Opportunities in 'Sweaty Startups'](https://youtube.com/watch?v=...) - November 2020
 - [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- February 2023
 - [Nick Huber: How to Make Millions from Content Without Selling Ads](https://youtube.com/watch?v=...) - March 2023
 - [[episodesthe6traitsofasuccessfule|The 6 Traits Of A Successful Entrepreneur (#431)]] -- March 2023

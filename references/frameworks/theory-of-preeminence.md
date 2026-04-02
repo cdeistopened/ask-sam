@@ -1,19 +1,26 @@
 ---
 name: Theory of Preeminence
-description: Walk someone through repositioning their business from transactional to advisory using Jay Abraham's Theory of Preeminence, as applied by Ramit Sethi. Use when someone says they feel like just another vendor, wants to build deeper customer loyalty, is struggling to charge premium prices, or asks how to differentiate a service business. Also activate when someone says "my customers don't stick around" or "I compete on price" or "how do I get referrals without asking."
+description: >-
+  Walk someone through repositioning their business from transactional to
+  advisory using Jay Abraham's Theory of Preeminence, as applied by Ramit Sethi.
+  Use when someone says they feel like just another vendor, wants to build
+  deeper customer loyalty, is struggling to charge premium prices, or asks how
+  to differentiate a service business. Also activate when someone says "my
+  customers don't stick around" or "I compete on price" or "how do I get
+  referrals without asking."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 40cZdzYHd2I
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Ramit Sethi
 ---
 
 # Theory of Preeminence
 
-Walk someone through repositioning their business from transactional to advisory using Jay Abraham's framework, as lived out by Ramit Sethi on My First Million.
+Walk someone through repositioning their business from transactional to advisory using Jay Abraham's framework, as lived out by Ramit Sethi on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -143,4 +150,4 @@ After the session, deliver:
 
 ## Source
 
-[Ramit Sethi: "I Will Teach You To Be Rich" | My First Million](https://www.youtube.com/watch?v=40cZdzYHd2I) — Sam Parr and Shaan Puri interview Ramit Sethi on money psychology, course businesses, and the Theory of Preeminence.
+[Ramit Sethi: "I Will Teach You To Be Rich" | My First Million](https://www.youtube.com/watch?v=40cZdzYHd2I) — [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] interview Ramit Sethi on money psychology, course businesses, and the Theory of Preeminence.

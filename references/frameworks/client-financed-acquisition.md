@@ -1,19 +1,28 @@
 ---
 name: Client-Financed Acquisition
-description: Walk someone through Alex Hormozi's client-financed acquisition model — designing a business's offer sequence so that the revenue from early customers covers the cost of acquiring the next customers, making growth self-funding. Use when someone is struggling with high customer acquisition costs, trying to figure out how to scale without outside capital, asking "how do I make marketing pay for itself?", designing a new offer, or trying to understand why their business isn't profitable despite growing revenue. Trigger phrases include "my CAC is too high", "I need to lower my acquisition cost", "how do I scale without raising money?", or "help me think through my offer structure."
+description: >-
+  Walk someone through Alex Hormozi's client-financed acquisition model —
+  designing a business's offer sequence so that the revenue from early customers
+  covers the cost of acquiring the next customers, making growth self-funding.
+  Use when someone is struggling with high customer acquisition costs, trying to
+  figure out how to scale without outside capital, asking "how do I make
+  marketing pay for itself?", designing a new offer, or trying to understand why
+  their business isn't profitable despite growing revenue. Trigger phrases
+  include "my CAC is too high", "I need to lower my acquisition cost", "how do I
+  scale without raising money?", or "help me think through my offer structure."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - TAXPyRnWwI0
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Alex Hormozi
 ---
 
 # Client-Financed Acquisition
 
-Walk someone through Alex Hormozi's money model framework — the system he says has made him more money than anything else in his career. The goal: design a sequence of offers so that the revenue from Day 1 is large enough to cover the cost of acquiring that customer. Growth becomes self-funding.
+Walk someone through [[frameworks/alex-hormozi|Alex Hormozi]]'s money model framework — the system he says has made him more money than anything else in his career. The goal: design a sequence of offers so that the revenue from Day 1 is large enough to cover the cost of acquiring that customer. Growth becomes self-funding.
 
 ## When to Use
 
@@ -180,4 +189,4 @@ After the session, deliver:
 
 ## Source
 
-[These 4 Math Equations Will Make You A Millionaire | Alex Hormozi](https://www.youtube.com/watch?v=TAXPyRnWwI0) — Sam Parr interviews Alex Hormozi on his Money Models framework.
+[These 4 Math Equations Will Make You A Millionaire | Alex Hormozi](https://www.youtube.com/watch?v=TAXPyRnWwI0) — [[frameworks/sam-parr|Sam Parr]] interviews Alex Hormozi on his [[frameworks/money-models|Money Models]] framework.

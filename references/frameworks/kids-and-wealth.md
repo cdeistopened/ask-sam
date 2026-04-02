@@ -1,6 +1,15 @@
 ---
 name: Raising Kids Without Entitlement
-description: Help a wealthy parent think through how to raise kids who are motivated, resilient, and capable — not entitled, aimless, or dependent on their parents' wealth. Use this when a parent is worried about spoiling their kids, has noticed entitled behavior starting to develop, is questioning how much financial support to give adult children, or wants to design how their kids will experience money. Trigger phrases include "how do I raise kids without spoiling them," "entitlement," "my kid had a tantrum about first class," "when do I tell my kids how much we have," "how much trust fund is too much," or "I don't want wealth to rob my kids of motivation."
+description: >-
+  Help a wealthy parent think through how to raise kids who are motivated,
+  resilient, and capable — not entitled, aimless, or dependent on their parents'
+  wealth. Use this when a parent is worried about spoiling their kids, has
+  noticed entitled behavior starting to develop, is questioning how much
+  financial support to give adult children, or wants to design how their kids
+  will experience money. Trigger phrases include "how do I raise kids without
+  spoiling them," "entitlement," "my kid had a tantrum about first class," "when
+  do I tell my kids how much we have," "how much trust fund is too much," or "I
+  don't want wealth to rob my kids of motivation."
 type: framework
 domain: frameworks
 status: published
@@ -8,7 +17,7 @@ episodes:
   - how_to_not_ruin_your_kids_with_your_wealth_ft__dr
   - born_a_billionaire__how_to_avoid_wealth_robbing_yo
   - how_neil_patel_spends__200k_a_month
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Dr. Becky Kennedy
   - Taylor Adams
@@ -122,7 +131,7 @@ His perspective on cutting back lavish experiences:
 
 ## Step 5: Purpose Is the Antidote
 
-The through-line across Dr. Becky, Taylor Adams, and Sam Parr: entitlement is not primarily a money problem. It is a purpose problem.
+The through-line across Dr. Becky, Taylor Adams, and [[frameworks/sam-parr|Sam Parr]]: entitlement is not primarily a money problem. It is a purpose problem.
 
 Taylor Adams:
 

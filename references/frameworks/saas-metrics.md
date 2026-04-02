@@ -8,7 +8,7 @@ episodes:
   - i_ranked_the_best___worst_busi
   - i_built_4_agents_in_55_minutes
   - silicon_valley_og_shares_crazy
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # SaaS Metrics: The MFM Guide to the Numbers That Actually Matter
@@ -17,7 +17,7 @@ The country of Bhutan does not measure GDP. It measures Gross National Happiness
 
 The observation sounds like a throwaway line. It is not. It cuts to the deepest question in SaaS: which number should you actually care about? Revenue is the obvious answer, the GDP of any software company. But the best SaaS operators---the ones who build businesses worth billions---often measure something else entirely. They measure the rate at which customers stay.
 
-This distinction between vanity metrics and real metrics, between numbers that look impressive in a pitch deck and numbers that predict survival, runs through nearly every business conversation on My First Million. The hosts have interviewed bootstrapped founders who built quietly to hundreds of millions in revenue and venture-backed rockets that compressed a decade of growth into eighteen months. The metrics they use to evaluate these businesses tell you more about how wealth actually works in software than any finance textbook.
+This distinction between vanity metrics and real metrics, between numbers that look impressive in a pitch deck and numbers that predict survival, runs through nearly every business conversation on [[frameworks/my-first-million|My First Million]]. The hosts have interviewed bootstrapped founders who built quietly to hundreds of millions in revenue and venture-backed rockets that compressed a decade of growth into eighteen months. The metrics they use to evaluate these businesses tell you more about how wealth actually works in software than any finance textbook.
 
 ---
 
@@ -79,7 +79,7 @@ Across hundreds of episodes, a pattern emerges in how the hosts evaluate SaaS bu
 
 **Revenue per employee.** This metric rarely appears in textbooks but surfaces constantly on MFM. A SaaS company doing $10 million in revenue with 20 employees is in a fundamentally different position than one doing $10 million with 200 employees. The first has optionality. The second has overhead. When AI tools allow small teams to build and maintain products that once required engineering armies, revenue per employee becomes perhaps the most important SaaS metric of the next decade.
 
-**Time to value.** How quickly does a new user experience the benefit of the product? Products like Cursor and ElevenLabs compress this to minutes. Traditional enterprise SaaS might take months of implementation. The faster the time to value, the lower the acquisition cost and the higher the retention. This is why AI-native SaaS companies are breaking the old growth curves. They are not better at marketing. They are better at delivering immediate results.
+**Time to value.** How quickly does a new user experience the benefit of the product? Products like Cursor and ElevenLabs compress this to minutes. Traditional enterprise SaaS might take months of implementation. The faster the time to value, the lower the acquisition cost and the higher the retention. This is why AI-native SaaS companies are [[episodes/Dwi6UbdpZyk|breaking]] the old growth curves. They are not better at marketing. They are better at delivering immediate results.
 
 **The "would I use this" test.** Perhaps the most unscientific metric on the list, but one the hosts apply constantly. [[shaan-puri]] in particular evaluates products through personal experience. If a product is so useful that he reaches for it daily, the retention metrics are almost certainly strong. If he has to remind himself to use it, the churn data will eventually reflect the same indifference.
 
@@ -109,8 +109,8 @@ The small nation of Bhutan understood something that the SaaS industry is still 
 
 ## Sources & Episodes
 
-- [[episodesthe1mostunderratedquality|The #1 Most Underrated Quality in an Entrepreneur]] -- - Shaan Puri on Bhutan's Gross National Happiness as a metric analogy
-- [[episodesirankedthebestworstbusi|I Ranked the Best & WORST Businesses to Start Before 2026 | Andrew Wilkinson]] -- - Andrew Wilkinson on Tiny portfolio metrics: $65M ARR, $40M EBITDA, $300M+ revenue across 30 businesses
+- [[episodesthe1mostunderratedquality|The #1 Most Underrated Quality in an Entrepreneur]] -- - [[frameworks/shaan-puri|Shaan Puri]] on Bhutan's Gross National Happiness as a metric analogy
+- [[episodesirankedthebestworstbusi|I Ranked the Best & WORST Businesses to Start Before 2026 | Andrew Wilkinson]] -- - [[frameworks/andrew-wilkinson|Andrew Wilkinson]] on Tiny portfolio metrics: $65M ARR, $40M EBITDA, $300M+ revenue across 30 businesses
 - "I Got Rejected from YC 4x" -- Discussion of AI SaaS breaking traditional growth timelines, Magic School trajectory
 - [[episodesibuilt4agentsin55minutes|I built 4 Agents in 55 minutes to save 20+ hours a week]] -- - Zapier's bootstrapped growth to hundreds of millions in revenue, $5-10B valuation
 - [[episodessiliconvalleyogsharescrazy|Silicon Valley OG shares crazy stories from Zynga early days + 3 business ideas]] -- - Siqi Chen on ElevenLabs outpacing YC's fastest-growing SaaS companies, Cursor growth curve
@@ -125,7 +125,7 @@ The small nation of Bhutan understood something that the SaaS industry is still 
 - [[network-effects]] -- The defensibility layer that separates enduring SaaS from commodity software
 - [[acquisition-entrepreneurship]] -- Buying existing SaaS businesses instead of building from scratch
 - [[productize-yourself]] -- How individual skills become SaaS products
-- [[newsletter-business]] -- Content-to-SaaS pipeline, The Hustle to HubSpot acquisition
+- [[newsletter-business]] -- Content-to-SaaS pipeline, [[frameworks/the-hustle-story|The Hustle]] to HubSpot acquisition
 - [[content-to-commerce]] -- The media flywheel that funds SaaS growth
 
 ---

@@ -4,12 +4,12 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Feastables
 
-Shaan Puri passed on the early investment rounds. "Chocolate company? I don't know. Why chocolate? Your audience is young, but chocolate's kind of low-priced."
+[[frameworks/shaan-puri|Shaan Puri]] passed on the early investment rounds. "Chocolate company? I don't know. Why chocolate? Your audience is young, but chocolate's kind of low-priced."
 
 He regretted it.
 
@@ -19,7 +19,7 @@ Within a couple of years, Jimmy Donaldson had reduced his list of annual goals t
 
 ## What Feastables Actually Is
 
-Feastables is [[mrbeast]]'s consumer packaged goods brand, built primarily around chocolate bars. It was launched as a creator-backed product play — the same structural move that Logan Paul and KSI made with Prime energy drinks, except with chocolate as the vehicle and Donaldson's YouTube distribution as the engine.
+Feastables is [[mrbeast]]'s consumer packaged goods brand, built primarily around chocolate bars. It was launched as a creator-backed product play — the same structural move that [[frameworks/logan-paul|Logan Paul]] and KSI made with Prime energy drinks, except with chocolate as the vehicle and Donaldson's YouTube distribution as the engine.
 
 The business logic is straightforward: Donaldson has one of the few genuine marketing advantages in consumer goods. More people watch his YouTube content every month than watch the Super Bowl. When that kind of reach points at a retail product, the economics of distribution look different than they do for a conventional CPG brand.
 

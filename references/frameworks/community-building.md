@@ -9,12 +9,12 @@ episodes:
   - how_nick_saban_s_side_hustle_m
   - 5_lessons_in_negotiation_from_
   - masterclass__how_to_go_from_fo
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Community Building
 
-The businesses most likely to survive the next decade of artificial intelligence are the ones that would have thrived in 1890. That is the counterintuitive conclusion that emerges from dozens of conversations on My First Million about community, membership, and human connection as economic moats.
+The businesses most likely to survive the next decade of artificial intelligence are the ones that would have thrived in 1890. That is the counterintuitive conclusion that emerges from dozens of conversations on [[frameworks/my-first-million|My First Million]] about community, membership, and human connection as economic moats.
 
 Country clubs are the template. Not the aesthetics--the economics. A country club has no proprietary technology. It has no patents, no algorithms, no data flywheel. What it has is a group of people who know each other, who show up regularly, and who would lose something irreplaceable by leaving. The lifetime value of a country club member stretches across decades. The switching costs are not financial. They are relational.
 
@@ -42,7 +42,7 @@ The model works like this: "You're still in the same community. You don't have t
 
 Twenty to thirty years. That is not a subscription business. That is an identity. The resident does not think of themselves as a customer paying for a service. They think of themselves as a member of a place. The distinction matters enormously for retention, pricing power, and the kind of margins that accumulate when acquisition costs are paid once and revenue flows for decades.
 
-The parallel to Hampton is instructive. Both businesses sell belonging to a specific group of people navigating a shared life stage. Both create environments where leaving means losing not just a service but a social fabric. Both generate the kind of lifetime value that makes most SaaS metrics look anemic.
+The parallel to Hampton is instructive. Both businesses sell belonging to a specific group of people navigating a shared life stage. Both create environments where leaving means losing not just a service but a social fabric. Both generate the kind of lifetime value that makes most [[frameworks/saas-metrics|SaaS metrics]] look anemic.
 
 ---
 

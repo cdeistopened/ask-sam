@@ -4,14 +4,14 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Warren Buffett
 
 Warren Buffett has made roughly 300 investment decisions over 58 years at [[berkshire-hathaway]]. Twelve of them mattered. The other 288 were, by his own accounting, noise. That is a 4% hit rate, or about one good idea every five years.
 
-Most people hear that statistic and think it reflects modesty. It does not. It reflects math. And on My First Million, where guests and hosts routinely dissect the mechanics of wealth-building, Buffett functions less as a biography to admire than as a reference architecture to steal from. He is not discussed the way magazines discuss him, as the folksy grandfather of Omaha. He is discussed the way engineers discuss load-bearing walls: as the thing holding everything else up.
+Most people hear that statistic and think it reflects modesty. It does not. It reflects math. And on [[frameworks/my-first-million|My First Million]], where guests and hosts routinely dissect the mechanics of wealth-building, Buffett functions less as a biography to admire than as a reference architecture to steal from. He is not discussed the way magazines discuss him, as the folksy grandfather of Omaha. He is discussed the way engineers discuss load-bearing walls: as the thing holding everything else up.
 
 ---
 
@@ -81,9 +81,9 @@ This framing recurs across MFM episodes in a different vocabulary. Shaan has tal
 
 ## The Rick Guerin Cautionary Tale
 
-Buffett had a third partner, alongside Charlie Munger, named [[rick-guerin]]. Guerin was every bit as intelligent as the other two. He may have been smarter. But he was in a hurry.
+Buffett had a third partner, alongside [[frameworks/charlie-munger|Charlie Munger]], named [[rick-guerin]]. Guerin was every bit as intelligent as the other two. He may have been smarter. But he was in a hurry.
 
-Guerin used leverage. When the 1973-74 crash came, he got margin called. He had to sell his Berkshire Hathaway shares to Buffett at $40 per share. Those shares now trade above $700,000.
+Guerin used leverage. When the 1973-74 crash came, he got margin called. He had to sell his [[frameworks/berkshire-hathaway|Berkshire Hathaway]] shares to Buffett at $40 per share. Those shares now trade above $700,000.
 
 Pabrai recounts this story from his $650,000 lunch with Buffett, and it carries a lesson that cuts against the entire culture of hustle and urgency that pervades the entrepreneurial world. Guerin did not lack intelligence. He did not lack access. He did not lack connections -- he was literally partners with Warren Buffett and Charlie Munger. He lacked patience. And impatience, when combined with leverage, is a permanent kind of failure.
 
@@ -111,7 +111,7 @@ Charlie Munger, Buffett's partner of six decades, read Barron's every week for 1
 
 That ratio -- 780 issues for a single actionable insight -- captures something fundamental about how Buffett and Munger think about information consumption. They are not reading to stay current. They are not reading to have opinions at cocktail parties. They are reading to build a latent pattern library so large that anomalies become obvious when they finally appear.
 
-This maps directly to the MFM ethos of intellectual compounding. Sam Parr has described his voracious reading habits as a form of deal flow -- every article, every biography, every financial filing is another ticket checked at the racetrack. Most are losers. The discipline is checking them anyway.
+This maps directly to the MFM ethos of intellectual compounding. [[frameworks/sam-parr|Sam Parr]] has described his voracious reading habits as a form of deal flow -- every article, every biography, every financial filing is another ticket checked at the racetrack. Most are losers. The discipline is checking them anyway.
 
 The Buffett approach to reading also resolves a tension that surfaces frequently on the podcast: how much research is enough before making a decision? Buffett's answer is paradoxical. You should spend decades reading everything. And then you should make your actual decisions in about five minutes. The decades of reading are not analysis. They are calibration. By the time the 2x4 shows up, you should not need to think about whether to swing.
 
@@ -129,8 +129,8 @@ This is Buffett's influence operating at a layer deeper than investment strategy
 
 ## Sources
 
-- [[asking-a-billionaire-investor|Asking a Billionaire Investor How to Turn $10,000 into $1M ft. Mohnish Pabrai]] -- Primary source for Buffett's 4% hit rate, racetrack ticket story, Einstein intelligence hierarchy, risk vs. uncertainty, Rick Guerin cautionary tale, Plan A/Plan B framework, second-order thinking, Dakshana Foundation
-- [[i-made-50m-buying-running-b|I Made $50M Buying & Running Boring Businesses ft. Brent Beshore]] -- Beshore's conversation with Buffett about Sanborn Maps and Dempster Mill
+- [[asking-a-billionaire-investor|Asking a Billionaire Investor How to Turn $10,000 into $1M ft. Mohnish Pabrai]] -- Primary source for Buffett's 4% hit rate, racetrack ticket story, Einstein intelligence hierarchy, risk vs. uncertainty, Rick Guerin cautionary tale, Plan A/Plan B framework, second-order thinking, [[frameworks/dakshana-foundation|Dakshana Foundation]]
+- [[i-made-50m-buying-running-b|I Made $50M Buying & Running [[frameworks/boring-businesses|Boring Businesses]] ft. Brent Beshore]] -- Beshore's conversation with Buffett about Sanborn Maps and Dempster Mill
 - [[billionaire-lawyer-spills-his|Billionaire Lawyer Spills His Secrets ft. John Morgan]] -- Ovarian lottery concept, structural advantage of being born in America
 
 ---

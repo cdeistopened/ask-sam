@@ -6,12 +6,12 @@ status: draft
 episodes:
   - TN5aKByr3Rs
   - 79mG0s-TiMo
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Dakshana Foundation
 
-Mohnish Pabrai thinks of his philanthropy the same way he thinks about value investing: find situations where a small input creates an enormous output, and bet heavily.
+[[frameworks/mohnish-pabrai|Mohnish Pabrai]] thinks of his philanthropy the same way he thinks about value investing: find situations where a small input creates an enormous output, and bet heavily.
 
 ## What Dakshana Is
 
@@ -53,7 +53,7 @@ Mohnish categorizes his activities by whether they reward rigorous analysis and 
 
 Most philanthropists optimize for feel-good signals — they give to things that are visible and emotionally resonant. Mohnish optimized for leverage. The question he asks of every philanthropic dollar is the same he asks of every investment dollar: what is the expected return, and is this the best use of capital at this moment?
 
-Warren Buffett's guiding principle for Mohnish's personal wealth transfers to his children: "I want to give my kids enough money for them to do anything they want, but not enough to do nothing." Dakshana is the application of that logic at a societal scale — giving India's poorest families enough for their children to access everything, rather than subsidizing dependency.
+[[frameworks/warren-buffett|Warren Buffett]]'s guiding principle for Mohnish's personal wealth transfers to his children: "I want to give my kids enough money for them to do anything they want, but not enough to do nothing." Dakshana is the application of that logic at a societal scale — giving India's poorest families enough for their children to access everything, rather than subsidizing dependency.
 
 ---
 

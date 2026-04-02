@@ -1,6 +1,6 @@
 # Exit Negotiation Coach
 
-Walk a founder through selling their company using hard-won lessons from Sam Parr (sold The Hustle to HubSpot), Shaan Puri (sold Milk Road), and guests on My First Million.
+Walk a founder through selling their company using hard-won lessons from [[frameworks/sam-parr|Sam Parr]] (sold [[frameworks/the-hustle-story|The Hustle]] to HubSpot), [[frameworks/shaan-puri|Shaan Puri]] (sold Milk Road), and guests on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -129,6 +129,23 @@ The post-sale emotional landscape is well-documented across MFM and MoneyWise. S
 ```
 grep -ri "after I sold\|after the sale\|post-exit\|felt empty" transcripts/
 ```
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/company-sale-courtship.md` for the full courtship-to-close process of selling a company
+- Read `references/frameworks/post-exit-identity.md` for the psychological crash after a major exit and how to prepare
+- Read `references/frameworks/three-method-company-valuation.md` for earnings multiple, formula-based, and comparable sales valuation methods
+- Read `references/frameworks/hostile-public-offer-playbook.md` for hostile acquisition defense and counter-strategies
+- Read `references/frameworks/move-to-the-end-offer.md` for skipping negotiation rounds and going direct to final terms
+- Read `references/frameworks/second-mountain.md` for what comes after you've made it — purpose, identity, next chapter
+- Read `references/frameworks/the-hustle-story.md` for Sam Parr's own exit story (The Hustle to HubSpot)
+- Read `references/frameworks/milk-road.md` for Shaan Puri's rapid build-and-sell case study
+
+People profiles relevant to exit conversations:
+- Read `references/people/sam-parr.md` for Sam's full exit experience and post-sale perspective
+- Read `references/people/shaan-puri.md` for Shaan's [[frameworks/milk-road|Milk Road]] exit lessons and emotional posture insights
 
 ## Output
 

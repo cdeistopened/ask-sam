@@ -1,5 +1,5 @@
 ---
-title: "How to Get Rich: The MFM Framework for Building Wealth"
+title: 'How to Get Rich: The MFM Framework for Building Wealth'
 type: seo
 domain: seo
 status: draft
@@ -12,16 +12,16 @@ episodes:
   - 56_minutes_of_money_wisdom_for
   - the_richest_people_i_know_do_o
   - i_spent_24_hours_with_the_most
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # How to Get Rich: The MFM Framework for Building Wealth
 
 [[hayes-barnard]] flunked first grade. He has dyslexia. His first job paid $4 an hour making sandwiches at Subway. Today his net worth is approximately $4 billion. The trajectory sounds impossible until you learn the mechanism: he never tried to be the smartest person in the room. He surrounded himself with people who were.
 
-[[shaan-puri]] failed twelve times before making his first million at age 30. [[leila-hormozi]] weighed 230 pounds, had been arrested six times, and flunked out of college before building a $100 million net worth by 29. [[andrew-wilkinson]] went from $6.50 an hour as a barista to billionaire through design agencies and holding companies.
+[[shaan-puri]] failed twelve times before making his first million at age 30. [[leila-hormozi]] weighed 230 pounds, had been arrested six times, and flunked out of college before building a $100 million net worth by 29. [[andrew-wilkinson]] went from $6.50 an hour as a barista to billionaire through design agencies and [[frameworks/holding-companies|holding companies]].
 
-The stories differ in detail but converge on a pattern. On My First Million, the question of how to get rich has been examined from nearly every angle—and the answers are more systematic than they first appear.
+The stories differ in detail but converge on a pattern. On [[frameworks/my-first-million|My First Million]], the question of how to get rich has been examined from nearly every angle—and the answers are more systematic than they first appear.
 
 ---
 
@@ -97,7 +97,7 @@ Before pursuing wealth, the question worth answering is: how much is enough?
 
 The framework has three steps.
 
-**Step 1: Launchpad.** Approximately $250,000 per year in passive income. This is the point where you can quit your job and pursue projects based on interest rather than necessity.
+**Step 1: Launchpad.** Approximately $250,000 per year in [[frameworks/passive-income|passive income]]. This is the point where you can quit your job and pursue projects based on interest rather than necessity.
 
 **Step 2: Enough.** Calculate your annual dream spend and multiply by 20. If your ideal life costs $3 million per year, your target net worth is $60 million.
 
@@ -176,7 +176,7 @@ Calculate your annual dream spend and multiply by 20. That number, invested cons
 ## Sources & Episodes
 
 - [[episodeshowtogetrichwithoutluckt|How to Get Rich (without luck, talent, or a trust fund)]] -- Shaan's four rules framework
-- [[episodeshowimademyfirst1mtheand|How I Made My First $1M - The Andrew Wilkinson Story]] -- Wealth levels, Enough framework
+- [[episodeshowimademyfirst1mtheand|How I Made My First $1M - The [[frameworks/andrew-wilkinson|Andrew Wilkinson]] Story]] -- Wealth levels, Enough framework
 - [[episodesfrom4hourto4billionnet|From $4/Hour to $4 Billion Net Worth]] -- Rags to riches, Level 5 Leadership
 - [[episodesifailed12timesbeforemakin|I Failed 12 Times Before Making My First Million (Here's Every Failure)]] -- Shaan's failure journey
 - [[episodesleilahormozifromminimumwa|Leila Hormozi: From Minimum Wage Employee to $100M Net Worth By 29]] -- Personal transformation

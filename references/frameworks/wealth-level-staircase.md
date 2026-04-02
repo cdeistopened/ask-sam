@@ -1,6 +1,15 @@
 ---
 name: Wealth Level Staircase
-description: Walk someone through the five stages of wealth and what actually changes — in portfolio behavior, motivation, spending, and identity — at each level. Use this when someone is trying to understand what their current net worth actually means, is asking where they are on the wealth spectrum, wants to plan for how their priorities will shift as they accumulate more, or is wondering what "enough" actually looks like. Trigger phrases include "how much is enough," "what changes at $10 million," "I made it but I don't feel different," "what does $50 million actually change," "$1 million vs $10 million vs $100 million," or "what's the next level look like."
+description: >-
+  Walk someone through the five stages of wealth and what actually changes — in
+  portfolio behavior, motivation, spending, and identity — at each level. Use
+  this when someone is trying to understand what their current net worth
+  actually means, is asking where they are on the wealth spectrum, wants to plan
+  for how their priorities will shift as they accumulate more, or is wondering
+  what "enough" actually looks like. Trigger phrases include "how much is
+  enough," "what changes at $10 million," "I made it but I don't feel
+  different," "what does $50 million actually change," "$1 million vs $10
+  million vs $100 million," or "what's the next level look like."
 type: framework
 domain: frameworks
 status: published
@@ -8,7 +17,7 @@ episodes:
   - 10m_vs__100m__the_difference_between_being_rich_a
   - i_asked_100__millionaires_if_money_makes_you_happy
   - rob_townsend__the__10m_advisor_who_thinks_you_re_i
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Jackie (Hampton data)
   - Rob Townsend
@@ -38,7 +47,7 @@ From Jackie, MoneyWise producer, analyzing Hampton data on 127 verified milliona
 
 The framework below maps what the data actually shows changes at each stage — not what people assume changes, but what demonstrably shifts in behavior, portfolio, motivation, and spending.
 
-From Sam Parr:
+From [[frameworks/sam-parr|Sam Parr]]:
 
 > "I think from me, that threshold is probably 25 or 30 million dollars."
 
@@ -104,7 +113,7 @@ Jackie:
 
 > "Almost having a little bit less but having cash flow seems to be maybe a nicer way to go."
 
-**The risk at this level:** Complexity without structure. The temptation to chase more sophisticated investment strategies, private equity deals, or alternative investments — all of which typically underperform their fees.
+**The risk at this level:** Complexity without structure. The temptation to chase more sophisticated investment strategies, [[frameworks/private-equity|private equity]] deals, or alternative investments — all of which typically underperform their fees.
 
 **Ask the user:** Have you separated your personal wealth management from your business? Do you have a financial plan for your personal portfolio that doesn't depend on your business continuing to grow?
 

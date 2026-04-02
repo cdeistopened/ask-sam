@@ -8,7 +8,7 @@ episodes:
   - behind-the-scenes-of-selling-my-company-suli-ali
   - monkey-inferno-regrets
   - milk-road-acquisition
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Shaan Puri
@@ -37,7 +37,7 @@ UserTesting.com (they had the exact same idea and didn't do it). A crypto exchan
 
 Monkey Inferno eventually built a gaming company that got acquired by Twitch. The day the deal closed, Shaan became a product manager inside Amazon's fastest-growing property.
 
-His stated career plan at Twitch: earn this vesting check and get out. What he found instead was worth more than the equity. He watched Dan Clancy — the CEO — describe working in what he called a "square curve": spending extended time at the 10,000-foot strategic level, then dropping straight down to the centimeter level to solve specific problems, then going back up. Shaan recognized it immediately as what Paul Graham would later call "founder mode."
+His stated career plan at Twitch: earn this vesting check and get out. What he found instead was worth more than the equity. He watched Dan Clancy — the CEO — describe working in what he called a "square curve": spending extended time at the 10,000-foot strategic level, then dropping straight down to the centimeter level to solve specific problems, then going back up. Shaan recognized it immediately as what [[frameworks/paul-graham|Paul Graham]] would later call "founder mode."
 
 He also watched how the best leaders asked questions. Jeff Bezos would give Amazon's leaders one thing they thought was impossible, one angle they hadn't considered. Shaan started cataloguing these techniques.
 
@@ -47,7 +47,7 @@ By his own accounting, Shaan wanted $20 million by age 30. He sold his company a
 
 Then he built [[milk-road]] — a crypto newsletter that grew to 250,000+ subscribers in less than a year. He sold it after roughly 12 months.
 
-His advice from the Milk Road sale process, shared publicly: disclose all the skeletons in your closet early. Sam Parr gave him the same advice from the HubSpot deal. Tell buyers upfront all the bad things about the business. "If these bother you, you now know them, and you can decide if that's a deal breaker." When Milk Road's buyers were debriefed after closing, they said that dinner where Shaan laid out all the problems was the moment they decided to trust him.
+His advice from the Milk Road sale process, shared publicly: disclose all the skeletons in your closet early. [[frameworks/sam-parr|Sam Parr]] gave him the same advice from the HubSpot deal. Tell buyers upfront all the bad things about the business. "If these bother you, you now know them, and you can decide if that's a deal breaker." When Milk Road's buyers were debriefed after closing, they said that dinner where Shaan laid out all the problems was the moment they decided to trust him.
 
 > "Every time I've had a company sale — when we sold Bebo to Twitch, when we just sold the Milk Road — Suli has been our deal doula. He helps us go through that labor process and come out the other side with the happy ending."
 

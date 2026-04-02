@@ -1,6 +1,14 @@
 ---
 name: Charitable Giving Framework
-description: Help someone design their approach to giving — whether they are just starting to give, want to give more strategically, are thinking about what to do with a major exit, or want to build giving into their business model. Use this when someone is asking how much to give, where to give it, or how to think about the role of philanthropy in a wealthy life. Trigger phrases include "how much should I donate," "donor-advised fund," "I want to give but don't know how," "tithing," "strategic philanthropy," "what to do with exit proceeds," or "I want my wealth to matter beyond me."
+description: >-
+  Help someone design their approach to giving — whether they are just starting
+  to give, want to give more strategically, are thinking about what to do with a
+  major exit, or want to build giving into their business model. Use this when
+  someone is asking how much to give, where to give it, or how to think about
+  the role of philanthropy in a wealthy life. Trigger phrases include "how much
+  should I donate," "donor-advised fund," "I want to give but don't know how,"
+  "tithing," "strategic philanthropy," "what to do with exit proceeds," or "I
+  want my wealth to matter beyond me."
 type: framework
 domain: frameworks
 status: published
@@ -9,7 +17,7 @@ episodes:
   - how_neil_patel_spends__200k_a_month
   - sold_for__80_million___then_hit_rock_bottom
   - top_money_and_life_secrets_from_25_millionaires__w
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Bryan Johnson
   - Neil Patel
@@ -79,7 +87,7 @@ Giving is what you spend most of your money on — not as sacrifice, but because
 
 The mistake most wealthy people make: they wait until they have "enough" to start giving meaningfully. Beckham's counter-argument is that the muscle must be built before the weight arrives.
 
-From Sam Parr's reflection on Beckham's episode:
+From [[frameworks/sam-parr|Sam Parr]]'s reflection on Beckham's episode:
 
 > "The main lesson here, giving is a really great way to keep your ego and your lifestyle in check and help you feel more happy in general with your life. It's a muscle that you really should start flexing as early as possible, not just waiting until after you die."
 

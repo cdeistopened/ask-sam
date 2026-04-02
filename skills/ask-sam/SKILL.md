@@ -1,11 +1,16 @@
 ---
 name: ask-sam
-description: "MFM business framework library — 876 episodes, 18 skills, 134 frameworks, 38 people profiles. The main entry point. Routes business questions to the right skill, searches the archive for frameworks and quotes, and connects everything across My First Million and MoneyWise. Use when someone asks any business, deal, negotiation, wealth, hiring, or content question."
+description: >-
+  MFM business framework library — 876 episodes, 18 skills, 134 frameworks, 38
+  people profiles. The main entry point. Routes business questions to the right
+  skill, searches the archive for frameworks and quotes, and connects everything
+  across My First Million and MoneyWise. Use when someone asks any business,
+  deal, negotiation, wealth, hiring, or content question.
 ---
 
 # Ask Sam
 
-A business framework library built from 793 episodes of My First Million and 83 episodes of MoneyWise. 18 interactive skills, 134 framework articles, 38 people profiles, and entity intelligence — all grounded in specific episodes and real quotes.
+A business framework library built from 793 episodes of [[frameworks/my-first-million|My First Million]] and 83 episodes of MoneyWise. 18 interactive skills, 134 framework articles, 38 people profiles, and entity intelligence — all grounded in specific episodes and real quotes.
 
 ## How This Works
 
@@ -66,12 +71,12 @@ If the question clearly maps to one of these skills, tell the user and invoke it
 
 If the question maps to a specific framework but not a full skill, search the `references/frameworks/` directory. There are 134 framework articles covering:
 
-- **Acquisitions & deal structures** — PE rollups (`pe-rollup-valuation-arbitrage.md`), zero-dollar acquisitions (`zero-dollar-acquisition.md`), client-financed deals (`client-financed-acquisition.md`), seller financing (`seller-financing.md`), SBA loans (`sba-loans.md`), holding companies (`holdco-model.md`, `holding-companies.md`)
-- **Business models & ideas** — boring businesses (`boring-businesses.md`), sweaty startups (`sweaty-startups.md`), newsletter business (`newsletter-business.md`), content to commerce (`content-to-commerce.md`), self-storage (`self-storage.md`), franchising (`franchising.md`), SaaS metrics (`saas-metrics.md`)
-- **Wealth & money psychology** — spending frameworks (`spending-frameworks.md`), wealth level staircase (`wealth-level-staircase.md`), kids and wealth (`kids-and-wealth.md`), marriage and money (`marriage-and-money.md`), FIRE movement (`fire-movement.md`), accumulator to defender (`accumulator-to-defender.md`), charitable giving (`charitable-giving-frameworks.md`)
-- **Strategy & mindset** — theory of preeminence (`theory-of-preeminence.md`), infinite vs finite games (`infinite-vs-finite-games.md`), high agency (`high-agency.md`), personal monopoly (`personal-monopoly.md`), skill stacking (`skill-stacking.md`), seasons of life focus (`seasons-of-life-focus.md`)
-- **Negotiation & sales** — tactical empathy (`tactical-empathy-negotiation.md`), signal without desperation (`signal-without-desperation.md`), data-driven lead generation (`data-driven-lead-generation.md`), negative CAC media commerce (`negative-cac-media-commerce.md`)
-- **People & company profiles** — 40+ articles on specific operators (Andrew Wilkinson, Alex Hormozi, Mohnish Pabrai, Codie Sanchez, Sam Parr, Shaan Puri, etc.) and companies (Airbnb, Shopify, Stripe, MrBeast, Morning Brew, etc.)
+- **Acquisitions & deal structures** — PE rollups (`pe-rollup-valuation-arbitrage.md`), zero-dollar acquisitions (`zero-dollar-acquisition.md`), client-financed deals (`client-financed-acquisition.md`), [[frameworks/seller-financing|seller financing]] (`seller-financing.md`), [[frameworks/sba-loans|SBA loans]] (`sba-loans.md`), [[frameworks/holding-companies|holding companies]] (`holdco-model.md`, `holding-companies.md`)
+- **Business models & ideas** — [[frameworks/boring-businesses|boring businesses]] (`boring-businesses.md`), [[frameworks/sweaty-startups|sweaty startups]] (`sweaty-startups.md`), [[frameworks/newsletter-business|newsletter business]] (`newsletter-business.md`), [[frameworks/content-to-commerce|content to commerce]] (`content-to-commerce.md`), self-storage (`self-storage.md`), [[frameworks/franchising|franchising]] (`franchising.md`), [[frameworks/saas-metrics|SaaS metrics]] (`saas-metrics.md`)
+- **Wealth & money psychology** — [[frameworks/spending-frameworks|spending frameworks]] (`spending-frameworks.md`), [[frameworks/wealth-level-staircase|wealth level staircase]] (`wealth-level-staircase.md`), [[frameworks/kids-and-wealth|kids and wealth]] (`kids-and-wealth.md`), [[frameworks/marriage-and-money|marriage and money]] (`marriage-and-money.md`), [[frameworks/fire-movement|FIRE movement]] (`fire-movement.md`), [[frameworks/accumulator-to-defender|accumulator to defender]] (`accumulator-to-defender.md`), charitable giving (`charitable-giving-frameworks.md`)
+- **Strategy & mindset** — [[frameworks/theory-of-preeminence|theory of preeminence]] (`theory-of-preeminence.md`), [[frameworks/infinite-vs-finite-games|infinite vs finite games]] (`infinite-vs-finite-games.md`), [[frameworks/high-agency|high agency]] (`high-agency.md`), [[frameworks/personal-monopoly|personal monopoly]] (`personal-monopoly.md`), [[frameworks/skill-stacking|skill stacking]] (`skill-stacking.md`), [[frameworks/seasons-of-life-focus|seasons of life focus]] (`seasons-of-life-focus.md`)
+- **Negotiation & sales** — tactical empathy (`tactical-empathy-negotiation.md`), [[frameworks/signal-without-desperation|signal without desperation]] (`signal-without-desperation.md`), data-driven lead generation (`data-driven-lead-generation.md`), [[frameworks/negative-cac-media-commerce|negative CAC media commerce]] (`negative-cac-media-commerce.md`)
+- **People & company profiles** — 40+ articles on specific operators (Andrew Wilkinson, [[frameworks/alex-hormozi|Alex Hormozi]], [[frameworks/mohnish-pabrai|Mohnish Pabrai]], [[frameworks/codie-sanchez|Codie Sanchez]], [[frameworks/sam-parr|Sam Parr]], [[frameworks/shaan-puri|Shaan Puri]], [[frameworks/alex-lieberman|Alex Lieberman]], [[frameworks/amjad-masad|Amjad Masad]], [[frameworks/austin-rief|Austin Rief]], [[frameworks/brian-halligan|Brian Halligan]], [[frameworks/dharmesh-shah|Dharmesh Shah]], [[frameworks/hayes-barnard|Hayes Barnard]], [[frameworks/kevin-espiritu|Kevin Espiritu]], [[frameworks/logan-paul|Logan Paul]], [[frameworks/marc-andreessen|Marc Andreessen]], [[frameworks/naval-ravikant|Naval Ravikant]], [[frameworks/paul-graham|Paul Graham]], [[frameworks/peter-thiel|Peter Thiel]], [[frameworks/steve-jobs|Steve Jobs]], [[frameworks/walt-disney|Walt Disney]], etc.) and companies (Airbnb (`airbnb.md`), Shopify, Stripe, MrBeast (`mrbeast.md`), [[frameworks/morning-brew|Morning Brew]], Uber (`uber.md`), OpenAI (`openai.md`), MetaLab (`metalab.md`), Tiny (`tiny.md`), [[frameworks/marquee-jets|Marquee Jets]] (`marquee-jets.md`), [[frameworks/dribbble|Dribbble]] (`dribbble.md`), [[frameworks/resi-club|Resi Club]] (`resi-club.md`), [[frameworks/savannah-bananas|Savannah Bananas]] (`savannah-bananas.md`), etc.)
 
 Read the framework index at `references/indexes/by-framework.md` to find the right one. Note: the index covers 47 entries, but the full directory has 134 articles — browse the directory directly for complete coverage.
 

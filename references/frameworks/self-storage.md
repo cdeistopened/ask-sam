@@ -4,7 +4,7 @@ type: business-model
 domain: business-models
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Self-Storage Business
@@ -29,7 +29,7 @@ What makes this particularly interesting is the tax treatment. Through a process
 
 Here is where the story gets unusual. Nick raised 96% of his $41 million from Twitter. Not institutional investors. Not family offices. Twitter followers who believed in the thesis.
 
-He built a distribution list of over 2,000 investors with an average check size of $50,000. The mechanism was straightforward: share transparent updates about the business, educate people about real estate investing, and let interested parties reach out. No cold calls. No roadshows.
+He built a distribution list of over 2,000 investors with an average check size of $50,000. The mechanism was straightforward: share transparent updates about the business, educate people about [[frameworks/real-estate-investing|real estate investing]], and let interested parties reach out. No cold calls. No roadshows.
 
 This approach inverted the traditional power dynamic in capital raising. Instead of pitching skeptical investors, Nick attracted people who already understood and trusted his strategy. When explaining his pitch method, he described deliberately leading with the risks: interest rates might spike, the economy might tank, returns might drop to 2% instead of 8%. Why invest anyway? The counterintuitive effect was that investors trusted him more because he had clearly thought through the downsides.
 
@@ -37,7 +37,7 @@ This approach inverted the traditional power dynamic in capital raising. Instead
 
 ## The Hidden Leverage
 
-What looks like a straightforward storage business is actually a portfolio of interlocking companies. Nick runs Bolt Storage with only 6 Americans out of 60 employees. His COO works from Johannesburg, South Africa. His head of marketing is in Colombia. This global talent strategy dramatically reduced operating costs while maintaining quality.
+What looks like a straightforward storage business is actually a portfolio of interlocking companies. Nick runs [[frameworks/bolt-storage|Bolt Storage]] with only 6 Americans out of 60 employees. His COO works from Johannesburg, South Africa. His head of marketing is in Colombia. This global talent strategy dramatically reduced operating costs while maintaining quality.
 
 Around the storage portfolio, he built a constellation of service businesses:
 
@@ -82,7 +82,7 @@ The tradeoff is real. Sam and Shaan both admit they prefer digital businesses fo
 
 ## What Storage Teaches About Business
 
-Self-storage reveals something uncomfortable about entrepreneurship: the most reliable paths to wealth are often the most boring. The business requires no proprietary technology, no network effects, no viral growth. Just concrete, steel, and the patience to compound.
+Self-storage reveals something uncomfortable about entrepreneurship: the most reliable paths to wealth are often the most boring. The business requires no proprietary technology, no [[frameworks/network-effects|network effects]], no viral growth. Just concrete, steel, and the patience to compound.
 
 Nick productized his operational knowledge into playbooks that can make storage facilities 30% more profitable. That expertise compounds faster than any individual property.
 
@@ -105,13 +105,13 @@ Storage is not for everyone. But for the right operator, it offers something rar
 ## Episode References
 
 **Primary Sources:**
-- [How Nick Huber Built A $100M Self Storage Empire (#420)](https://www.youtube.com/watch?v=example) - Deep dive into Bolt Storage portfolio growth, Twitter capital raising, and cost segregation
+- [How [[frameworks/nick-huber|Nick Huber]] Built A $100M Self Storage Empire (#420)](https://www.youtube.com/watch?v=example) - Deep dive into Bolt Storage portfolio growth, Twitter capital raising, and cost segregation
 - [The 6 Traits Of A Successful Entrepreneur (#431)](https://www.youtube.com/watch?v=example) - Entrepreneurial traits, hiring, and the "flip the script" sales method
 - [The Richest People I Know Do One Thing](https://www.youtube.com/watch?v=example) - Global talent strategy, interest rate impact, and the case for focus over diversification
 
 **Secondary Sources:**
-- [The Real Story Behind Shaan's Best Investment (#?)](https://www.youtube.com/watch?v=example) - Somewhere.com acquisition context
-- [Can You Get Rich with A Blue Collar Hustle? (#457)](https://www.youtube.com/watch?v=example) - Sweaty startups vs digital businesses debate
+- [The Real Story Behind Shaan's Best Investment (#?)](https://www.youtube.com/watch?v=example) - [[frameworks/somewhere-com|Somewhere.com]] acquisition context
+- [Can You Get Rich with A Blue Collar Hustle? (#457)](https://www.youtube.com/watch?v=example) - [[frameworks/sweaty-startups|Sweaty startups]] vs digital businesses debate
 - [The 12 Awards Of 2023](https://www.youtube.com/watch?v=example) - HVAC as "the new storage business"
 
 ---

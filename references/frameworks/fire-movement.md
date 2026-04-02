@@ -10,14 +10,14 @@ episodes:
   - spending_24_hours_with_billion
   - talking_to_tim_ferriss_about_h
   - behind_the_scenes_of_the_billi
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # The FIRE Movement: Financial Independence, Retire Early
 
 The most popular retirement movement of the last decade was built on the idea that you should stop working as soon as possible. The most popular business podcast of the same period was built on the idea that the right work is the whole point. These two philosophies agree on exactly one thing. They disagree on almost everything else.
 
-FIRE -- Financial Independence, Retire Early -- emerged from online forums in the 2010s and became a cultural force among millennials disillusioned with corporate careers. The premise is elegant: save 50-70% of your income, invest aggressively in index funds, reach a portfolio that generates 25 times your annual expenses, and walk away. The math checks out. The psychology, as My First Million has explored across dozens of episodes, is where things get complicated.
+FIRE -- Financial Independence, Retire Early -- emerged from online forums in the 2010s and became a cultural force among millennials disillusioned with corporate careers. The premise is elegant: save 50-70% of your income, invest aggressively in index funds, reach a portfolio that generates 25 times your annual expenses, and walk away. The math checks out. The psychology, as [[frameworks/my-first-million|My First Million]] has explored across dozens of episodes, is where things get complicated.
 
 ---
 
@@ -51,7 +51,7 @@ This is not trivial. For someone trapped in a job they hate, with expenses that 
 
 If financial independence is the universally celebrated half of FIRE, early retirement is the half that My First Million quietly demolishes.
 
-The premise of the entire show is encoded in its name. My First Million is not called "My Last Paycheck" or "How I Stopped Working at 35." Sam Parr and Shaan Puri built their careers -- and their podcast -- around the idea that building businesses, making deals, and chasing interesting opportunities is not the thing you endure until you can afford to stop. It is the thing worth doing.
+The premise of the entire show is encoded in its name. My First Million is not called "My Last Paycheck" or "How I Stopped Working at 35." [[frameworks/sam-parr|Sam Parr]] and [[frameworks/shaan-puri|Shaan Puri]] built their careers -- and their podcast -- around the idea that building businesses, making deals, and chasing interesting opportunities is not the thing you endure until you can afford to stop. It is the thing worth doing.
 
 The tension is philosophical but it has practical consequences. The FIRE community optimizes for a future state: the day you no longer need to work. The MFM community optimizes for a present state: finding work that does not feel like something you need to escape.
 
@@ -91,7 +91,7 @@ The My First Million synthesis is neither pure FIRE nor pure hustle culture. It 
 
 [[shaan-puri]]'s basketball coaching plan. [[tim-ferriss]]'s "identity diversification." [[alex-hormozi]]'s eulogy exercise. [[andrew-wilkinson]]'s "Door 3" -- hiring a CEO to run your business while you retain ownership and step into an allocator role. Each of these represents a different version of the same idea: the goal is not to stop working. The goal is to stop doing work you do not choose.
 
-The [[second-mountain]] concept, which has received extensive attention on the podcast, captures this perfectly. The first mountain is the climb toward financial security and achievement. The second mountain is the climb toward meaning and contribution. FIRE gets you off the first mountain. It says nothing about what to climb next.
+The [[second-mountain]] concept, which has received extensive attention on the podcast, captures this perfectly. The first mountain is the climb toward financial security and achievement. [[frameworks/second-mountain|The second mountain]] is the climb toward meaning and contribution. FIRE gets you off the first mountain. It says nothing about what to climb next.
 
 [[jack-smith]], who sold Vungle for $800 million at 29, learned this the hard way. After his exit, he realized the chip on his shoulder was gone. The motivation that had driven him -- proving himself, accumulating wealth -- had been satisfied. What remained was a question that money could not answer: now what? His answer was a digital detox retreat in Portugal. Not a passive investment. Not a beach. A project driven by purpose rather than profit.
 
@@ -145,7 +145,7 @@ Rather than retiring early, MFM guests and hosts advocate for reaching financial
 - [[episodes56minutesofmoneywisdomfor|56 Minutes of Money Wisdom for High-Earning Couples]] -- - Household finances and money management
 - [[episodesifyoudidntmakeprogressin|if you didn't make progress in 2025, watch the first 10 minutes.]] -- - Shaan's coaching retirement plan
 - [[episodesspending24hourswithbillion|Spending 24 hours with billionaire nba team owner, Ryan smith]] -- - Buffett compounding and long-term investing
-- [[episodestalkingtotimferrissabouth|Talking to Tim Ferriss about how to live a dope life]] -- - Identity diversification
+- [[episodestalkingtotimferrissabouth|Talking to [[frameworks/tim-ferriss|Tim Ferriss]] about how to live a dope life]] -- - Identity diversification
 - [[episodesbehindthescenesofthebilli|Behind The Scenes Of The Billionaires' Mastermind (TIGER 21) | Michael Sonnenfeldt Interview]] -- - The 2% rule and post-exit psychology
 
 ### See Also
@@ -154,5 +154,5 @@ Rather than retiring early, MFM guests and hosts advocate for reaching financial
 - [[second-mountain]] -- What comes after financial independence
 - [[passive-income]] -- Income strategies that overlap with FIRE's investment philosophy
 - [[boring-businesses]] -- The MFM alternative to frugality: increase income rather than cut expenses
-- [[holding-companies]] -- Andrew Wilkinson's "Door 3" model of ownership without operations
+- [[holding-companies]] -- [[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s "Door 3" model of ownership without operations
 - [[how-to-get-rich]] -- MFM's broader framework for wealth-building

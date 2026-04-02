@@ -1,5 +1,5 @@
 ---
-title: "Side Hustle Ideas: The MFM Guide to Building Wealth on the Margins"
+title: 'Side Hustle Ideas: The MFM Guide to Building Wealth on the Margins'
 type: seo
 domain: seo
 status: draft
@@ -10,7 +10,7 @@ episodes:
   - why_you_should_side_hustle_as_
   - 5_business_ideas_to_start_toda
   - how_nick_huber_built_a_100m_se
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Side Hustle Ideas: The MFM Guide to Building Wealth on the Margins
@@ -19,7 +19,7 @@ In 2020, [[kevin-espiritu]] was earning $450 a month from a gardening blog he ra
 
 The transition did not happen because Espiritu found a better idea. It happened because he asked a different question. Instead of wondering how to make more money from ads, he asked why brands paid for access to his audience when he already had complete access himself. The reframe changed everything.
 
-On My First Million, the hosts and their guests have dissected hundreds of side hustles across every imaginable category. The conversations reveal a counterintuitive pattern: the most successful side hustles rarely stay side hustles. They are experiments that become companies, or they are learning exercises that fund the next thing. The designation "side" is temporary. The skills are permanent.
+On [[frameworks/my-first-million|My First Million]], the hosts and their guests have dissected hundreds of side hustles across every imaginable category. The conversations reveal a counterintuitive pattern: the most successful side hustles rarely stay side hustles. They are experiments that become companies, or they are learning exercises that fund the next thing. The designation "side" is temporary. The skills are permanent.
 
 ---
 
@@ -156,12 +156,12 @@ Distribution appears more important than product. Shah had a million followers b
 
 ## Sources & Episodes
 
-- [[episodesheturneda300mogardeningsi|He Turned A $300/Mo Gardening Side Hustle Into $45 Million/Year | Kevin Espiritu Interview]] -- Content-to-commerce model, revenue progression, acquisition strategy
+- [[episodesheturneda300mogardeningsi|He Turned A $300/Mo Gardening Side Hustle Into $45 Million/Year | [[frameworks/kevin-espiritu|Kevin Espiritu]] Interview]] -- Content-to-commerce model, revenue progression, acquisition strategy
 - [[episodeshowibuilta90000monthside|How I Built A $90,000/Month Side Hustle In 48 Hours | ft. Dharmesh Shah]] -- Wordplay case study, cold start problem, flywheel distribution
 - [[episodes3simplebusinessesthatmake|3 Simple Businesses That Make Millions]] -- Suck My Gutters Clean, blue-collar marketing
 - [[episodeswhyyoushouldsidehustleas|Why You Should Side Hustle As A TikTok Realtor, Conan O’Brien Gets Acquired For $150M & More]] -- Skill stacking, leasing agent model
 - [[episodes5businessideastostarttoda|5 Business Ideas To Start Today With $0 ft. Shark Tank's Sabri Suby]] -- Godfather Offer, affiliate arbitrage, TikTok Shop
-- [[episodeshownickhuberbuilta100mse|How Nick Huber Built A $100M Self Storage Empire (#420)]] -- Twitter-based capital raising, content as distribution
+- [[episodeshownickhuberbuilta100mse|How [[frameworks/nick-huber|Nick Huber]] Built A $100M [[frameworks/self-storage|Self Storage]] Empire (#420)]] -- Twitter-based capital raising, content as distribution
 
 ---
 

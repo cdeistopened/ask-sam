@@ -1,5 +1,5 @@
 ---
-title: "The Second Mountain: What Comes After You've Made It"
+title: 'The Second Mountain: What Comes After You''ve Made It'
 type: business-model
 domain: business-models
 status: draft
@@ -11,12 +11,12 @@ episodes:
   - how_scott_galloway_turned__8m_
   - how_alex_hormozi_gets_other_pe
   - 7_brutal_questions_for_a__20b_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # The Second Mountain: What Comes After You've "Made It"
 
-Michael Sonnenfeldt has spent decades working with entrepreneurs who sold their companies. He founded Tiger 21, a peer network for high-net-worth individuals, and has observed hundreds of founders navigate the aftermath of a liquidity event. His observation cuts against everything we assume about success: "The day after you sell, you might have a lot of money but you've lost the platform that allowed you to feel successful."
+Michael Sonnenfeldt has spent decades working with entrepreneurs who sold their companies. He founded [[frameworks/tiger-21|Tiger 21]], a peer network for high-net-worth individuals, and has observed hundreds of founders navigate the aftermath of a liquidity event. His observation cuts against everything we assume about success: "The day after you sell, you might have a lot of money but you've lost the platform that allowed you to feel successful."
 
 This is the dirty secret of the first mountain. And it explains why the second one matters more.
 
@@ -28,7 +28,7 @@ The concept comes from [[scott-galloway]], who picked it up from David Brooks' b
 
 The first mountain is the one we're all taught to climb. Get the degree. Build the company. Make the money. Earn the recognition. It's the mountain of resume virtues, external validation, and measurable accomplishment.
 
-The second mountain is different. It's the climb toward meaning, service, and contribution. Sam Parr illustrated it with Joe Gebbia, the Airbnb co-founder. "He's the 96th richest man in America. He started Samara, an ADU company. He wanted to prove it wasn't luck. But then he joined the government to fix the retirement process for workers. Now he's the Chief Design Officer of the USA. That's an inspired second mountain. It has impact and scale."
+The second mountain is different. It's the climb toward meaning, service, and contribution. [[frameworks/sam-parr|Sam Parr]] illustrated it with Joe Gebbia, the Airbnb co-founder. "He's the 96th richest man in America. He started Samara, an ADU company. He wanted to prove it wasn't luck. But then he joined the government to fix the retirement process for workers. Now he's the Chief Design Officer of the USA. That's an inspired second mountain. It has impact and scale."
 
 The shift isn't about retiring. It's about redefining what you're climbing toward.
 
@@ -66,11 +66,11 @@ The reflex is to climb the same mountain again. It's familiar. It's comfortable.
 
 [[shaan-puri]] offers a precise definition that cuts through the noise: "The definition of 'post-economic' isn't that you have all the money you ever want. It's that you no longer need to make decisions based on money as the primary motivator."
 
-This is the threshold that separates the two mountains. Not a net worth figure. Not a passive income number. It's a psychological shift in how you evaluate opportunity.
+This is the threshold that separates the two mountains. Not a net worth figure. Not a [[frameworks/passive-income|passive income]] number. It's a psychological shift in how you evaluate opportunity.
 
 Shaan has watched friends miss this shift entirely: "We have a bunch of friends—not going to name names—but they just keep putting points up on the scoreboard. They've already earned the last dollar they will ever spend in their life. And so now they're trading great hours for useless dollars, which is such a wake-up call of a bad trade to make."
 
-Tim Ferriss admits he fell into this trap himself: "I passed my number and I felt like I needed more. I didn't have a fixed number, but I felt like I needed more to have some degree of psychological safety and then everything will be okay. And then you realize that's bullshit. Money solves money problems. You got plenty of work to do."
+[[frameworks/tim-ferriss|Tim Ferriss]] admits he fell into this trap himself: "I passed my number and I felt like I needed more. I didn't have a fixed number, but I felt like I needed more to have some degree of psychological safety and then everything will be okay. And then you realize that's bullshit. Money solves money problems. You got plenty of work to do."
 
 The work he's referring to isn't business work. It's the inner work of figuring out what you actually want.
 
@@ -92,7 +92,7 @@ The contrast matters. These are people who have mastered something, who command 
 
 ## The Eulogy Exercise: What [[alex-hormozi]] Learned About Time Allocation
 
-After his mother passed away, Alex Hormozi found himself writing her eulogy. The exercise forced a realization about time allocation that he couldn't ignore.
+After his mother passed away, [[frameworks/alex-hormozi|Alex Hormozi]] found himself writing her eulogy. The exercise forced a realization about time allocation that he couldn't ignore.
 
 "In writing her eulogy, it was interesting to see like what portion, if we had a pie chart, of this eulogy is going to be dedicated to her accomplishments? The vast majority of it was service and character."
 
@@ -152,11 +152,11 @@ The first mountain is about proving you can. The second mountain is about discov
 
 **What is the Second Mountain concept?**
 
-The Second Mountain comes from David Brooks' book of the same name. In the MFM context, Sam Parr defines it as building beyond "just making your initial financial security number"—the transition from survival and achievement to meaning, legacy, and impact. Scott Galloway summarizes it as "the climb down towards meaning."
+The Second Mountain comes from David Brooks' book of the same name. In the MFM context, Sam Parr defines it as building beyond "just making your initial financial security number"—the transition from survival and achievement to meaning, legacy, and impact. [[frameworks/scott-galloway|Scott Galloway]] summarizes it as "the climb down towards meaning."
 
 **When should you start thinking about the Second Mountain?**
 
-According to Shaan Puri, the shift happens when you're "post-economic"—not that you have all the money you want, but that money no longer needs to be your primary decision-making factor. Tim Ferriss warns that waiting for a "number" often leads to goalpost-moving. Start when you have financial stability, not when you feel "done."
+According to [[frameworks/shaan-puri|Shaan Puri]], the shift happens when you're "post-economic"—not that you have all the money you want, but that money no longer needs to be your primary decision-making factor. Tim Ferriss warns that waiting for a "number" often leads to goalpost-moving. Start when you have financial stability, not when you feel "done."
 
 **What is the 2% Rule for financial security?**
 
@@ -175,7 +175,7 @@ Yes. Tim Ferriss advocates "identity diversification"—building skills and rela
 - [[episodestalkingtotimferrissabouth|Talking to Tim Ferriss about how to live a dope life]] -- to-tim-ferriss)
 - [[episodesbehindthescenesofthebilli|Behind The Scenes Of The Billionaires' Mastermind (TIGER 21) | Michael Sonnenfeldt Interview]] -- 21-sonnenfeldt)
 - [[episodesisoldacompanyfor800mat2|I Sold A Company For $800M At 29... What I’m Doing Now | Jack Smith Interview (#470)]] -- smith-470)
-- [[episodesifailed12timesbeforemakin|I Failed 12 Times Before Making My First Million (Here's Every Failure)]] -- 12-times)
+- [[episodesifailed12timesbeforemakin|I Failed 12 Times Before Making [[frameworks/my-first-million|My First Million]] (Here's Every Failure)]] -- 12-times)
 - [[episodeshowscottgallowayturned8m|How Scott Galloway Turned $8M into $120M Through Investing]] -- galloway-investing)
 - [[episodeshowalexhormozigetsotherpe|How Alex Hormozi Gets Other People To Build His $100M+ Empire]] -- hormozi-empire)
 - [[episodes7brutalquestionsfora20b|7 Brutal Questions for a $20B Founder]] -- brutal-questions)

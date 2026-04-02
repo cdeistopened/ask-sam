@@ -4,14 +4,14 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Chamath Palihapitiya
 
 Chamath Palihapitiya built the growth engine that turned Facebook from a college network into the most used product in human history. Then he spent the next decade trying to replicate that magic outside Facebook, with results that are considerably more complicated.
 
-On My First Million, Chamath occupies a peculiar position. He is respected for his intellect, referenced for his frameworks, and treated with a gentle skepticism that Sam and Shaan reserve for people who are clearly brilliant but whose track record includes both extraordinary wins and conspicuous misses. He is, in the MFM vocabulary, someone whose signal-to-noise ratio demands careful tuning.
+On [[frameworks/my-first-million|My First Million]], Chamath occupies a peculiar position. He is respected for his intellect, referenced for his frameworks, and treated with a gentle skepticism that Sam and Shaan reserve for people who are clearly brilliant but whose track record includes both extraordinary wins and conspicuous misses. He is, in the MFM vocabulary, someone whose signal-to-noise ratio demands careful tuning.
 
 ## The Facebook Growth Machine
 
@@ -41,7 +41,7 @@ Sam and Shaan have discussed the SPAC phenomenon without singling Chamath out fo
 
 ## The All-In Podcast and Media as Product
 
-Chamath found his most durable post-Facebook product in an unlikely format: a weekly podcast. The All-In Podcast, which he co-hosts with Jason Calacanis, David Sacks, and David Friedberg, became one of the most popular business shows in the world.
+Chamath found his most durable post-Facebook product in an unlikely format: a weekly podcast. The All-In Podcast, which he co-hosts with Jason Calacanis, David Sacks, and [[episodes/QOYzIQ1ku7w|David Friedberg]], became one of the most popular business shows in the world.
 
 Sam and Shaan reference All-In with a mix of appreciation and competitive awareness. As Sam noted during [[the-2024-milly-awards|The 2024 Milly Awards]]: "All-In podcast, love listening to it, very entertaining guys, very smart guys. I just don't think they're right a lot. They have one specific leak which is they have an agenda."
 

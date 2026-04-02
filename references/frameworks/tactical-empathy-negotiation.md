@@ -1,19 +1,25 @@
 ---
 name: Tactical Empathy Negotiation System
-description: Walk someone through preparing for and executing any negotiation using Chris Voss's FBI-derived framework. Covers accusation audits, labels, no-oriented questions, listening through hijack points, finding the blend (not the compromise), and closing with the last impression. Use when someone says they need to negotiate anything — a deal, a raise, a partnership, a contract, a vendor agreement, or a company sale.
+description: >-
+  Walk someone through preparing for and executing any negotiation using Chris
+  Voss's FBI-derived framework. Covers accusation audits, labels, no-oriented
+  questions, listening through hijack points, finding the blend (not the
+  compromise), and closing with the last impression. Use when someone says they
+  need to negotiate anything — a deal, a raise, a partnership, a contract, a
+  vendor agreement, or a company sale.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 3yR5qVe_iXA
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Chris Voss
 ---
 
 # Tactical Empathy Negotiation System
 
-Walk someone through any negotiation using Chris Voss's FBI hostage negotiation framework, adapted for business by Voss himself on My First Million.
+Walk someone through any negotiation using Chris Voss's FBI hostage negotiation framework, adapted for business by Voss himself on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -188,4 +194,4 @@ After the session, deliver:
 
 ## Source
 
-[5 Lessons in Business Negotiation from an FBI Hostage Negotiator](https://www.youtube.com/watch?v=3yR5qVe_iXA) — Sam Parr interviews Chris Voss, January 2026.
+[5 Lessons in Business Negotiation from an FBI Hostage Negotiator](https://www.youtube.com/watch?v=3yR5qVe_iXA) — [[frameworks/sam-parr|Sam Parr]] interviews Chris Voss, January 2026.

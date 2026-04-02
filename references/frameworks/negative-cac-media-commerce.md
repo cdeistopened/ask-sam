@@ -1,12 +1,17 @@
 ---
 name: Negative CAC Media-Commerce Strategy
-description: Walk someone through building or acquiring niche media properties that generate customer acquisition for a commerce business at zero or negative cost. Activate when someone asks how to acquire customers cheaply, how media companies can monetize beyond ads, how to combine content with commerce, or when someone is building a brand in an expensive-hobby vertical.
+description: >-
+  Walk someone through building or acquiring niche media properties that
+  generate customer acquisition for a commerce business at zero or negative
+  cost. Activate when someone asks how to acquire customers cheaply, how media
+  companies can monetize beyond ads, how to combine content with commerce, or
+  when someone is building a brand in an expensive-hobby vertical.
 type: framework
 domain: frameworks
 status: published
 episodes:
   - EDjT_goV9Ow
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Craig Fuller
   - Preston Holland
@@ -28,7 +33,7 @@ The user is thinking about customer acquisition costs, media strategy, or how to
 
 ## The Core Principle
 
-From Sam Parr's breakdown of Craig Fuller's Firecrown business (`EDjT_goV9Ow.md`):
+From [[frameworks/sam-parr|Sam Parr]]'s breakdown of Craig Fuller's Firecrown business (`EDjT_goV9Ow.md`):
 
 > "He uses this thing that he calls negative CAC. Meaning, people pay for the magazine, and so that is how he acquires a customer. All of course, they are paying for the magazine, not him trying to advertise to get the user. And then he goes, 'I want to create commerce products to sell to the audience.' And so the media businesses pay for the company, they pay for the audience creations, and then they help bootstrap other businesses that can sell to this audience."
 
@@ -65,7 +70,7 @@ From Sam Parr (`EDjT_goV9Ow.md`):
 > "There's a bunch of companies that own tons and tons of magazine titles. So uh Meredith Corporation owns like Martha Stewart Magazine. And then I think there's like Rodale, and then there's Bonnier, and there's all these companies that are like old family companies that have been in business since the 30s or 40s, whatever, and they've got these publications that are just sitting there and they're like, 'Uh just take them.'"
 
 **Where to find undervalued titles:**
-- Large media holding companies (Meredith/Dotdash, Bonnier, Rodale, AMI) looking to shed non-core titles
+- Large media [[frameworks/holding-companies|holding companies]] (Meredith/Dotdash, Bonnier, Rodale, AMI) looking to shed non-core titles
 - Family-owned publishing businesses where the next generation doesn't want to run a magazine
 - Niche B2B publishers who need to focus resources
 - Industry associations that run a magazine as a member benefit but don't monetize it properly
@@ -118,7 +123,7 @@ This data pointed directly to the product: a residential flying community with h
 
 **From Sam Parr's analysis of the financial model (`EDjT_goV9Ow.md`):**
 
-> "He's buying these homes on this plot of land for like a couple million bucks each. So I think you said what, 7 million bucks to buy that that 300-acre plot of land? [...] 10 million bucks to buy the thing, but then they're selling each home at 2 million bucks." — Shaan Puri
+> "He's buying these homes on this plot of land for like a couple million bucks each. So I think you said what, 7 million bucks to buy that that 300-acre plot of land? [...] 10 million bucks to buy the thing, but then they're selling each home at 2 million bucks." — [[frameworks/shaan-puri|Shaan Puri]]
 
 **Ask the user:** What content is generating the most engagement in this vertical? What does that engagement suggest people most want to buy? Is there a commerce business — product, service, real estate, events — that the audience would naturally purchase from the same brand?
 

@@ -8,7 +8,7 @@ episodes:
   - 5_conversations_that_broke_our
   - the_wildest_stories_of_corpora
   - _30b_founder__how_to_rank__1_i
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Network Effects
@@ -45,7 +45,7 @@ Currier argues that in the digital world, there are only four ways to build last
 
 **4. Scale** - Size advantages in buying power, distribution, or production. This is the weakest defensibility. Currier uses MrBeast as an example: more revenue funds bigger productions which generate more views which generate more revenue. It sounds powerful. But this is the same loop BuzzFeed had. Scale effects without network effects are vulnerable.
 
-[Watch: James Currier Full Interview - Four Defensibilities framework](https://youtube.com/watch?v=example&t=271)
+[Watch: [[frameworks/james-currier|James Currier]] [[episodes/kfgBpNJe6Yc|Full Interview]] - Four Defensibilities framework](https://youtube.com/watch?v=example&t=271)
 
 The distinction matters because people conflate these constantly. Having lots of customers is not the same as having network effects. Being big is not the same as being defensible. Many large companies are one innovation away from irrelevance precisely because their size created complacency, not compounding value.
 
@@ -97,7 +97,7 @@ The implication for entrepreneurs is significant. Building an AI company is not 
 
 This is why community businesses like [[skool]] have inherent advantages. Members of one community often start their own, creating an organic growth loop that looks like network effects even when the product itself is relatively simple.
 
-[Watch: Dharmesh Shah on Community Network Effects](https://youtube.com/watch?v=example&t=806)
+[Watch: [[frameworks/dharmesh-shah|Dharmesh Shah]] on Community Network Effects](https://youtube.com/watch?v=example&t=806)
 
 The vampire attack is the inverse strategy: draining value from an existing network to build your own. LIV Golf attempted this by poaching PGA stars. The theory is that certain nodes in a network carry disproportionate value. Remove those nodes and the network weakens. Attract those nodes and your network strengthens. Tiger Woods reportedly adds $1.5 billion per year to PGA viewership when he plays. One person. One and a half billion dollars.
 

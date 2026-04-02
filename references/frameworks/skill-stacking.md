@@ -7,7 +7,7 @@ episodes:
   - qkcFcwb6mk0
   - CarCWCl1JFk
   - X64vs8N5ctE
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Skill Stacking
@@ -28,7 +28,7 @@ On a live MFM episode filmed at Berkeley, [[shaan-puri]] laid out his version of
 
 He broke it into three categories:
 
-**Learning to Build.** Shaan's framing: "You're going to have to choose one way to build, one way to make things. It doesn't have to be with your hands. It can be engineering, robotics, Elon Musk-type stuff. You can build things with code — learn to program. You can build things as a designer. You can learn how to make content: a podcast, a YouTube channel, something. Pick a path, pick the one you're drawn to, and practice it nonstop."
+**Learning to Build.** Shaan's framing: "You're going to have to choose one way to build, one way to make things. It doesn't have to be with your hands. It can be engineering, robotics, [[frameworks/elon-musk|Elon Musk]]-type stuff. You can build things with code — learn to program. You can build things as a designer. You can learn how to make content: a podcast, a YouTube channel, something. Pick a path, pick the one you're drawn to, and practice it nonstop."
 
 **Learning to Sell.** "Learning to sell is how you get the thing you made into people's hands. This is Facebook ads, Google ads, content marketing, newsletter writing, copywriting. In-person selling, phone selling, cold emailing, digital marketing — one of those paths you have to pick."
 
@@ -46,7 +46,7 @@ The skill stack is an insurance policy. Financial assets can evaporate; skills a
 
 ## Practical Applications
 
-The most common MFM skill stack pattern among guests: **domain expertise + content creation + sales**. Kevin Espiritu ([[epic-gardening]]) combined deep horticultural knowledge with newsletter writing and YouTube production. [[nick-huber]] stacked real estate operations, Twitter content, and business development to build Bolt Storage plus a portfolio of sweaty service businesses. Miss Excel combined Microsoft Office expertise with TikTok video production to build a multi-million-dollar course business.
+The most common MFM skill stack pattern among guests: **domain expertise + content creation + sales**. [[frameworks/kevin-espiritu|Kevin Espiritu]] ([[epic-gardening]]) combined deep horticultural knowledge with newsletter writing and YouTube production. [[nick-huber]] stacked real estate operations, Twitter content, and business development to build [[frameworks/bolt-storage|Bolt Storage]] plus a portfolio of sweaty service businesses. Miss Excel combined Microsoft Office expertise with TikTok video production to build a multi-million-dollar course business.
 
 In each case, the individual components were learnable. The combination was rare.
 

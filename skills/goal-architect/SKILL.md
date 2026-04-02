@@ -1,6 +1,6 @@
 # Goal Architect
 
-Walk a founder through designing goals that actually work — using Sam Parr's 7-step goal-setting system with anti-goals, Rob Dyrdek's life accounting audit, Sam's "Perfect Tuesday" vision exercise, and the annual Milly Awards review framework from My First Million.
+Walk a founder through designing goals that actually work — using [[frameworks/sam-parr|Sam Parr]]'s 7-step goal-setting system with anti-goals, Rob Dyrdek's life accounting audit, Sam's "Perfect Tuesday" vision exercise, and the annual Milly Awards review framework from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -32,7 +32,7 @@ Before setting any goal, get clear on what winning actually looks like — not a
 
 **The diagnostic:** Does your current path lead to this Tuesday? If not, your "safe" path is actually the riskiest one — it has near-zero probability of delivering what you actually want.
 
-From Shaan Puri (`YAtQSKJ2HCA.md`):
+From [[frameworks/shaan-puri|Shaan Puri]] (`YAtQSKJ2HCA.md`):
 
 > "If you look at what you want, and then you look at these safe paths and say, does the safe path get me to what I want? And the answer is no, then it is not safe. It is extremely risky because it's putting my dream at risk."
 
@@ -56,7 +56,7 @@ Don't set one goal. Set a range.
 
 ## Step 3: Set Anti-Goals
 
-From Sam Parr, crediting Andrew Wilkinson (`ztYYrq8OLNo.md`):
+From Sam Parr, crediting [[frameworks/andrew-wilkinson|Andrew Wilkinson]] (`ztYYrq8OLNo.md`):
 
 > "It's easy to set a goal without acknowledging the traps you could hit even if you achieve it."
 
@@ -172,6 +172,24 @@ grep -ri "goal\|resolution\|planning\|vision" transcripts/
 grep -ri "anti-goal\|floor.*ceiling\|perfect tuesday" transcripts/
 grep -ri "life design\|what do you want\|enough" transcripts/
 ```
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/safe-vs-risky-path.md` for the reframe on which career path is actually riskier
+- Read `references/frameworks/seasons-of-life-focus.md` for matching goals to life stage
+- Read `references/frameworks/second-mountain.md` for post-success purpose and meaning
+- Read `references/frameworks/emotional-home-framework.md` for understanding default emotional states that drive goals
+- Read `references/frameworks/infinite-vs-finite-games.md` for treating career as an infinite game
+- Read `references/frameworks/high-agency.md` for the execution mindset behind goal achievement
+- Read `references/frameworks/personal-monopoly.md` for building a unique career position
+- Read `references/frameworks/hang-around-the-hoop.md` for the patient opportunity strategy
+
+People profiles relevant to goal and life design:
+- Read `references/people/jesse-itzler.md` for extreme goal-setting and adventure-driven life design
+- Read `references/people/jesse-cole.md` for purpose-driven business and the [[frameworks/savannah-bananas|Savannah Bananas]] story
+- Read `references/people/tim-ferriss.md` for lifestyle design and the 4-Hour framework
 
 ## Output
 

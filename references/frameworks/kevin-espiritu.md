@@ -5,7 +5,7 @@ domain: people
 status: draft
 episodes:
   - epic-gardening-45m-year-kevin-espiritu
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Kevin Espiritu
@@ -18,9 +18,9 @@ The gap between those numbers is not a fluke. It is the story of a specific kind
 
 Kevin graduated college with an accounting degree but paid for school playing online poker. He made roughly $250,000 before deciding the game was too slow in person and quitting to figure out what came next.
 
-What came next was building websites. He read Pat Flynn's Smart Passive Income blog, learned SEO, and started reviewing every cocoa butter cream on Amazon under the pseudonym "Susie Michaels, a mother of two." That review site made $2 in its first month. He was building a Kendrick Lamar fan site — monetized through print-on-demand shirts — before anyone had heard of Kendrick Lamar.
+What came next was building websites. He read Pat Flynn's Smart [[frameworks/passive-income|Passive Income]] blog, learned SEO, and started reviewing every cocoa butter cream on Amazon under the pseudonym "Susie Michaels, a mother of two." That review site made $2 in its first month. He was building a Kendrick Lamar fan site — monetized through print-on-demand shirts — before anyone had heard of Kendrick Lamar.
 
-The gardening blog came almost by accident. He was getting into gardening with his brother over a summer. He needed a digital calling card to show website design clients. He built Epic Gardening in 2013 as that calling card. He went full-time on it in 2016 when he quit his job at Scribe Media, at which point it was making $450 a month.
+The gardening blog came almost by accident. He was getting into gardening with his brother over a summer. He needed a digital calling card to show website design clients. He built [[frameworks/epic-gardening|Epic Gardening]] in 2013 as that calling card. He went full-time on it in 2016 when he quit his job at Scribe Media, at which point it was making $450 a month.
 
 > "I remember talking to friends who were doing the same thing and I was like, 'Man, if this thing could just make $2,000 a month, that'd be amazing. Then I wouldn't have to go get a job.' My mind just didn't understand the scale any business could really become at that point."
 
@@ -62,7 +62,7 @@ At $7.3 million in revenue with a five-person team in 2021, the profit margin wa
 
 When he raised $17 million from the Chernin Group, the pitch from the investor's side was similar to what they had done with MeatEater: invest in the media company, then immediately acquire something to sell to the audience. Kevin's existing audience provided distribution that would have taken years and tens of millions of dollars to build through advertising.
 
-Sam Parr, who sold his own newsletter empire, called Kevin's trajectory remarkable and predicted: "In about five years he's going to be a really big deal — he's already a pretty big deal, but I think he's going to be like Chip and Joanna."
+[[frameworks/sam-parr|Sam Parr]], who sold his own newsletter empire, called Kevin's trajectory remarkable and predicted: "In about five years he's going to be a really big deal — he's already a pretty big deal, but I think he's going to be like Chip and Joanna."
 
 ## Related
 

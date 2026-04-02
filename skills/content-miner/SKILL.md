@@ -1,11 +1,16 @@
 ---
 name: content-miner
-description: "Mine the MFM/MoneyWise archive for content opportunities — gap analysis, revisit-worthy takes, guest callbacks, and clip discovery. Use when someone says 'what should I talk about,' 'find me content ideas,' 'what's in my archive about X,' 'which guests should I bring back,' or wants to turn trending topics into content using existing material."
+description: >-
+  Mine the MFM/MoneyWise archive for content opportunities — gap analysis,
+  revisit-worthy takes, guest callbacks, and clip discovery. Use when someone
+  says 'what should I talk about,' 'find me content ideas,' 'what's in my
+  archive about X,' 'which guests should I bring back,' or wants to turn
+  trending topics into content using existing material.
 ---
 
 # Content Miner
 
-Mine the 876-episode archive (793 MFM + 83 MoneyWise) for content opportunities backed by archive evidence. The user provides context — trending topics, audience questions, content gaps — and gets ranked ideas with specific episode references, quotes, and angles.
+Mine the 876-[[episodes|episode archive]] (793 MFM + 83 MoneyWise) for content opportunities backed by archive evidence. The user provides context — trending topics, audience questions, content gaps — and gets ranked ideas with specific episode references, quotes, and angles.
 
 ## When to Use
 
@@ -100,7 +105,7 @@ For each candidate (aim for 5-8):
 **Last Appearance:** [Episode ID / approximate date]
 **Known For:** [Their business/framework from the archive]
 **What's Likely Changed:** [Business growth, pivot, new venture, market shift — based on what the archive says plus reasonable inference]
-**Callback Topic:** "[Specific episode premise — e.g., 'Have Alex Hormozi back to talk about what Acquisition.com looks like at $500M+ portfolio']"
+**Callback Topic:** "[Specific episode premise — e.g., 'Have [[frameworks/alex-hormozi|Alex Hormozi]] back to talk about what [[frameworks/acquisition-com|Acquisition.com]] looks like at $500M+ portfolio']"
 
 ---
 
@@ -155,6 +160,25 @@ Rank by two factors:
 For the #1 recommendation, include a one-paragraph pitch: what the episode/content would be, why it works, and which archive material to pull from.
 
 ---
+
+## Deep-Dive References
+
+These framework articles are rich content sources for mining:
+
+- Read `references/frameworks/personal-branding.md` for content angles on personal brand building
+- Read `references/frameworks/creator-economy.md` for creator business model evolution
+- Read `references/frameworks/content-to-commerce.md` for audience-to-product pipeline stories
+- Read `references/frameworks/newsletter-business.md` for newsletter-specific content angles
+- Read `references/frameworks/community-building.md` for community-driven content strategies
+- Read `references/frameworks/my-first-million.md` for meta-content about the show itself
+
+Company/person profiles that generate repeat content:
+- Read `references/frameworks/acquisition-com.md` for Hormozi empire updates and angles
+- Read `references/frameworks/morning-brew.md` for [[frameworks/newsletter-business|newsletter business]] evolution
+- Read `references/frameworks/feastables.md` for MrBeast commerce case study
+- Read `references/frameworks/hampton.md` for peer community model updates
+- Read `references/frameworks/late-checkout.md` for [[frameworks/greg-isenberg|Greg Isenberg]]'s community plays
+- Read `references/frameworks/skool.md` for Hormozi's community platform
 
 ## File Paths
 

@@ -8,7 +8,7 @@ episodes:
   - 9R18gs-5a4w
   - PHYMQINvvmE
   - HkkCZAWXy_A
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Creator Economy
@@ -19,7 +19,7 @@ The creator economy has a dirty secret: the platforms that made creators rich ar
 
 For most of the early YouTube era, the game was simple: grow audience, collect ad revenue. The problem is ad revenue is a terrible business. CPMs fluctuate, platforms change algorithms, and you're entirely dependent on a middleman taking 45% of everything.
 
-The creator economy's evolution on MFM has been about what happens after you build the audience. Miss Excel — a consultant who started posting Excel tips on TikTok with trending songs and dancing — built a multi-million-dollar course business not because her content was extraordinary but because she understood the funnel. Content is the top. Courses are the product. Sam Parr described her insight: she built a content flywheel across every Microsoft product, eventually covering Word, PowerPoint, and the entire Office suite. Each piece of content drove people toward paid training.
+The creator economy's evolution on MFM has been about what happens after you build the audience. Miss Excel — a consultant who started posting Excel tips on TikTok with trending songs and dancing — built a multi-million-dollar course business not because her content was extraordinary but because she understood the funnel. Content is the top. Courses are the product. [[frameworks/sam-parr|Sam Parr]] described her insight: she built a content flywheel across every Microsoft product, eventually covering Word, PowerPoint, and the entire Office suite. Each piece of content drove people toward paid training.
 
 ## MrBeast as an Operating Template
 
@@ -33,7 +33,7 @@ What makes this remarkable: "More people watch his content than watch the Super 
 
 ## The Operator Hidden Inside Every Creator
 
-One of the sharpest observations from the Prime Energy Drink backstory: the real founders of Prime aren't Logan Paul or KSI. They're two operators from Congo Brands, who built Alani Nu (over $100M in profit per year) before Prime. Congo Brands holds 60% of Prime. Logan and KSI own 30-40%.
+One of the sharpest observations from the Prime Energy Drink backstory: the real founders of Prime aren't [[frameworks/logan-paul|Logan Paul]] or KSI. They're two operators from Congo Brands, who built Alani Nu (over $100M in profit per year) before Prime. Congo Brands holds 60% of Prime. Logan and KSI own 30-40%.
 
 Shaan's framing: "If anybody asks who owns Prime, they say Logan Paul and KSI. In reality, these guys own 60% of that company." The creator is the distribution channel. The operator is the business. This partnership model — creator as audience, operator as monetization — is increasingly how the creator economy actually generates lasting wealth.
 
@@ -51,7 +51,7 @@ Across dozens of MFM episodes featuring creators, a pattern emerges in how creat
 
 **Courses and communities.** Miss Excel made $100,000/day in peak periods selling Excel courses. The content builds trust; the course captures economics. The gross margin is nearly 100%.
 
-**Products launched through audience.** Feastables, Prime, MrBeast Burger — creators with sufficient scale can launch consumer products with near-zero customer acquisition cost. The audience is the marketing budget.
+**Products launched through audience.** [[frameworks/feastables|Feastables]], Prime, MrBeast Burger — creators with sufficient scale can launch consumer products with near-zero customer acquisition cost. The audience is the marketing budget.
 
 **The B2B pivot.** Club LTV, Sam Parr's e-commerce community, monetized through sponsorships rather than member fees — connecting vendors to an audience of store owners. Sam's observation: "The model is more lucrative than charging members directly."
 

@@ -1,11 +1,15 @@
 ---
 name: deal-making-masterclass
-description: "4-level tutor skill covering the full deal lifecycle — buying, structuring, negotiating, and exiting — using frameworks from Sam Parr, Shaan Puri, and MFM guests. Tutor pattern: ask before telling, ground in real quotes, guide real exercises."
+description: >-
+  4-level tutor skill covering the full deal lifecycle — buying, structuring,
+  negotiating, and exiting — using frameworks from Sam Parr, Shaan Puri, and MFM
+  guests. Tutor pattern: ask before telling, ground in real quotes, guide real
+  exercises.
 ---
 
 # Deal-Making Masterclass
 
-Walk a founder through the full deal lifecycle — from sourcing acquisitions to structuring deals to negotiating terms to exiting — using real frameworks from My First Million guests who have done it.
+Walk a founder through the full deal lifecycle — from sourcing acquisitions to structuring deals to negotiating terms to exiting — using real frameworks from [[frameworks/my-first-million|My First Million]] guests who have done it.
 
 This is a TUTOR skill. Ask questions before giving answers. Build progressively. Each level ends with the user doing a real exercise.
 
@@ -53,7 +57,7 @@ The key is volume. Most people send 5 letters and give up. Sarah sends hundreds.
 
 #### Hang Around the Hoop (Andrew Wilkinson / Jeremy Giffin, `transcripts/mfm/2024-04-17-data-backed-businesses-guaranteed-to-make-1m-from-day-1.md`)
 
-Andrew Wilkinson's approach at Tiny Capital is different — he doesn't hunt, he positions.
+[[frameworks/andrew-wilkinson|Andrew Wilkinson]]'s approach at Tiny Capital is different — he doesn't hunt, he positions.
 
 > "Hang around the hoop." — Andrew Wilkinson
 
@@ -79,10 +83,10 @@ James Altucher breaks valuation into three approaches:
 
 ### The Zero-Dollar Acquisition (Codie Sanchez, `transcripts/mfm/2021-04-28-how-to-buy-distressed-assets-how-to-network-with-codie-sanchez.md`)
 
-Codie Sanchez made her name buying businesses with little or no money down. The playbook:
+[[frameworks/codie-sanchez|Codie Sanchez]] made her name buying businesses with little or no money down. The playbook:
 
 - **Distressed assets.** The owner is burned out, the business is declining, they just want out. You offer to take it off their hands — sometimes literally for $0 plus assuming liabilities.
-- **Seller financing.** Instead of paying cash upfront, the seller carries a note. You pay them from the business's own cash flow over 3-5 years. They get a higher total price. You get in with no capital.
+- **[[frameworks/seller-financing|Seller financing]].** Instead of paying cash upfront, the seller carries a note. You pay them from the business's own cash flow over 3-5 years. They get a higher total price. You get in with no capital.
 - **Earn-in.** You run the business for free for 90 days. If you grow it, you earn equity. If you don't, the owner lost nothing.
 
 The common thread: find owners who value "done" more than "maximum price."
@@ -123,7 +127,7 @@ The art is combining these so the deal works for both sides. The seller wants ce
 
 ### Client-Financed Acquisitions (Alex Hormozi, `transcripts/mfm/2025-08-06-these-4-math-equations-will-make-you-a-millionaire-alex-hormozi.md`)
 
-Alex Hormozi's framework flips the script: design an offer so good that the revenue from the deal covers the acquisition cost.
+[[frameworks/alex-hormozi|Alex Hormozi]]'s framework flips the script: design an offer so good that the revenue from the deal covers the acquisition cost.
 
 The concept: before you close the acquisition, pre-sell a product or service to the existing customer base. Use that revenue as your down payment or to service the debt.
 
@@ -131,7 +135,7 @@ The concept: before you close the acquisition, pre-sell a product or service to 
 
 ### The Rollup Arbitrage (Suli Ali, `transcripts/mfm/2023-01-24-behind-the-scenes-of-selling-my-company-for-millions-suli-ali-410.md`)
 
-Suli Ali explained private equity's simplest trick:
+Suli Ali explained [[frameworks/private-equity|private equity]]'s simplest trick:
 
 - Buy individual businesses at 3-4x earnings
 - Combine them into a portfolio
@@ -145,7 +149,7 @@ This only works if you can actually operate the combined entity — integration 
 
 ### Pre-Deposit Development (Preston Holland, `transcripts/mfm/2024-06-03-this-50myr-side-hustle-is-on-track-to-make-1-billion-by-2030.md`)
 
-Preston Holland builds real estate projects using customer deposits before breaking ground. The principle applies to any capital-intensive deal:
+Preston Holland builds real estate projects using customer deposits before [[episodes/Dwi6UbdpZyk|breaking]] ground. The principle applies to any capital-intensive deal:
 
 - Validate demand before committing capital
 - Use customer commitments (deposits, letters of intent, pre-orders) as proof of concept
@@ -310,7 +314,7 @@ Mike Brown's framework: there are two modes of wealth.
 - **Accumulator.** You're building. Every dollar gets reinvested. Risk is acceptable because you're growing.
 - **Defender.** You've won. The game shifts from growing the pile to not losing it. Different strategies, different advisors, different psychology.
 
-Most founders never make the mental shift from accumulator to defender. They keep taking accumulator-level risks with defender-level money and blow up their post-exit wealth.
+Most founders never make the mental shift from [[frameworks/accumulator-to-defender|accumulator to defender]]. They keep taking accumulator-level risks with defender-level money and blow up their post-exit wealth.
 
 > Ask the user: "Are you in accumulator mode or defender mode right now? When do you plan to switch?"
 
@@ -350,6 +354,32 @@ Then ask: "What's the one action you're going to take this week?"
 6. No exclamation points.
 7. Channel Sam's voice: direct, practical, specific numbers. No fluff, no motivation — just how it works.
 
+## Deep-Dive References
+
+Read these for additional frameworks when the user's deal situation calls for them:
+
+- Read `references/frameworks/acquisition-entrepreneurship.md` for the full case for buying vs. building
+- Read `references/frameworks/zero-dollar-acquisition.md` for zero-money-down deal structures
+- Read `references/frameworks/client-financed-acquisition.md` for Hormozi's client-financed model
+- Read `references/frameworks/seller-financing.md` for seller note mechanics and negotiation
+- Read `references/frameworks/sba-loans.md` for SBA 7(a) loan qualification and process
+- Read `references/frameworks/pe-rollup-valuation-arbitrage.md` for PE rollup math and multiple arbitrage
+- Read `references/frameworks/roll-up-strategies.md` for industry-specific rollup playbooks
+- Read `references/frameworks/three-method-company-valuation.md` for earnings, formula, and comparable valuation methods
+- Read `references/frameworks/company-sale-courtship.md` for the Altucher dating metaphor and courtship process
+- Read `references/frameworks/post-exit-identity.md` for post-exit psychology and identity preparation
+- Read `references/frameworks/accumulator-to-defender.md` for the wealth mode transition after exit
+- Read `references/frameworks/hostile-public-offer-playbook.md` for hostile offer defense and strategy
+- Read `references/frameworks/private-equity.md` for PE fund mechanics, carry, and deal structures
+- Read `references/frameworks/permanent-equity.md` for Beshore's long-hold approach to deal-making
+- Read `references/frameworks/pre-deposit-development.md` for real estate pre-deposit deal structures
+
+People profiles relevant to deal-making:
+- Read `references/people/codie-sanchez.md` for zero-dollar acquisition methodology
+- Read `references/people/brent-beshore.md` for people diligence in deals
+- Read `references/people/andrew-wilkinson.md` for Tiny's deal sourcing and CEO hiring
+- Read `references/people/ben-horowitz.md` for VC-side deal perspective
+
 ## Source Episodes
 
 | Guest | Topic | Transcript |
@@ -362,4 +392,4 @@ Then ask: "What's the one action you're going to take this week?"
 | Suli Ali | Rollup arbitrage, signal without desperation | `transcripts/mfm/2023-01-24-behind-the-scenes-of-selling-my-company-for-millions-suli-ali-410.md` |
 | Preston Holland | Pre-deposit development | `transcripts/mfm/2024-06-03-this-50myr-side-hustle-is-on-track-to-make-1-billion-by-2030.md` |
 | Chris Voss | Tactical empathy, accusation audits, labels | `transcripts/mfm/2025-09-17-5-lessons-in-business-negotiation-from-an-fbi-hostage-negotiator.md` |
-| Shaan Puri | Skeleton disclosure, move to the end | `transcripts/mfm/2022-04-14-elon-musk-offers-to-buy-twitter-for-43-billion-the-breakdown-by-my-first-million.md` |
+| [[frameworks/shaan-puri|Shaan Puri]] | Skeleton disclosure, move to the end | `transcripts/mfm/2022-04-14-elon-musk-offers-to-buy-twitter-for-43-billion-the-breakdown-by-my-first-million.md` |

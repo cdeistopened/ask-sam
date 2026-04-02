@@ -1,19 +1,26 @@
 ---
 name: Emotional Home Framework
-description: Help someone identify their default emotional state — their "emotional home" — and deliberately practice a better one. Use when someone says they can't stop feeling anxious even when things are going well, that achieving goals didn't make them feel the way they expected, that stress follows them across contexts, or that they don't know why they're always in a bad mood. Also activate when someone says "I'll be happy when..." or "I keep grinding but I never feel satisfied."
+description: >-
+  Help someone identify their default emotional state — their "emotional home" —
+  and deliberately practice a better one. Use when someone says they can't stop
+  feeling anxious even when things are going well, that achieving goals didn't
+  make them feel the way they expected, that stress follows them across
+  contexts, or that they don't know why they're always in a bad mood. Also
+  activate when someone says "I'll be happy when..." or "I keep grinding but I
+  never feel satisfied."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - 0-_DpXtdCT0
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Shaan Puri
 ---
 
 # Emotional Home Framework
 
-Help someone diagnose their default emotional state and start deliberately practicing a better one — using Shaan Puri's synthesis of Tony Robbins's framework from My First Million.
+Help someone diagnose their default emotional state and start deliberately practicing a better one — using [[frameworks/shaan-puri|Shaan Puri]]'s synthesis of Tony Robbins's framework from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -78,7 +85,7 @@ The framework requires specificity. "Happy" is not a destination. Neither is "le
 - When have you felt it naturally — even briefly?
 - What does it feel like physically? What does your body do when you're in it?
 
-Shaan's example for himself, from the transcript: after the Milk Road exit, he coached his friend Ben that the feeling of "victorious joy" doesn't appear on demand — it has to be practiced:
+Shaan's example for himself, from the transcript: after the [[frameworks/milk-road|Milk Road]] exit, he coached his friend Ben that the feeling of "victorious joy" doesn't appear on demand — it has to be practiced:
 
 > "It's because you're trying to feel this kind of victorious joy. How many days out of the last 365 days did you let yourself feel that? Zero. So what do you think — all of a sudden today you're going to turn on and be really good at feeling that? No, dude. It's practice."
 
@@ -105,7 +112,7 @@ The goal is not to eliminate the stress response — it is to build the target s
 
 The framework requires closing a specific exit ramp: the belief that the right circumstances will eventually produce the feeling automatically.
 
-Shaan's synthesis: Scott Galloway, worth over $100 million, said on the podcast he was "deeply afraid of running out of money." Morgan Housel, who knows intellectually that he has enough, still checks his net worth at night. Almost no one on the podcast, regardless of what they've built, felt like they'd fully arrived.
+Shaan's synthesis: [[frameworks/scott-galloway|Scott Galloway]], worth over $100 million, said on the podcast he was "deeply afraid of running out of money." Morgan Housel, who knows intellectually that he has enough, still checks his net worth at night. Almost no one on the podcast, regardless of what they've built, felt like they'd fully arrived.
 
 The emotional home doesn't change with the bank balance. It changes with practice.
 
@@ -141,4 +148,4 @@ After the session, deliver:
 
 ## Source
 
-[10 Lessons We Learned From Filming 131 Episodes of My First Million In 2023](https://www.youtube.com/watch?v=0-_DpXtdCT0) — Shaan Puri and Sam Parr reflecting on 100 million views and their biggest personal lessons.
+[10 Lessons We Learned From Filming 131 Episodes of My First Million In 2023](https://www.youtube.com/watch?v=0-_DpXtdCT0) — Shaan Puri and [[frameworks/sam-parr|Sam Parr]] reflecting on 100 million views and their biggest personal lessons.

@@ -1,15 +1,18 @@
 ---
-title: "Newsletter Business Model: How Email Built Media Empires"
+title: 'Newsletter Business Model: How Email Built Media Empires'
 type: business-model
 domain: business-models
 status: draft
-episodes: [how_to_build_a_100m_newsletter, 3_business_ideas_you_should_st, behind_the_scenes_of_selling_m]
-date_created: 2026-02-05
+episodes:
+  - how_to_build_a_100m_newsletter
+  - 3_business_ideas_you_should_st
+  - behind_the_scenes_of_selling_m
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Newsletter Business Model: How Email Built Media Empires
 
-In 2017, [[alex-lieberman]] flew to New York to meet with [[john-steinberg]], then president of BuzzFeed and later founder of Cheddar. Morning Brew had 100,000 subscribers and was generating $300,000 in revenue. Steinberg's response was polite but dismissive. "To be totally honest, the cost of the legal fees to do this deal would be more than what I would pay for you guys."
+In 2017, [[alex-lieberman]] flew to New York to meet with [[john-steinberg]], then president of BuzzFeed and later founder of Cheddar. [[frameworks/morning-brew|Morning Brew]] had 100,000 subscribers and was generating $300,000 in revenue. Steinberg's response was polite but dismissive. "To be totally honest, the cost of the legal fees to do this deal would be more than what I would pay for you guys."
 
 Three years later, Morning Brew sold to [[axel-springer]] for $75 million.
 
@@ -23,7 +26,7 @@ The pattern is worth studying not because newsletters are novel, but because the
 
 A newsletter business monetizes an email list through advertising, paid subscriptions, or downstream products. Unlike social media platforms, newsletters offer direct access to an audience without algorithmic intermediaries. Unlike podcasts or video, they require minimal production overhead. The result is a format with unusually high margins and defensible distribution.
 
-[[sam-parr]] and [[shaan-puri]] have featured dozens of newsletter founders on My First Million, including the creators of [[morning-brew]], [[the-hustle]], and [[resi-club]]. The discussions reveal a business model that scales in ways most media does not.
+[[sam-parr]] and [[shaan-puri]] have featured dozens of newsletter founders on [[frameworks/my-first-million|My First Million]], including the creators of [[morning-brew]], [[the-hustle]], and [[resi-club]]. The discussions reveal a business model that scales in ways most media does not.
 
 The core insight is simple: email is the only distribution channel you actually own. Every other platform—YouTube, TikTok, Instagram—can change its algorithm or ban your account. An email list compounds independent of external forces.
 
@@ -35,9 +38,9 @@ The core insight is simple: email is the only distribution channel you actually 
 
 The trajectory was not linear. It required an aggressive bet on paid acquisition that most founders would find terrifying.
 
-Austin Rief [described their approach](https://youtube.com/watch?v=6X64f1AndtM&t=1582) to growth: they tracked daily cash flow to ensure they had enough money to operate, then put every remaining dollar into Facebook ads. At their peak, Morning Brew was spending $500,000 per month on paid acquisition. Rief's only regret is that he could not find more money to spend.
+[[frameworks/austin-rief|Austin Rief]] [described their approach](https://youtube.com/watch?v=6X64f1AndtM&t=1582) to growth: they tracked daily cash flow to ensure they had enough money to operate, then put every remaining dollar into Facebook ads. At their peak, Morning Brew was spending $500,000 per month on paid acquisition. Rief's only regret is that he could not find more money to spend.
 
-The economics worked because subscriber lifetime value exceeded acquisition cost. But the psychological barrier was significant. [[sam-parr]] [admitted his own mistake](https://youtube.com/watch?v=6X64f1AndtM&t=1582) in building The Hustle: "I had such a poor mindset where I didn't look at it... You guys had this mentality of 'I will spend $1 to make $1.1, I will spend every $1 I have.' For me, it was like '$80,000 a month? That's astronomical. It doesn't matter what the return is.' That was a failure. That's an immature mindset."
+The economics worked because subscriber lifetime value exceeded acquisition cost. But the psychological barrier was significant. [[sam-parr]] [admitted his own mistake](https://youtube.com/watch?v=6X64f1AndtM&t=1582) in building [[frameworks/the-hustle-story|The Hustle]]: "I had such a poor mindset where I didn't look at it... You guys had this mentality of 'I will spend $1 to make $1.1, I will spend every $1 I have.' For me, it was like '$80,000 a month? That's astronomical. It doesn't matter what the return is.' That was a failure. That's an immature mindset."
 
 The Hustle took a different path. Parr started with events—Hustle Con generated $400,000 in revenue and $200,000 in profit in its first year. The newsletter came later, growing alongside the events business. By 2018, The Hustle had 500,000 subscribers and $5.1 million in revenue. It sold to HubSpot in 2020.
 
@@ -59,7 +62,7 @@ The primary model for Morning Brew and The Hustle was selling sponsorships to B2
 
 The [[substack]] model inverts the economics. Instead of advertisers paying to reach readers, readers pay to access content. [[resi-club]], the residential real estate newsletter founded by [[anthony-pompliano]], charges $150 per year for its Pro subscription.
 
-Sam Parr's reaction to that pricing was instructive: "That's so stupid, why aren't you charging way more?" The question reveals a common mistake. Newsletter operators often underprice because they anchor to consumer expectations rather than value delivered.
+[[frameworks/sam-parr|Sam Parr]]'s reaction to that pricing was instructive: "That's so stupid, why aren't you charging way more?" The question reveals a common mistake. Newsletter operators often underprice because they anchor to consumer expectations rather than value delivered.
 
 **Education and Courses**
 
@@ -111,7 +114,7 @@ The larger opportunity is content-to-product. Use content to build something mor
 
 **How much can a newsletter business sell for?**
 
-The range is wide. Morning Brew sold for $75 million to Axel Springer. The Hustle reportedly sold to HubSpot for around $27 million. Milk Road built and sold in under two years. The multiple depends on subscriber count, engagement rates, revenue, and strategic fit with the acquirer. Media companies and software businesses pay premium prices for audiences that match their customer profiles.
+The range is wide. Morning Brew sold for $75 million to Axel Springer. The Hustle reportedly sold to HubSpot for around $27 million. [[frameworks/milk-road|Milk Road]] built and sold in under two years. The multiple depends on subscriber count, engagement rates, revenue, and strategic fit with the acquirer. Media companies and software businesses pay premium prices for audiences that match their customer profiles.
 
 **How do you start a newsletter with no audience?**
 
@@ -133,8 +136,8 @@ Free newsletters build larger audiences and monetize through advertising. Paid n
 
 ## Sources and Episodes
 
-- [[episodeshowtobuilda100mnewsletter|How to build a $100M+ newsletter business]] -- Sam Parr interviews Alex Lieberman and Austin Rief on Morning Brew's growth, acquisition tactics, and lessons learned
-- [[episodes3businessideasyoushouldst|3 Business Ideas You Should Start in 2024 (ft. Pomp) (#524)]] -- Anthony Pompliano discusses Resi Club, niche newsletter strategy, and the content-to-data-product pipeline
+- [[episodeshowtobuilda100mnewsletter|How to build a $100M+ newsletter business]] -- Sam Parr interviews [[frameworks/alex-lieberman|Alex Lieberman]] and Austin Rief on Morning Brew's growth, acquisition tactics, and lessons learned
+- [[episodes3businessideasyoushouldst|3 Business Ideas You Should Start in 2024 (ft. Pomp) (#524)]] -- Anthony Pompliano discusses [[frameworks/resi-club|Resi Club]], niche newsletter strategy, and the content-to-data-product pipeline
 - [[episodesbehindthescenesofsellingm|Behind The Scenes of Selling My Company For Millions | Suli Ali (#410)]] -- Milk Road acquisition tactics and Sam Parr's advice on transparency during due diligence
 
 ---

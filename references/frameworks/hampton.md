@@ -4,7 +4,7 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Hampton
@@ -92,8 +92,8 @@ Get any one wrong and the community hollows out. Get all three right and you hav
 
 ## Sources
 
-Primary research from My First Million podcast episodes:
+Primary research from [[frameworks/my-first-million|My First Million]] podcast episodes:
 - "Masterclass: How to go from founder to CEO (without imploding)"
-- "The 2024 Milly Awards"
+- "[[episodes/KOhBfczTmLg|The 2024 Milly Awards]]"
 - "The 2023 Milly Awards (#531)"
 - "I run a $180M+ company...here's how I'm using AI on a daily basis"

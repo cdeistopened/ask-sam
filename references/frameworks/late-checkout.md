@@ -4,16 +4,16 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Late Checkout
 
-Greg Isenberg built one of the most distinctive company websites on the internet — a site so deliberately unconventional that Sam Parr, a man who has built and sold media companies, told him directly: "I hate your website. You're doing this designer website thing. I can't click anything." Isenberg's response: they've closed million-dollar deals because clients liked it. The argument against conventional business logic was itself the business.
+[[frameworks/greg-isenberg|Greg Isenberg]] built one of the most distinctive company websites on the internet — a site so deliberately unconventional that [[frameworks/sam-parr|Sam Parr]], a man who has built and sold media companies, told him directly: "I hate your website. You're doing this designer website thing. I can't click anything." Isenberg's response: they've closed million-dollar deals because clients liked it. The argument against conventional business logic was itself the business.
 
 ## What Late Checkout Is
 
-Late Checkout is Greg Isenberg's holding company. He describes it simply: "Building businesses that have audiences and communities as part of them." Shaan Puri called it "a combination studio, agency" and added that the website is genuinely one of the best he's seen from any company. Isenberg prefers the term holding company — he's not running an agency that does work for clients, he's building and owning things.
+Late Checkout is Greg Isenberg's holding company. He describes it simply: "Building businesses that have audiences and communities as part of them." [[frameworks/shaan-puri|Shaan Puri]] called it "a combination studio, agency" and added that the website is genuinely one of the best he's seen from any company. Isenberg prefers the term holding company — he's not running an agency that does work for clients, he's building and owning things.
 
 The philosophy emerged from disillusionment with the venture path. As Isenberg explained on MFM: "There was a group of us, now in our 30s, who watched The Social Network and all thought we could become Mark Zuckerberg. We moved to Silicon Valley to raise a bunch of money and build social apps. We tried." The best investors in the world, he noted, have a model where a third of deals fail, a third break even, and a third produce real returns. "Two-thirds of the best founders in the world basically don't see any money. It's just so difficult to win in that game."
 
@@ -29,7 +29,7 @@ Shaan Puri framed the cultural context: "'Lifestyle business' is like a backhand
 
 Isenberg has become known as "the community guy" — a label he acknowledges only because other people gave it to him. The thesis behind Late Checkout's acquisitions and builds is that businesses with embedded communities are structurally superior. Communities create retention, word-of-mouth, and identity attachment that marketing dollars can't replicate.
 
-He pointed to a specific model during his MFM appearance: private equity firms buying boring service businesses and bringing in a creative agency like Late Checkout to build the brand. He noted the example of Pinks (a painting brand) and One Painter, described as the fastest-growing painting company in the United States. His observation: "If I'm a PE fund, this is what I'm doing — acquiring boring businesses and hiring a creative agency like Late Checkout to build brands, not boring businesses."
+He pointed to a specific model during his MFM appearance: [[frameworks/private-equity|private equity]] firms buying boring service businesses and bringing in a creative agency like Late Checkout to build the brand. He noted the example of Pinks (a painting brand) and One Painter, described as the fastest-growing painting company in the United States. His observation: "If I'm a PE fund, this is what I'm doing — acquiring [[frameworks/boring-businesses|boring businesses]] and hiring a creative agency like Late Checkout to build brands, not boring businesses."
 
 ## The Website
 

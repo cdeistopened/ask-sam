@@ -4,7 +4,7 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Dribbble
@@ -13,13 +13,13 @@ Jeremy Gon bought his Dribbble invite on eBay. That was the kind of community Dr
 
 ## What Dribbble Is
 
-Dribbble is a portfolio hosting and community platform for designers — one of two dominant players in the space alongside Adobe's Behance. As Sam Parr described: "Behance and Dribbble are like the two companies where designers can host their portfolio and talk to one another."
+Dribbble is a portfolio hosting and community platform for designers — one of two dominant players in the space alongside Adobe's Behance. As [[frameworks/sam-parr|Sam Parr]] described: "Behance and Dribbble are like the two companies where designers can host their portfolio and talk to one another."
 
 The platform launched as invite-only, which created the scarcity that made it desirable. Designers who were in could invite other designers. Access was a signal of membership in a creative community, not just a utility. By the time [[andrew-wilkinson]]'s team at Tiny acquired it, Dribbble had millions of active users and was a top 10,000 website globally.
 
 ## The Acquisition
 
-Dribbble was the first deal Tiny ever did — the anchor investment that launched what became a $500 million holding company. Jeremy Gon, Tiny's first employee, described the origin: Andrew Wilkinson, Chris (Tiny's co-founder), and Gon were all users and fans of the platform. Wilkinson had been emailing the co-founders for a long time expressing interest. When they finally got a serious conversation going, it became the concrete first step in building the holding company.
+Dribbble was the first deal Tiny ever did — the anchor investment that launched what became a $500 million holding company. Jeremy Gon, Tiny's first employee, described the origin: [[frameworks/andrew-wilkinson|Andrew Wilkinson]], Chris (Tiny's co-founder), and Gon were all users and fans of the platform. Wilkinson had been emailing the co-founders for a long time expressing interest. When they finally got a serious conversation going, it became the concrete first step in building the holding company.
 
 As Gon told Sam and Shaan: "It was like, Dribbble is really cool, we would love to be the right owners for that, Andrew knew the co-founders, and maybe we could buy it — and that would be the starting-off point. Very real, very concrete, versus 'we're going to build a holding company of technology businesses.'"
 
@@ -45,6 +45,6 @@ This is the pattern that Andrew Wilkinson has described repeatedly on MFM: buy s
 
 The Dribbble deal is the cleanest example of the Tiny playbook: a profitable agency (Metalab) generating cash that buys a community platform (Dribbble) that then generates its own cash to fund more acquisitions. No venture capital. No debt. No complex structures.
 
-Shaan Puri's summary: "He started Metalab as a teenager at a coffee shop. Dribbble he bought and grew. The whole rest of the portfolio adds flavor and optionality, but the core engine was an agency he started without outside capital. That's a really interesting model. Not a venture-backed roll-up — just a scrappy agency that throws off enough cash to buy things, and the things you buy throw off enough cash to buy more things."
+[[frameworks/shaan-puri|Shaan Puri]]'s summary: "He started Metalab as a teenager at a coffee shop. Dribbble he bought and grew. The whole rest of the portfolio adds flavor and optionality, but the core engine was an agency he started without outside capital. That's a really interesting model. Not a venture-backed roll-up — just a scrappy agency that throws off enough cash to buy things, and the things you buy throw off enough cash to buy more things."
 
 See also: [[andrew-wilkinson]], [[tiny]], [[metalab]], [[holding-companies]], [[acquisition-entrepreneurship]]

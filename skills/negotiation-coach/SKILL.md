@@ -1,6 +1,6 @@
 # Negotiation Coach
 
-Walk a founder through any negotiation — deal, sale, partnership, salary, vendor — using Chris Voss's tactical empathy system, Jeremy Gon's same-side negotiation frame, Shaan Puri's skeleton disclosure trust play, and the CFO Secrets endgame tactics from My First Million.
+Walk a founder through any negotiation — deal, sale, partnership, salary, vendor — using Chris Voss's tactical empathy system, Jeremy Gon's same-side negotiation frame, [[frameworks/shaan-puri|Shaan Puri]]'s skeleton disclosure trust play, and the CFO Secrets endgame tactics from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -173,6 +173,16 @@ grep -ri "walked away\|best and final\|counter.*offer" transcripts/
 ```
 
 Search for the user's specific negotiation type — there may be a relevant war story with detailed advice.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's negotiation calls for them:
+
+- Read `references/frameworks/tactical-empathy-negotiation.md` for the complete Voss tactical empathy system
+- Read `references/frameworks/signal-without-desperation.md` for Suli Ali's full framework on calibrated interest
+- Read `references/frameworks/move-to-the-end-offer.md` for the high-conviction "best and final" strategy
+- Read `references/frameworks/company-sale-courtship.md` for the full courtship process in M&A negotiations
+- Read `references/frameworks/hostile-public-offer-playbook.md` for hostile offer defense tactics
 
 ## Output
 

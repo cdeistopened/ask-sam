@@ -1,12 +1,21 @@
 ---
 name: Seasons of Life Focus Framework
-description: Help someone identify which season of life they're in and what single focus deserves all their energy right now — at the expense of other goals. Use when someone feels scattered, is trying to do too many things simultaneously, is burned out from juggling, or is asking whether they should start a business while also dating, or build their body while building a company. Trigger phrases include "I'm trying to do everything at once", "I feel spread thin", "I can't seem to make progress on anything", "how do I balance all of this?", "is it possible to do X and Y at the same time?", or "I feel like I'm failing at everything."
+description: >-
+  Help someone identify which season of life they're in and what single focus
+  deserves all their energy right now — at the expense of other goals. Use when
+  someone feels scattered, is trying to do too many things simultaneously, is
+  burned out from juggling, or is asking whether they should start a business
+  while also dating, or build their body while building a company. Trigger
+  phrases include "I'm trying to do everything at once", "I feel spread thin",
+  "I can't seem to make progress on anything", "how do I balance all of this?",
+  "is it possible to do X and Y at the same time?", or "I feel like I'm failing
+  at everything."
 type: framework
 domain: frameworks
 status: published
 episodes:
   - Zkad55pc_4w
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Derek (More Plates More Dates)
 ---
@@ -38,7 +47,7 @@ And the consequence of ignoring seasons:
 
 Derek's own sequence: social confidence season → fitness season → entrepreneurship season. Each one built the foundation for the next. He did not try to optimize all three simultaneously.
 
-Shaan Puri, after hearing Derek's philosophy:
+[[frameworks/shaan-puri|Shaan Puri]], after hearing Derek's philosophy:
 
 > "I think people should be segregating things into seasons, personally."
 
@@ -171,4 +180,4 @@ After the session, deliver:
 
 ## Source
 
-[How Derek Went From $0 To +$100M With Supplements | More Plates More Dates](https://www.youtube.com/watch?v=Zkad55pc_4w) — Sam Parr and Shaan Puri interview Derek (More Plates More Dates, founder of Gorilla Mind and Merrick Health).
+[How Derek Went From $0 To +$100M With Supplements | More Plates More Dates](https://www.youtube.com/watch?v=Zkad55pc_4w) — [[frameworks/sam-parr|Sam Parr]] and Shaan Puri interview Derek (More Plates More Dates, founder of Gorilla Mind and Merrick Health).

@@ -7,7 +7,7 @@ episodes:
   - _FczUETbksU
   - KVFetFmiFuw
   - OjQ5qiErVVI
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Tiger 21
@@ -16,7 +16,7 @@ Selling your company for $50 million sounds like the finish line. Tiger 21's fou
 
 ## What Tiger 21 Is
 
-Tiger 21 is an exclusive peer membership organization for ultra-high-net-worth individuals, founded by Michael Sonnenfeldt about 22 years ago. Members must have a net worth between roughly $20 million and $1 billion — the average Vistage or YPO member has perhaps one-fifth to one-tenth the wealth of a Tiger 21 member. The annual fee is approximately $30,000. The organization has about 1,200 members globally, generating roughly $35-40 million in annual revenue.
+Tiger 21 is an [[episodes/wec56OH3n_w|exclusive]] peer membership organization for ultra-high-net-worth individuals, founded by Michael Sonnenfeldt about 22 years ago. Members must have a net worth between roughly $20 million and $1 billion — the average Vistage or YPO member has perhaps one-fifth to one-tenth the wealth of a Tiger 21 member. The annual fee is approximately $30,000. The organization has about 1,200 members globally, generating roughly $35-40 million in annual revenue.
 
 The original insight was simple and counterintuitive: the day after you sell a company for tens of millions of dollars, you're suddenly alone. "You might have an assistant but you don't have a thousand employees. You don't have anybody laughing at your jokes anymore. You might even have to get your own coffee. And everybody around you thinks that you're wealthy and successful but you've lost the platform that allowed you to feel successful."
 
@@ -30,7 +30,7 @@ The newly liquid entrepreneur has money but no framework for deploying it. They'
 
 ## The Business Model
 
-Sam Parr described Tiger 21's structure while discussing community businesses with Chief co-founder Carolyn Childers: "Tiger 21 — community for people with above $10 million liquid net worth. Very sexy, hanging around rich folks all the time. But it's actually a tough sell because the person is paying out of pocket."
+[[frameworks/sam-parr|Sam Parr]] described Tiger 21's structure while discussing community businesses with Chief co-founder Carolyn Childers: "Tiger 21 — community for people with above $10 million liquid net worth. Very sexy, hanging around rich folks all the time. But it's actually a tough sell because the person is paying out of pocket."
 
 This is the key tension. Unlike Chief (the women's executive network), where corporations pay the membership fees, Tiger 21 members pay personally. That creates a very different customer: someone motivated enough by the value to write a $30K check from their own account.
 

@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # OpenAI
 
 The most valuable startup in history began as a nonprofit. That sentence alone tells you something important about how the biggest opportunities hide inside structures that look wrong.
 
-OpenAI was founded in 2015 with a mission to ensure artificial general intelligence benefits all of humanity. Ten years later, it is a company valued north of $150 billion, its product ChatGPT is used by hundreds of millions of people, and the nonprofit wrapper has become the subject of lawsuits and governance debates that will likely be studied in business schools for decades. On My First Million, OpenAI is discussed less as a company to admire and more as a platform to build on -- the way people talked about the App Store in 2009 or Facebook's developer platform in 2012.
+OpenAI was founded in 2015 with a mission to ensure artificial general intelligence benefits all of humanity. Ten years later, it is a company valued north of $150 billion, its product ChatGPT is used by hundreds of millions of people, and the nonprofit wrapper has become the subject of lawsuits and governance debates that will likely be studied in business schools for decades. On [[frameworks/my-first-million|My First Million]], OpenAI is discussed less as a company to admire and more as a platform to build on -- the way people talked about the App Store in 2009 or Facebook's developer platform in 2012.
 
 ## The Dharmesh Shah Preview
 
@@ -45,7 +45,7 @@ The "AI slop" concern represents the single biggest risk to OpenAI's long-term b
 
 Jason Lemkin, the SaaS veteran, offered a more structural view of OpenAI's position during his appearance: "OpenAI and Claude can pull from other apps like HubSpot and Notion and just pull the data out" ([[how-the-smartest-founders-are|How the Smartest Founders Are Using AI]]). This is the infrastructure thesis -- OpenAI is not just a chatbot but a platform layer that connects to every other application.
 
-Brian Halligan, Lemkin's fellow HubSpot alumnus, extended the analysis: "The hardware companies are kind of set, the model companies are kind of set, all that infrastructure layer is set. The app level is really starting to really fly. Perplexity's the really obvious one, but Harvey in legal, Rogo for investment banking. Like every kind of job now has an app company that's doing pretty well" ([[7-brutal-questions-for-a-20b|7 Brutal Questions for a $20B Founder]]).
+[[frameworks/brian-halligan|Brian Halligan]], Lemkin's fellow HubSpot alumnus, extended the analysis: "The hardware companies are kind of set, the model companies are kind of set, all that infrastructure layer is set. The app level is really starting to really fly. Perplexity's the really obvious one, but Harvey in legal, Rogo for investment banking. Like every kind of job now has an app company that's doing pretty well" ([[7-brutal-questions-for-a-20b|7 Brutal Questions for a $20B Founder]]).
 
 This is the view MFM ultimately lands on. OpenAI itself is interesting, but the opportunity for MFM's audience -- entrepreneurs with $0 to $10 million in revenue -- is not in competing with OpenAI. It is in building applications on top of OpenAI's infrastructure for specific industries and use cases. The AI equivalent of building a Shopify store rather than building Shopify.
 
@@ -80,6 +80,6 @@ The show's practical stance on OpenAI distills to three principles:
 
 - [[elon-musk]] -- Parallel figure in the AI race
 - [[shopify]] -- Platform-as-opportunity model
-- [[saas-metrics]] -- How AI companies are breaking traditional SaaS benchmarks
+- [[saas-metrics]] -- How AI companies are [[episodes/Dwi6UbdpZyk|breaking]] traditional SaaS benchmarks
 - [[personal-branding]] -- AI tools enabling new creator formats
 - [[content-to-commerce]] -- AI-generated content as business model

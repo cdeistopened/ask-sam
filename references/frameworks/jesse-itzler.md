@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Jesse Itzler
@@ -19,7 +19,7 @@ Every year, Itzler commits to one defining adventure. He borrowed the concept fr
 
 The math is simple. Start at 35, do one misogi per year until 85, and you have 50 extraordinary experiences baked into your life. Most people have three or four stories worth telling at their funeral. Itzler is engineering fifty. *watch the full breakdown*
 
-Another year, he wanted to climb Mount Everest but couldn't commit the time. So he climbed a hill near his house fourteen times in a row to match Everest's elevation gain. It's the kind of creative constraint-breaking that reveals how arbitrary most of our limitations are.
+Another year, he wanted to climb Mount Everest but couldn't commit the time. So he climbed a hill near his house fourteen times in a row to match Everest's elevation gain. It's the kind of creative constraint-[[episodes/Dwi6UbdpZyk|breaking]] that reveals how arbitrary most of our limitations are.
 
 ## Kevin's Rule
 
@@ -29,9 +29,9 @@ Itzler's solution: every other month, do something you normally wouldn't do. Cam
 
 The compound math is striking. Six mini-adventures per year, sustained over 50 years, equals 300 experiences that wouldn't have happened otherwise. And the time cost is roughly 2% of your year.
 
-Shaan Puri adapted this into what he calls "20 unscripted days":
+[[frameworks/shaan-puri|Shaan Puri]] adapted this into what he calls "20 unscripted days":
 
-> "I love my routine, I love my normal day, but any extreme strength carries with it an extreme weakness. I can just live a routine life and all my days blend together... So creating these 20 unscripted days where I'm going to throw away the routine and plan out 20 unscripted days this year." — Shaan, *Talking to Tim Ferriss*
+> "I love my routine, I love my normal day, but any extreme strength carries with it an extreme weakness. I can just live a routine life and all my days blend together... So creating these 20 unscripted days where I'm going to throw away the routine and plan out 20 unscripted days this year." — Shaan, *Talking to [[frameworks/tim-ferriss|Tim Ferriss]]*
 
 ## The Three C's
 

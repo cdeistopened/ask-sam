@@ -1,6 +1,6 @@
 # Pricing Optimizer
 
-Walk a founder through pricing strategy using Patrick Campbell's (ProfitWell) data-driven framework, Sam Parr's event pricing playbook, and Shaan Puri's willingness-to-pay heuristics from My First Million.
+Walk a founder through pricing strategy using Patrick Campbell's (ProfitWell) data-driven framework, [[frameworks/sam-parr|Sam Parr]]'s event pricing playbook, and [[frameworks/shaan-puri|Shaan Puri]]'s willingness-to-pay heuristics from [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -113,6 +113,20 @@ grep -ri "willingness to pay\|price point\|price test" transcripts/
 ```
 
 Search for the user's specific industry — there may be a relevant episode with pricing benchmarks.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's pricing situation calls for them:
+
+- Read `references/frameworks/saas-metrics.md` for SaaS-specific pricing metrics and benchmarks
+- Read `references/frameworks/customer-exclusion-policy.md` for pricing as a filter to attract the right customers
+- Read `references/frameworks/one-to-two-dollar-machine.md` for unit economics that inform pricing decisions
+- Read `references/frameworks/negative-cac-media-commerce.md` for pricing in content-commerce hybrid businesses
+- Read `references/frameworks/skool.md` for community pricing and the Hormozi Skool model
+
+People profiles relevant to pricing:
+- Read `references/people/alex-hormozi.md` for the value equation and offer architecture
+- Read `references/people/leila-hormozi.md` for operational pricing and scaling
 
 ## Output
 

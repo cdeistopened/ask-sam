@@ -1,5 +1,5 @@
 ---
-title: "Productize Yourself: The MFM Guide to Building Wealth Through Leverage"
+title: 'Productize Yourself: The MFM Guide to Building Wealth Through Leverage'
 type: framework
 domain: frameworks
 status: draft
@@ -11,7 +11,7 @@ episodes:
   - how_silicon_valleys_most_proli
   - business_tricks_weve_learned_f
   - the_1_most_underrated_quality_
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Productize Yourself: The MFM Guide to Building Wealth Through Leverage
@@ -28,7 +28,7 @@ This is what it means to productize yourself.
 
 ## What "Productize Yourself" Actually Means
 
-The phrase comes from [[naval-ravikant]]'s famous tweetstorm on wealth creation, which [[sam-parr]] and [[shaan-puri]] have dissected across multiple episodes of My First Million. The formula is deceptively simple: take your specific knowledge and apply leverage to it.
+The phrase comes from [[naval-ravikant]]'s famous tweetstorm on wealth creation, which [[sam-parr]] and [[shaan-puri]] have dissected across multiple episodes of [[frameworks/my-first-million|My First Million]]. The formula is deceptively simple: take your specific knowledge and apply leverage to it.
 
 Specific knowledge is the part that cannot be taught. It is what you know that others do not, usually because you followed your genuine curiosity rather than a prescribed curriculum. [[naval-ravikant]] describes it as the thing that *feels like play to you but looks like work to everyone else*.
 
@@ -48,9 +48,9 @@ Software is the purest form of leverage. Write it once, deploy it infinitely. Th
 
 ### Content
 
-Media scales similarly. A podcast episode reaches as many listeners as download it, whether that is one thousand or one million. The work is the same either way. [[sam-parr]] built [[the-hustle]] into a newsletter business valued at tens of millions precisely because each article he wrote reached the entire subscriber base with no additional effort.
+Media scales similarly. A podcast episode reaches as many listeners as download it, whether that is one thousand or one million. The work is the same either way. [[sam-parr]] built [[the-hustle]] into a [[frameworks/newsletter-business|newsletter business]] valued at tens of millions precisely because each article he wrote reached the entire subscriber base with no additional effort.
 
-[[nick-huber]] offers a more tactical example. He raised $40 million from 320 investors for his self-storage business, and 96 percent of that capital came from his Twitter following. The content was not separate from the business. It was the distribution mechanism for it.
+[[nick-huber]] offers a more tactical example. He raised $40 million from 320 investors for his [[frameworks/self-storage|self-storage business]], and 96 percent of that capital came from his Twitter following. The content was not separate from the business. It was the distribution mechanism for it.
 
 ### Capital
 
@@ -146,7 +146,7 @@ Pay attention to what you do for free. The activities that feel like play to you
 
 **Which leverage path should I choose: code, content, or capital?**
 
-It depends on your skills and starting resources. Content requires only a platform and something to say. Code requires technical ability but creates the most scalable products. Capital requires accumulated wealth but compounds most powerfully. Many successful people combine multiple forms. Nick Huber used content leverage to raise capital for real estate leverage.
+It depends on your skills and starting resources. Content requires only a platform and something to say. Code requires technical ability but creates the most scalable products. Capital requires accumulated wealth but compounds most powerfully. Many successful people combine multiple forms. [[frameworks/nick-huber|Nick Huber]] used content leverage to raise capital for real estate leverage.
 
 **What is skill stacking and why does it matter?**
 

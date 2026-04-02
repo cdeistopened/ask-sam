@@ -5,10 +5,10 @@ domain: frameworks
 status: draft
 episodes:
   - F-McXK-60BI
-  - -Trp3mjjzf4
+  - '-Trp3mjjzf4'
   - ZMHpgu2C84I
   - QDN8EZHQ2Y4
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Roll-Up Strategies
@@ -21,7 +21,7 @@ A roll-up is a strategy of acquiring multiple businesses in the same industry, c
 
 Suli Ali, who has advised on multiple acquisitions including [[milk-road]]'s sale, described a dental practice roll-up he watched up close: "Small EBITDA businesses like a million or two will sell for 7x, but if you had $20 million of EBITDA, a larger institution will pay 15x for that. So all you have to do is accumulate and roll up to get to the next stage of buyer."
 
-The valuation gap between a $1M EBITDA dental practice (worth $7M at 7x) and a portfolio with $20M EBITDA (worth $300M at 15x) is not just multiplication — it's the institutional premium. Large private equity funds cannot efficiently buy $7M companies. They can buy $300M platforms. Once you've aggregated to that scale, you access an entirely different pool of buyers willing to pay a different price.
+The valuation gap between a $1M EBITDA dental practice (worth $7M at 7x) and a portfolio with $20M EBITDA (worth $300M at 15x) is not just multiplication — it's the institutional premium. Large [[frameworks/private-equity|private equity]] funds cannot efficiently buy $7M companies. They can buy $300M platforms. Once you've aggregated to that scale, you access an entirely different pool of buyers willing to pay a different price.
 
 ## The Dental Practice Playbook
 
@@ -36,7 +36,7 @@ For the selling dentist, the deal was straightforwardly good: "Easy transaction,
 
 ## Enduring Ventures: The Boomer Wave
 
-[[shaan-puri]]'s investment in Enduring Ventures illustrates the roll-up thesis applied to the broader boomer business succession wave. The pitch: "There are this many boomer businesses where the owner wants to retire. They're up for grabs. We're going to be like a permanent equity — we'll just buy them and hold them, one after another."
+[[shaan-puri]]'s investment in Enduring Ventures illustrates the roll-up thesis applied to the broader boomer business succession wave. The pitch: "There are this many boomer businesses where the owner wants to retire. They're up for grabs. We're going to be like a [[frameworks/permanent-equity|permanent equity]] — we'll just buy them and hold them, one after another."
 
 Enduring's portfolio: Dolphin Pools (a Phoenix pool construction company), a local internet service provider, and other boring cashflow businesses. Starting capital: $2 million. Current business equity: approaching $100 million. A roughly 50x return on starting equity, built entirely through acquisition.
 
@@ -48,7 +48,7 @@ The boomer retirement wave creates motivated sellers. Motivated sellers accept l
 
 [[alex-hormozi]] described roll-ups as the likely exit path for most small business operators — and argued that combining a roll-up with operational improvement creates "breathtaking home runs":
 
-> "PE firms do almost purely inorganic growth: they buy four companies doing 3 million EBITDA, now they've got 12 million EBITDA, and they can do multiple arbitrage. What if you do that and you can also triple all the businesses? That's when you get breathtaking home runs. That's what we're trying to do with Acquisition.com."
+> "PE firms do almost purely inorganic growth: they buy four companies doing 3 million EBITDA, now they've got 12 million EBITDA, and they can do multiple arbitrage. What if you do that and you can also triple all the businesses? That's when you get breathtaking home runs. That's what we're trying to do with [[frameworks/acquisition-com|Acquisition.com]]."
 
 The traditional roll-up is pure financial engineering — buy cheap, aggregate, sell expensive. Hormozi's version adds operational leverage: don't just aggregate the cash flows, grow them. If you can buy at 5x, grow revenue 3x, and sell at 15x, the combined return is extraordinary.
 

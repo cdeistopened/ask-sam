@@ -1,6 +1,6 @@
 # Business Acquisition Evaluator
 
-Walk a founder through buying a small business using frameworks from Sarah Moore, Brent Beshore, Andrew Wilkinson, and Codie Sanchez as discussed on My First Million.
+Walk a founder through buying a small business using frameworks from Sarah Moore, [[frameworks/brent-beshore|Brent Beshore]], [[frameworks/andrew-wilkinson|Andrew Wilkinson]], and [[frameworks/codie-sanchez|Codie Sanchez]] as discussed on [[frameworks/my-first-million|My First Million]].
 
 ## When to Use
 
@@ -12,7 +12,7 @@ The user wants to buy a business instead of starting one from scratch. They migh
 
 ## Phase 1: Should You Buy Instead of Build?
 
-From Shaan Puri and the "boring businesses" thesis across multiple episodes:
+From [[frameworks/shaan-puri|Shaan Puri]] and the "[[frameworks/boring-businesses|boring businesses]]" thesis across multiple episodes:
 
 The MFM case for buying over building:
 - Existing revenue, customers, and cash flow from day one
@@ -130,6 +130,38 @@ grep -ri "laundromat\|lawn care\|plumbing\|HVAC" transcripts/  # specific boring
 ```
 
 The archive contains detailed case studies of specific acquisitions in dozens of industries. Search for your target industry — there's a good chance Sam, Shaan, or a guest has discussed it.
+
+## Deep-Dive References
+
+Read these for additional frameworks when the user's situation calls for them:
+
+- Read `references/frameworks/acquisition-entrepreneurship.md` for the full case for buying vs. building from scratch
+- Read `references/frameworks/zero-dollar-acquisition.md` for Sarah Moore's complete zero-money-down deal structure
+- Read `references/frameworks/client-financed-acquisition.md` for deals where the client base funds the acquisition
+- Read `references/frameworks/seller-financing.md` for structuring seller notes and vendor take-backs
+- Read `references/frameworks/sba-loans.md` for SBA 7(a) loan mechanics and qualification
+- Read `references/frameworks/pe-rollup-valuation-arbitrage.md` for [[frameworks/private-equity|private equity]] rollup math and valuation arbitrage
+- Read `references/frameworks/roll-up-strategies.md` for industry-specific rollup playbooks
+- Read `references/frameworks/hang-around-the-hoop.md` for the patient acquisition sourcing strategy
+- Read `references/frameworks/courthouse-foreclosure-preemption.md` for distressed asset sourcing at courthouses
+- Read `references/frameworks/three-method-company-valuation.md` for earnings multiple, formula-based, and comparable sales valuation
+- Read `references/frameworks/boring-businesses.md` for the full boring business thesis and target industries
+- Read `references/frameworks/sweaty-startups.md` for service-based acquisition targets (HVAC, plumbing, etc.)
+- Read `references/frameworks/self-storage.md` for self-storage specific acquisition analysis
+- Read `references/frameworks/bolt-storage.md` for [[frameworks/nick-huber|Nick Huber]]'s storage facility rollup case study
+- Read `references/frameworks/holdco-model.md` for the holding company operating structure post-acquisition
+- Read `references/frameworks/holding-companies.md` for Berkshire/Tiny-style multi-business management
+- Read `references/frameworks/permanent-equity.md` for Brent Beshore's long-hold acquisition philosophy
+- Read `references/frameworks/private-equity.md` for PE deal structures, fund mechanics, and carry math
+- Read `references/frameworks/pre-deposit-development.md` for real estate pre-deposit acquisition plays
+- Read `references/frameworks/re-cost-seg.md` for cost segregation tax strategy on acquired real estate
+
+People profiles relevant to acquisition conversations:
+- Read `references/people/brent-beshore.md` for [[frameworks/permanent-equity|Permanent Equity]]'s people-first acquisition approach
+- Read `references/people/andrew-wilkinson.md` for Tiny Corp's hands-off holding company model
+- Read `references/people/codie-sanchez.md` for [[frameworks/contrarian-thinking|Contrarian Thinking]]'s boring business thesis
+- Read `references/people/nick-huber.md` for sweaty startup and storage rollup experience
+- Read `references/people/chris-koerner.md` for micro-acquisition deal sourcing
 
 ## Output
 

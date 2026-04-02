@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # Shopify
 
 A venture capitalist at Bessemer invested in Shopify and then emailed the CEO to say he hoped the company might one day be acquired for $500 million. He thought this was aspirational. Shopify is now worth over $140 billion. The investor's own memo about the investment is preserved as a monument to how difficult it is to imagine the scale of a company that is still becoming what it will be ([[5-startups-that-looked-dumb-un|5 Startups That Looked Dumb Until They Didn't]]).
 
-On My First Million, Shopify occupies the same structural role that the printing press occupies in histories of the Renaissance. It is not the story itself. It is the thing that made all the other stories possible. Every DTC brand the show discusses, every e-commerce operator they interview, every side hustle that involves selling physical products online -- Shopify is the platform underneath.
+On [[frameworks/my-first-million|My First Million]], Shopify occupies the same structural role that the printing press occupies in histories of the Renaissance. It is not the story itself. It is the thing that made all the other stories possible. Every DTC brand the show discusses, every e-commerce operator they interview, every side hustle that involves selling physical products online -- Shopify is the platform underneath.
 
 ## The Bessemer Memo
 

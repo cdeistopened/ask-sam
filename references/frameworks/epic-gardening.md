@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Epic Gardening
 
-Kevin Espiritu started the Epic Gardening blog in 2013 as a digital business card. He needed something to show website design clients. He didn't think it could be a company. "If this thing could just make $2,000 a month, that'd be amazing. Then I wouldn't have to go get a job."
+[[frameworks/kevin-espiritu|Kevin Espiritu]] started the Epic Gardening blog in 2013 as a digital business card. He needed something to show website design clients. He didn't think it could be a company. "If this thing could just make $2,000 a month, that'd be amazing. Then I wouldn't have to go get a job."
 
-By 2024, Epic Gardening employed 90 people and was approaching $45 million in annual revenue. Sam Parr's prediction: "In about five years he's going to be a really big deal — like Chip and Joanna."
+By 2024, Epic Gardening employed 90 people and was approaching $45 million in annual revenue. [[frameworks/sam-parr|Sam Parr]]'s prediction: "In about five years he's going to be a really big deal — like Chip and Joanna."
 
 ---
 

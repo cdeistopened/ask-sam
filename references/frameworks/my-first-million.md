@@ -4,14 +4,14 @@ type: company
 domain: companies
 status: draft
 episodes: []
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # My First Million
 
-Sam Parr's reaction when Shaan Puri first pitched the podcast: "That's stupid."
+[[frameworks/sam-parr|Sam Parr]]'s reaction when [[frameworks/shaan-puri|Shaan Puri]] first pitched the podcast: "That's stupid."
 
-Sam was burned out running The Hustle in 2019, exhausted by year four or five of the grind. Shaan came to him wanting to launch something called My First Million. Sam said fine, he'd be the publisher, and published the first episode the week after Shaan sent it over. No planning. No strategy. No editorial calendar.
+Sam was burned out running [[frameworks/the-hustle-story|The Hustle]] in 2019, exhausted by year four or five of the grind. Shaan came to him wanting to launch something called My First Million. Sam said fine, he'd be the publisher, and published the first episode the week after Shaan sent it over. No planning. No strategy. No editorial calendar.
 
 By 2023, the show had nearly 100 million views across platforms in a single year. 80 million on YouTube. 15 million RSS downloads. By the time Sam and Shaan reflected on those numbers in their year-end review, they both thought Sam had made a calculation error.
 

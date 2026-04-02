@@ -4,7 +4,7 @@ type: person
 domain: people
 status: draft
 episodes: []
-date_created: 2026-02-05
+date_created: 2026-02-05T00:00:00.000Z
 voice: housel
 ---
 # MrBeast
@@ -45,7 +45,7 @@ For years, [[feastables]] was a side project - maybe his third priority. That ch
 
 The logic is straightforward when you examine the competitive landscape. Five chocolate companies dominate global sales, with valuations reaching $30 billion. These companies have distribution advantages, manufacturing scale, and brand recognition built over decades. What they cannot replicate is MrBeast's marketing reach.
 
-Traditional CPG companies spend roughly 10-15% of revenue on marketing. MrBeast's marketing cost is essentially zero - it is a byproduct of content he would create anyway. [[shaan-puri]] predicts Feastables could sell for $6 billion within three years. The logic: if you can take meaningful share from companies valued at $30 billion, and your customer acquisition cost is a rounding error, the valuation math gets interesting quickly ([08:30-11:45](https://www.youtube.com/watch?v=everything_i_learned_from_48_h&t=510)).
+Traditional CPG companies spend roughly 10-15% of revenue on marketing. MrBeast's marketing cost is essentially zero - it is a byproduct of content he would create anyway. [[shaan-puri]] predicts [[frameworks/feastables|Feastables]] could sell for $6 billion within three years. The logic: if you can take meaningful share from companies valued at $30 billion, and your customer acquisition cost is a rounding error, the valuation math gets interesting quickly ([08:30-11:45](https://www.youtube.com/watch?v=everything_i_learned_from_48_h&t=510)).
 
 ## The Night Walk Habit
 

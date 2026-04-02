@@ -9,18 +9,18 @@ episodes:
   - i-spent-7-days-with-richest-men-79mG0s-TiMo
   - andrew-wilkinson-holdco-2G12i-vdyk8
   - asking-billionaire-investor-mohnish-pabrai
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Charlie Munger
 
 Charlie Munger wanted his tombstone to say one thing: "He tried to be useful."
 
-Not "He was brilliant." Not "He built Berkshire Hathaway." Not "He was the greatest business mind of the 20th century." Just useful. It is either profound humility or the most elegant personal brand statement ever written — possibly both.
+Not "He was brilliant." Not "He built [[frameworks/berkshire-hathaway|Berkshire Hathaway]]." Not "He was the greatest business mind of the 20th century." Just useful. It is either profound humility or the most elegant personal brand statement ever written — possibly both.
 
 ## The Partnership That Almost Wasn't
 
-The standard story of Berkshire Hathaway begins with Warren Buffett. The full story begins with a mutual friend who said: "You two are the two nerdiest dudes I know. You should meet each other."
+The standard story of Berkshire Hathaway begins with [[frameworks/warren-buffett|Warren Buffett]]. The full story begins with a mutual friend who said: "You two are the two nerdiest dudes I know. You should meet each other."
 
 Buffett and Munger met when Buffett's partnership was already under duress. He held 70% of his assets in two problem investments: Sanborn Maps, a publicly traded mapping company, and Dempster Mill, a struggling industrial company in Nebraska. If either went badly, there was no [[warren-buffett]] story. No [[berkshire-hathaway]]. No annual shareholder letters that half the business world reads.
 
@@ -46,7 +46,7 @@ Charlie Munger observed that if you remove the top five decisions from Berkshire
 
 Morgan Housel repeated this on the podcast as part of a broader point: the power law is not a quirk of investing. It is the structure of every consequential endeavor. Most things don't work. A small number of things work spectacularly. The job is not to avoid failure — you cannot. The job is to find the few things that work and not get shaken out of them.
 
-[[shaan-puri]] connected this to Mohnish Pabrai's interpretation of Buffett's strategy: once you find the long-term compounders, you circle the wagons. You never let anything attack those core assets. The phrase Buffett stole from Peter Lynch: "Don't cut your flowers and water your weeds."
+[[shaan-puri]] connected this to [[frameworks/mohnish-pabrai|Mohnish Pabrai]]'s interpretation of Buffett's strategy: once you find the long-term compounders, you circle the wagons. You never let anything attack those core assets. The phrase Buffett stole from Peter Lynch: "Don't cut your flowers and water your weeds."
 
 ## The Incentive Master Who Admitted He Didn't Know
 

@@ -5,9 +5,9 @@ domain: frameworks
 status: draft
 episodes:
   - 3q1QvEkbbyk
-  - -Trp3mjjzf4
+  - '-Trp3mjjzf4'
   - ReMOG_XwVBo
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Private Equity
@@ -28,7 +28,7 @@ One of the most-discussed MFM themes is what happens below the bottom of traditi
 
 [[shaan-puri]] laid it out: "Do you know how many boomers are retiring right now? It's some absurd number — a quarter of the country, maybe a third. The biggest wealth transfer of all time is about to happen. And similarly, there are many many businesses where the owner wants to retire, their kids don't want to take it over, and those businesses are up for grabs. They're too small and too unglamorous to be a startup. Too small for big private equity."
 
-This gap — profitable, established, boomer-owned businesses that are too small for institutional PE — is where most of MFM's acquisition entrepreneurship discussion lives. It's where [[brent-beshore]] operates, where Shaan's investment in Enduring Ventures is focused, and where [[codie-sanchez]] has built her brand.
+This gap — profitable, established, boomer-owned businesses that are too small for institutional PE — is where most of MFM's [[frameworks/acquisition-entrepreneurship|acquisition entrepreneurship]] discussion lives. It's where [[brent-beshore]] operates, where Shaan's investment in Enduring Ventures is focused, and where [[codie-sanchez]] has built her brand.
 
 ## Permanent Equity as the Anti-PE
 
@@ -50,7 +50,7 @@ That first acquisition — bought with an [[sba-loans|SBA loan]] and leveraged a
 
 Brent's candid observation about the boom in small business acquisitions: "It's brutally difficult, and it's so easy to lose a bunch of money. I had a guy reach out last week. He said, 'I want to be honest — I'm looking for a job. My wife and I went all in.' He was working at a big private equity firm in LA as an operating partner. They went all in on a business and it failed. Now they're bankrupt."
 
-The allure of PE — systematic, data-driven, institutional — conceals how much individual deals depend on luck in the early years. Brent cited a conversation with Warren Buffett: "I said, 'Tell me about Sanborn Maps and Dempster Mill.' He said, 'Oh my gosh — if either of those investments go wrong, there is no Warren Buffett. No one knows about Berkshire Hathaway. None of that stuff happens.'"
+The allure of PE — systematic, data-driven, institutional — conceals how much individual deals depend on luck in the early years. Brent cited a conversation with [[frameworks/warren-buffett|Warren Buffett]]: "I said, 'Tell me about Sanborn Maps and Dempster Mill.' He said, 'Oh my gosh — if either of those investments go wrong, there is no Warren Buffett. No one knows about [[frameworks/berkshire-hathaway|Berkshire Hathaway]]. None of that stuff happens.'"
 
 Survivorship bias in PE is extreme. The visible operators are the ones who got lucky early, then built on that foundation.
 

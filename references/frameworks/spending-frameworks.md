@@ -1,6 +1,15 @@
 ---
 name: Conscious Spending Framework
-description: Help someone design a deliberate spending philosophy — not a budget, but a framework for how money flows through their life in a way that maps to actual happiness. Use this when someone has accumulated significant wealth but is spending without intention, is experiencing lifestyle inflation they don't remember choosing, is wondering why more spending isn't making them happier, or wants to examine their relationship with money. Trigger phrases include "I don't know where my money goes," "my expenses keep going up," "I didn't track my spending," "lifestyle inflation," "conscious spending," or "I feel like I should be spending more but I don't know what on."
+description: >-
+  Help someone design a deliberate spending philosophy — not a budget, but a
+  framework for how money flows through their life in a way that maps to actual
+  happiness. Use this when someone has accumulated significant wealth but is
+  spending without intention, is experiencing lifestyle inflation they don't
+  remember choosing, is wondering why more spending isn't making them happier,
+  or wants to examine their relationship with money. Trigger phrases include "I
+  don't know where my money goes," "my expenses keep going up," "I didn't track
+  my spending," "lifestyle inflation," "conscious spending," or "I feel like I
+  should be spending more but I don't know what on."
 type: framework
 domain: frameworks
 status: published
@@ -9,7 +18,7 @@ episodes:
   - how_neil_patel_spends__200k_a_month
   - i_didn_t_have_any_idea_what_i_was_spending___near
   - 10m_vs__100m__the_difference_between_being_rich_a
-date_created: 2026-03-04
+date_created: 2026-03-04T00:00:00.000Z
 source_guests:
   - Cam (anonymous)
   - Neil Patel
@@ -40,9 +49,9 @@ From Cam (`why_someone_worth__150m_liquid_only_spends__5k_mon.md`), worth $100-1
 
 From Neil Patel (`how_neil_patel_spends__200k_a_month.md`), spending $200K/month with the majority going to charitable donations:
 
-> "The biggest chunk of our expenses is donations. When we first did our last, my first million, I would spend more things on things like experiences, going to the Super Bowl and flying private and all this kind of stuff. That doesn't happen these days... My wife and I would just have the philosophy of like, it's cool going to the Super Bowl, we did it. I'd rather give the money to some kid who is from Missouri or somewhere and they can't afford to go to college, right? Like for us, that just makes us more happy."
+> "The biggest chunk of our expenses is donations. When we first did our last, [[frameworks/my-first-million|my first million]], I would spend more things on things like experiences, going to the Super Bowl and flying private and all this kind of stuff. That doesn't happen these days... My wife and I would just have the philosophy of like, it's cool going to the Super Bowl, we did it. I'd rather give the money to some kid who is from Missouri or somewhere and they can't afford to go to college, right? Like for us, that just makes us more happy."
 
-From Sam Parr, closing the Neil Patel episode:
+From [[frameworks/sam-parr|Sam Parr]], closing the Neil Patel episode:
 
 > "Spending $200,000 a month like our past guest Neil, or spending $5,000 a month like Cam, I don't think it really matters. What matters is that you're spending it on things that make you happy, that make your life better. My friend Rumi, he calls this conscious spending."
 
@@ -54,7 +63,7 @@ Most wealthy people do not know what they spend. This is more common than it sou
 
 Ryan Begelman (`i_didn_t_have_any_idea_what_i_was_spending___near.md`), who made $13M from selling Bisnow:
 
-> "I didn't have any idea what I was spending. Only thing I tracked was my net worth. I had a spreadsheet. You'd think I would know a lot more about this because I was a banker and a private equity guy, and I knew a lot about modeling. But all I had was a stupid little spreadsheet where every like like on random dates, I would go through all my various bank accounts and things and I would add up my net worth. But I had absolutely no idea what my spending was."
+> "I didn't have any idea what I was spending. Only thing I tracked was my net worth. I had a spreadsheet. You'd think I would know a lot more about this because I was a banker and a [[frameworks/private-equity|private equity]] guy, and I knew a lot about modeling. But all I had was a stupid little spreadsheet where every like like on random dates, I would go through all my various bank accounts and things and I would add up my net worth. But I had absolutely no idea what my spending was."
 
 The invisible creep:
 

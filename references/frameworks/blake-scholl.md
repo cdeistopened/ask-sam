@@ -6,7 +6,7 @@ status: draft
 episodes:
   - 3VLDuDZ6Qvo
   - c95x2l4pFVQ
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # Blake Scholl
@@ -67,6 +67,6 @@ He tells a story about his daughter. During one of the low moments, he took her 
 
 She said: "I'd be proud of you for trying."
 
-That's the Pixar rule Scholl keeps coming back to. Rule number one of Pixar's storytelling principles: you admire the character more for trying than for their successes. The reason Elon Musk's rocket story moves people isn't the synchronized landings — it's the three that blew up first, and that he pushed through anyway.
+That's the Pixar rule Scholl keeps coming back to. Rule number one of Pixar's storytelling principles: you admire the character more for trying than for their successes. The reason [[frameworks/elon-musk|Elon Musk]]'s rocket story moves people isn't the synchronized landings — it's the three that blew up first, and that he pushed through anyway.
 
 Boom's timeline to carrying passengers: 2027-2029. The flight from New York to London in just over three and a half hours. The company Scholl believes it will become, if it works: bigger than Boeing.

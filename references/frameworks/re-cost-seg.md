@@ -6,7 +6,7 @@ status: draft
 episodes:
   - K2KH_h8lZts
   - 5Js0xwm4nsI
-date_created: 2026-02-27
+date_created: 2026-02-27T00:00:00.000Z
 voice: housel
 ---
 # RE Cost Seg
@@ -21,7 +21,7 @@ Cost segregation is a tax strategy for owners of commercial or income-producing 
 
 ## The Numbers
 
-Sam Parr walked through the baseline: without cost segregation, a $1 million property depreciates at roughly $37,000 per year. With it, the front-loading is dramatic:
+[[frameworks/sam-parr|Sam Parr]] walked through the baseline: without cost segregation, a $1 million property depreciates at roughly $37,000 per year. With it, the front-loading is dramatic:
 
 - Self-storage facility: 20-30% depreciation in year one
 - Industrial property: 10-20% in year one
