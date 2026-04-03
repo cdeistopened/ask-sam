@@ -1,5 +1,7 @@
 # Ask Sam
 
+> Built by [**Creative Intelligence Agency**](https://creativeintel.agency) — context engineering for creators.
+
 A Claude Code plugin built from 876 episodes of [My First Million](https://www.youtube.com/c/MyFirstMillionPod) and [MoneyWise](https://www.youtube.com/@moneywise). Business frameworks, deal evaluation tools, people intelligence, and 773 searchable transcripts — all grounded in specific episodes and real quotes.
 
 18 skills. 134 framework articles. 38 people profiles. Entity intelligence.
